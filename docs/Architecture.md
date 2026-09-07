@@ -99,7 +99,7 @@ geometry goes through `OverlayTheme.scaled()` and `Fonts.mono*()`, which apply `
 ## Data Flow
 
 ```
-data/items.json      ←→  ItemRegistry      ←→  Player.inventory / ShopOverlay      (126 items)
+data/items.json      ←→  ItemRegistry      ←→  Player.inventory / ShopOverlay      (140 items)
 data/monsters.json   ←→  MonsterRegistry   ←→  CombatOverlay / EncounterController (78 monsters)
 data/quests.json     ←→  QuestRegistry     ←→  Player.activeQuests / NpcController (66 quests)
 data/tiles.json      ←→  TileRegistry      ←→  GamePanel / NavigationController

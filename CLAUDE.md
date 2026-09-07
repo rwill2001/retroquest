@@ -17,7 +17,7 @@
   export JAVA_HOME="C:/Program Files/Amazon Corretto/jdk26.0.0_35"
   mvn compile
   ```
-- Standard build: `mvn compile` — 148 source files (`find src/main/java -name "*.java" | wc -l`)
+- Standard build: `mvn compile` — 156 source files (`find src/main/java -name "*.java" | wc -l`)
 - To compile a standalone utility class:
   ```bash
   javac MyClass.java
@@ -72,8 +72,8 @@ Two hazards if you touch this:
 
 ## Project Structure
 - Source root: `src/main/java/io/cannonforge/retroquest/`
-  — `overlay/` (46), `model/` (25), `editor/` (23), `animation/` (17), `core/` (20),
-    `registry/` (9), `dialogue/` (5), `dialog/` (5), `controller/` (4) — 154 total
+  — `overlay/` (46), `model/` (25), `editor/` (24), `animation/` (17), `core/` (21),
+    `registry/` (9), `dialogue/` (5), `dialog/` (5), `controller/` (4) — 156 total
 - Resources:   `src/main/resources/` (`tiles/`, plus `retroquest.ico` / `retroquest_icon.png`)
 - Monster sprites: `src/main/resources/tiles/monsters/` (32×32 PNG, key = `monsters/<name_without_ext>`)
 - Save files:  `saves/*.sav` (slots 01-08 plus `retroquest_save_auto.sav`)
@@ -94,7 +94,7 @@ write the wrong `data/` tree — or create a fresh empty one.
 | Path | Contents |
 |---|---|
 | `tiles.json` | Tile definitions keyed by a single char (id, name, walkable, blocksVision, lightRadius, sprite key, editor colour, onStep `TileEffect`) |
-| `items.json` | 126 items |
+| `items.json` | 140 items |
 | `monsters.json` | 78 monsters |
 | `quests.json` | Quest definitions |
 | `balance.json` | Tunable combat/boss numbers, read via `BalanceConfig` |
