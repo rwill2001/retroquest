@@ -1,0 +1,8 @@
+# RetroForge boots — the editor the whole game was built in, at rest.
+DESC="RetroForge at rest — menu bar, toolbar, tile palette, map canvas"
+SCENE=forge
+SECONDS_LEN=8
+WIDTH=1920
+HEIGHT=1080
+CROP=1540:932:0:8
+PAD=1920:1080

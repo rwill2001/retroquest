@@ -1,0 +1,1839 @@
+{
+  "type": "TOWN",
+  "name": "galewick",
+  "width": 20,
+  "height": 20,
+  "tiles": [
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "m",
+      "i",
+      "m",
+      "m",
+      "W",
+      "F",
+      "Y",
+      "Q",
+      "Y",
+      "W",
+      "m",
+      "m",
+      "l",
+      "m",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "u",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "u",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "n",
+      "F",
+      "F",
+      "F",
+      "S",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "S",
+      "F",
+      "F",
+      "n",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "@",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "m",
+      "n",
+      "m",
+      "m",
+      "W",
+      "F",
+      "M",
+      "F",
+      "M",
+      "W",
+      "m",
+      "c",
+      "c",
+      "m",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "k",
+      "m",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "m",
+      "m",
+      "j",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "k",
+      "m",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "m",
+      "F",
+      "v",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "M",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "M",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "M",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "M",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "interiorEntryX": 10,
+  "interiorEntryY": 18,
+  "npcs": [
+    {
+      "id": "npc_gw_fisher",
+      "name": "Old Fisher Nol",
+      "spriteName": "npcs/fisher",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Ahoy! I'm Nol. Been fishing the cloud streams for forty years. Pull up a seat and I'll tell you about the sky.",
+            "choices": [
+              {
+                "label": "Cloud fishing?",
+                "nextNodeId": "fishing",
+                "conditions": []
+              },
+              {
+                "label": "What's life like in Galewick?",
+                "nextNodeId": "galewick",
+                "conditions": []
+              },
+              {
+                "label": "Seen anything strange lately?",
+                "nextNodeId": "strange",
+                "conditions": []
+              },
+              {
+                "label": "Good fishing.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "fishing": {
+            "id": "fishing",
+            "text": "Cloud fish — translucent things that swim through the dense vapor layers below the islands. You lower a net on a long rope, wait for the cloud to thicken, and haul 'em up. Taste like chicken if you squint. Best fried with sky-salt.",
+            "choices": [
+              {
+                "label": "Sounds unique.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "galewick": {
+            "id": "galewick",
+            "text": "Small, windswept, and perched on the edge of nothing. But it's home. Windlass docks here when she's not off smuggling, Vael keeps the docks running, and Gust keeps the ale flowing. What more do you need?",
+            "choices": [
+              {
+                "label": "Fair point.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "strange": {
+            "id": "strange",
+            "text": "The cloud fish have been swimming deeper. Used to catch 'em at fifty fathoms. Now it's a hundred. Something's pushing them down. And at night... I hear thunder from BELOW the islands. That ain't natural.",
+            "choices": [
+              {
+                "label": "Thunder from below?",
+                "nextNodeId": "below",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "below": {
+            "id": "below",
+            "text": "Aye. Like something massive is moving down there. The old stories say there's a sea beneath the clouds — a sea of storm. If it's waking up... well. I don't want to think about that.",
+            "choices": [
+              {
+                "label": "Worrying.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Tight lines, friend. And watch the edge — the wind's tricky near the cliffs.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 4,
+      "y": 4
+    },
+    {
+      "id": "npc_gw_barmaid",
+      "name": "Gust",
+      "spriteName": "npcs/barmaid",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to the Tailwind Tavern! I'm Gust. Named after the wind that nearly blew me off the island as a baby. Thanks, Zephyrion.",
+            "choices": [
+              {
+                "label": "I'll have a drink. (3 gold)",
+                "nextNodeId": "drink",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I'll have a drink. (3 gold)",
+                "nextNodeId": "no_gold",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Any rumors?",
+                "nextNodeId": "rumors",
+                "conditions": []
+              },
+              {
+                "label": "No thanks.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "drink": {
+            "id": "drink",
+            "text": "One Galewick Gale, coming up! Careful — it's got a kick like a storm hawk.",
+            "choices": [
+              {
+                "label": "Cheers!",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SERVE_DRINK",
+                "target": "",
+                "value": "",
+                "amount": 3
+              }
+            ]
+          },
+          "no_gold": {
+            "id": "no_gold",
+            "text": "Sorry love, can't run a tab up here. The wind might blow you away before you pay.",
+            "choices": [
+              {
+                "label": "Fair enough.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rumors": {
+            "id": "rumors",
+            "text": "Captain Windlass has been talking about the hidden island again. That fog-shrouded place northwest. Says her compass spins near it. Old Nol says it's just a cloud bank, but Windlass doesn't chase clouds. She chases secrets.",
+            "choices": [
+              {
+                "label": "Intriguing.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Come back when the wind blows you this way!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 5,
+      "y": 3
+    },
+    {
+      "id": "npc_gw_dockmaster",
+      "name": "Dockmaster Vael",
+      "spriteName": "npcs/pirate",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "I'm Vael. I run the sky docks — such as they are. Windlass's ship is our only regular visitor. The rest? Problems.",
+            "choices": [
+              {
+                "label": "Gale spirits disrupting the docks?",
+                "nextNodeId": "gale_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "gale_spirit_clearing",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "gale_spirit_clearing",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How's the gale spirit problem?",
+                "nextNodeId": "gale_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "gale_spirit_clearing",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Sky raiders attacking?",
+                "nextNodeId": "raider_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "sky_raider_defense",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How's the raider situation?",
+                "nextNodeId": "raider_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "sky_raider_defense",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I heard about a crashed airship.",
+                "nextNodeId": "sailor_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "stranded_sailor_rescue",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "stranded_sailor_rescue",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about Captain Windlass.",
+                "nextNodeId": "windlass_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "sky_pirate_contact",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "sky_pirate_contact",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "[Report] I found the sailor.",
+                "nextNodeId": "sailor_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "stranded_sailor_rescue",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "windlass_intro": {
+            "id": "windlass_intro",
+            "text": "Windlass? Smuggler, liar, best pilot in the Archipelago. She knows every current and every cave on this island, and she owes me a berth fee. Go find her out on the overworld and get her talking. Anything she tells you is worth more than what I know.",
+            "choices": [
+              {
+                "label": "I'll track her down.",
+                "nextNodeId": "windlass_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "windlass_accepted": {
+            "id": "windlass_accepted",
+            "text": "She keeps her ship off the docks so I can't bill her. Look along the cliffs. And don't shake on anything until you've read it twice.",
+            "choices": [
+              {
+                "label": "Noted.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "sky_pirate_contact",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "sailor_done": {
+            "id": "sailor_done",
+            "text": "Alive. After all that time on the wreck. [He lets out a long breath.] I'll get a line out to the airship island before the next squall. Nobody else on this dock was willing to go look. You were.",
+            "choices": [
+              {
+                "label": "Get them home, Vael.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "stranded_sailor_rescue",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "gale_quest_intro": {
+            "id": "gale_quest_intro",
+            "text": "Aye. Gale spirits are fouling the wind currents around the dock. Ships can't land safely. Kill four of them and the currents should settle.",
+            "choices": [
+              {
+                "label": "I'll clear them.",
+                "nextNodeId": "gale_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "gale_accepted": {
+            "id": "gale_accepted",
+            "text": "Good. They're translucent, hard to see. Look for the shimmer. And don't let them put you to sleep — falling asleep near a cliff edge is a bad way to go.",
+            "choices": [
+              {
+                "label": "On it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "gale_spirit_clearing",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "gale_active": {
+            "id": "gale_active",
+            "text": "Wind's still fouled. Keep hunting those spirits.",
+            "choices": [
+              {
+                "label": "Working on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "raider_quest_intro": {
+            "id": "raider_quest_intro",
+            "text": "Sky raiders — pirates without Windlass's charm. They attack the docks, steal supplies, and vanish into the storm wall. Four of them have been hitting us regularly. Put them down.",
+            "choices": [
+              {
+                "label": "I'll handle the raiders.",
+                "nextNodeId": "raider_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "raider_accepted": {
+            "id": "raider_accepted",
+            "text": "They wear dark coats and carry lightning cutlasses. You'll find them in the dungeon and near the storm wall. Don't underestimate them — they hit hard.",
+            "choices": [
+              {
+                "label": "Consider it done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "sky_raider_defense",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "raider_active": {
+            "id": "raider_active",
+            "text": "Raiders are still hitting us. Keep at it.",
+            "choices": [
+              {
+                "label": "On my way.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "sailor_quest_intro": {
+            "id": "sailor_quest_intro",
+            "text": "The Stormchaser went down northwest of here — crashed into a small island. The sailor who piloted it might still be alive. Nobody's gone to check. Would you?",
+            "choices": [
+              {
+                "label": "I'll find the sailor.",
+                "nextNodeId": "sailor_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "sailor_accepted": {
+            "id": "sailor_accepted",
+            "text": "The airship island is northwest of the main island. Cross the rope bridge from Windhaven. Look for wreckage. And be careful — the crash might have attracted scavengers.",
+            "choices": [
+              {
+                "label": "I'll head there.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "stranded_sailor_rescue",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch the wind. It shifts fast near the docks.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 10,
+      "y": 16
+    },
+    {
+      "id": "npc_gw_shipwright",
+      "name": "Shipwright Cob",
+      "spriteName": "npcs/blacksmith",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Mind the sawdust. I'm Cob — I patch Windlass's ship every time she brings it back full of holes. Which is every time.",
+            "choices": [
+              {
+                "label": "How do sky-ships work?",
+                "nextNodeId": "ships",
+                "conditions": []
+              },
+              {
+                "label": "Windlass crashes often?",
+                "nextNodeId": "windlass",
+                "conditions": []
+              },
+              {
+                "label": "Good work.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ships": {
+            "id": "ships",
+            "text": "Cloud-oak hull, wind-silk sails, and a keel lined with lodestone to ride the magnetic currents between islands. Zephyrion's breath fills the sails. The tricky part is landing — docks are small and the wind doesn't stop just because you want it to.",
+            "choices": [
+              {
+                "label": "Fascinating.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "windlass": {
+            "id": "windlass",
+            "text": "Every. Single. Time. Last month she clipped a lightning rod and punched a hole through the port side. Month before that, she tried to fly through the storm wall on a dare. The hull looked like cheese. But she always comes back grinning. Can't help but admire that.",
+            "choices": [
+              {
+                "label": "Ha!",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Keep your feet on solid ground. It's safer.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 5,
+      "y": 11
+    },
+    {
+      "id": "npc_gw_cloudren",
+      "name": "Cloud Fisher Ren",
+      "spriteName": "npcs/fisher",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Shh... I'm watching the currents. See how the mist moves? That tells you where the cloud fish are running.",
+            "choices": [
+              {
+                "label": "You can read the clouds?",
+                "nextNodeId": "reading",
+                "conditions": []
+              },
+              {
+                "label": "What's in the deeper clouds?",
+                "nextNodeId": "deep",
+                "conditions": []
+              },
+              {
+                "label": "I'll let you work.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "reading": {
+            "id": "reading",
+            "text": "My grandmother taught me. Thin mist means the fish are scattered. Thick banks mean they're schooling. And if the clouds turn green... don't fish. Something else is hunting.",
+            "choices": [
+              {
+                "label": "Green clouds?",
+                "nextNodeId": "deep",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "deep": {
+            "id": "deep",
+            "text": "Storm serpents. They swim through the deepest cloud layers, feeding on gale spirits and anything else they can catch. Sometimes they surface. When they do, the whole dock shakes. Nol lost a boat to one last year.",
+            "choices": [
+              {
+                "label": "Terrifying.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Tight lines and calm winds.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 6,
+      "y": 16
+    },
+    {
+      "id": "npc_gw_innkeeper",
+      "name": "Gust the Innkeeper",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "Warm hammock, dry blanket, sheltered from the wind.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to the Gust & Gale — finest hammock-house in the Archipelago. The wind rocks you to sleep here. Need a rest?",
+            "choices": [
+              {
+                "label": "I'd like to rest. (Full heal, 25g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 25,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "What's life like on a sky-dock?",
+                "nextNodeId": "life",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "The wind will sing you to sleep. Rest well, sky-walker.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -25
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The wind rocks your hammock gently. You awaken fully restored.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "life": {
+            "id": "life",
+            "text": "Wet. Windy. Wonderful. The fish come right to the dock when the clouds are thick. The storms keep the weak away and the strong honest. Only complaint? The seagulls. Even up here, the blasted seagulls.",
+            "choices": [
+              {
+                "label": "Some things are universal.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Don't lean out the windows. The updraft will steal your hat.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 14,
+      "y": 4
+    },
+    {
+      "id": "npc_gw_merchant",
+      "name": "Sky Trader Wren",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Cloud-cured goods. Lightning-tested.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "greater_healing",
+        "vial_of_lightning",
+        "antidote",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Sky Trader Wren at your service. I carry potions, salves, and anything the wind blows my way. Interested?",
+            "choices": [
+              {
+                "label": "Show me your wares.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Not today.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Take what you need. Everything's been storm-tested.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Fair winds, traveler.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 14,
+      "y": 11
+    },
+    {
+      "id": "npc_gw_skygames",
+      "name": "Gusty",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "Care for a game? The wind is perfect today!",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Ha! Another brave soul on the docks! I'm Gusty -- purveyor of the finest sky games in the Archipelago.\n\nWe've got three ways to test your mettle against the wind. Care to play?",
+            "choices": [
+              {
+                "label": "Show me what you've got!",
+                "nextNodeId": "play"
+              },
+              {
+                "label": "What games do you have?",
+                "nextNodeId": "explain"
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell"
+              }
+            ]
+          },
+          "explain": {
+            "id": "explain",
+            "text": "Three games, each testing a different gift of the wind!\n\nWindchime Symphony -- repeat the wind's melody from memory. Gets longer each round.\n\nGust Glider -- glide through the storm! Dodge clouds and lightning, collect gold rings. Cash out or keep flying for bigger prizes.\n\nStorm Rider -- dodge lightning and collect crystals while riding the gale. Survive as long as you can!",
+            "choices": [
+              {
+                "label": "Let's play!",
+                "nextNodeId": "play"
+              },
+              {
+                "label": "Maybe later.",
+                "nextNodeId": "farewell"
+              }
+            ]
+          },
+          "play": {
+            "id": "play",
+            "text": "That's the spirit! Step right up!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SKY_GAMES",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The wind waits for no one -- but it'll still be here when you're ready! Ha!",
+            "choices": []
+          }
+        }
+      },
+      "x": 14,
+      "y": 16
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "maxDungeonDepth": 50,
+  "dungeonLevel": 1,
+  "initialTileStates": {}
+}

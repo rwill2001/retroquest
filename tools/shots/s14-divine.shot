@@ -1,0 +1,11 @@
+# A god addresses the Unbound
+DESC="A god addresses the Unbound"
+SCENE=town
+TOWN=moonhaven
+ISLAND=lirandel
+OVERLAY=divine
+XP=200000
+SECONDS_LEN=5
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

@@ -1,0 +1,12 @@
+# And then you go down. The real DungeonEntryAnimation rather than an iris faked in the edit.
+# SKIP_ANIMATIONS=off is required: every other shot collapses the cinematics to one frame so
+# they don't eat the head of a scene, and this shot is nothing but the cinematic.
+DESC="Dungeon entry — the stairwell swallows the frame"
+SCENE=animation
+ANIMATION=entry
+SKIP_ANIMATIONS=off
+ISLAND=lirandel
+SECONDS_LEN=4
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

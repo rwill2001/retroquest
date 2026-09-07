@@ -1,0 +1,3024 @@
+{
+  "type": "TOWN",
+  "name": "cinderport",
+  "width": 30,
+  "height": 30,
+  "tiles": [
+    [
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~"
+    ],
+    [
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~"
+    ],
+    [
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      ":",
+      ":",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~"
+    ],
+    [
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      ":",
+      ":",
+      ":",
+      ":",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~"
+    ],
+    [
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "n",
+      "n",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "n",
+      "n",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "n",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "n",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "d",
+      "d",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "!",
+      "v",
+      "!",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "c",
+      "c",
+      "c",
+      "c",
+      "c",
+      "k",
+      "W",
+      "!",
+      "!",
+      "!",
+      "W",
+      "N",
+      "N",
+      "*",
+      "*",
+      "N",
+      "N",
+      "W",
+      "W",
+      "l",
+      "l",
+      "(",
+      "l",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "k",
+      "(",
+      "(",
+      "i",
+      "i",
+      "(",
+      "W",
+      "!",
+      "!",
+      "!",
+      "W",
+      "+",
+      "*",
+      "*",
+      "*",
+      "*",
+      "+",
+      "W",
+      "W",
+      "l",
+      "(",
+      "(",
+      "l",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "k",
+      "(",
+      "(",
+      "(",
+      "(",
+      "n",
+      "W",
+      "!",
+      "!",
+      "!",
+      "W",
+      "*",
+      "c",
+      "c",
+      "c",
+      "*",
+      "*",
+      "W",
+      "W",
+      "(",
+      "(",
+      "(",
+      "u",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "(",
+      "(",
+      "(",
+      "(",
+      "n",
+      "n",
+      "W",
+      "!",
+      "!",
+      "!",
+      "W",
+      "n",
+      "*",
+      "*",
+      "*",
+      "*",
+      "n",
+      "W",
+      "W",
+      "c",
+      "(",
+      "c",
+      "(",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "!",
+      "!",
+      "!",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "v",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "v",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "v",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "+",
+      "+",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "v",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "(",
+      "(",
+      "Y",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "Y",
+      "(",
+      "(",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "v",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "+",
+      "+",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "v",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "c",
+      "c",
+      "c",
+      "(",
+      "(",
+      "(",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "k",
+      "(",
+      "(",
+      "(",
+      "(",
+      "k",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "v",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "k",
+      "(",
+      "(",
+      "(",
+      "(",
+      "k",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "+",
+      "!",
+      "!",
+      "!",
+      "+",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "k",
+      "(",
+      "(",
+      "(",
+      "(",
+      "k",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "-",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "(",
+      "n",
+      "n",
+      "n",
+      "(",
+      "(",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "+",
+      "!",
+      "!",
+      "!",
+      "+",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "Y",
+      "n",
+      "n",
+      "n",
+      "(",
+      "Y",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "v",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "v",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "Y",
+      "!",
+      "!",
+      "Y",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "!",
+      "v",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "v",
+      "!",
+      "!",
+      "!",
+      "!",
+      "v",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "v",
+      "!",
+      "W",
+      "-",
+      "-"
+    ],
+    [
+      "-",
+      "-",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "-",
+      "-"
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "interiorEntryX": 14,
+  "interiorEntryY": 28,
+  "npcs": [
+    {
+      "id": "npc_cinderport_voss",
+      "name": "Harbor Captain Voss",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to Cinderport, stranger. I'm Captain Voss — I run the harbor. Not many ships come through anymore, not since the forge went quiet.",
+            "choices": [
+              {
+                "label": "What happened to the forge?",
+                "nextNodeId": "forge_info",
+                "conditions": []
+              },
+              {
+                "label": "I'm looking for work.",
+                "nextNodeId": "work",
+                "conditions": []
+              },
+              {
+                "label": "I can handle a dungeon. Got anything dangerous?",
+                "nextNodeId": "dungeon_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "deep_dungeon_expedition",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "deep_dungeon_expedition",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "About that dungeon expedition...",
+                "nextNodeId": "dungeon_quest_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "deep_dungeon_expedition",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Just passing through.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "dungeon_quest_intro": {
+            "id": "dungeon_quest_intro",
+            "text": "Dangerous? The volcanic tunnels beneath this island go deeper than anyone's mapped. I need someone to descend to the 5th level and report back what's down there. The last man I sent... didn't come back.",
+            "choices": [
+              {
+                "label": "I'll do it.",
+                "nextNodeId": "dungeon_quest_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Maybe later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "dungeon_quest_accepted": {
+            "id": "dungeon_quest_accepted",
+            "text": "Good. The dungeon entrance is on the overworld — look for the stone archway. Get to level 5, take note of what you see, and get out alive. That's the job.",
+            "choices": [
+              {
+                "label": "Consider it done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "deep_dungeon_expedition",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "dungeon_quest_active": {
+            "id": "dungeon_quest_active",
+            "text": "Level 5, remember. Don't come back until you've been that deep. And try not to die — I hate paperwork.",
+            "choices": [
+              {
+                "label": "I'm working on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "forge_info": {
+            "id": "forge_info",
+            "text": "The old forgemaster vanished weeks ago. Kira's been keeping things running, but she's stretched thin. Without his expertise, the obsidian blades are losing their edge.",
+            "choices": [
+              {
+                "label": "Where did he go?",
+                "nextNodeId": "bribe_hint",
+                "conditions": []
+              },
+              {
+                "label": "I'll talk to Kira.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "bribe_hint": {
+            "id": "bribe_hint",
+            "text": "Some say he went into the volcanic caves east of town. Others say he was taken. A dockhand saw torchlight near the old lava tubes... but he won't talk unless you grease his palm. Try asking Kira — she knew the old man best.",
+            "choices": [
+              {
+                "label": "Thanks for the tip.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "work": {
+            "id": "work",
+            "text": "Work? Ha! Plenty of trouble to go around. Talk to Kira at the forge — she's been asking everyone who docks here for help. Something about a missing person.",
+            "choices": [
+              {
+                "label": "I'll check it out.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch yourself out there. The ground's not as stable as it looks on this island.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 6,
+      "y": 10
+    },
+    {
+      "id": "npc_cinderport_kira",
+      "name": "Forgemaster Kira",
+      "spriteName": "npcs/shopkeeper",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "obsidian_blade",
+        "forged_steel_plate",
+        "ember_shield",
+        "healing_potion",
+        "pyralis_fire_potion",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The forge burns day and night. I'm Kira — I keep Cinderport armed and armored. What brings you to my shop?",
+            "choices": [
+              {
+                "label": "I'd like to browse your wares.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "I heard about a missing forger.",
+                "nextNodeId": "quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_missing_forger",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_missing_forger",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Any news about the missing forger?",
+                "nextNodeId": "quest_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_missing_forger",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about this island.",
+                "nextNodeId": "lore",
+                "conditions": []
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Take a look. Everything's forged right here in Cinderport's own fires.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_intro": {
+            "id": "quest_intro",
+            "text": "My mentor, Master Aldric, disappeared three weeks ago. He went to harvest obsidian from the volcanic caves and never returned. I've been running the forge alone, but I can't keep this up. Please — find him and bring him back.",
+            "choices": [
+              {
+                "label": "I'll find him.",
+                "nextNodeId": "quest_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_accepted": {
+            "id": "quest_accepted",
+            "text": "Thank the flames. The volcanic caves are east of town — be careful, the tunnels shift with the heat. Aldric always carried a firesteel pendant. If you find it, you'll know you're on his trail.",
+            "choices": [
+              {
+                "label": "I'll head out.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_missing_forger",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_active": {
+            "id": "quest_active",
+            "text": "No word yet. The volcanic caves are dangerous — please hurry. Every day without Aldric, the forge grows colder.",
+            "choices": [
+              {
+                "label": "I'm working on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "lore": {
+            "id": "lore",
+            "text": "This island was born from fire. Pyralis's breath, the old folk say. The volcano hasn't erupted in a century, but the earth still rumbles. The obsidian here is the finest in the realm — harder than steel when properly forged.",
+            "choices": [
+              {
+                "label": "Interesting. Let me see your shop.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Thanks for the history.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the forge's fire light your path.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 17,
+      "y": 10
+    },
+    {
+      "id": "npc_cinderport_innkeeper",
+      "name": "Cinderport Innkeeper",
+      "spriteName": "npcs/innkeeper",
+      "type": "INNKEEPER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome, weary traveler. The beds are simple but the walls are thick — keeps out the heat and the noise. What'll it be?",
+            "choices": [
+              {
+                "label": "I'd like to rest.",
+                "nextNodeId": "rest",
+                "conditions": []
+              },
+              {
+                "label": "Any local gossip?",
+                "nextNodeId": "gossip",
+                "conditions": []
+              },
+              {
+                "label": "Nothing, thanks.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "Sleep well. The forge's glow will keep the dark things at bay.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "gossip": {
+            "id": "gossip",
+            "text": "Strange things happening lately. Tremors in the night, more than usual. Some miners swear they've seen shapes moving in the lava tubes. And old Aldric — the master forger — just vanished. Kira's worried sick about him.",
+            "choices": [
+              {
+                "label": "Sounds dangerous. I'll rest up first.",
+                "nextNodeId": "rest",
+                "conditions": []
+              },
+              {
+                "label": "Thanks for the warning.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Door's always open. Well, mostly.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 24,
+      "y": 10
+    },
+    {
+      "id": "npc_cinderport_bryn",
+      "name": "Merchant Bryn",
+      "spriteName": "npcs/shopkeeper",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Supplies for the brave and the foolish — same price either way.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "pyralis_fire_potion",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "x": 6,
+      "y": 22
+    },
+    {
+      "id": "npc_cinderport_barmaid",
+      "name": "Ember",
+      "spriteName": "npcs/barmaid",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome, love! What can I get ya? The ale's fresh today.",
+            "choices": [
+              {
+                "label": "I'll have an ale. (3 gold)",
+                "nextNodeId": "serve_ale",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I'll have an ale. (3 gold)",
+                "nextNodeId": "no_gold",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_1",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "cinderport_rumor_1",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_2",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "cinderport_rumor_1",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "cinderport_rumor_2",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_3",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "cinderport_rumor_2",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Just passing through. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "serve_ale": {
+            "id": "serve_ale",
+            "text": "Here ya go, love. Drink up!",
+            "choices": [
+              {
+                "label": "Another round!",
+                "nextNodeId": "serve_ale",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "That hit the spot. Thanks.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SERVE_DRINK",
+                "target": "",
+                "value": "",
+                "amount": 3
+              }
+            ]
+          },
+          "no_gold": {
+            "id": "no_gold",
+            "text": "Looks like your purse is a bit light, dear. Come back when you've got the coin.",
+            "choices": [
+              {
+                "label": "I'll be back.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rumor_1": {
+            "id": "rumor_1",
+            "text": "The forge fires have been burning hotter than usual. The smiths say the mountain's waking up, but what do they know?",
+            "choices": [
+              {
+                "label": "Interesting...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "cinderport_rumor_1",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "rumor_2": {
+            "id": "rumor_2",
+            "text": "Sailors refuse to dock at the western pier anymore. Say something watches from below the water. Something big.",
+            "choices": [
+              {
+                "label": "Interesting...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "cinderport_rumor_2",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "rumor_3": {
+            "id": "rumor_3",
+            "text": "The Emberpriest's been chanting day and night in the temple. Last time that happened, the ground shook for a week.",
+            "choices": [
+              {
+                "label": "Thanks for the gossip.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "CLEAR_FLAG",
+                "target": "cinderport_rumor_1",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "CLEAR_FLAG",
+                "target": "cinderport_rumor_2",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Come back anytime, love!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 23,
+      "y": 11
+    },
+    {
+      "id": "npc_cinderport_hagan",
+      "name": "Dock Boss Hagan",
+      "spriteName": "npcs/pirate",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Oi! Name's Hagan. I run the docks — what's left of 'em. Lava serpents have been crawling up from the harbor caves, scaring off the fishing boats.",
+            "choices": [
+              {
+                "label": "I can deal with those serpents.",
+                "nextNodeId": "serpent_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "harbor_serpents",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How's the harbor serpent problem?",
+                "nextNodeId": "serpent_quest_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "harbor_serpents",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "What's life like on the docks?",
+                "nextNodeId": "dock_life",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "serpent_quest_intro": {
+            "id": "serpent_quest_intro",
+            "text": "Ha! Finally someone with guts. Three of the big ones have nested in the caves beneath the western pier. Kill 'em, and I'll make it worth your while. They're nasty — spit fire and all — but I reckon you can handle it.",
+            "choices": [
+              {
+                "label": "Consider them dead.",
+                "nextNodeId": "serpent_quest_accepted",
+                "conditions": []
+              },
+              {
+                "label": "I'll think about it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "serpent_quest_accepted": {
+            "id": "serpent_quest_accepted",
+            "text": "That's what I like to hear! You'll find the serpents in the dungeon. They like to lurk near the hot vents. Come back when you've cleared 'em out.",
+            "choices": [
+              {
+                "label": "On my way.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "harbor_serpents",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "serpent_quest_active": {
+            "id": "serpent_quest_active",
+            "text": "Still got serpents in me harbor! Get back down there and finish 'em off. The fishermen won't go near the water till it's safe.",
+            "choices": [
+              {
+                "label": "I'm on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "dock_life": {
+            "id": "dock_life",
+            "text": "Used to be a proper port, this place. Ships from every island. Now? Half the berths are empty, the other half are scorched. Volcano's been grumbling more than usual. The old-timers say it's Pyralis stirring in his sleep.",
+            "choices": [
+              {
+                "label": "Sounds rough.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch your step on the docks — the planks are rotten in places.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 17,
+      "y": 22
+    },
+    {
+      "id": "npc_cinderport_tam",
+      "name": "Sailor Tam",
+      "spriteName": "npcs/fisher",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Hoy there! I'm Tam. Sailed here from Lirandel six months back. Thought there'd be fortune in the obsidian trade... didn't count on the fire.",
+            "choices": [
+              {
+                "label": "What's it like sailing between the islands?",
+                "nextNodeId": "sailing",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about Lirandel.",
+                "nextNodeId": "lirandel",
+                "conditions": []
+              },
+              {
+                "label": "What do you know about this island's dangers?",
+                "nextNodeId": "dangers",
+                "conditions": []
+              },
+              {
+                "label": "You keep counting on your fingers. What doesn't add up?",
+                "nextNodeId": "slag_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "slag_lists_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still looking for Dross.",
+                "nextNodeId": "slag_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_slag_lists",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I found what ran out of the mines.",
+                "nextNodeId": "slag_settle",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_slag_lists",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "slag_lists_settled",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Safe travels.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "sailing": {
+            "id": "sailing",
+            "text": "The crossing's no joke. Currents between the Forged Isles and Lirandel run hot — literally. Volcanic vents heat the water for miles. And there's things below the surface... things that glow. Best not to think about it.",
+            "choices": [
+              {
+                "label": "Sounds terrifying.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "lirandel": {
+            "id": "lirandel",
+            "text": "Lirandel's green and cool compared to this furnace. Moonhaven's a proper town with a real inn that doesn't smell like sulfur. If you haven't been, it's worth the trip. Just need the right key to open the portal.",
+            "choices": [
+              {
+                "label": "Good to know.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "dangers": {
+            "id": "dangers",
+            "text": "Slag beasts roam the ash plains. Ember sprites swarm near the vents — pretty to look at, deadly to touch. And the lava serpents... don't get me started. Worst are the forge golems though. Metal things the cult built. They don't sleep and they don't forgive.",
+            "choices": [
+              {
+                "label": "I'll be careful.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Fair winds, friend. Or... fair smoke, I suppose, on this island.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "slag_offer": {
+            "id": "slag_offer",
+            "text": "The lists. [He glances at the dock, then does not glance at it again, which is worse.]\nI load out. That means I sign a manifest — names, berths, where they are bound. Half the labour off this quay goes up to the slag mines on a season contract.\nSix months I have been here. I have signed out four hundred and eleven names to the mines. Two hundred and six have come back down.\nNow, men die in mines. I have sailed with men who died. What men do not do is die without anybody writing it down. There is no death list. Not a short one — none. The mine returns no dead, reports no dead, and buries no dead.\nAnd every season the forges have more golems than they had.\n[He stops.] I have not said that out loud before and I would like you to notice I am not saying the next part either.\nThere is a thing out on the ash plains that ran down from the mines and talks. Dross. Go and hear it. Then come back, because I cannot decide what to do with this and I have been trying for six months.",
+            "choices": [
+              {
+                "label": "I'll go and find Dross.",
+                "nextNodeId": "slag_accept",
+                "conditions": []
+              },
+              {
+                "label": "You should have said this to somebody sooner.",
+                "nextNodeId": "slag_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "slag_accept": {
+            "id": "slag_accept",
+            "text": "Aye. I should. I have a berth and a wage and no family here and I am a coward in a very ordinary way, and I am about ten minutes from stopping being one.\nEast, on the ash plains. It waits in the same spot. It says it always waits.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_slag_lists",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "slag_lists_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Slag Lists",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "slag_progress": {
+            "id": "slag_progress",
+            "text": "East, ash plains. It is slow to talk. Be slow back at it; it notices.",
+            "choices": [
+              {
+                "label": "I will.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "slag_settle": {
+            "id": "slag_settle",
+            "text": "'Others like Dross. But they don't think. They just work.'\n[Tam sits down on a crate and is quiet for a long time.]\nTwo hundred and five men. That is the difference in the lists. Two hundred and five, made into something that works and does not think, and one of them came out the other side still able to say the word friend, which means the rest of them nearly could.\nRight. So. Here is where I need you, because I have thought about this every night since the spring and both answers are bad.\nForgemaster Kira. She runs the forge here and she is a decent woman and I do not believe she knows, and if I put this in her hand she will have to look at it and she will have the standing to stop it. She will also warn the cult while she is deciding, because she is one of them, and she will not mean to.\nOr the dock crews. Two hundred quayside labourers who are next on the list. They will not deliberate. They will go up there tonight with hooks, and some of them will not come back, and the mines will stop by morning.",
+            "choices": [
+              {
+                "label": "Take it to Kira. She has the standing to stop it properly.",
+                "nextNodeId": "slag_kira",
+                "conditions": []
+              },
+              {
+                "label": "Take it to the dock crews. They are the ones on the list.",
+                "nextNodeId": "slag_crews",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "slag_kira": {
+            "id": "slag_kira",
+            "text": "[He copies the whole six months out fair, twice, and takes one copy up to the forge himself.]\nShe read it standing up and she did not sit down and she did not say anything for the length of a bell.\nThen she said: 'I have been signing the golem intake for eleven years.'\nShe will do something. It will be slow and it will be legal and it will be inside the cult, and in a season the mine will have a warden and a death list and an inspector, and Dross will still be sitting on the ash plains waiting for a friend.\nIt is the right answer. I keep telling myself it is the right answer. Take your money; it is Kira's, not mine, and she gave it without being asked.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "slag_lists_settled",
+                "value": "kira",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "PYRALIS",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Kira takes the lists into the cult. It will be slow, legal, and real.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "slag_crews": {
+            "id": "slag_crews",
+            "text": "[He reads it out at the quay at the end of the shift. It takes four minutes. They are up the ash road before full dark.]\nEleven did not come back. I knew nine of them by name and I signed two of them out myself, which is a thing I am going to be carrying.\nThe mine is shut. Not reformed — shut, doors down, wheel broken, and the cult will build another one somewhere quieter and it will take them two years.\nTwo years of nobody. I will take it. I have counted enough lists to know what two years of nobody is worth.\nPyralis will not like it. Pyralis likes a furnace that runs. Let him not like it.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "slag_lists_settled",
+                "value": "crews",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "ZEPHYRION",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "PYRALIS",
+                "value": "",
+                "amount": -10
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The dock crews shut the slag mine in a night. Eleven of them did not come back.",
+                "value": "WARN",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 24,
+      "y": 22
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "maxDungeonDepth": 50,
+  "dungeonLevel": 1,
+  "initialTileStates": {}
+}

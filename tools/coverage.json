@@ -1,0 +1,435 @@
+{
+  "_note": "Written by the scripted playthrough. An island is retested only when its fingerprint changes - that is, when its maps, towns, dungeons or quests are edited. Delete this file to force a full re-test.",
+  "updated": "Sun Sep 06 14:54:52 CDT 2026",
+  "islands": {
+    "lirandel": {
+      "fingerprint": "f642f8fdf421b04c",
+      "complete": true,
+      "summary": "towns 3/3, people 18/20, quests 8/16, dungeons 0/0, features 0/0, crossed yes",
+      "covered": {
+        "towns": [
+          "moonhaven",
+          "waterfallcave",
+          "mooncrest"
+        ],
+        "npcs": [
+          "moonhaven/Innkeeper Bram",
+          "moonhaven/Lirandel\u0027s Acolyte",
+          "moonhaven/Healer Mira",
+          "moonhaven/Town Guard",
+          "moonhaven/Lucky Len",
+          "moonhaven/Maren the Merchant",
+          "moonhaven/Wolfie",
+          "moonhaven/Aldric the Alchemist",
+          "waterfallcave/Ghostly Woman",
+          "mooncrest/Oswin",
+          "mooncrest/Lyren the Pale",
+          "mooncrest/Dagan",
+          "mooncrest/Rook",
+          "mooncrest/Sister Caela",
+          "mooncrest/The Veiled One",
+          "mooncrest/Aldren",
+          "mooncrest/Helen the gamemaster",
+          "mooncrest/Frederick"
+        ],
+        "quests": [
+          "wolf_menace",
+          "find_the_hermit",
+          "cave_explore",
+          "potion_delivery",
+          "moonbloom_collection",
+          "temple_purification",
+          "alchemists_stone",
+          "skeleton_menace"
+        ],
+        "crossed": [
+          "yes"
+        ]
+      },
+      "notCovered": {
+        "quests": [
+          "cleric_rite_of_bless",
+          "mage_trial_lightning",
+          "mazzys_ring",
+          "purge_dreamwake",
+          "rising_tide",
+          "shadow_errand",
+          "the_standing_stones",
+          "waterfall_haunting"
+        ]
+      }
+    },
+    "pyralis": {
+      "fingerprint": "2fda039b7636572f",
+      "complete": true,
+      "summary": "towns 3/3, people 19/22, quests 9/13, dungeons 1/1, features 8/10, crossed yes",
+      "covered": {
+        "towns": [
+          "cinderport",
+          "forge_keep",
+          "ashfen_village"
+        ],
+        "npcs": [
+          "cinderport/Harbor Captain Voss",
+          "cinderport/Forgemaster Kira",
+          "cinderport/Cinderport Innkeeper",
+          "cinderport/Dock Boss Hagan",
+          "cinderport/Sailor Tam",
+          "forge_keep/Emberpriest Cael",
+          "forge_keep/Forge Guard Captain",
+          "forge_keep/Acolyte",
+          "forge_keep/Hilde",
+          "forge_keep/Arena Master Brax",
+          "forge_keep/Acolyte Bren",
+          "forge_keep/Forge Armorer Thul",
+          "ashfen_village/Old Soot",
+          "ashfen_village/Village Elder",
+          "ashfen_village/Wren",
+          "ashfen_village/Healer Ashara",
+          "ashfen_village/Hunter Korr",
+          "ashfen_village/Innkeeper Magda",
+          "ashfen_village/Trader Senna"
+        ],
+        "quests": [
+          "the_slag_lists",
+          "deep_dungeon_expedition",
+          "pyralis_crucible_trial",
+          "slag_beast_bounty",
+          "forge_initiation",
+          "shard_of_ambition",
+          "hermits_warning",
+          "ember_sprite_menace",
+          "ashfen_herb_collection"
+        ],
+        "dungeons": [
+          "ember_caverns"
+        ],
+        "features": [
+          "ember_caverns:1:fountain@20,7",
+          "ember_caverns:1:altar@32,16",
+          "ember_caverns:1:chest@32,23",
+          "ember_caverns:1:glowing cube@20,35",
+          "ember_caverns:3:fountain@5,20",
+          "ember_caverns:3:chest@13,22",
+          "ember_caverns:3:altar@25,15",
+          "ember_caverns:3:glowing cube@25,7"
+        ],
+        "crossed": [
+          "yes"
+        ]
+      },
+      "notCovered": {
+        "quests": [
+          "echoes_of_the_shard",
+          "harbor_serpents",
+          "lost_patrol",
+          "the_missing_forger"
+        ]
+      }
+    },
+    "zephyrion": {
+      "fingerprint": "d2d3f409e8055a27",
+      "complete": false,
+      "summary": "towns 4/4, people 25/27, quests 9/15, dungeons 1/1, features 21/33, crossed yes",
+      "covered": {
+        "towns": [
+          "windhaven",
+          "cloudrest",
+          "stormspire",
+          "galewick"
+        ],
+        "npcs": [
+          "windhaven/Sky Merchant Lira",
+          "windhaven/Innkeeper Brisa",
+          "windhaven/Sky Guard",
+          "windhaven/Kite Boy",
+          "windhaven/Windwright Tobin",
+          "windhaven/Trader Pip",
+          "cloudrest/Cloud Hermit Alis",
+          "cloudrest/Silent Monk",
+          "cloudrest/Wandering Pilgrim",
+          "cloudrest/Garden Tender",
+          "cloudrest/Brother Yarrow",
+          "stormspire/Reva",
+          "stormspire/Milo",
+          "stormspire/Storm Acolyte",
+          "stormspire/Temple Guardian",
+          "stormspire/Storm Scribe",
+          "stormspire/Storm Warden Kael",
+          "stormspire/Lightning Forger Dax",
+          "galewick/Old Fisher Nol",
+          "galewick/Dockmaster Vael",
+          "galewick/Shipwright Cob",
+          "galewick/Cloud Fisher Ren",
+          "galewick/Gust the Innkeeper",
+          "galewick/Sky Trader Wren",
+          "galewick/Gusty"
+        ],
+        "quests": [
+          "thunder_elemental_hunt",
+          "windchime_restoration",
+          "deep_sky_expedition",
+          "weathervane_prophecy",
+          "stormspire_trial_milo",
+          "sky_pirate_contact",
+          "gale_spirit_clearing",
+          "sky_raider_defense",
+          "stranded_sailor_rescue"
+        ],
+        "dungeons": [
+          "storm_spire"
+        ],
+        "features": [
+          "storm_spire:1:riddle door@28,27",
+          "storm_spire:1:chest@32,29",
+          "storm_spire:1:altar@31,21",
+          "storm_spire:1:chest@25,15",
+          "storm_spire:1:throne@33,7",
+          "storm_spire:1:fountain@12,19",
+          "storm_spire:2:fountain@20,5",
+          "storm_spire:2:chest@22,17",
+          "storm_spire:2:chest@23,23",
+          "storm_spire:2:teleporter@22,32",
+          "storm_spire:4:altar@20,25",
+          "storm_spire:4:fountain@20,20",
+          "storm_spire:4:chest@12,22",
+          "storm_spire:4:chest@12,17",
+          "storm_spire:4:altar@5,14",
+          "storm_spire:4:riddle door@5,20",
+          "storm_spire:4:chest@28,13",
+          "storm_spire:4:throne@36,10",
+          "storm_spire:5:chest@28,3",
+          "storm_spire:5:throne@33,1",
+          "storm_spire:5:teleporter@37,2"
+        ],
+        "crossed": [
+          "yes"
+        ]
+      },
+      "notCovered": {
+        "quests": [
+          "cloud_wraith_purge",
+          "pilgrims_journey",
+          "shard_of_freedom",
+          "storm_hawk_hunt",
+          "stormspire_trial_reva",
+          "zephyrion_trial"
+        ]
+      }
+    },
+    "sylvandar": {
+      "fingerprint": "adb76d3350e8ecdc",
+      "complete": true,
+      "summary": "towns 3/3, people 15/15, quests 8/11, dungeons 1/1, features 11/15, crossed yes",
+      "covered": {
+        "towns": [
+          "roothollow",
+          "mossbridge",
+          "amber_grove"
+        ],
+        "npcs": [
+          "roothollow/Elder Varen",
+          "roothollow/Sylva the Herbalist",
+          "roothollow/Root Warden",
+          "roothollow/Bark Weaver Fen",
+          "roothollow/Sapling",
+          "mossbridge/Bridgekeeper Orin",
+          "mossbridge/Trader Fenn",
+          "mossbridge/Moss Tender",
+          "mossbridge/Ravine Watcher",
+          "mossbridge/Vine Fisher Tol",
+          "amber_grove/The Amber Sage",
+          "amber_grove/Archivist Kael",
+          "amber_grove/Grove Keeper Lessa",
+          "amber_grove/Petrified Peddler",
+          "amber_grove/Pilgrim Asha"
+        ],
+        "quests": [
+          "roots_of_memory",
+          "rootspeaker_entangle",
+          "the_child_who_is_becoming",
+          "bridge_rot_report",
+          "the_ravine_closes",
+          "the_grief_orchard",
+          "amber_sage_memory",
+          "amber_ward_recipe"
+        ],
+        "dungeons": [
+          "rootvault"
+        ],
+        "features": [
+          "rootvault:1:fountain@11,25",
+          "rootvault:1:chest@5,26",
+          "rootvault:1:chest@7,16",
+          "rootvault:1:fountain@23,15",
+          "rootvault:1:altar@29,16",
+          "rootvault:1:chest@34,23",
+          "rootvault:2:chest@18,27",
+          "rootvault:2:fountain@17,15",
+          "rootvault:2:riddle door@10,18",
+          "rootvault:2:chest@4,19",
+          "rootvault:2:chest@3,20"
+        ],
+        "crossed": [
+          "yes"
+        ]
+      },
+      "notCovered": {
+        "quests": [
+          "shard_of_endless_growth",
+          "sylvandar_verdant_trial",
+          "the_ledger_of_cuttings"
+        ]
+      }
+    },
+    "thalorax": {
+      "fingerprint": "6ef26cbdd5d98bed",
+      "complete": false,
+      "summary": "towns 3/3, people 15/15, quests 10/11, dungeons 3/3, features 13/32, crossed yes",
+      "covered": {
+        "towns": [
+          "abyssport",
+          "brightcoral",
+          "kelp_towers"
+        ],
+        "npcs": [
+          "abyssport/The Drowned Engineer",
+          "abyssport/Tide-Priestess Varsa",
+          "abyssport/Abyssport Trader",
+          "abyssport/Dome-Keeper Rill",
+          "abyssport/Depths Warden Koros",
+          "abyssport/Dome-Warden Ossa",
+          "abyssport/Diver-Chandler Bexen",
+          "brightcoral/Lampwright Oleander",
+          "brightcoral/Coral Builder Elder",
+          "brightcoral/Coral Merchant",
+          "brightcoral/Coral-Child",
+          "kelp_towers/Presskeeper Nym",
+          "kelp_towers/Kelp Weaver",
+          "kelp_towers/The Ancient Kelp-Keeper",
+          "kelp_towers/Drift-Tender Mora"
+        ],
+        "quests": [
+          "cracking_dome",
+          "varsa_choice",
+          "the_ninth_ward",
+          "the_air_debt",
+          "the_conscript_runes",
+          "the_undrowned_lamp",
+          "brightcorals_first_stone",
+          "the_deep_reading",
+          "abyssal_wraith_bounty",
+          "the_leviathans_jaw"
+        ],
+        "dungeons": [
+          "pressure_temple",
+          "boneyard_trench",
+          "leviathan_eye"
+        ],
+        "features": [
+          "pressure_temple:1:teleporter@17,18",
+          "pressure_temple:1:fountain@10,25",
+          "pressure_temple:3:throne@6,18",
+          "pressure_temple:3:chest@14,5",
+          "boneyard_trench:1:teleporter@19,18",
+          "leviathan_eye:1:fountain@20,21",
+          "leviathan_eye:1:altar@20,13",
+          "leviathan_eye:1:chest@16,14",
+          "leviathan_eye:1:chest@24,14",
+          "leviathan_eye:1:altar@27,24",
+          "leviathan_eye:1:altar@12,24",
+          "leviathan_eye:1:glowing cube@19,3",
+          "leviathan_eye:1:throne@20,3"
+        ],
+        "crossed": [
+          "yes"
+        ]
+      },
+      "notCovered": {
+        "quests": [
+          "the_pressed_woman"
+        ]
+      }
+    },
+    "umbryn": {
+      "fingerprint": "45418e0972d24552",
+      "complete": false,
+      "summary": "towns 3/3, people 10/12, quests 6/10, dungeons 1/2, features 0/5, crossed no",
+      "covered": {
+        "towns": [
+          "dusthaven",
+          "the_hollow",
+          "echo_point"
+        ],
+        "npcs": [
+          "dusthaven/Archivist Sable",
+          "dusthaven/Keeper Mord",
+          "dusthaven/Whisper",
+          "dusthaven/Ghost of Aldric",
+          "dusthaven/The Archivist",
+          "the_hollow/Mourner Vel",
+          "the_hollow/Nameless Three",
+          "the_hollow/The Well of Names",
+          "echo_point/The Last Witness",
+          "echo_point/Lorekeeper Iris"
+        ],
+        "quests": [
+          "fading_names",
+          "borrowed_grief",
+          "eighth_dream",
+          "the_well_of_names",
+          "the_unmourned",
+          "the_one_who_stayed_awake"
+        ],
+        "dungeons": [
+          "archive_of_tears"
+        ]
+      },
+      "notCovered": {
+        "dungeons": [
+          "forgotten_city"
+        ],
+        "quests": [
+          "echo_of_seraphine",
+          "the_archive_of_small_things",
+          "the_name_she_used_here",
+          "umbryn_trial"
+        ]
+      }
+    },
+    "bellorak": {
+      "fingerprint": "995f49e2983ffebc",
+      "complete": false,
+      "summary": "towns 0/3, people 0/0, quests 0/10, dungeons 0/3, features 0/0, crossed yes",
+      "covered": {
+        "crossed": [
+          "yes"
+        ]
+      },
+      "notCovered": {
+        "towns": [
+          "gold_guard_camp",
+          "iron_reckoner_camp",
+          "neutral_ground"
+        ],
+        "dungeons": [
+          "cradle_of_shards",
+          "iron_pit",
+          "war_beneath"
+        ],
+        "quests": [
+          "bellorak_arena",
+          "brothers_three",
+          "eternal_siege",
+          "iron_ghost_truth",
+          "the_field_that_was_a_town",
+          "the_oath_that_outlived_him",
+          "the_pit_masters_ledger",
+          "the_quota",
+          "the_thirty_year_letter",
+          "what_glory_costs"
+        ]
+      }
+    }
+  }
+}

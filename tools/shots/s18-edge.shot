@@ -1,0 +1,13 @@
+# The edge — HP into the red, the flee prompt raised and declined. Damage is applied before
+# startCombat snapshots the fight, so the bar is red on the first frame rather than after
+# three rounds of waiting.
+DESC="Combat on the edge — HP in the red, flee declined"
+SCENE=combat
+ISLAND=lirandel
+XP=200000
+DAMAGE=170
+SECONDS_LEN=5
+MOVE="1.2:F;2.4:N;3.4:A"
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

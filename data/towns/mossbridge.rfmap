@@ -1,0 +1,2249 @@
+{
+  "type": "TOWN",
+  "name": "mossbridge",
+  "width": 25,
+  "height": 25,
+  "interiorEntryX": 5,
+  "interiorEntryY": 21,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "u",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "c",
+      "c",
+      "c",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "v",
+      "",
+      "i",
+      "i",
+      "",
+      "v",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "j",
+      "",
+      "",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "npc_mossbridge_orin",
+      "name": "Bridgekeeper Orin",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "The bridges hold. They always hold. Rest here if you're weary.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 5,
+      "y": 5,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to Mossbridge. The roots grew these bridges themselves — strong as stone, alive as spring. Need a bed?",
+            "choices": [
+              {
+                "label": "I'd like to rest. (Full heal, 25g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 25
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about the ravine.",
+                "nextNodeId": "ravine",
+                "conditions": []
+              },
+              {
+                "label": "The southern bridge looks damaged.",
+                "nextNodeId": "bridge_rot",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "bridge_rot_quest",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "The roots will rock you to sleep. Rest well.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -25
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "You sleep on a bed of woven roots and awaken fully healed.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "ravine": {
+            "id": "ravine",
+            "text": "The ravine appeared during the Shattering — the land split clean through. But Sylvandar's roots grew across it in a single night. The bridges have held for thirty years.",
+            "choices": [
+              {
+                "label": "Impressive.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "bridge_rot": {
+            "id": "bridge_rot",
+            "text": "You noticed? Aye, rot is spreading through the southern root-bridge. First time in thirty years I've seen the roots decay. I think it's connected to the overgrowth — growth so fast it's burning through the roots' strength. Bark Weaver Fen in Roothollow reads rot in bark better than anyone alive. Could you carry a spore sample to her?",
+            "choices": [
+              {
+                "label": "I'll bring her the sample.",
+                "nextNodeId": "rot_accept"
+              },
+              {
+                "label": "I don't have time right now.",
+                "nextNodeId": "farewell"
+              }
+            ],
+            "actions": []
+          },
+          "rot_accept": {
+            "id": "rot_accept",
+            "text": "Here — take this spore pod. I scraped it from the damaged root. Fen will know what it means. She works the heartwood in Roothollow, north of here.",
+            "choices": [
+              {
+                "label": "I'll find her."
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "bridge_rot_report",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "GIVE_ITEM",
+                "target": "mycos_spore_pod",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "bridge_rot_quest",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch your step on the bridges. They're alive, but they're steady.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_mossbridge_fenn",
+      "name": "Trader Fenn",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Goods from three islands, friend. Take a look.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "greater_healing",
+        "verdant_blade",
+        "rootweave_armor",
+        "amber_shield",
+        "thornwood_staff",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations",
+        "honeyed_loaf"
+      ],
+      "x": 19,
+      "y": 8,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Goods from three islands! Weapons, armor, potions — what catches your eye?",
+            "choices": [
+              {
+                "label": "Show me what you have.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Not today.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Take your pick, friend.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "I'll be here. The bridges aren't going anywhere.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_mossbridge_tender",
+      "name": "Moss Tender",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "I tend the bridge-roots. They grow a little each day.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 12,
+      "y": 8,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[A weathered figure kneels on the root-bridge, carefully trimming moss with a small blade.] Mind your step. The bridge-roots are alive — treat them gently and they'll hold you steady.",
+            "choices": [
+              {
+                "label": "How do the bridges work?",
+                "nextNodeId": "bridges",
+                "conditions": []
+              },
+              {
+                "label": "Have you noticed the overgrowth?",
+                "nextNodeId": "overgrowth",
+                "conditions": []
+              },
+              {
+                "label": "What's across the ravine?",
+                "nextNodeId": "across",
+                "conditions": []
+              },
+              {
+                "label": "What is that stand of trees east of the ravine?",
+                "nextNodeId": "orchard_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "orchard_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still working the canopy.",
+                "nextNodeId": "orchard_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_grief_orchard",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] The canopy is thinned.",
+                "nextNodeId": "orchard_choice",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_grief_orchard",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "orchard_settled",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "bridges": {
+            "id": "bridges",
+            "text": "Sylvandar grew them the night of the Shattering. The land split and his roots reached across — in a single night, mind you. Thirty years they've held. I trim the moss, keep the bark clean. It's honest work. The roots appreciate it, I think.",
+            "choices": [
+              {
+                "label": "The roots can think?",
+                "nextNodeId": "think",
+                "conditions": []
+              },
+              {
+                "label": "Impressive.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "think": {
+            "id": "think",
+            "text": "Not think, exactly. But they respond. Trim them with care and they grow stronger. Hack at them and they'll curl away from you. Everything on this island has a kind of awareness. Even the moss.",
+            "choices": [
+              {
+                "label": "That's unsettling.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              },
+              {
+                "label": "Beautiful, in its way.",
+                "nextNodeId": "beautiful",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "beautiful": {
+            "id": "beautiful",
+            "text": "[The Moss Tender smiles.] It is. Most newcomers only see the horror — the overgrowth, the absorbed. But there's wonder here too, if you know where to look. The bioluminescent fungi south of here — at night they turn the forest into a cathedral of light.",
+            "choices": [
+              {
+                "label": "I'd like to see that.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "overgrowth": {
+            "id": "overgrowth",
+            "text": "Aye. The bridges grow thicker each month. Used to be you could see the ravine below. Now? The roots have woven so dense it's nearly solid ground. Beautiful, but... Bridgekeeper Orin worries. Says one day the ravine will be filled entirely. Then what?",
+            "choices": [
+              {
+                "label": "Then what indeed.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "across": {
+            "id": "across",
+            "text": "East platform has Trader Fenn's shop — good gear if you're heading into the wilds. The herbalist hut too. Take the north bridge or the south bridge. Both hold fine.",
+            "choices": [
+              {
+                "label": "Thanks.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Step lightly. The bridge remembers who treats it well.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "orchard_offer": {
+            "id": "orchard_offer",
+            "text": "The orchard. Everyone calls it a stand of trees because calling it an orchard means saying what it is for.\nHe plants one for every death he notices. Not people — deaths. A bird, a doe, a man, a whole crew off a boat: one tree each, and he notices nearly all of them, and he has been noticing since the Shattering.\nThere is not enough ground. There has not been enough ground for two centuries. So they compete — for light, for water, for room — and the ones that lose do not die, because nothing he plants is allowed to die. They come down out of the canopy instead, and they hunt, and we call them Canopy Stalkers so we do not have to call them what they are.\nFive of them, and then come back. There is a decision at the end of this and I am not making it on my own again.",
+            "choices": [
+              {
+                "label": "Five. And then the decision.",
+                "nextNodeId": "orchard_accept",
+                "conditions": []
+              },
+              {
+                "label": "Again?",
+                "nextNodeId": "orchard_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "orchard_accept": {
+            "id": "orchard_accept",
+            "text": "Again. I made it eleven years ago and I made it the coward's way and the orchard is worse now than it was.\nEast, past the ravine. Look up.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_grief_orchard",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "orchard_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Grief Orchard",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "orchard_progress": {
+            "id": "orchard_progress",
+            "text": "Look up. That is all the advice there is. They are always above you and they are very good at being trees until they are not.",
+            "choices": [
+              {
+                "label": "Up. Right.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "orchard_choice": {
+            "id": "orchard_choice",
+            "text": "Good. That buys a season, and a season is all thinning has ever bought.\nNow. The west quarter is the oldest — two hundred years, grown into one another, no light reaching the ground for a century. Nothing under it. Nothing in it. It is the densest part and it is producing every stalker we get.\nAshwalker Dren will burn it if I ask him. Fire-hand from the Forged Isles; he has been offering for six years and I have been saying no for six years.\nBurn it, and light gets to the ground, and things grow that have not grown since my grandmother. And two hundred years of somebody's dead are ash.\nOr leave it. It is a memorial. It is the largest and oldest memorial on this island and nobody made it on purpose and it is killing the wood around it.",
+            "choices": [
+              {
+                "label": "Burn the west quarter. Let the light in.",
+                "nextNodeId": "orchard_burn",
+                "conditions": []
+              },
+              {
+                "label": "Leave it standing. It is a memorial.",
+                "nextNodeId": "orchard_keep",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "orchard_burn": {
+            "id": "orchard_burn",
+            "text": "[She goes and finds Dren herself, that afternoon, which after six years takes about four minutes.]\nHe cried, actually. I did not expect that from a forge-hand. He said he came here to prove fire and growth were not enemies and he had begun to think he was wrong, and now somebody had asked.\nIt will burn for nine days. The Grove will write me a letter. Sylva will be unbearable about having been right.\nAnd in the spring there will be a floor under there for the first time since my grandmother was alive, and something will come up out of it, and it will not be a grief, it will just be a plant.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "orchard_settled",
+                "value": "burned",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "SYLVANDAR",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "PYRALIS",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The west quarter burns for nine days. Dren finally gets to plant.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "orchard_keep": {
+            "id": "orchard_keep",
+            "text": "[She nods, slowly, and it is not relief.]\nThen it stands. Two hundred years of the dead, in the dark, in the largest thing anybody on this island has ever accidentally built.\nI want it on the record that I know what that costs. Every stalker for the next century comes out of that quarter and somebody's daughter will meet one, and I will have chosen that, and I will have chosen it for trees.\nBut they are not trees. That is the whole trouble with the argument and it is why I lost it eleven years ago too. Ask anyone in Mossbridge which tree is theirs. Every one of them knows.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "orchard_settled",
+                "value": "kept",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "SYLVANDAR",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The west quarter stands. Everyone in Mossbridge knows which tree is theirs.",
+                "value": "INFO",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_mossbridge_guard",
+      "name": "Ravine Watcher",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "The ravine goes down forever. Don't look too long.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 3,
+      "y": 19,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[A grim-faced guard peers over the bridge-root railing into the darkness below.] I watch the ravine. Most days, nothing. Some days... things climb up.",
+            "choices": [
+              {
+                "label": "What kind of things?",
+                "nextNodeId": "things",
+                "conditions": []
+              },
+              {
+                "label": "How deep is the ravine?",
+                "nextNodeId": "deep",
+                "conditions": []
+              },
+              {
+                "label": "What exactly are you watching for?",
+                "nextNodeId": "ravine_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "ravine_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Not been down yet.",
+                "nextNodeId": "ravine_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_ravine_closes",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I have been down into the Rootvault.",
+                "nextNodeId": "ravine_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_ravine_closes",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "ravine_answered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Stay sharp.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "things": {
+            "id": "things",
+            "text": "Vine stranglers, mostly. They climb the bridge-roots like ladders. Last week a root golem tried to cross — took four of us to push it back. The overgrowth sends them. Testing our defenses.",
+            "choices": [
+              {
+                "label": "Sounds dangerous.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "deep": {
+            "id": "deep",
+            "text": "Nobody knows. I dropped a torch once. Counted to thirty before the light went out. Either it hit bottom or the darkness swallowed it. Down there, the roots twist into shapes that... look like faces. Old faces. From before.",
+            "choices": [
+              {
+                "label": "From before the Shattering?",
+                "nextNodeId": "before",
+                "conditions": []
+              },
+              {
+                "label": "I'll stay above ground.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "before": {
+            "id": "before",
+            "text": "That's what the Moss Tender says. The roots down there are ancient — older than the island. They remember shapes from the old world and keep growing them. Ghost architecture. Cities of root and memory.",
+            "choices": [
+              {
+                "label": "Haunting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Don't lean on the railing. It's alive, and it has a sense of humor.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "ravine_offer": {
+            "id": "ravine_offer",
+            "text": "The width.\n[She shows you a post with notches in it. There are a great many notches and they are extremely regular.]\nIt opened on the night of the Shattering. My great-grandmother cut the first notch. I have cut the last forty-one.\nOne finger a year. Every year. Not more in a wet year, not less in a hard one — one finger, which is not a thing rock does. Rock is lazy and irregular and I have read the books.\nSomething underneath is pushing it shut, and it has been doing it at exactly the same rate for four hundred years, and in about nine hundred more it will be a seam and then it will be nothing and the whole thing will never have happened.\nI need to know whether that is the island healing or the island growing over. There is a difference and it is the only question I have ever had. Go down into the Rootvault — two levels, not one; the first is only cellar — and look at what the walls are made of.",
+            "choices": [
+              {
+                "label": "I'll go down and look.",
+                "nextNodeId": "ravine_accept",
+                "conditions": []
+              },
+              {
+                "label": "Nine hundred years is not your problem.",
+                "nextNodeId": "ravine_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ravine_accept": {
+            "id": "ravine_accept",
+            "text": "It is my post. My great-grandmother thought so too and she was a more sensible woman than me.\nNorth, the vault under the Great Root. Down the first stair and down the second. Look at the walls, not the floor. The floor is always rubble; the walls tell you who is doing the work.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_ravine_closes",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "ravine_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Ravine Closes",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "ravine_progress": {
+            "id": "ravine_progress",
+            "text": "Two levels down. The walls, not the floor. And count something — I will want a number and I will know if you have invented one.",
+            "choices": [
+              {
+                "label": "The walls.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ravine_done": {
+            "id": "ravine_done",
+            "text": "Root.\n[She sits down on the notch-post, which she has never once done in front of anybody.]\nNot stone settling. Not the island knitting. Root — laid in courses, one growth ring a year, from both walls at once, meeting in the middle in nine hundred years like a wound being sewn by somebody who is not a surgeon.\nHe is growing it shut. He has been growing it shut, at one finger a year, since the night it opened, and he has never mentioned it to anybody, and he will not stop until there is no ravine and no record that there was one.\nThat is not healing. Healing leaves a scar. This is a correction.\n[She looks at the post with four hundred notches on it.] Then this is the only scar there is going to be, and I had better keep cutting it. Somebody should be able to say where it was.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "ravine_answered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The ravine is being grown shut. The notch-post is the only record.",
+                "value": "WARN",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_mossbridge_fisher",
+      "name": "Vine Fisher Tol",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "The ravine gives up strange things, if you dangle a line long enough.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 19,
+      "y": 18,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[A man sits on the edge of the east platform, dangling a vine line into the misty ravine below.] Fishing. Sort of. The ravine has no water, but things grow down there. Sometimes I pull up mushrooms. Sometimes amber. Once I pulled up a boot. Still warm.",
+            "choices": [
+              {
+                "label": "A warm boot?",
+                "nextNodeId": "boot",
+                "conditions": []
+              },
+              {
+                "label": "What's daily life like here?",
+                "nextNodeId": "daily",
+                "conditions": []
+              },
+              {
+                "label": "Good luck with the fishing.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "boot": {
+            "id": "boot",
+            "text": "Aye. Nobody claimed it. Nobody was missing a boot. The ravine just... grew one. Bark leather, root laces, even stitching made of vine-thread. Perfect fit for nobody. That's the island for you. It makes things that almost make sense.",
+            "choices": [
+              {
+                "label": "This island is something else.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "daily": {
+            "id": "daily",
+            "text": "We wake, trim the bridge-roots, trade with whoever passes through. Fenn sells goods from all three islands — you'd be surprised how much trade flows across these roots. Orin keeps the bridges sound. I fish for oddities. It's quiet. We like quiet.",
+            "choices": [
+              {
+                "label": "Sounds peaceful.",
+                "nextNodeId": "peaceful",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "peaceful": {
+            "id": "peaceful",
+            "text": "Was peaceful. The overgrowth is changing things. New roots sprout on the bridges each morning. The ravine is filling in. Orin says if it fills completely, Mossbridge won't be a bridge town anymore — just a town. And what are bridge-builders without a bridge?",
+            "choices": [
+              {
+                "label": "Maybe that's not the worst thing.",
+                "nextNodeId": "worst",
+                "conditions": []
+              },
+              {
+                "label": "I understand the worry.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "worst": {
+            "id": "worst",
+            "text": "[He smiles sadly.] No, maybe not. But it's who we are. Take away the ravine and we're just... people standing on roots. The gap is what gives us purpose.",
+            "choices": [
+              {
+                "label": "Purpose is worth fighting for.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "If you see anything strange in the forest, tell Orin. He worries, but he needs to know.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": []
+}

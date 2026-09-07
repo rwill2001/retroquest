@@ -1,0 +1,9 @@
+# The item editor — one of RetroForge's seven sub-editors, a modal dialog built offscreen.
+DESC="item editor — RetroForge sub-editor"
+SCENE=forge
+EDITOR=item
+SECONDS_LEN=4
+WIDTH=1920
+HEIGHT=1080
+CROP=1540:932:0:8
+PAD=1920:1080

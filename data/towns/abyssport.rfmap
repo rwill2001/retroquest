@@ -1,0 +1,3339 @@
+{
+  "type": "TOWN",
+  "name": "abyssport",
+  "width": 30,
+  "height": 30,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "i",
+      "i",
+      "",
+      "",
+      "c",
+      "c",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "u",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "x",
+      "x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "c",
+      "c",
+      "c",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "interiorEntryX": 14,
+  "interiorEntryY": 26,
+  "npcs": [
+    {
+      "id": "npc_abyssport_engineer",
+      "name": "The Drowned Engineer",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "The dome is cracking. We need those ward fragments before the pressure kills us all.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "You—you're a surface-walker? Down here? Listen, I don't care where you came from. The dome is failing. Pressure's building and I can't hold it alone.",
+            "choices": [
+              {
+                "label": "What's happening to the dome?",
+                "nextNodeId": "dome_info",
+                "conditions": []
+              },
+              {
+                "label": "I can help. What do you need?",
+                "nextNodeId": "quest_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "cracking_dome_accepted",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] I'm gathering the fragments.",
+                "nextNodeId": "quest_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "cracking_dome",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I have the ward fragments.",
+                "nextNodeId": "quest_complete",
+                "conditions": [
+                  {
+                    "type": "HAS_ITEM",
+                    "target": "pressure_ward_fragment",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "cracking_dome_repaired",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "dome_info": {
+            "id": "dome_info",
+            "text": "The pressure wards that keep this dome intact are ancient — older than anyone here. Three of them have fractured. Without replacements, the ocean will crush Abyssport flat. I've located fragments scattered in the deep trenches, but the creatures out there...",
+            "choices": [
+              {
+                "label": "I'll find the fragments.",
+                "nextNodeId": "quest_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "cracking_dome_accepted",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "That sounds dire.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_offer": {
+            "id": "quest_offer",
+            "text": "You'd do that? I need three Pressure Ward Fragments. They're scattered in the deep trenches south and east of here. The pressure hulks guard them — be careful.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "cracking_dome",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "cracking_dome_accepted",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Cracking Dome",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_progress": {
+            "id": "quest_progress",
+            "text": "The dome groans louder each day. Please hurry — find those three ward fragments before it's too late.",
+            "choices": [
+              {
+                "label": "I'll keep looking.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_complete": {
+            "id": "quest_complete",
+            "text": "You found them! All three fragments — I can feel the resonance already. Let me fuse them into the dome's ward matrix... there. The pressure is stabilizing. You've saved Abyssport, surface-walker. Thalorax watches us all down here, but today, we endure.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "cracking_dome",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "TAKE_ITEM",
+                "target": "pressure_ward_fragment",
+                "value": "",
+                "amount": 3
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "cracking_dome_repaired",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The dome's wards are restored. Abyssport is saved!",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The deep doesn't forgive. Watch yourself out there.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 9,
+      "y": 6
+    },
+    {
+      "id": "npc_abyssport_varsa",
+      "name": "Tide-Priestess Varsa",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "The tides speak of Lirandel even here, in Thalorax's domain.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Shh. Speak softly here — the walls listen in the deep. I am Varsa, servant of Lirandel. I was sent to learn Thalorax's secrets, but I've been here too long. The pressure changes you.",
+            "choices": [
+              {
+                "label": "Why is Lirandel's priestess in Thalorax's domain?",
+                "nextNodeId": "explain",
+                "conditions": []
+              },
+              {
+                "label": "Can I help you?",
+                "nextNodeId": "quest_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "varsa_choice_made",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "That mark on your shoulder. What is it?",
+                "nextNodeId": "rune_info",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "varsa_choice",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "conscript_runes_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still cutting runes.",
+                "nextNodeId": "rune_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_conscript_runes",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I have four of them.",
+                "nextNodeId": "rune_turnin",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_conscript_runes",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "varsa_rune",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Can you put a body back together?",
+                "nextNodeId": "varsa_heal",
+                "conditions": [
+                  {
+                    "type": "FLAG_EQUALS",
+                    "target": "varsa_rune",
+                    "value": "kept",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell, priestess.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "explain": {
+            "id": "explain",
+            "text": "Lirandel senses something stirring in the deep — something that frightens even Thalorax. I came to investigate, but the crushing dark makes it hard to remember why. I need someone to remind me who I serve.",
+            "choices": [
+              {
+                "label": "Let me help.",
+                "nextNodeId": "quest_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "varsa_choice_made",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I see.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_offer": {
+            "id": "quest_offer",
+            "text": "There are two paths. You could extract me — help me return to Lirandel's light above. Or... you could send me deeper. Into the Pressure Temple itself. I might learn what Thalorax hides, but I may never return. The choice is yours, traveler.",
+            "choices": [
+              {
+                "label": "Come with me. Lirandel needs you alive.",
+                "nextNodeId": "extract",
+                "conditions": []
+              },
+              {
+                "label": "Go deeper. We need to know what's down there.",
+                "nextNodeId": "send_deep",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "varsa_choice",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "extract": {
+            "id": "extract",
+            "text": "Thank you. The light above — I'd almost forgotten what it looks like. Lirandel's tides will carry me home. Take this as thanks.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "varsa_choice_made",
+                "value": "extracted",
+                "amount": 0
+              },
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": 40
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Varsa departs for the surface. Lirandel's favor grows.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "send_deep": {
+            "id": "send_deep",
+            "text": "...You're right. Someone has to know. The pressure will take me, but the truth matters more. Pray for me, traveler — or don't. The deep doesn't care either way.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "varsa_choice_made",
+                "value": "sent_deep",
+                "amount": 0
+              },
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": 40
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Varsa descends into the Pressure Temple. Thalorax takes notice.",
+                "value": "WARN",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the tides guide you — even down here where they cannot reach.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "rune_info": {
+            "id": "rune_info",
+            "text": "[She pulls her collar down. Cut into the muscle, grey at the edges and older than it should be, is a wedge-shaped mark.]\nThalorax's claim. Everything the sea keeps wears one somewhere. The sharks have them cut into the jaw. The hulks have them where a heart would go. I have had mine eleven years, I did not consent to it, and I did not notice it happening — which is the part that frightens me.\nIt can come out. It costs four of the same, freely taken. His arithmetic, not mine. Bring me four and we will find out whether I actually want it gone.",
+            "choices": [
+              {
+                "label": "I'll cut four from his sharks.",
+                "nextNodeId": "rune_accept",
+                "conditions": []
+              },
+              {
+                "label": "Leave it where it is.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rune_accept": {
+            "id": "rune_accept",
+            "text": "The rune-scarred sharks carry the cleanest ones — he marks them at the jaw so they know which mouth is his. Take a knife you do not love.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_conscript_runes",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "conscript_runes_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Conscript Runes",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "rune_progress": {
+            "id": "rune_progress",
+            "text": "Four. Not three, not five — he does not haggle and he does not round.",
+            "choices": [
+              {
+                "label": "I know.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rune_turnin": {
+            "id": "rune_turnin",
+            "text": "[She lays them out in a square on the altar stone, puts her shoulder in the middle of it, and then stops.]\nEleven years I have sent Lirandel reports about the deep, and eleven years the deep has been sending something back up this mark, and I can no longer tell you honestly which of the two of them I work for.\nCut it out and I am Lirandel's again, cleanly, and I will never hear the trenches again. Leave it and I stay whatever I have become — but I will still hear it when something down here goes wrong, and I will still be standing here when you come back bleeding.\nDecide it for me. Please. I have had eleven years and I cannot.",
+            "choices": [
+              {
+                "label": "Cut it out. Go home.",
+                "nextNodeId": "rune_cut",
+                "conditions": []
+              },
+              {
+                "label": "Leave it. Someone should be able to hear.",
+                "nextNodeId": "rune_kept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rune_cut": {
+            "id": "rune_cut",
+            "text": "[It comes out in one piece. She does not make a sound, and then she sits down on the floor of her own temple like a girl.]\nQuiet. It is so quiet. I had forgotten it was not supposed to be loud.\nI will go up. Lirandel has had eleven years of a woman who was slowly stopping being herself; she can have six months of one who is. Take the offering bowl — it is everything Abyssport ever gave me and I never once spent it.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "the_conscript_runes",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "THALORAX",
+                "value": "",
+                "amount": -5
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "varsa_rune",
+                "value": "cut",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Varsa cuts the claim out of her shoulder and turns for the surface.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "rune_kept": {
+            "id": "rune_kept",
+            "text": "[She takes her shoulder out of the square and puts her collar back up, and something in her face settles that has not been settled in a decade.]\nThen I stay. Somebody has to be the part of Lirandel that can hear the bottom, and it turns out I would rather be that than be comfortable.\nCome to me when the pressure has had you. Putting a body back together is the one thing eleven years down here has actually taught me.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "the_conscript_runes",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "THALORAX",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": -5
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "varsa_rune",
+                "value": "kept",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Varsa keeps the claim. Abyssport keeps its priestess.",
+                "value": "WARN",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "varsa_heal": {
+            "id": "varsa_heal",
+            "text": "Sit. Don't talk.\n[Her hands are colder than the water. The pressure in the room drops until your ears pop, and then you are whole, and she looks tireder than she did.]\nGo on. I will still be here.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 20,
+      "y": 22
+    },
+    {
+      "id": "npc_abyssport_shop",
+      "name": "Abyssport Trader",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Salvage from the deep. Everything has a price down here.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "pressure_blade",
+        "abyssal_plate",
+        "coral_shield",
+        "deep_trident",
+        "abyssal_healing_draught",
+        "healing_potion",
+        "greater_healing",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations",
+        "honeyed_loaf"
+      ],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Salvaged from wrecks, forged under pressure, pulled from the jaws of things best left unnamed. What'll it be?",
+            "choices": [
+              {
+                "label": "Show me what you have.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Just passing through.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Take your pick. Everything's pressure-tested.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Don't wander too far from the dome. The deep takes the careless.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 9,
+      "y": 22
+    },
+    {
+      "id": "npc_abyssport_inn",
+      "name": "Dome-Keeper Rill",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "Rest here. The dome holds — for now.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The dome holds the ocean back, and I hold the beds warm. Rest costs 25 gold — cheap for survival.",
+            "choices": [
+              {
+                "label": "I'll rest. (Full heal, 25g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 25,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "What's it like living under the ocean?",
+                "nextNodeId": "about",
+                "conditions": []
+              },
+              {
+                "label": "That lamp over the beds. Is the coral spare?",
+                "nextNodeId": "rill_lumen",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_undrowned_lamp",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "rill_gave_lumen",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Not now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "Sleep deep — but not too deep. The ocean dreams are strange.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -25
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "You rest within the dome. The ocean's hum lulls you to sleep.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "about": {
+            "id": "about",
+            "text": "You get used to the pressure. The darkness. The sounds the dome makes when something large passes overhead. What you don't get used to is the knowing — that Thalorax watches everything down here. Every crack, every breath.",
+            "choices": [
+              {
+                "label": "Unsettling.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Stay in the light. The bioluminescence keeps the worst things away.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "rill_lumen": {
+            "id": "rill_lumen",
+            "text": "The night-lamp? It came with the dome. Everything in here came with the dome; I have replaced the beds twice and the roof once and that lamp has simply carried on.\n[She works it out of the bracket. It is warm.]\nFor the Brightcoral spire? Take it. Half my guests complain it keeps them awake and the other half will not sleep without it, and I am tired of being the referee.\nBring me a candle and we will call it even.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "lumen_coral",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "rill_gave_lumen",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 20,
+      "y": 7
+    },
+    {
+      "id": "npc_abyssport_depths",
+      "name": "Depths Warden Koros",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "The deep tests all who enter. Care to wager against it?",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome, diver. I am Koros, warden of the deep's challenges. Down here we pass the time with games of nerve, speed, and patience. The pressure makes everything more... exciting.",
+            "choices": [
+              {
+                "label": "Show me the games.",
+                "nextNodeId": "open_games",
+                "conditions": []
+              },
+              {
+                "label": "What games do you have?",
+                "nextNodeId": "explain",
+                "conditions": []
+              },
+              {
+                "label": "Not now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "explain": {
+            "id": "explain",
+            "text": "Three tests of the deep. Pressure Diving — descend as far as you dare, but surface before the pressure crushes you. Bone Racing — ride a leviathan fragment through an obstacle course. And Deep Sea Fishing — cast your line into the abyss and see what bites.",
+            "choices": [
+              {
+                "label": "I'm in. Show me.",
+                "nextNodeId": "open_games",
+                "conditions": []
+              },
+              {
+                "label": "Maybe later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "open_games": {
+            "id": "open_games",
+            "text": "Step up to the edge. The deep awaits.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_DEPTHS",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The deep is patient. It'll be here when you're ready.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 20,
+      "y": 20
+    },
+    {
+      "id": "npc_abyssport_ossa",
+      "name": "Dome-Warden Ossa",
+      "spriteName": "npcs/guard",
+      "type": "QUESTGIVER",
+      "defaultDialog": "Walk around the west arc, not through it.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Round the west arc, not through it. That door is the Ninth Ward and it is not for looking in.\n[He says it flat and unhurried, the way a man says a thing he has said ten thousand times.] I am Ossa. I keep the ward. That is the whole of me.",
+            "choices": [
+              {
+                "label": "What's in the Ninth Ward?",
+                "nextNodeId": "ward_info",
+                "conditions": []
+              },
+              {
+                "label": "Then why are you standing outside it, armed?",
+                "nextNodeId": "ward_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "ninth_ward_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still hunting the wardens.",
+                "nextNodeId": "ward_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_ninth_ward",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] The wardens are down.",
+                "nextNodeId": "ward_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_ninth_ward",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "ninth_ward_done",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "The dome wards are cracking. Do you have a fragment?",
+                "nextNodeId": "ward_fragment",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "ossa_gave_fragment",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I will walk around.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ward_info": {
+            "id": "ward_info",
+            "text": "Our dead. Standing. [He lets that sit for a while.] The reef will not take an Abyssport body — too much dome-salt in us, and it is right about that. Thalorax will not release one, because Thalorax does not release. So they stand in the dark in perfect condition, and we grow coral wardens to hold them upright, and every forty years a man like me is handed the key and told it is an honour.",
+            "choices": [
+              {
+                "label": "Then why are you standing outside it, armed?",
+                "nextNodeId": "ward_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "ninth_ward_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "That is a grim honour.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ward_offer": {
+            "id": "ward_offer",
+            "text": "Because the wardens have started walking out.\nThat is not supposed to be possible. A warden is grown onto its post and dies at it; it has no more will than a nail. Unless the post is empty. Unless whatever it was holding up finally stopped needing holding, and the coral went off to find something else to keep upright.\nFive of them are loose in the trenches. Put them down before they settle on something that is still breathing.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_ninth_ward",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "ninth_ward_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Ninth Ward",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "ward_progress": {
+            "id": "ward_progress",
+            "text": "Coral does not hurry. Neither should you. But do not stop, either — they are looking for a post, and a post is anything that stands still long enough.",
+            "choices": [
+              {
+                "label": "Understood.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ward_done": {
+            "id": "ward_done",
+            "text": "[He does not thank you. He unhooks the ward key from his belt, looks at it, and tells you the rest without being asked.]\nI opened it. First time in forty years. It is empty. Every one of them gone, and no way out but the door I was standing in front of, and the door was locked.\nSo either the dead of Abyssport have been let go, which Thalorax does not do — or they were never in there, and my father lied to me, and his father lied to him, and I have guarded an empty dark room for forty years on my honour.\nI find I would rather it were the first. That is new. That is a thing I have never wanted before.",
+            "choices": [
+              {
+                "label": "Then let it be the first.",
+                "nextNodeId": "ward_done_end",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ward_done_end": {
+            "id": "ward_done_end",
+            "text": "[He puts the key in his pocket instead of back on his belt.] Aye. Let it be.\nDo not tell anyone which room it was. Let them keep walking round the west arc. There is a kind of peace in a thing everyone agrees not to open.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "ninth_ward_done",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "ward_fragment": {
+            "id": "ward_fragment",
+            "text": "One. It came out of the ward door frame when the wardens forced it, and I have been carrying it about like a man carrying his own tooth.\n[He hands over a humming wedge of ward-stone.] Give it to the Engineer. The dome is worth more than the door.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "pressure_ward_fragment",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "ossa_gave_fragment",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The ward keeps. That is what a ward is for. [He goes back to standing.]",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 11,
+      "y": 12
+    },
+    {
+      "id": "npc_abyssport_bexen",
+      "name": "Diver-Chandler Bexen",
+      "spriteName": "npcs/shopkeeper",
+      "type": "QUESTGIVER",
+      "defaultDialog": "Air's metered, friend. You're breathing Abyssport's.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Air's metered, friend. You're breathing Abyssport's, and Abyssport bought it off the vents at four coppers the lungful. Nobody's going to bill a surface-walker — you'll be gone before the ledger closes.\n[He taps a fat book on the counter.] Others don't get that.",
+            "choices": [
+              {
+                "label": "You bill people for breathing?",
+                "nextNodeId": "air_info",
+                "conditions": []
+              },
+              {
+                "label": "Whose name is open in that ledger?",
+                "nextNodeId": "debt_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "air_debt_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] I'm out after the anglers.",
+                "nextNodeId": "debt_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_air_debt",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] The oil's rendered.",
+                "nextNodeId": "debt_settle",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_air_debt",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "air_debt_settled",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell, chandler.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "air_info": {
+            "id": "air_info",
+            "text": "We bill for the dome, and the dome is air, so yes. That part's arithmetic, not cruelty.\nThe cruel part is the other half. A debt doesn't die when you do. It sinks. Everything sinks here. It sinks onto whoever's standing nearest, and that is almost always somebody small.",
+            "choices": [
+              {
+                "label": "Whose name is open in that ledger?",
+                "nextNodeId": "debt_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "air_debt_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "A hard town.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "debt_offer": {
+            "id": "debt_offer",
+            "text": "Ceyl Maro. Eleven years of air, owed at his death, which was four years back — and he's been working it off ever since, because Thalorax doesn't release a man just for stopping breathing, and a working corpse is still a working corpse. It's slow. The balance sits on his daughter meanwhile.\nAnglerfish oil is what cracks the vents, and what cracks the vents settles ledgers. Bring down four of the horrors out on the sand, and then you and I are going to have a conversation about who gets the money.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_air_debt",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "air_debt_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Air Debt",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "debt_progress": {
+            "id": "debt_progress",
+            "text": "Four. They come at a light, so don't carry one, and don't be the brightest thing on the sand.",
+            "choices": [
+              {
+                "label": "Noted.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "debt_settle": {
+            "id": "debt_settle",
+            "text": "Rendered. Four hundred and ten in oil, near enough.\n[He turns the ledger round so you can read it.] Here's Maro's balance. Here's the line where I write who paid it. That line can have your name on it, and the girl breathes free tomorrow morning. Or it stays open — debts don't spoil down here, nothing does — and I put four hundred in your hand instead.\nI'm not going to argue with you either way. I've watched people choose both and I've stopped being surprised.",
+            "choices": [
+              {
+                "label": "Clear the girl's debt.",
+                "nextNodeId": "debt_cleared",
+                "conditions": []
+              },
+              {
+                "label": "I'll take the oil-price.",
+                "nextNodeId": "debt_kept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "debt_cleared": {
+            "id": "debt_cleared",
+            "text": "[He writes it. It takes four seconds and eleven years.]\nRight. That's the ledger shut on Ceyl Maro, which is more than his god managed for him.\nHundred for your trouble — it's what I can spare and still eat. Her name's Sesh. She's nine. She won't thank you. I will.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": 100
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "THALORAX",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "air_debt_settled",
+                "value": "cleared",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "debt_kept": {
+            "id": "debt_kept",
+            "text": "[He counts it out without comment and writes nothing in the book.]\nFour hundred. Ledger stays open. She'll clear it by forty if she keeps out of the deep water.\nDon't look at me like that. I gave you the choice, which is more than the dome ever gave me.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": 400
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "THALORAX",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": -10
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "air_debt_settled",
+                "value": "kept",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Breathe shallow. It's cheaper.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 18,
+      "y": 12
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "maxDungeonDepth": 50,
+  "dungeonLevel": 1,
+  "initialTileStates": {}
+}

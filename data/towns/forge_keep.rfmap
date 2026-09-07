@@ -1,0 +1,2649 @@
+{
+  "type": "TOWN",
+  "name": "forge_keep",
+  "width": 25,
+  "height": 25,
+  "interiorEntryX": 11,
+  "interiorEntryY": 23,
+  "tiles": [
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "!",
+      "!",
+      "v",
+      "!",
+      "!",
+      "!",
+      "v",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "v",
+      "!",
+      "!",
+      "!",
+      "v",
+      "!",
+      "!",
+      "!",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "+",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "+",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "v",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "k",
+      "k",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "k",
+      "k",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "v",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "M",
+      "*",
+      "*",
+      "W",
+      "u",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "u",
+      "W",
+      "*",
+      "*",
+      "M",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "(",
+      "M",
+      "(",
+      "x",
+      "x",
+      "(",
+      "M",
+      "(",
+      "(",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "v",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "v",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "M",
+      "*",
+      "*",
+      "W",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "W",
+      "*",
+      "*",
+      "M",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "(",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "+",
+      "-",
+      "-",
+      "(",
+      "(",
+      "-",
+      "-",
+      "-",
+      "+",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "v",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "*",
+      "*",
+      "*",
+      "*",
+      "v",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "N",
+      "N",
+      "N",
+      "*",
+      "*",
+      "*",
+      "N",
+      "N",
+      "N",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "M",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "N",
+      "N",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "M",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "n",
+      "n",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "n",
+      "n",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "v",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "c",
+      "c",
+      "c",
+      "*",
+      "*",
+      "*",
+      "c",
+      "c",
+      "c",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "v",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "c",
+      "c",
+      "c",
+      "c",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "c",
+      "c",
+      "c",
+      "c",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "!",
+      "n",
+      "n",
+      "n",
+      "n",
+      "*",
+      "*",
+      "v",
+      "*",
+      "*",
+      "*",
+      "*",
+      "*",
+      "v",
+      "*",
+      "*",
+      "*",
+      "n",
+      "n",
+      "n",
+      "n",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "npc_forge_keep_cael",
+      "name": "Emberpriest Cael",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "The forge burns eternal. You stand in Pyralis's domain, Unbound.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 11,
+      "y": 9,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The forge burns eternal. You stand in Pyralis's domain, Unbound.",
+            "choices": [
+              {
+                "label": "Tell me about the Crucible Trial.",
+                "nextNodeId": "crucible_ask",
+                "conditions": []
+              },
+              {
+                "label": "I seek the Shard of Ambition.",
+                "nextNodeId": "shard_ask",
+                "conditions": []
+              },
+              {
+                "label": "I have completed the Crucible Trial.",
+                "nextNodeId": "crucible_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "pyralis_crucible_trial",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I seek the Shard of Ambition you spoke of.",
+                "nextNodeId": "shard_reward",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "shard_of_ambition",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_SET",
+                    "target": "pyralis_crucible_done",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "What should I do with the Shard of Ambition?",
+                "nextNodeId": "echoes_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "shard_of_ambition",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "echoes_of_the_shard",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "echoes_of_the_shard",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "I am ready to feed the Shard to the Crucible.",
+                "nextNodeId": "echoes_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "echoes_of_the_shard",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[The shard pulses in your pack...]",
+                "nextNodeId": "corruption_path",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "has_shard_of_corruption",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "crucible_ask": {
+            "id": "crucible_ask",
+            "text": "The Crucible is Pyralis's test of will and flame. Only those who endure its trials may earn his favor. Descend into the volcanic depths and return with proof of your resolve.",
+            "choices": [
+              {
+                "label": "I accept the trial.",
+                "nextNodeId": "crucible_accepted",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "pyralis_crucible_done",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Not yet. Tell me more.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "crucible_accepted": {
+            "id": "crucible_accepted",
+            "text": "Then steel yourself, Unbound. The flames do not forgive weakness. Return when the trial is complete.",
+            "choices": [
+              {
+                "label": "I will not fail.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "pyralis_crucible_trial",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "shard_ask": {
+            "id": "shard_ask",
+            "text": "The Shard of Ambition is not given freely. It must be claimed from the heart of the forge-depths, where Pyralis's power runs hottest. Few return unchanged.",
+            "choices": [
+              {
+                "label": "I will seek the Shard.",
+                "nextNodeId": "shard_accepted",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "pyralis_crucible_done",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Perhaps another time.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shard_accepted": {
+            "id": "shard_accepted",
+            "text": "Ambition without temperance is destruction. Remember that when the flames call to you.",
+            "choices": [
+              {
+                "label": "Understood.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "shard_of_ambition",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "crucible_done": {
+            "id": "crucible_done",
+            "text": "You have walked through fire and emerged unbroken. Pyralis is pleased. Take this — the Key of Embers. It will open paths that were sealed to you before.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "key_of_embers",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "pyralis_crucible_done",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Emberpriest Cael presents you with the Key of Embers.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "corruption_path": {
+            "id": "corruption_path",
+            "text": "That darkness you carry... Pyralis sees it. The Shard of Corruption whispers lies dressed as ambition. Be wary, Unbound — the forge can purify, but only if you are willing to let go.",
+            "choices": [
+              {
+                "label": "I will consider your words.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "echoes_offer": {
+            "id": "echoes_offer",
+            "text": "The Shard still resonates with the Crucible's heart. Pyralis whispers of an alternate path — feed the Shard to the Crucible, and its power will be reforged into something greater. But the cost may be steep.",
+            "choices": [
+              {
+                "label": "I will feed the Shard to the Crucible.",
+                "nextNodeId": "echoes_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not yet.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "echoes_accepted": {
+            "id": "echoes_accepted",
+            "text": "Then return to me when you are ready. The Crucible's heart burns in the chamber below this temple. Speak to me, and I will open the way.",
+            "choices": [
+              {
+                "label": "I understand.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "echoes_of_the_shard",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "echoes_complete": {
+            "id": "echoes_complete",
+            "text": "The Crucible's heart accepts the offering. Flames surge and reshape the shard into pure forge-light. Pyralis's voice thunders: 'You have chosen creation over conquest. Rise, Forge-Tempered.'",
+            "choices": [
+              {
+                "label": "I accept Pyralis's blessing.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "echoes_of_the_shard",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Crucible's heart reforges the Shard. You are Forge-Tempered!",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "shard_reward": {
+            "id": "shard_reward",
+            "text": "You have proven yourself in the Crucible. The Shard of Ambition is yours by right of flame. Use it wisely, Unbound — ambition unchecked becomes destruction.",
+            "choices": [
+              {
+                "label": "I will temper it with wisdom.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "shard_of_ambition",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Emberpriest Cael presents you with the Shard of Ambition.",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the forge light your path, Unbound.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_forge_keep_guard",
+      "name": "Forge Guard Captain",
+      "spriteName": "npcs/guard",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 5,
+      "y": 21,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Hold. I'm Captain of the Forge Guard. State your business in the Keep.",
+            "choices": [
+              {
+                "label": "The slag beasts are handled.",
+                "nextNodeId": "slag_active_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "slag_beast_bounty",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I'm an adventurer looking for work.",
+                "nextNodeId": "bounties",
+                "conditions": []
+              },
+              {
+                "label": "I heard about a missing patrol.",
+                "nextNodeId": "patrol_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "lost_patrol",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "lost_patrol",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Any news about the missing patrol?",
+                "nextNodeId": "patrol_quest_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "lost_patrol",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "What's the situation on the island?",
+                "nextNodeId": "situation",
+                "conditions": []
+              },
+              {
+                "label": "Just passing through.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "slag_active_progress": {
+            "id": "slag_active_progress",
+            "text": "Still slag beasts prowling the ash plains. Keep at it — we need those supply routes clear.",
+            "choices": [
+              {
+                "label": "I'll keep hunting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "bounties": {
+            "id": "bounties",
+            "text": "We've got slag beasts growing bolder by the day. They've been ambushing supply caravans between the towns. I need someone to thin their numbers.",
+            "choices": [
+              {
+                "label": "I'll hunt the slag beasts.",
+                "nextNodeId": "slag_accepted",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "slag_beast_bounty",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "slag_beast_bounty",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "I'll hunt more slag beasts.",
+                "nextNodeId": "slag_repeat",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "slag_beast_bounty",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "slag_beast_bounty",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Anything else?",
+                "nextNodeId": "situation",
+                "conditions": []
+              },
+              {
+                "label": "Not interested right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "slag_accepted": {
+            "id": "slag_accepted",
+            "text": "Good. Kill five of the beasts and report back. They lurk on the ash plains and in the dungeon. You'll know them by the molten cracks in their hide. Payment on completion.",
+            "choices": [
+              {
+                "label": "Consider it done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "slag_beast_bounty",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "slag_repeat": {
+            "id": "slag_repeat",
+            "text": "They've regrouped already? Blasted things breed like rats in the lava vents. Same deal as before — kill five, collect your pay.",
+            "choices": [
+              {
+                "label": "On it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "slag_beast_bounty",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "patrol_quest_intro": {
+            "id": "patrol_quest_intro",
+            "text": "Sergeant Reld took a patrol of four men to scout the eastern lava fields. That was a week ago. No word since. I can't spare more guards — the Keep needs every blade. If you're heading east, keep your eyes open for Reld.",
+            "choices": [
+              {
+                "label": "I'll find your sergeant.",
+                "nextNodeId": "patrol_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Maybe later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "patrol_accepted": {
+            "id": "patrol_accepted",
+            "text": "You have my thanks. Reld's a tough man — bald head, scar across his jaw. He was heading east along the lava fields, past the ash tree line. Find him and bring word of what happened.",
+            "choices": [
+              {
+                "label": "I'll head east.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "lost_patrol",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "patrol_quest_active": {
+            "id": "patrol_quest_active",
+            "text": "Still no word from Reld. The eastern lava fields are treacherous — be careful out there. Look for signs of camp or combat.",
+            "choices": [
+              {
+                "label": "I'm searching.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "situation": {
+            "id": "situation",
+            "text": "The island's crawling with creatures emboldened by the volcanic activity. Slag beasts, ember sprites, ash wraiths — they're all getting more aggressive. The Emberpriest says Pyralis is testing us. I say the mountain's just angry.",
+            "choices": [
+              {
+                "label": "Sounds like you need help.",
+                "nextNodeId": "bounties",
+                "conditions": []
+              },
+              {
+                "label": "Thanks for the update.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Keep your blade sharp and your wits sharper. Pyralis watches.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_forge_keep_acolyte",
+      "name": "Acolyte",
+      "spriteName": "npcs/priest",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 20,
+      "y": 10,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The forges never rest. Pyralis demands perfection in all things. I am but a vessel of his flame.",
+            "choices": [
+              {
+                "label": "Can you teach me fire magic?",
+                "nextNodeId": "initiation_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "forge_initiation",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "forge_initiation",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How goes my initiation?",
+                "nextNodeId": "initiation_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "forge_initiation",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about Pyralis.",
+                "nextNodeId": "pyralis_lore",
+                "conditions": []
+              },
+              {
+                "label": "What's an acolyte's life like here?",
+                "nextNodeId": "acolyte_life",
+                "conditions": []
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "initiation_intro": {
+            "id": "initiation_intro",
+            "text": "The secrets of flame are not given freely. Pyralis's fire must be earned through combat. Prove yourself against five foes — any foes — and I will teach you the Fireball incantation. This is the Forge Initiation.",
+            "choices": [
+              {
+                "label": "I accept the Initiation.",
+                "nextNodeId": "initiation_accepted",
+                "conditions": []
+              },
+              {
+                "label": "I'm not ready yet.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "initiation_accepted": {
+            "id": "initiation_accepted",
+            "text": "Then go forth and face the flame within yourself. Return when five enemies have fallen to your hand. The fire will know if you are worthy.",
+            "choices": [
+              {
+                "label": "I will prove myself.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "forge_initiation",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "initiation_active": {
+            "id": "initiation_active",
+            "text": "The flame watches your progress. Continue to fight. When five have fallen, return and the fire's knowledge will be yours.",
+            "choices": [
+              {
+                "label": "I will continue.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "pyralis_lore": {
+            "id": "pyralis_lore",
+            "text": "Pyralis is the god of forge and flame. He shaped the first weapons from the world's molten heart. They say every volcano is one of his forges, and every eruption is a blade being tempered. This island is his greatest workshop.",
+            "choices": [
+              {
+                "label": "What about the other gods?",
+                "nextNodeId": "other_gods",
+                "conditions": []
+              },
+              {
+                "label": "Fascinating.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "other_gods": {
+            "id": "other_gods",
+            "text": "Lirandel tends the moon and tides. Zephyrion rides the storm winds. Sylvandar keeps the wild places. Thalorax broods in frozen peaks. Umbryn walks between shadows. And Bellorak... Bellorak wages war eternal. Seven gods, seven domains. Pyralis respects them all — except Umbryn. Shadow and fire do not mix well.",
+            "choices": [
+              {
+                "label": "Thank you for the lesson.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "acolyte_life": {
+            "id": "acolyte_life",
+            "text": "We wake before dawn to tend the eternal forge. The heat is... intense. Many initiates leave within the first month. Those who stay learn that fire purifies. It burns away weakness, leaving only strength. I have served for twelve years.",
+            "choices": [
+              {
+                "label": "That's dedication.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Walk in Pyralis's light.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_forge_keep_barmaid",
+      "name": "Hilde",
+      "spriteName": "npcs/barmaid",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome, love! What can I get ya? The ale's fresh today.",
+            "choices": [
+              {
+                "label": "I'll have an ale. (3 gold)",
+                "nextNodeId": "serve_ale",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I'll have an ale. (3 gold)",
+                "nextNodeId": "no_gold",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_1",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "forge_keep_rumor_1",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_2",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "forge_keep_rumor_1",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "forge_keep_rumor_2",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_3",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "forge_keep_rumor_2",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Just passing through. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "serve_ale": {
+            "id": "serve_ale",
+            "text": "Here ya go, love. Drink up!",
+            "actions": [
+              {
+                "type": "SERVE_DRINK",
+                "target": "",
+                "value": "",
+                "amount": 3
+              }
+            ],
+            "choices": [
+              {
+                "label": "Another round!",
+                "nextNodeId": "serve_ale",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "That hit the spot. Thanks.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "no_gold": {
+            "id": "no_gold",
+            "text": "Looks like your purse is a bit light, dear. Come back when you've got the coin.",
+            "choices": [
+              {
+                "label": "I'll be back.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rumor_1": {
+            "id": "rumor_1",
+            "text": "The sacred flame in the inner sanctum flickered last night. First time in a hundred years, they say. The priests are worried.",
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "forge_keep_rumor_1",
+                "value": "true",
+                "amount": 0
+              }
+            ],
+            "choices": [
+              {
+                "label": "Interesting...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "rumor_2": {
+            "id": "rumor_2",
+            "text": "A guard told me he saw something moving in the lava channels beneath the keep. Not slag beasts either â€” something with purpose.",
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "forge_keep_rumor_2",
+                "value": "true",
+                "amount": 0
+              }
+            ],
+            "choices": [
+              {
+                "label": "Interesting...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "rumor_3": {
+            "id": "rumor_3",
+            "text": "There's talk of an old vault beneath the forge. Sealed by the first Emberpriest. Whatever's inside, they built the whole keep to guard it.",
+            "actions": [
+              {
+                "type": "CLEAR_FLAG",
+                "target": "forge_keep_rumor_1",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "CLEAR_FLAG",
+                "target": "forge_keep_rumor_2",
+                "value": "",
+                "amount": 0
+              }
+            ],
+            "choices": [
+              {
+                "label": "Thanks for the gossip.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Come back anytime, love!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 12,
+      "y": 12
+    },
+    {
+      "id": "npc_forge_keep_brax",
+      "name": "Arena Master Brax",
+      "spriteName": "npcs/guard",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 14,
+      "y": 18,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to the Forge Arena, warrior! We've got jousting, axe throwing, and anvil striking. Care to test your mettle?",
+            "choices": [
+              {
+                "label": "Show me the games!",
+                "nextNodeId": "enter_arena"
+              },
+              {
+                "label": "What games do you have?",
+                "nextNodeId": "explain"
+              },
+              {
+                "label": "Not today.",
+                "nextNodeId": "farewell"
+              }
+            ],
+            "actions": []
+          },
+          "explain": {
+            "id": "explain",
+            "text": "Three events, each a test of skill! Jousting tests your reflexes and strength. Axe throwing demands precision and a steady hand. Anvil striking is pure power and endurance. Place your bets and see how you measure up!",
+            "choices": [
+              {
+                "label": "I'm ready!",
+                "nextNodeId": "enter_arena"
+              },
+              {
+                "label": "Maybe later.",
+                "nextNodeId": "farewell"
+              }
+            ],
+            "actions": []
+          },
+          "enter_arena": {
+            "id": "enter_arena",
+            "text": "Step right up! May your strikes ring true!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_ARENA",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Come back when you're feeling brave!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_forge_keep_rest",
+      "name": "Acolyte Bren",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "The forge never sleeps, but you may.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 20,
+      "y": 18,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A young acolyte tends a sleeping alcove near the forge warmth.] The Keep offers rest to those who serve Pyralis. The heat of the forges keeps the chill away. Need a bed?",
+            "choices": [
+              {
+                "label": "I'd like to rest. (Full heal, 25g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 25
+                  }
+                ]
+              },
+              {
+                "label": "What's it like living in a forge?",
+                "nextNodeId": "forge_life",
+                "conditions": []
+              },
+              {
+                "label": "No thanks.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "The forge-heat will mend what ails you. Rest well.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -25
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The warmth of Pyralis's forge mends your wounds. Fully restored.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "forge_life": {
+            "id": "forge_life",
+            "text": "Hot. Always hot. You get used to the glow, the hammer-song, the smell of molten metal. Some nights the lava channels sing — a deep hum that vibrates in your bones. Pyralis speaks through the forge. If you listen, you can hear his ambition.",
+            "choices": [
+              {
+                "label": "What does he want?",
+                "nextNodeId": "want",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "want": {
+            "id": "want",
+            "text": "To make everything stronger. Harder. More perfect. He doesn't understand that some things are beautiful because they're fragile.",
+            "choices": [
+              {
+                "label": "Wise words for an acolyte.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the forge light your path.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_forge_keep_armorer",
+      "name": "Forge Armorer Thul",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Pyralis-forged steel. Nothing finer.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "greater_healing",
+        "obsidian_blade",
+        "forged_steel_plate",
+        "ember_shield",
+        "pyralis_fire_potion",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "x": 10,
+      "y": 19,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A broad-chested smith examines a glowing blade fresh from the forge.] Pyralis-forged steel — tempered in volcanic heat, quenched in lava. You won't find better on any island. Buying?",
+            "choices": [
+              {
+                "label": "Show me your work.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "How is Pyralis steel different?",
+                "nextNodeId": "steel",
+                "conditions": []
+              },
+              {
+                "label": "Just looking.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Every piece forged by hand. Take your pick.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "steel": {
+            "id": "steel",
+            "text": "The volcanic heat reaches temperatures no normal forge can match. The metal becomes almost alive — it remembers the shape you hammered it into and resists being bent back. Pyralis's blessing, some say. I say it's just good metallurgy.",
+            "choices": [
+              {
+                "label": "Let me see your inventory.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Interesting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Steel and fire, traveler.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": []
+}

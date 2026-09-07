@@ -1,0 +1,10 @@
+# Branching dialogue — a tree with real choices
+DESC="Branching dialogue — a tree with real choices"
+SCENE=town
+TOWN=moonhaven
+ISLAND=lirandel
+OVERLAY=dialogue
+SECONDS_LEN=5
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

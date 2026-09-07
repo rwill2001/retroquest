@@ -1,0 +1,9 @@
+# The tile editor — one of RetroForge's seven sub-editors, a modal dialog built offscreen.
+DESC="tile editor — RetroForge sub-editor"
+SCENE=forge
+EDITOR=tile
+SECONDS_LEN=6
+WIDTH=1920
+HEIGHT=1080
+CROP=1540:932:0:8
+PAD=1920:1080

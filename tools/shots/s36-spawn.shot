@@ -1,0 +1,9 @@
+# Paint how dangerous the grass is — the spawn-difficulty tool's 0-99 overlay, tile by tile.
+DESC="Spawn difficulty — the 0-99 encounter overlay, painted by hand"
+SCENE=forge
+SECONDS_LEN=5
+MOVE="0.4:T:SPAWN_DIFFICULTY;0.8:S:12;1.3:D:6,4,20,4;1.9:S:35;2.2:D:6,6,20,6;2.8:S:60;3.1:D:6,8,20,8;3.7:S:88;4.0:D:6,10,20,10"
+WIDTH=1920
+HEIGHT=1080
+CROP=1540:932:0:8
+PAD=1920:1080

@@ -1,0 +1,14 @@
+# Combat — the exchange. Turn-based, damage numbers, and a log you can actually read.
+# The overlay is painted by GamePanel like any other, so this is the same offscreen
+# trick as a dungeon shot; the move script sends keystrokes (A attack) instead of steps.
+DESC="Turn-based combat · the exchange"
+SCENE=combat
+ISLAND=lirandel
+SECONDS_LEN=10
+MOVE="1.5:A;3.5:A;5.5:A;7.5:A"
+# The combat overlay draws at a fixed pixel size (OverlayTheme.scaled off DisplayScale),
+# so at 1920x1080 it sits small and centred. Render at 800x450 — where it very nearly fills
+# the frame — and scale up 2.4x with nearest-neighbour.
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

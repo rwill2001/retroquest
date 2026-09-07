@@ -1,0 +1,782 @@
+<title>RetroQuest Hype Animatic</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&family=Press+Start+2P&family=VT323&display=swap">
+<style>
+:root{
+  --ground:#06080E; --panel:#0A0E16; --panel2:#0D1220; --rule:#23344E; --rule-soft:#16203180;
+  --phosphor:#00FF78; --cyan:#00C8FF; --amber:#FFC832; --danger:#DC3737;
+  --text:#C8DEFF; --dim:#506987; --dimmer:#33465E;
+  --a0:#3E5C82; --a1:#8FA6C4; --a2:#FFC832; --a3:#DC3737;
+  --a4:#00FF78; --a5:#7EE8B4; --a6:#00C8FF; --a7:#C8DEFF;
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  --term:"VT323","IBM Plex Mono",ui-monospace,monospace;
+  --disp:"Press Start 2P","VT323",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--text);font-family:var(--mono);
+  font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 24px 80px}
+
+/* ── masthead ─────────────────────────────────────────── */
+.mast{display:flex;flex-wrap:wrap;align-items:flex-end;gap:18px 28px;
+  padding-bottom:18px;border-bottom:1px solid var(--rule)}
+.mast h1{margin:0;font-family:var(--disp);font-size:19px;line-height:1.6;letter-spacing:.02em;
+  color:var(--phosphor);text-wrap:balance}
+.mast h1 .plus{color:var(--amber)}
+.mast h1 .rf{color:var(--cyan)}
+.mast .kicker{font-family:var(--term);font-size:19px;letter-spacing:.18em;color:var(--dim);
+  text-transform:uppercase;margin:0 0 8px}
+.specs{margin-left:auto;display:flex;gap:22px;font-family:var(--term);font-size:20px;
+  letter-spacing:.06em;color:var(--dim)}
+.specs b{display:block;color:var(--text);font-weight:400;font-size:24px;
+  font-variant-numeric:tabular-nums}
+.lede{margin:16px 0 26px;max-width:66ch;color:var(--text);font-size:13.5px}
+.lede em{color:var(--cyan);font-style:normal}
+
+/* ── stage ────────────────────────────────────────────── */
+.stage{position:relative;aspect-ratio:16/9;background:#000;border:1px solid var(--rule);
+  overflow:hidden;isolation:isolate}
+.stage canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
+.crt{position:absolute;inset:0;pointer-events:none;z-index:6;
+  background:
+    repeating-linear-gradient(to bottom,#0000 0 2px,#00000024 2px 3px),
+    radial-gradient(ellipse at center,#0000 55%,#00000030 100%)}
+.badge{position:absolute;top:12px;right:14px;z-index:7;font-family:var(--term);font-size:16px;
+  letter-spacing:.14em;color:var(--dimmer);border:1px solid #1b2740;padding:1px 8px;
+  background:#00000090}
+.slug{position:absolute;top:12px;left:14px;z-index:7;font-family:var(--term);font-size:17px;
+  letter-spacing:.1em;color:var(--dim);background:#00000090;padding:1px 8px;border:1px solid #1b2740}
+.slug .id{color:var(--text)}
+
+/* on-stage typography */
+.card{position:absolute;inset:0;z-index:5;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:14px;padding:8% 10%;text-align:center;
+  pointer-events:none}
+.card .big{font-family:var(--disp);font-size:clamp(13px,2.6vw,30px);line-height:1.7;
+  letter-spacing:.03em;text-wrap:balance}
+.card .sub{font-family:var(--term);font-size:clamp(14px,1.7vw,22px);letter-spacing:.16em;
+  color:var(--dim);text-transform:uppercase}
+.lower{position:absolute;left:5.5%;bottom:12%;z-index:5;max-width:62%;
+  background:#0A0E16b8;border:1px solid var(--rule);border-left:4px solid var(--cyan);
+  padding:7px 14px 8px;pointer-events:none}
+.lower .l1{font-family:var(--term);font-size:clamp(14px,1.55vw,21px);letter-spacing:.11em;
+  text-transform:uppercase;color:var(--text)}
+.lower .l2{font-family:var(--term);font-size:clamp(12px,1.25vw,17px);letter-spacing:.16em;
+  text-transform:uppercase;color:var(--cyan)}
+.vo{position:absolute;left:0;right:0;bottom:3.5%;z-index:5;padding:0 8%;text-align:center;
+  font-size:clamp(11px,1.05vw,14.5px);line-height:1.5;color:var(--text);
+  text-shadow:0 1px 6px #000,0 0 18px #000;pointer-events:none}
+.vo.silent{color:var(--dimmer);font-style:italic}
+
+/* ── transport ────────────────────────────────────────── */
+.transport{display:flex;align-items:center;gap:16px;padding:12px 2px;border-bottom:1px solid var(--rule)}
+button.play{font-family:var(--term);font-size:21px;letter-spacing:.12em;text-transform:uppercase;
+  background:var(--panel2);color:var(--phosphor);border:1px solid var(--rule);
+  padding:5px 18px;cursor:pointer;min-width:118px}
+button.play:hover{background:#122033;border-color:var(--phosphor)}
+button.play:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+.tc{font-family:var(--term);font-size:27px;letter-spacing:.06em;color:var(--text);
+  font-variant-numeric:tabular-nums}
+.tc span{color:var(--dimmer)}
+.hint{margin-left:auto;font-family:var(--term);font-size:18px;letter-spacing:.1em;color:var(--dimmer)}
+kbd{font-family:var(--term);font-size:17px;border:1px solid var(--rule);padding:0 5px;color:var(--dim)}
+
+/* ── timeline ─────────────────────────────────────────── */
+.timeline{position:relative;margin:16px 0 6px;cursor:pointer;user-select:none}
+.track{display:flex;height:34px;border:1px solid var(--rule);overflow:hidden}
+.seg{position:relative;display:flex;align-items:center;justify-content:center;
+  border-right:1px solid #0006;overflow:hidden}
+.seg:last-child{border-right:0}
+.seg span{font-family:var(--term);font-size:15px;letter-spacing:.1em;color:#04070Ddd;
+  white-space:nowrap;padding:0 4px}
+.ticks{display:flex;height:9px;margin-top:2px}
+.tick{border-right:1px solid #101A2B}
+.tick:last-child{border-right:0}
+.tick.cur{background:var(--cyan)}
+.head{position:absolute;top:-4px;bottom:-4px;width:2px;background:#fff;
+  box-shadow:0 0 8px #fff,0 0 2px #fff;pointer-events:none}
+.legend{display:flex;flex-wrap:wrap;gap:4px 20px;margin:10px 0 30px;
+  font-family:var(--term);font-size:18px;letter-spacing:.07em;color:var(--dim)}
+.legend i{display:inline-block;width:10px;height:10px;margin-right:7px;font-style:normal}
+.legend b{color:var(--text);font-weight:400}
+
+/* ── shot table ───────────────────────────────────────── */
+h2.actline{display:flex;align-items:baseline;gap:14px;margin:34px 0 0;
+  font-family:var(--term);font-size:24px;letter-spacing:.16em;text-transform:uppercase;
+  font-weight:400;color:var(--text);border-top:1px solid var(--rule);padding-top:12px}
+h2.actline .n{font-family:var(--disp);font-size:13px;letter-spacing:0}
+h2.actline .win{margin-left:auto;font-size:20px;color:var(--dim);letter-spacing:.08em}
+.actnote{margin:8px 0 0;max-width:70ch;color:var(--dim);font-size:12.5px;font-style:italic}
+.shots{margin-top:12px;display:flex;flex-direction:column}
+.shot{display:grid;grid-template-columns:74px 1fr;gap:0 18px;padding:11px 12px 12px;
+  border-left:3px solid transparent;cursor:pointer;background:none;border-top:0;border-right:0;
+  border-bottom:1px solid #101A2B;text-align:left;color:inherit;font:inherit;width:100%}
+.shot:hover{background:#0B111C}
+.shot:focus-visible{outline:2px solid var(--cyan);outline-offset:-2px}
+.shot.on{background:#0C1524;border-left-color:var(--cyan)}
+.shot .tcol{font-family:var(--term);font-size:20px;line-height:1.25;color:var(--dim);
+  font-variant-numeric:tabular-nums;letter-spacing:.04em}
+.shot .tcol b{display:block;color:var(--text);font-weight:400}
+.shot .tcol i{display:block;font-style:normal;font-size:16px;color:var(--dimmer)}
+.shot .name{font-family:var(--term);font-size:20px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--text);margin-bottom:3px}
+.shot.on .name{color:var(--cyan)}
+.shot .say{font-size:13px;color:var(--text);max-width:70ch}
+.shot .say.none{color:var(--dimmer);font-style:italic}
+.shot .osd{margin-top:5px;font-family:var(--term);font-size:17px;letter-spacing:.09em;
+  color:var(--phosphor);text-transform:uppercase}
+.shot .osd.cy{color:var(--cyan)}
+.shot .osd.am{color:var(--amber)}
+.shot .osd::before{content:"▌ "}
+
+/* ── footer ───────────────────────────────────────────── */
+.foot{margin-top:48px;padding-top:18px;border-top:1px solid var(--rule);
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:24px}
+.foot h3{margin:0 0 8px;font-family:var(--term);font-size:20px;letter-spacing:.14em;
+  text-transform:uppercase;font-weight:400;color:var(--dim)}
+.foot ul{margin:0;padding-left:16px;color:var(--text);font-size:12.5px}
+.foot li{margin-bottom:5px}
+.foot code{font-family:var(--term);font-size:16px;color:var(--cyan)}
+@media (max-width:640px){
+  .wrap{padding:20px 14px 60px}
+  .specs{margin-left:0;width:100%}
+  .shot{grid-template-columns:62px 1fr;gap:0 12px}
+}
+@media (prefers-reduced-motion:reduce){
+  .crt{background:radial-gradient(ellipse at center,#0000 55%,#00000030 100%)}
+}
+</style>
+
+<div class="wrap">
+
+  <header class="mast">
+    <div>
+      <p class="kicker">Animatic · v1.0 · handoff cut</p>
+      <h1>RETROQUEST <span class="plus">+</span> <span class="rf">RETROFORGE</span></h1>
+    </div>
+    <div class="specs">
+      <div>Runtime<b>3:15</b></div>
+      <div>Shots<b>37</b></div>
+      <div>Acts<b>8</b></div>
+      <div>Format<b>16:9</b></div>
+    </div>
+  </header>
+
+  <p class="lede">Press play to watch the cut at real speed. The stage shows the shape of each
+  shot, its on-screen typography and its narration timing — not final footage. The point of this
+  page is <em>pacing</em>: whether the 52 seconds spent on the dungeon renderer ladder feels
+  earned, and whether the four seconds of silence at 2:23 hold.</p>
+
+  <div class="stage" id="stage">
+    <canvas id="cv" width="1280" height="720"></canvas>
+    <div class="card" id="card"></div>
+    <div class="lower" id="lower" hidden><div class="l1"></div><div class="l2"></div></div>
+    <div class="vo" id="vo"></div>
+    <div class="slug" id="slug"><span class="id">S01</span> · CRT BOOT</div>
+    <div class="badge">ANIMATIC · NOT FINAL FOOTAGE</div>
+    <div class="crt"></div>
+  </div>
+
+  <div class="transport">
+    <button class="play" id="btn" aria-label="Play the animatic">▶ Play</button>
+    <div class="tc"><span id="tcNow">0:00</span><span> / 3:15</span></div>
+    <div class="hint"><kbd>Space</kbd> play · <kbd>←</kbd><kbd>→</kbd> shot · click to seek</div>
+  </div>
+
+  <div class="timeline" id="timeline">
+    <div class="track" id="track"></div>
+    <div class="ticks" id="ticks"></div>
+    <div class="head" id="head" style="left:0"></div>
+  </div>
+  <div class="legend" id="legend"></div>
+
+  <div id="table"></div>
+
+  <div class="foot">
+    <div>
+      <h3>Where the time goes</h3>
+      <ul>
+        <li><b>Act 4 is 52s</b> — a quarter of the runtime on the renderer ladder alone. If the cut
+          has to lose time, take it from Act 2.</li>
+        <li><b>Act 5 is 12s</b>, and four of them are black and silent. That gap is the pivot the
+          whole second half rests on.</li>
+        <li><b>Act 6 is 30s</b> for seven editors and a playtest — deliberately quicker than Act 4,
+          because it is a list, not an escalation.</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Colour reads as voice</h3>
+      <ul>
+        <li><code>#00FF78</code> phosphor green speaks for the game.</li>
+        <li><code>#00C8FF</code> cyan speaks for the editor.</li>
+        <li>Act 5 is where the timeline hands off from one to the other — that colour change is the
+          argument the video is making.</li>
+        <li><code>#FFC832</code> amber appears exactly twice in 204 seconds.</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Handoff</h3>
+      <ul>
+        <li><code>01-SCRIPT.md</code> — full VO, on-screen text, audio cues, verified numbers.</li>
+        <li><code>02-SHOT-LIST.md</code> — how to capture every frame from the real build.</li>
+        <li><code>03-STYLE-GUIDE.md</code> — palette, type, CRT treatment, motion grammar.</li>
+        <li><code>04-VO-RECORD-SCRIPT.md</code> — the booth read, with pronunciations.</li>
+        <li><code>05-LAUNCH-COPY.md</code> — thumbnail, metadata, delivery, QC.</li>
+        <li>Every colour on this page is pulled from <code>OverlayTheme.java</code>.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script>
+const ACTS=[
+ {n:0,name:"Cold Open",a:0,b:8,  c:"var(--a0)",hex:"#3E5C82",note:"CRT strike straight into the title. Eight seconds of typography and sound design, no voice and no gameplay — the boot text is the thesis."},
+ {n:1,name:"Roll Your Hero",a:8,b:33,  c:"var(--a1)",hex:"#8FA6C4",note:"3d6 per attribute, permanent, and a dialog that shows what every point actually buys. Ends on the crawl, which now carries the two lines the cut cold open freed."},
+ {n:2,name:"The World Above",a:33,b:65,  c:"var(--a2)",hex:"#FFC832",note:"The bright section. Islands, towns, branching people, shops, twenty-two mini-games, seven gods."},
+ {n:3,name:"Combat",a:65,b:91, c:"var(--a3)",hex:"#DC3737",note:"Turn-based and unforgiving. Thirty-seven spells, seventy-eight monsters, one boss that won't let you leave."},
+ {n:4,name:"The Descent",a:91,b:143, c:"var(--a4)",hex:"#00FF78",note:"★ The hero section. Shots run 6–8s and stop cutting on the beat — the pacing change is how the act announces itself before a word is spoken. Percussion drops out entirely for 47 seconds."},
+ {n:5,name:"The Turn",a:143,b:155, c:"var(--a5)",hex:"#7EE8B4",note:"Twelve seconds, two of them with nothing on screen at all. Do not let a note shorten this."},
+ {n:6,name:"RetroForge",a:155,b:185, c:"var(--a6)",hex:"#00C8FF",note:"Seven tools, seven editors, one playtest button — ending in the game booting into the map you just painted."},
+ {n:7,name:"Close",a:185,b:195, c:"var(--a7)",hex:"#C8DEFF",note:"Accelerating montage into the lockup, then a real CRT power-off."},
+];
+
+// mode: which stage treatment · card: on-stage type · lower: [line1,line2] · vo: narration
+const S=[
+ {id:"S01",t:0,d:5,act:0,name:"CRT Boot",mode:"boot",card:["CANNONFORGE SYSTEMS",""],osd:"RETROQUEST v0.9.0 · 148 CLASSES · 192 TILES · AUDIO: SYNTHESIZED",vo:""},
+ {id:"S04",t:5,d:3,act:0,name:"Title",mode:"logo",card:["RETROQUEST","THE UNBOUND — SHATTERED DREAMS OF AQUALON"],vo:""},
+ {id:"S05",t:8,d:6,act:1,name:"3d6",mode:"dialog",lower:["ROLL YOUR HERO","STR · DEX · CON · INT · WIS · CHA"],vo:"It starts the way it did in 1982. Six attributes. Three dice each.",t_:1},
+ {id:"S06",t:14,d:7,act:1,name:"What The Number Buys",mode:"dialog",vo:"Every roll tells you what it buys. Hit points, armor class, spell power — even your discount at the shop."},
+ {id:"S07",t:21,d:5,act:1,name:"Permanent",mode:"dialog",osd:"3d6 PER ATTRIBUTE · THESE ROLLS ARE PERMANENT",osdc:"am",vo:"Reroll as long as your nerve holds. Accept, and that's who you are."},
+ {id:"S08",t:26,d:7,act:1,name:"You Are The Unbound",mode:"crawl",osd:"YOU ARE THE UNBOUND.",vo:"Seven dreams murdered the god that dreamed them. Something is very wrong with the world — and it knows your name.",t_:1},
+ {id:"S09",t:33,d:5,act:2,name:"Seven Islands",mode:"grid",lower:["LIRANDEL → PYRALIS → ZEPHYRION → SYLVANDAR","THALORAX → UMBRYN → BELLORAK"],vo:"Seven islands, each sealed behind a key from the island before it.",t_:1},
+ {id:"S10",t:38,d:5,act:2,name:"Towns",mode:"grid",lower:["22 TOWNS · 154 NPCs",""],vo:"Twenty-two towns, and a hundred and fifty-four people standing in them."},
+ {id:"S11",t:43,d:5,act:2,name:"Conversation",mode:"ui",lower:["91 QUESTS","BRANCHING DIALOGUE TREES"],vo:"The conversations branch. The quests remember. There are ninety-one of them."},
+ {id:"S12",t:48,d:5,act:2,name:"Goods",mode:"ui",lower:["140 ITEMS",""],vo:"A hundred and forty items to buy, and to fail to afford."},
+ {id:"S13",t:53,d:7,act:2,name:"22 Mini-Games",mode:"montage",vo:"And when you want to stop being a hero for ten minutes — casinos, arenas, sky races. Twenty-two of them."},
+ {id:"S14",t:60,d:5,act:2,name:"The Gods",mode:"ui",vo:"Seven gods are watching. All of them want you.",t_:1},
+ {id:"S15",t:65,d:4,act:3,name:"Encounter",mode:"combat",vo:"Combat is turn-based. It doesn't care how long you've been playing."},
+ {id:"S16",t:69,d:6,act:3,name:"The Exchange",mode:"combat",vo:"Roll to hit. Roll damage. Read the log and decide whether you're still winning."},
+ {id:"S17",t:75,d:7,act:3,name:"37 Spells",mode:"combat",lower:["37 SPELLS · 78 MONSTERS","LEVELS 1–50"],vo:"Thirty-seven spells, each with its own animation. Turn Undead actually knows what's undead.",t_:1},
+ {id:"S18",t:82,d:5,act:3,name:"The Edge",mode:"combat",vo:"Seventy-eight monsters, and a level range that runs to fifty."},
+ {id:"S19",t:87,d:4,act:3,name:"Boss",mode:"combat",vo:"Some of them don't let you leave.",t_:1},
+ {id:"S20",t:91,d:4,act:4,name:"Down",mode:"descent",vo:"And then you go down.",t_:1},
+ {id:"S21",t:95,d:7,act:4,name:"Island 1 — The Grid",mode:"topdown",lower:["ISLAND 1 · LIRANDEL","TOP-DOWN GRID"],vo:"Island one gives you the grid. Overhead, torch-lit, one square at a time. This is 1982."},
+ {id:"S22",t:102,d:7,act:4,name:"Islands 2–3 — The Wireframe",mode:"wire",lower:["ISLANDS 2–3 · PYRALIS / ZEPHYRION","WIREFRAME"],vo:"Island two takes the ceiling off and stands you up. Vector lines, four directions. This one is 1984."},
+ {id:"S23",t:109,d:8,act:4,name:"Island 4 — Surface",mode:"bark",lower:["ISLAND 4 · ROOTVAULT","TEXTURED — BARK"],vo:"Island four puts a surface on it. Bark and root — and the spores keep drifting whether you move or not."},
+ {id:"S24",t:117,d:7,act:4,name:"Five Kinds Of Stone",mode:"stone",lower:["PRESSURE TEMPLE / BONEYARD / LEVIATHAN / FORGOTTEN CITY","BLOCK · COBBLE · SLAB · CYCLOPEAN"],vo:"Five kinds of stone, laid out in world depth — so the courses foreshorten the way real masonry does."},
+ {id:"S25",t:124,d:8,act:4,name:"Island 6 — The Raycaster",mode:"ray",lower:["ISLAND 6 · ARCHIVE OF TEARS","RAYCAST — PER-PIXEL LIT"],vo:"Island six throws out the four directions completely. One ray per screen column — so you can face any angle at all.",t_:1},
+ {id:"S26",t:132,d:6,act:4,name:"Island 7 — Light The Map Owns",mode:"lit",lower:["ISLAND 7 · BELLORAK","MAP-AUTHORED LIGHTING + SHADOWS"],vo:"Island seven lets the map carry its own lights. Every torch you place casts a real shadow."},
+ {id:"S27",t:138,d:5,act:4,name:"The Cradle",mode:"mirror",lower:["THE CRADLE OF SHARDS","8 LEVELS · MIRRORED · ESCALATING"],vo:"And at the bottom, the floor starts reflecting back.",t_:1},
+ {id:"S28",t:143,d:4,act:5,name:"Black",mode:"black",card:["THAT'S THE GAME.",""],vo:""},
+ {id:"S29",t:147,d:4,act:5,name:"The Line",mode:"black",card:["THAT'S THE GAME.","NOW BUILD YOUR OWN."],vo:"Everything you just watched is a file you can open.",t_:1},
+ {id:"S30",t:151,d:4,act:5,name:"RetroForge Boots",mode:"forge",card:["RETROFORGE",""],vo:""},
+ {id:"S31",t:155,d:5,act:6,name:"Paint A World",mode:"forge",lower:["PENCIL · FILL · SELECT · NPC","TOWN · DUNGEON · SPAWN"],vo:"RetroForge is the editor the entire game was built in. It ships with it.",t_:1},
+ {id:"S32",t:160,d:4,act:6,name:"People Who Talk Back",mode:"forge",lower:["DIALOGUE TREE EDITOR","NODES · CHOICES · CONDITIONS · ACTIONS"],vo:"Write them a conversation that branches."},
+ {id:"S33",t:164,d:4,act:6,name:"Quest, Item, Monster",mode:"forge",osd:"data/quests.json · data/items.json · data/monsters.json",osdc:"cy",vo:"Write the quest. Forge the sword. Stat the thing carrying it."},
+ {id:"S34",t:168,d:5,act:6,name:"Tiles Are Rules",mode:"forge",vo:"Make a tile. Give it a light radius — and it lights the dungeon.",t_:1},
+ {id:"S35",t:173,d:4,act:6,name:"Draw It Yourself",mode:"sprite",lower:["IMAGE EDITOR · 32×32","SAVED = ALREADY IN THE GAME"],vo:"Draw the sprite yourself. Thirty-two pixels square."},
+ {id:"S36",t:177,d:3,act:6,name:"Danger, By Hand",mode:"spawn",lower:["SPAWN DIFFICULTY 0–99","DUNGEON PLACER"],vo:"Paint how dangerous the grass is."},
+ {id:"S37",t:180,d:5,act:6,name:"Playtest",mode:"grid",vo:"Then hit playtest, and walk into it.",t_:1},
+ {id:"S38",t:185,d:5,act:7,name:"Everything",mode:"montage",vo:"Seven islands. Forty authored dungeon levels. Nine endings. And the editor for all of it.",t_:1},
+ {id:"S39",t:190,d:5,act:7,name:"Lockup",mode:"logo",card:["RETROQUEST","+ RETROFORGE"],osd:"Java · Swing · 32×32 sprites · zero audio files",vo:"RetroQuest. And RetroForge. Go make something."},
+];
+const TOTAL=195;
+const REDUCED=matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+/* ── stage rendering ───────────────────────────────────── */
+const cv=document.getElementById("cv"), g=cv.getContext("2d");
+const W=cv.width, H=cv.height;
+const hx=(c)=>c;
+
+function clear(c){g.fillStyle=c||"#06080E";g.fillRect(0,0,W,H);}
+
+// shared corridor projection — mirrors the game's own 1/(1+0.8z)
+function proj(z){return 1/(1+0.8*z);}
+function corridor(depth,k){
+  const cx=W/2, cy=H/2+k*40;
+  const out=[];
+  for(let z=0;z<depth;z++){
+    const s=proj(z), hw=W*0.52*s, hh=H*0.46*s;
+    out.push({x0:cx-hw,x1:cx+hw,y0:cy-hh,y1:cy+hh,s});
+  }
+  return out;
+}
+
+function drawBoot(p){
+  clear("#04060B");
+  const lines=["CANNONFORGE SYSTEMS","RETROQUEST v0.9.0","JAVA RUNTIME OK ...... 148 CLASSES",
+    "TILE REGISTRY ........ 192","AUDIO ................ SYNTHESIZED","READY."];
+  g.font="30px 'VT323', monospace"; g.textBaseline="top";
+  const total=lines.join("").length, shown=Math.floor(total*Math.min(1,p*1.35));
+  let acc=0;
+  for(let i=0;i<lines.length;i++){
+    const take=Math.max(0,Math.min(lines[i].length,shown-acc));
+    acc+=lines[i].length;
+    g.fillStyle=i===5?"#00FF78":"#00c060";
+    g.fillText(lines[i].slice(0,take), 120, 190+i*46);
+    if(take>0&&take<lines[i].length){
+      g.fillStyle="#00FF78"; g.fillRect(120+g.measureText(lines[i].slice(0,take)).width+2,192+i*46,12,30);
+    }
+  }
+}
+function drawBeach(p,t){
+  const sky=g.createLinearGradient(0,0,0,H*0.62);
+  sky.addColorStop(0,"#12162A"); sky.addColorStop(1,"#37486C");
+  g.fillStyle=sky; g.fillRect(0,0,W,H*0.62);
+  g.fillStyle="#5A7391"; g.fillRect(0,H*0.60,W,4);
+  for(let i=0;i<5;i++){
+    const y=H*0.62+i*26+((t*14+i*30)%40);
+    g.fillStyle=i%2?"#164178":"#0C264B"; g.fillRect(0,y,W,20);
+    g.fillStyle="#C8D7E6"+(i<2?"55":"33"); g.fillRect(0,y,W,3);
+  }
+  g.fillStyle="#9B8A5F"; g.fillRect(0,H*0.78,W,H*0.22);
+  g.fillStyle="#C3AF82"; g.fillRect(0,H*0.83,W,H*0.17);
+  // hero
+  g.fillStyle="#3C50A0"; g.fillRect(W*0.42,H*0.86,W*0.16,26);
+  g.fillStyle="#8C1C1C"; g.fillRect(W*0.40,H*0.865,W*0.08,18);
+  g.fillStyle="#96989E"; g.fillRect(W*0.565,H*0.855,26,22);
+  const pulse=0.4+0.6*Math.abs(Math.sin(t*1.6));
+  g.fillStyle="rgba(180,240,255,"+pulse.toFixed(2)+")";
+  g.beginPath(); g.arc(W*0.50,H*0.868,9+4*pulse,0,7); g.fill();
+}
+function drawLogoBg(t){
+  clear("#04060B");
+  g.strokeStyle="#0C1626"; g.lineWidth=1;
+  for(let y=(t*30)%16;y<H;y+=16){g.beginPath();g.moveTo(0,y);g.lineTo(W,y);g.stroke();}
+}
+function drawDialog(p){
+  clear("#000028");
+  g.strokeStyle="#00C8FF"; g.lineWidth=2; g.strokeRect(W*0.14,H*0.10,W*0.72,H*0.80);
+  g.fillStyle="#000028"; g.fillRect(W*0.14,H*0.10,W*0.72,H*0.80);
+  g.font="26px 'VT323', monospace"; g.fillStyle="#FFE84A"; g.textAlign="center";
+  g.fillText("ROLL YOUR HERO", W/2, H*0.19);
+  g.fillStyle="#FFA03C"; g.font="19px 'VT323', monospace";
+  g.fillText("3d6 PER ATTRIBUTE · THESE ROLLS ARE PERMANENT", W/2, H*0.245);
+  g.textAlign="left";
+  const names=["STRENGTH","DEXTERITY","CONSTITUTION","INTELLIGENCE","WISDOM","CHARISMA"];
+  const buys=["melee damage","armor class, to-hit","hit points, damage soak","spell power","spell resist","shop discount, flee"];
+  for(let i=0;i<6;i++){
+    const y=H*0.31+i*H*0.088;
+    g.fillStyle="#0A1030"; g.fillRect(W*0.18,y-20,W*0.64,H*0.072);
+    g.fillStyle="#7EA0C8"; g.font="21px 'VT323', monospace"; g.fillText(names[i], W*0.20,y+4);
+    const roll=8+((Math.floor(p*3)*7+i*5)%11);
+    g.fillStyle="#00FF78"; g.font="24px 'VT323', monospace"; g.fillText(String(roll), W*0.415,y+4);
+    g.fillStyle="#546E8C"; g.font="18px 'VT323', monospace"; g.fillText("→ "+buys[i], W*0.47,y+3);
+  }
+}
+function drawCrawl(p){
+  clear("#000");
+  g.strokeStyle="#00FFB4"; g.lineWidth=6; g.strokeRect(6,6,W-12,H-12);
+  g.textAlign="center"; g.fillStyle="#00FFB4"; g.font="46px 'VT323', monospace";
+  g.fillText("AQUALONIA", W/2, H*0.20);
+  const ls=["But seven of its own dreams betrayed it.","They shattered their father into a thousand shards","and waged endless war across the rising seas.","","You are the Unbound."];
+  g.font="26px 'VT323', monospace";
+  for(let i=0;i<ls.length;i++){
+    if(p*5<i) break;
+    g.fillStyle=i===4?"#00FF78":"#0FA860";
+    g.fillText(ls[i], W/2, H*0.38+i*44);
+  }
+  g.textAlign="left";
+}
+const TCOL=["#1E4620","#2A5C2E","#3C6B3A","#6B5B2E","#1B3B5C","#4A3A2A","#2E5C58","#5C3A3A"];
+function drawGrid(t,forge){
+  clear(forge?"#0A0C10":"#06080E");
+  const s=44, ox=forge?0:-((t*22)%s), oy=0;
+  for(let y=0;y<H/s+1;y++)for(let x=0;x<W/s+2;x++){
+    const n=(x*7+y*13+(forge?0:Math.floor(t*0.5)))%TCOL.length;
+    g.fillStyle=TCOL[n]; g.fillRect(ox+x*s,oy+y*s,s-1,s-1);
+  }
+  if(!forge){
+    const lg=g.createRadialGradient(W/2,H/2,40,W/2,H/2,W*0.36);
+    lg.addColorStop(0,"rgba(0,0,0,0)"); lg.addColorStop(1,"rgba(2,4,9,0.94)");
+    g.fillStyle=lg; g.fillRect(0,0,W,H);
+    g.fillStyle="#E8D8A0"; g.fillRect(W/2-11,H/2-14,22,28);
+  }
+}
+function drawForge(t,mode){
+  drawGrid(t,true);
+  // palette rail
+  g.fillStyle="#10141C"; g.fillRect(0,0,140,H);
+  g.strokeStyle="#28374F"; g.lineWidth=1; g.beginPath(); g.moveTo(140.5,0); g.lineTo(140.5,H); g.stroke();
+  g.fillStyle="#00C8FF"; g.font="21px 'VT323', monospace"; g.fillText("◈ RETROFORGE",12,28);
+  for(let i=0;i<11;i++){
+    g.fillStyle=TCOL[i%TCOL.length]; g.fillRect(12,52+i*46,116,34);
+    g.fillStyle="#C8DEFF"; g.font="17px 'VT323', monospace"; g.fillText("tile "+(i+1),20,74+i*46);
+  }
+  // toolbar
+  g.fillStyle="#0C1018"; g.fillRect(140,0,W-140,44);
+  g.strokeStyle="#28374F"; g.strokeRect(140.5,0.5,W-140,44);
+  const tools=["PENCIL","FILL","SELECT","NPC","TOWN","DUNGEON","SPAWN"];
+  g.font="19px 'VT323', monospace";
+  tools.forEach((n,i)=>{
+    const on=i===Math.floor(t*1.2)%7;
+    g.fillStyle=on?"#003C5A":"#121926"; g.fillRect(158+i*104,9,96,26);
+    g.fillStyle=on?"#00C8FF":"#6A809C"; g.fillText(n,168+i*104,29);
+  });
+  if(mode==="spawn"){
+    for(let y=3;y<10;y++)for(let x=5;x<20;x++){
+      const v=(x*y*7)%99;
+      g.fillStyle="rgba(200,40,40,0.42)"; g.fillRect(x*44,y*44,43,43);
+      g.fillStyle="#FFD0D0"; g.font="15px 'VT323', monospace"; g.fillText(String(v),x*44+6,y*44+26);
+    }
+  }
+  if(mode==="sprite"){
+    g.fillStyle="#0A0E16"; g.fillRect(W*0.34,H*0.14,W*0.42,H*0.72);
+    g.strokeStyle="#00C8FF"; g.strokeRect(W*0.34,H*0.14,W*0.42,H*0.72);
+    const c=W*0.38, cw=(W*0.34)/16;
+    for(let y=0;y<16;y++)for(let x=0;x<16;x++){
+      const lit=Math.abs(x-7.5)<1+2*Math.sin(y*0.5)&&y>3;
+      g.fillStyle=lit?(y>11?"#8C3010":"#FFB030"):"#0E1420";
+      g.fillRect(c+x*cw,H*0.19+y*cw,cw-1,cw-1);
+    }
+  }
+  // cursor
+  const cx=W*0.5+Math.cos(t*1.1)*W*0.2, cy=H*0.55+Math.sin(t*1.7)*H*0.2;
+  g.fillStyle="#fff"; g.beginPath(); g.moveTo(cx,cy); g.lineTo(cx,cy+18); g.lineTo(cx+5,cy+13);
+  g.lineTo(cx+12,cy+15); g.lineTo(cx+6,cy+2); g.closePath(); g.fill();
+}
+function drawTopdown(t){
+  clear("#04060B");
+  const s=48, cx=W/2, cy=H/2;
+  for(let y=0;y<H/s+1;y++)for(let x=0;x<W/s+1;x++){
+    const wall=((x*3+y*5)%7===0)||((x+y)%11===0);
+    g.fillStyle=wall?"#1A2436":"#0B1018"; g.fillRect(x*s,y*s,s-2,s-2);
+  }
+  const lg=g.createRadialGradient(cx,cy,20,cx,cy,W*0.24);
+  lg.addColorStop(0,"rgba(255,190,90,0.20)"); lg.addColorStop(0.55,"rgba(0,0,0,0.55)");
+  lg.addColorStop(1,"rgba(2,3,6,0.97)");
+  g.fillStyle=lg; g.fillRect(0,0,W,H);
+  g.fillStyle="#FFE0A0"; g.fillRect(cx-10,cy-12,20,24);
+}
+function drawWire(t){
+  clear("#04060B");
+  const k=Math.sin(t*0.6)*0.15;
+  const c=corridor(7,k);
+  g.lineWidth=2;
+  for(let i=c.length-1;i>=0;i--){
+    const q=c[i], a=(0.22+0.78*q.s);
+    g.strokeStyle="rgba(0,255,120,"+a.toFixed(2)+")";
+    g.strokeRect(q.x0,q.y0,q.x1-q.x0,q.y1-q.y0);
+    if(i<c.length-1){
+      const n=c[i+1];
+      g.beginPath();
+      g.moveTo(q.x0,q.y0);g.lineTo(n.x0,n.y0); g.moveTo(q.x1,q.y0);g.lineTo(n.x1,n.y0);
+      g.moveTo(q.x0,q.y1);g.lineTo(n.x0,n.y1); g.moveTo(q.x1,q.y1);g.lineTo(n.x1,n.y1);
+      g.stroke();
+    }
+  }
+  const d=c[3];
+  g.strokeStyle="rgba(0,200,255,0.85)";
+  g.strokeRect(d.x0-2,d.y0+(d.y1-d.y0)*0.35,(d.x1-d.x0)*0.10,(d.y1-d.y0)*0.6);
+}
+function drawTextured(t,style){
+  clear("#04060B");
+  const c=corridor(6,Math.sin(t*0.5)*0.1);
+  const bark=style==="bark";
+  for(let i=c.length-1;i>=1;i--){
+    const q=c[i], n=c[i-1], sh=(0.20+0.80*q.s);
+    const base=bark?[70,52,32]:[74,74,80];
+    for(const side of [0,1]){
+      const xA=side?q.x1:q.x0, xB=side?n.x1:n.x0;
+      g.beginPath(); g.moveTo(xA,q.y0); g.lineTo(xB,n.y0); g.lineTo(xB,n.y1); g.lineTo(xA,q.y1); g.closePath();
+      const f=sh*(side?0.82:1);
+      g.fillStyle="rgb("+(base[0]*f|0)+","+(base[1]*f|0)+","+(base[2]*f|0)+")"; g.fill();
+      g.strokeStyle="rgba(0,0,0,0.55)"; g.lineWidth=1; g.stroke();
+      const courses=bark?9:5;
+      for(let r=1;r<courses;r++){
+        const yA=q.y0+(q.y1-q.y0)*r/courses, yB=n.y0+(n.y1-n.y0)*r/courses;
+        g.beginPath(); g.moveTo(xA,yA); g.lineTo(xB,yB);
+        g.strokeStyle="rgba(0,0,0,"+(0.42*sh).toFixed(2)+")"; g.stroke();
+      }
+    }
+    g.fillStyle="rgba(20,16,12,"+(0.9*sh).toFixed(2)+")";
+    g.fillRect(n.x0,n.y1,n.x1-n.x0,q.y1-n.y1);
+    g.fillStyle="rgba(10,10,14,"+(0.9*sh).toFixed(2)+")";
+    g.fillRect(n.x0,q.y0,n.x1-n.x0,n.y0-q.y0);
+  }
+  if(bark){
+    for(let i=0;i<40;i++){
+      const a=(t*0.4+i*1.7), x=W/2+Math.sin(a)*W*0.3*((i%7)/7+0.3), y=(H*((i*37)%100)/100+t*18+i*9)%H;
+      g.fillStyle="rgba(190,255,190,"+(0.10+0.16*((i%5)/5)).toFixed(2)+")";
+      g.beginPath(); g.arc(x,y,1.6+((i%3)),0,7); g.fill();
+    }
+  }
+}
+function drawRay(t,variant){
+  clear("#02040A");
+  const ang=Math.sin(t*0.35)*0.55;
+  const c=corridor(7,0);
+  for(let i=c.length-1;i>=1;i--){
+    const q=c[i], n=c[i-1], sh=0.16+0.84*q.s;
+    const skew=ang*W*0.10*(1-q.s);
+    for(const side of [0,1]){
+      const xA=(side?q.x1:q.x0)+skew, xB=(side?n.x1:n.x0)+skew*1.3;
+      g.beginPath(); g.moveTo(xA,q.y0); g.lineTo(xB,n.y0); g.lineTo(xB,n.y1); g.lineTo(xA,q.y1); g.closePath();
+      let col=[62,60,72];
+      if(variant==="lit")   col=[86,58,40];
+      if(variant==="mirror")col=[54,72,96];
+      const f=sh*(side?0.78:1);
+      g.fillStyle="rgb("+(col[0]*f|0)+","+(col[1]*f|0)+","+(col[2]*f|0)+")"; g.fill();
+      for(let r=1;r<5;r++){
+        const yA=q.y0+(q.y1-q.y0)*r/5, yB=n.y0+(n.y1-n.y0)*r/5;
+        g.beginPath(); g.moveTo(xA,yA); g.lineTo(xB,yB);
+        g.strokeStyle="rgba(0,0,0,"+(0.30*sh).toFixed(2)+")"; g.lineWidth=1; g.stroke();
+      }
+    }
+    g.fillStyle="rgba(8,9,14,"+(0.92*sh).toFixed(2)+")"; g.fillRect(n.x0+skew,q.y0,n.x1-n.x0,n.y0-q.y0);
+    g.fillStyle="rgba(12,12,18,"+(0.92*sh).toFixed(2)+")"; g.fillRect(n.x0+skew,n.y1,n.x1-n.x0,q.y1-n.y1);
+  }
+  // sconce / fixture pool
+  const px=W*0.30+ang*W*0.08, py=H*0.42;
+  const lp=g.createRadialGradient(px,py,6,px,py,W*0.30);
+  const warm=variant==="lit"?"rgba(255,150,50,":"rgba(255,190,110,";
+  lp.addColorStop(0,warm+"0.55)"); lp.addColorStop(0.4,warm+"0.16)"); lp.addColorStop(1,"rgba(0,0,0,0)");
+  g.fillStyle=lp; g.fillRect(0,0,W,H);
+  g.fillStyle=variant==="lit"?"#FFB050":"#FFD9A0"; g.fillRect(px-5,py-10,10,20);
+  if(variant==="lit"){ // cast shadow wedge
+    g.fillStyle="rgba(0,0,0,0.55)";
+    g.beginPath(); g.moveTo(W*0.52,H*0.30); g.lineTo(W*0.86,H*0.62); g.lineTo(W*0.62,H*0.95); g.closePath(); g.fill();
+    g.fillStyle="#2A2018"; g.fillRect(W*0.50,H*0.28,W*0.04,H*0.44);
+  }
+  if(variant==="mirror"){
+    g.save(); g.globalAlpha=0.34; g.translate(0,H*1.02); g.scale(1,-0.55);
+    g.drawImage(cv,0,0,W,H*0.55,0,0,W,H*0.55); g.restore();
+    g.fillStyle="rgba(80,150,255,0.10)"; g.fillRect(0,H*0.56,W,H*0.44);
+    for(let i=0;i<3;i++){
+      g.fillStyle=["rgba(255,80,140,0.10)","rgba(80,255,200,0.10)","rgba(120,140,255,0.10)"][i];
+      g.fillRect(0,H*0.58+i*3,W,2);
+    }
+  }
+  const vg=g.createRadialGradient(W/2,H/2,H*0.20,W/2,H/2,W*0.62);
+  vg.addColorStop(0,"rgba(0,0,0,0)"); vg.addColorStop(1,"rgba(2,4,12,0.85)");
+  g.fillStyle=vg; g.fillRect(0,0,W,H);
+}
+function drawCombat(t){
+  clear("#06080E");
+  g.fillStyle="#0A0E16"; g.fillRect(W*0.06,H*0.08,W*0.88,H*0.84);
+  g.strokeStyle="#DC3737"; g.lineWidth=2; g.strokeRect(W*0.06,H*0.08,W*0.88,H*0.84);
+  const bob=Math.sin(t*3)*6;
+  g.fillStyle="#3A2A44"; g.fillRect(W*0.40,H*0.20+bob,W*0.20,H*0.30);
+  g.fillStyle="#6A4A80"; g.fillRect(W*0.43,H*0.24+bob,W*0.06,H*0.06);
+  g.fillStyle="#6A4A80"; g.fillRect(W*0.51,H*0.24+bob,W*0.06,H*0.06);
+  g.font="22px 'VT323', monospace";
+  g.fillStyle="#C8DEFF"; g.fillText("WRAITH  LV 22",W*0.10,H*0.17);
+  g.fillStyle="#241014"; g.fillRect(W*0.10,H*0.19,W*0.34,14);
+  g.fillStyle="#DC3737"; g.fillRect(W*0.10,H*0.19,W*0.34*(0.30+0.35*Math.abs(Math.sin(t))),14);
+  const log=["You strike the wraith for 14.","The wraith drains 9 HP.","You cast LIGHTNING BOLT.","Critical! 31 damage."];
+  g.font="20px 'VT323', monospace";
+  for(let i=0;i<log.length;i++){
+    g.fillStyle=i===log.length-1?"#00FF78":"#6A809C";
+    g.fillText(log[i], W*0.10, H*0.60+i*30);
+  }
+  g.fillStyle="#FFC832"; g.font="30px 'VT323', monospace";
+  g.fillText("-31", W*0.52, H*0.30+bob-Math.abs(Math.sin(t*2))*30);
+}
+function drawUI(t,label){
+  drawGrid(t*0.3,false);
+  g.fillStyle="rgba(0,0,0,0.72)"; g.fillRect(0,0,W,H);
+  g.fillStyle="#0A0E16"; g.fillRect(W*0.16,H*0.18,W*0.68,H*0.64);
+  g.strokeStyle="#00C8FF"; g.lineWidth=2; g.strokeRect(W*0.16,H*0.18,W*0.68,H*0.64);
+  g.font="22px 'VT323', monospace";
+  for(let i=0;i<6;i++){
+    const on=i===Math.floor(t*1.5)%6;
+    g.fillStyle=on?"#0A2C40":"transparent"; g.fillRect(W*0.19,H*0.26+i*H*0.085,W*0.62,H*0.07);
+    g.fillStyle=on?"#00C8FF":"#6A809C";
+    g.fillText((on?"▸ ":"  ")+(label||"option")+" "+(i+1), W*0.21, H*0.315+i*H*0.085);
+  }
+}
+function drawMontage(t){
+  const modes=[()=>drawGrid(t,false),()=>drawTopdown(t),()=>drawWire(t),
+    ()=>drawTextured(t,"stone"),()=>drawRay(t,"plain"),()=>drawCombat(t),()=>drawForge(t,"")];
+  modes[Math.floor(t*5)%modes.length]();
+  g.fillStyle="rgba(6,8,14,0.25)"; g.fillRect(0,0,W,H);
+}
+function drawDescent(p){
+  clear("#000");
+  const r=Math.max(0,(1-p))*W*0.75;
+  g.fillStyle="#0B0F18"; g.fillRect(0,0,W,H);
+  g.save(); g.beginPath(); g.arc(W/2,H/2,r,0,7); g.clip();
+  drawGrid(0,false); g.restore();
+  g.strokeStyle="#1A2436"; g.lineWidth=3;
+  for(let i=0;i<9;i++){
+    const s=1-i*0.10, hw=W*0.30*s, hh=H*0.06*s;
+    g.strokeRect(W/2-hw,H*0.50+i*hh*0.9-H*0.18,hw*2,hh);
+  }
+}
+function drawBlack(){clear("#000");}
+
+function renderStage(shot,localT,absT){
+  const p=Math.min(1,localT/shot.d);
+  switch(shot.mode){
+    case "boot":    drawBoot(p); break;
+    case "beach":   drawBeach(p,absT); break;
+    case "logo":    drawLogoBg(absT); break;
+    case "dialog":  drawDialog(p); break;
+    case "crawl":   drawCrawl(p); break;
+    case "grid":    drawGrid(absT,false); break;
+    case "ui":      drawUI(absT,"choice"); break;
+    case "montage": drawMontage(absT); break;
+    case "combat":  drawCombat(absT); break;
+    case "descent": drawDescent(p); break;
+    case "topdown": drawTopdown(absT); break;
+    case "wire":    drawWire(absT); break;
+    case "bark":    drawTextured(absT,"bark"); break;
+    case "stone":   drawTextured(absT,"stone"); break;
+    case "ray":     drawRay(absT,"plain"); break;
+    case "lit":     drawRay(absT,"lit"); break;
+    case "mirror":  drawRay(absT,"mirror"); break;
+    case "black":   drawBlack(); break;
+    case "forge":   drawForge(absT,""); break;
+    case "sprite":  drawForge(absT,"sprite"); break;
+    case "spawn":   drawForge(absT,"spawn"); break;
+    default:        clear();
+  }
+}
+
+/* ── overlays + chrome ─────────────────────────────────── */
+const elCard=document.getElementById("card"), elLower=document.getElementById("lower"),
+      elVo=document.getElementById("vo"), elSlug=document.getElementById("slug"),
+      elTc=document.getElementById("tcNow"), elBtn=document.getElementById("btn"),
+      elHead=document.getElementById("head"), elTicks=document.getElementById("ticks");
+
+function fmt(s){const m=Math.floor(s/60);return m+":"+String(Math.floor(s%60)).padStart(2,"0");}
+
+function paintOverlay(shot,localT){
+  const p=Math.min(1,localT/shot.d);
+  if(shot.card){
+    const [big,sub]=shot.card;
+    const isTurn=shot.act===5;
+    let bigCol=shot.mode==="logo"?"var(--phosphor)":"var(--phosphor)";
+    let html="";
+    if(big) html+='<div class="big" style="color:'+bigCol+'">'+big+"</div>";
+    if(sub) html+= isTurn
+      ? '<div class="big" style="color:var(--cyan);font-size:clamp(11px,2.1vw,24px)">'+sub+"</div>"
+      : '<div class="sub">'+sub+"</div>";
+    if(shot.id==="S39") html='<div class="big" style="color:var(--phosphor)">RETROQUEST</div>'+
+      '<div class="big" style="color:var(--cyan)"><span style="color:var(--amber)">+</span> RETROFORGE</div>'+
+      '<div class="sub" style="letter-spacing:.1em;margin-top:10px">'+shot.osd+"</div>";
+    elCard.innerHTML=html;
+  } else if(shot.osd && !shot.lower){
+    const cls=shot.osdc==="am"?"color:var(--amber)":shot.osdc==="cy"?"color:var(--cyan)":"color:var(--phosphor)";
+    elCard.innerHTML='<div class="sub" style="'+cls+';letter-spacing:.14em">'+shot.osd+"</div>";
+  } else elCard.innerHTML="";
+
+  if(shot.lower){
+    elLower.hidden=false;
+    const w=Math.min(1,p*6); // 220ms wipe-in equivalent
+    elLower.style.clipPath="inset(0 "+((1-w)*100).toFixed(1)+"% 0 0)";
+    elLower.querySelector(".l1").textContent=shot.lower[0];
+    elLower.querySelector(".l2").textContent=shot.lower[1]||"";
+    elLower.style.borderLeftColor=shot.act===4?"var(--cyan)":ACTS[shot.act].hex;
+  } else elLower.hidden=true;
+
+  elVo.className="vo"+(shot.vo?"":" silent");
+  elVo.textContent=shot.vo||"(no narration — sound design only)";
+  elSlug.innerHTML='<span class="id">'+shot.id+"</span> · "+shot.name.toUpperCase()+
+    ' <span style="color:#33465E">· ACT '+shot.act+"</span>";
+}
+
+function shotAt(t){
+  for(let i=S.length-1;i>=0;i--) if(t>=S[i].t) return i;
+  return 0;
+}
+
+/* build timeline */
+const track=document.getElementById("track");
+ACTS.forEach(a=>{
+  const d=document.createElement("div");
+  d.className="seg"; d.style.flex=(a.b-a.a);
+  d.style.background=a.n===5
+    ? "linear-gradient(90deg,#00FF78,#00C8FF)"
+    : a.hex;
+  d.innerHTML="<span>"+a.n+" "+a.name.toUpperCase()+"</span>";
+  track.appendChild(d);
+});
+S.forEach((s,i)=>{
+  const d=document.createElement("div");
+  d.className="tick"; d.style.flex=s.d; d.dataset.i=i;
+  d.style.background=i%2?"#0D1524":"#0A111D";
+  elTicks.appendChild(d);
+});
+const legend=document.getElementById("legend");
+ACTS.forEach(a=>{
+  const d=document.createElement("div");
+  d.innerHTML='<i style="background:'+(a.n===5?"linear-gradient(90deg,#00FF78,#00C8FF)":a.hex)+'"></i>'+
+    "<b>"+a.name+"</b> "+fmt(a.a)+"–"+fmt(a.b)+" · "+(a.b-a.a)+"s";
+  legend.appendChild(d);
+});
+
+/* build shot table */
+const table=document.getElementById("table");
+ACTS.forEach(a=>{
+  const h=document.createElement("h2"); h.className="actline";
+  h.innerHTML='<span class="n" style="color:'+(a.n===5?"#00FF78":a.hex)+'">'+a.n+"</span>"+a.name+
+    '<span class="win">'+fmt(a.a)+"–"+fmt(a.b)+" · "+(a.b-a.a)+"s</span>";
+  table.appendChild(h);
+  const note=document.createElement("p"); note.className="actnote"; note.textContent=a.note;
+  table.appendChild(note);
+  const box=document.createElement("div"); box.className="shots";
+  S.filter(s=>s.act===a.n).forEach(s=>{
+    const b=document.createElement("button");
+    b.className="shot"; b.type="button"; b.dataset.id=s.id;
+    let osd="";
+    if(s.lower) osd='<div class="osd cy">'+s.lower[0]+(s.lower[1]?" / "+s.lower[1]:"")+"</div>";
+    else if(s.osd) osd='<div class="osd '+(s.osdc||"")+'">'+s.osd+"</div>";
+    else if(s.card) osd='<div class="osd">'+s.card.filter(Boolean).join(" / ")+"</div>";
+    b.innerHTML='<div class="tcol"><b>'+fmt(s.t)+"</b><i>"+s.d+'s</i></div>'+
+      '<div><div class="name">'+s.id+" · "+s.name+"</div>"+
+      '<div class="say'+(s.vo?"":" none")+'">'+(s.vo||"No narration — sound design carries the shot.")+"</div>"+
+      osd+"</div>";
+    b.addEventListener("click",()=>{seek(s.t+0.05);});
+    box.appendChild(b);
+  });
+  table.appendChild(box);
+});
+const rows={}; document.querySelectorAll(".shot").forEach(r=>rows[r.dataset.id]=r);
+
+/* ── playback ─────────────────────────────────────────── */
+let playing=false, t=0, last=0, cur=-1;
+function seek(v){ t=Math.max(0,Math.min(TOTAL-0.01,v)); if(!playing) frame(performance.now(),true); }
+function setPlaying(v){
+  playing=v; elBtn.textContent=v?"❚❚ Pause":"▶ Play";
+  elBtn.style.color=v?"var(--cyan)":"var(--phosphor)";
+  if(v){last=performance.now(); requestAnimationFrame(frame);}
+}
+function frame(now,force){
+  if(playing){
+    t+=(now-last)/1000; last=now;
+    if(t>=TOTAL){t=TOTAL-0.01; setPlaying(false);}
+  } else if(!force) return;
+  const i=shotAt(t), s=S[i];
+  renderStage(s,t-s.t,t);
+  paintOverlay(s,t-s.t);
+  elTc.textContent=fmt(t);
+  elHead.style.left=(t/TOTAL*100)+"%";
+  if(i!==cur){
+    if(cur>=0) rows[S[cur].id].classList.remove("on");
+    rows[s.id].classList.add("on");
+    elTicks.children[i].classList.add("cur");
+    if(cur>=0) elTicks.children[cur].classList.remove("cur");
+    cur=i;
+  }
+  if(playing) requestAnimationFrame(frame);
+}
+elBtn.addEventListener("click",()=>setPlaying(!playing));
+document.getElementById("timeline").addEventListener("click",e=>{
+  const r=e.currentTarget.getBoundingClientRect();
+  seek((e.clientX-r.left)/r.width*TOTAL);
+});
+addEventListener("keydown",e=>{
+  if(e.target.tagName==="BUTTON"&&e.key!==" ") return;
+  if(e.key===" "){e.preventDefault();setPlaying(!playing);}
+  if(e.key==="ArrowRight"){e.preventDefault();seek(S[Math.min(S.length-1,shotAt(t)+1)].t+0.05);}
+  if(e.key==="ArrowLeft"){e.preventDefault();
+    const i=shotAt(t); seek(t-S[i].t<0.6?S[Math.max(0,i-1)].t+0.05:S[i].t+0.05);}
+});
+// resting frame
+frame(performance.now(),true);
+if(!REDUCED){ // gentle idle so the stage isn't a dead rectangle before first play
+  setInterval(()=>{ if(!playing) frame(performance.now(),true); },100);
+}
+</script>

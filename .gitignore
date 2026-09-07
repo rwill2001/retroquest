@@ -1,0 +1,29 @@
+/bin/
+/target/
+.settings/
+.metadata
+*.class
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Save games (runtime state)
+saves/
+*.sav
+
+# Eclipse IDE project files (Maven builds without these)
+.classpath
+.project
+
+# Claude Code local settings (personal overrides, not shared)
+.claude/settings.local.json
+
+# Runtime crash/diagnostic logs
+logs/
+
+# Generated classpath cache (rebuilt by the run-* launchers)
+cp.txt
+
+# Recorded footage — regenerate with tools/record.sh; the *shots* are versioned, not the video.
+/out

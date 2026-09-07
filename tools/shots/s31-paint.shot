@@ -1,0 +1,11 @@
+# Paint a world — pencil a coastline, then flood-fill a bay in one click, then undo it.
+# Coordinates are viewport tiles (0-33, 0-20), so the shot does not need to know where the
+# editor's camera was parked when it restored its last session.
+DESC="MapCanvas — pencil a coastline, fill a bay"
+SCENE=forge
+SECONDS_LEN=6
+MOVE="0.4:T:PENCIL;0.7:B:~;1.0:D:4,3,12,7;1.9:D:12,7,18,4;2.8:D:18,4,26,9;3.8:T:FILL;4.2:B:1;4.6:P:8,14"
+WIDTH=1920
+HEIGHT=1080
+CROP=1540:932:0:8
+PAD=1920:1080

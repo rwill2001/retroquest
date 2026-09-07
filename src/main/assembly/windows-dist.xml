@@ -1,0 +1,24 @@
+<assembly xmlns="http://maven.apache.org/ASSEMBLY/2.2.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/ASSEMBLY/2.2.0
+          http://maven.apache.org/xsd/assembly-2.2.0.xsd">
+    <id>windows</id>
+    <formats>
+        <format>zip</format>
+    </formats>
+    <includeBaseDirectory>true</includeBaseDirectory>
+    <baseDirectory>RetroQuest-Setup</baseDirectory>
+    <fileSets>
+        <fileSet>
+            <directory>${project.build.directory}</directory>
+            <outputDirectory>/</outputDirectory>
+            <includes>
+                <include>RetroQuest-Setup.exe</include>
+            </includes>
+        </fileSet>
+        <fileSet>
+            <directory>${project.build.directory}/jre</directory>
+            <outputDirectory>jre</outputDirectory>
+        </fileSet>
+    </fileSets>
+</assembly>

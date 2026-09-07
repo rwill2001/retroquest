@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(mvn:*)",
+      "Bash(export JAVA_HOME:*)",
+      "Bash(javac:*)",
+      "Bash(java:*)",
+      "Bash(jar tf:*)",
+      "Bash(jlink:*)",
+      "Bash(GSON:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(wc:*)",
+      "Bash(echo:*)",
+      "Bash(jq:*)",
+      "Bash(node -e:*)",
+      "Bash(export:*)",
+      "Bash(tasklist:*)",
+      "WebSearch"
+    ],
+    "deny": [
+      "Bash(rm -rf /:*)",
+      "Bash(git push --force:*)"
+    ]
+  },
+  "env": {
+    "JAVA_HOME": "C:/Program Files/Amazon Corretto/jdk26.0.0_35"
+  }
+}

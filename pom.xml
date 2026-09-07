@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.cannonforge</groupId>
+    <artifactId>retroquest</artifactId>
+    <version>0.9.0</version>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.4.2</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>io.cannonforge.retroquest.core.Retroquest</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+
+            <!-- 1. Game fat JAR (shade) -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+                <version>3.5.3</version>
+                <executions>
+                    <execution>
+                        <id>game-fat-jar</id>
+                        <phase>package</phase>
+                        <goals><goal>shade</goal></goals>
+                        <configuration>
+                            <!-- Otherwise shade rewrites dependency-reduced-pom.xml into the
+                                 project root on every package, which then gets committed. -->
+                            <createDependencyReducedPom>false</createDependencyReducedPom>
+                            <shadedArtifactAttached>true</shadedArtifactAttached>
+                            <shadedClassifierName>fat</shadedClassifierName>
+                            <transformers>
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                    <mainClass>io.cannonforge.retroquest.core.Retroquest</mainClass>
+                                </transformer>
+                            </transformers>
+                            <filters>
+                                <filter>
+                                    <artifact>*:*</artifact>
+                                    <excludes>
+                                        <exclude>io/cannonforge/installer/**</exclude>
+                                        <exclude>META-INF/*.SF</exclude>
+                                        <exclude>META-INF/*.DSA</exclude>
+                                        <exclude>META-INF/*.RSA</exclude>
+                                    </excludes>
+                                </filter>
+                            </filters>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
+        </plugins>
+    </build>
+
+    <profiles>
+        <!--
+            Distribution build: bundled JRE (jlink), installer JAR, Windows .exe
+            wrapper (Launch4j) and the release ZIP.
+
+            These are opt-in because jlink needs a full JDK with jmods and
+            Launch4j only produces a Windows executable, so wiring them into the
+            default lifecycle made a plain `mvn package` fail on any non-Windows
+            machine — and on a JRE-only or jmod-less JDK. Build a release with:
+
+                mvn -Pdist package
+        -->
+        <profile>
+            <id>dist</id>
+            <build>
+                <plugins>
+                <!-- 2. Add installer source root -->
+                <plugin>
+                    <groupId>org.codehaus.mojo</groupId>
+                    <artifactId>build-helper-maven-plugin</artifactId>
+                    <version>3.6.0</version>
+                    <executions>
+                        <execution>
+                            <id>add-installer-source</id>
+                            <phase>generate-sources</phase>
+                            <goals><goal>add-source</goal></goals>
+                            <configuration>
+                                <sources>
+                                    <source>src/installer/java</source>
+                                </sources>
+                            </configuration>
+                        </execution>
+                    </executions>
+                </plugin>
+
+                <!-- 3. jlink — build minimal bundled JRE -->
+                <!-- antrun deletes target/jre so jlink can re-create it on rebuild -->
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-antrun-plugin</artifactId>
+                    <version>3.1.0</version>
+                    <executions>
+                        <execution>
+                            <id>delete-jre-dir</id>
+                            <phase>package</phase>
+                            <goals><goal>run</goal></goals>
+                            <configuration>
+                                <target>
+                                    <delete dir="${project.build.directory}/jre" quiet="true"/>
+                                </target>
+                            </configuration>
+                        </execution>
+                    </executions>
+                </plugin>
+                <plugin>
+                    <groupId>org.codehaus.mojo</groupId>
+                    <artifactId>exec-maven-plugin</artifactId>
+                    <version>3.5.0</version>
+                    <executions>
+                        <execution>
+                            <id>jlink-jre</id>
+                            <phase>package</phase>
+                            <goals><goal>exec</goal></goals>
+                            <configuration>
+                                <executable>jlink</executable>
+                                <arguments>
+                                    <argument>--module-path</argument>
+                                    <argument>${java.home}/jmods</argument>
+                                    <argument>--no-header-files</argument>
+                                    <argument>--no-man-pages</argument>
+                                    <argument>--compress=2</argument>
+                                    <argument>--add-modules</argument>
+                                    <argument>java.desktop,java.logging,java.sql,java.prefs</argument>
+                                    <argument>--output</argument>
+                                    <argument>${project.build.directory}/jre</argument>
+                                </arguments>
+                            </configuration>
+                        </execution>
+                    </executions>
+                </plugin>
+
+                <!-- 4. Installer JAR (assembly) -->
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-assembly-plugin</artifactId>
+                    <version>3.7.1</version>
+                    <executions>
+                        <execution>
+                            <id>installer-jar</id>
+                            <phase>package</phase>
+                            <goals><goal>single</goal></goals>
+                            <configuration>
+                                <archive>
+                                    <manifest>
+                                        <mainClass>io.cannonforge.installer.Installer</mainClass>
+                                    </manifest>
+                                </archive>
+                                <descriptors>
+                                    <descriptor>src/main/assembly/installer.xml</descriptor>
+                                </descriptors>
+                                <finalName>retroquest-installer</finalName>
+                                <appendAssemblyId>false</appendAssemblyId>
+                            </configuration>
+                        </execution>
+                        <execution>
+                            <id>windows-dist-zip</id>
+                            <phase>verify</phase>
+                            <goals><goal>single</goal></goals>
+                            <configuration>
+                                <descriptors>
+                                    <descriptor>src/main/assembly/windows-dist.xml</descriptor>
+                                </descriptors>
+                                <finalName>RetroQuest-${project.version}</finalName>
+                                <appendAssemblyId>true</appendAssemblyId>
+                            </configuration>
+                        </execution>
+                    </executions>
+                </plugin>
+
+                <!-- 5. Windows .exe wrapper (Launch4j) -->
+                <plugin>
+                    <groupId>com.akathist.maven.plugins.launch4j</groupId>
+                    <artifactId>launch4j-maven-plugin</artifactId>
+                    <version>2.5.2</version>
+                    <executions>
+                        <execution>
+                            <id>wrap-installer-exe</id>
+                            <phase>package</phase>
+                            <goals><goal>launch4j</goal></goals>
+                            <configuration>
+                                <headerType>gui</headerType>
+                                <jar>${project.build.directory}/retroquest-installer.jar</jar>
+                                <outfile>${project.build.directory}/RetroQuest-Setup.exe</outfile>
+                                <dontWrapJar>false</dontWrapJar>
+                                <errTitle>RetroQuest Installer</errTitle>
+                                <icon>src/main/resources/retroquest.ico</icon>
+                                <classPath>
+                                    <mainClass>io.cannonforge.installer.Installer</mainClass>
+                                </classPath>
+                                <jre>
+                                    <path>jre</path>
+                                    <minVersion>17</minVersion>
+                                </jre>
+                                <versionInfo>
+                                    <fileVersion>0.9.0.0</fileVersion>
+                                    <txtFileVersion>0.9.0</txtFileVersion>
+                                    <fileDescription>RetroQuest Installer</fileDescription>
+                                    <copyright>Cannon Forge</copyright>
+                                    <productVersion>0.9.0.0</productVersion>
+                                    <txtProductVersion>0.9.0</txtProductVersion>
+                                    <productName>RetroQuest</productName>
+                                    <originalFilename>RetroQuest-Setup.exe</originalFilename>
+                                    <internalName>retroquest-installer</internalName>
+                                </versionInfo>
+                            </configuration>
+                        </execution>
+                    </executions>
+                </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.10.1</version>
+        </dependency>
+    </dependencies>
+</project>

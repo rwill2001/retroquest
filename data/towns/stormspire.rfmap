@@ -1,0 +1,1658 @@
+{
+  "type": "TOWN",
+  "name": "stormspire",
+  "width": 25,
+  "height": 25,
+  "interiorEntryX": 12,
+  "interiorEntryY": 23,
+  "tiles": [
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "F",
+      "F",
+      "Y",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "Y",
+      "F",
+      "F",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "v",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "v",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "A",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "@",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "k",
+      "k",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "N",
+      "m",
+      "n",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "i",
+      "j",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "S",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "n",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ]
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "initialTileStates": {},
+  "npcs": [
+    {
+      "id": "npc_ss_reva",
+      "name": "Reva",
+      "spriteName": "npcs/wizard",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 10,
+      "y": 6,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Precision in all things. I am Reva, stormcaller and keeper of the eastern trials. You seek the Key of Gales?",
+            "choices": [
+              {
+                "label": "I want to attempt your trial.",
+                "nextNodeId": "trial_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "stormspire_trial_reva",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "stormspire_trial_reva",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How's my trial progress?",
+                "nextNodeId": "trial_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "stormspire_trial_reva",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I have passed both trials. I claim the Key of Gales.",
+                "nextNodeId": "gale_trial_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "stormspire_trial_reva",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "stormspire_trial_milo",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "zephyrion_trial",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "zephyrion_trial",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How stands the Trial of the Gale?",
+                "nextNodeId": "gale_trial_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "zephyrion_trial",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "The Key of Gales is mine. What now?",
+                "nextNodeId": "gale_trial_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "zephyrion_trial",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about your approach to storms.",
+                "nextNodeId": "philosophy",
+                "conditions": []
+              },
+              {
+                "label": "What do you think of Milo?",
+                "nextNodeId": "milo_opinion",
+                "conditions": []
+              },
+              {
+                "label": "What is the Key of Gales?",
+                "nextNodeId": "key_of_gales_ask",
+                "conditions": []
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "trial_intro": {
+            "id": "trial_intro",
+            "text": "My trial tests discipline. Storm hawks terrorize the bridges — kill exactly three. Not two, not four. Three. Precision proves mastery. My brother would have you flail wildly. I demand control.",
+            "choices": [
+              {
+                "label": "I accept. Three Storm Hawks.",
+                "nextNodeId": "trial_accepted",
+                "conditions": []
+              },
+              {
+                "label": "I'll think about it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "trial_accepted": {
+            "id": "trial_accepted",
+            "text": "Good. The storm hawks nest on the overworld near the rope bridges and in the upper dungeon levels. Return to me when exactly three lie dead. You will receive a Windchime Fragment as proof of mastery.",
+            "choices": [
+              {
+                "label": "It will be done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "stormspire_trial_reva",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "trial_active": {
+            "id": "trial_active",
+            "text": "Three Storm Hawks. Not one more, not one less. Precision, traveler. Show me you understand the storm's rhythm.",
+            "choices": [
+              {
+                "label": "I'm working on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "philosophy": {
+            "id": "philosophy",
+            "text": "A storm is not chaos — it is a system of immense precision. Every bolt of lightning follows the path of least resistance. Every gust obeys pressure differentials. To master the storm, you must understand its mathematics. Milo sees only the surface fury. I see the equations beneath.",
+            "choices": [
+              {
+                "label": "An analytical approach.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "milo_opinion": {
+            "id": "milo_opinion",
+            "text": "My brother is brilliant and reckless in equal measure. He charges into the storm and somehow emerges unscathed. I calculate every step. We disagree on method, but... I worry about him. One day his luck will run out.",
+            "choices": [
+              {
+                "label": "Siblings.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The storm rewards precision. Remember that.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "gale_trial_offer": {
+            "id": "gale_trial_offer",
+            "text": "Two fragments. My discipline and my brother's abandon, both earned. Hold them together — hear that? One chime. The storm does not choose between control and fury; it is both, at once. That is the last lesson, and the Key of Gales answers only to those who have learned it. Six more foes, traveler. Not a tally — a proof. Fight them with precision and with abandon, and the gale will open the way west to the Verdant Mangroves.",
+            "choices": [
+              {
+                "label": "I accept the Trial of the Gale.",
+                "nextNodeId": "gale_trial_accepted",
+                "conditions": []
+              },
+              {
+                "label": "I am not ready.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "gale_trial_accepted": {
+            "id": "gale_trial_accepted",
+            "text": "Then go. Six. Come back when the storm has nothing left to teach you.",
+            "choices": [
+              {
+                "label": "It will be done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "zephyrion_trial",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Reva sets you the Trial of the Gale. The Key of Gales awaits.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "gale_trial_active": {
+            "id": "gale_trial_active",
+            "text": "Six foes. Precision and abandon, in the same breath. Do not count them like a merchant — fight them like weather.",
+            "choices": [
+              {
+                "label": "The storm is not finished with me yet.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "gale_trial_done": {
+            "id": "gale_trial_done",
+            "text": "The Key of Gales is yours. West of here the sky falls away into green — Sylvandar, where things grow without knowing when to stop. Take the portal at the south platform; the Wind Shepherd keeps its approach. And traveler — when you meet the Amber Sage, tell him a stormcaller sends her regards. He will pretend not to care.",
+            "choices": [
+              {
+                "label": "Thank you, Reva.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "key_of_gales_ask": {
+            "id": "key_of_gales_ask",
+            "text": "The Key of Gales is not given, it is proven. My brother Milo and I each keep a trial — mine tests discipline, his tests daring. Pass both, bring me the two windchime fragments, and I will set you the last one myself.",
+            "choices": [
+              {
+                "label": "Then I will pass both.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ss_milo",
+      "name": "Milo",
+      "spriteName": "npcs/bard",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 14,
+      "y": 6,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Ha! Another seeker! I'm Milo — the fun twin. You want the Key of Gales? Forget my sister's counting games. I've got a REAL trial for you.",
+            "choices": [
+              {
+                "label": "What's your trial?",
+                "nextNodeId": "trial_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "stormspire_trial_milo",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "stormspire_trial_milo",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How's my trial going?",
+                "nextNodeId": "trial_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "stormspire_trial_milo",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about your approach to storms.",
+                "nextNodeId": "philosophy",
+                "conditions": []
+              },
+              {
+                "label": "What do you think of Reva?",
+                "nextNodeId": "reva_opinion",
+                "conditions": []
+              },
+              {
+                "label": "See you around.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "trial_intro": {
+            "id": "trial_intro",
+            "text": "Reva wants you to count? Boring! Here's MY trial: fight EVERYTHING. Eight enemies. Any kind. Doesn't matter what. A storm doesn't discriminate, and neither should you. Show me fury!",
+            "choices": [
+              {
+                "label": "Eight kills? Easy.",
+                "nextNodeId": "trial_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Maybe later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "trial_accepted": {
+            "id": "trial_accepted",
+            "text": "That's the spirit! Go wild! The dungeon, the overworld, I don't care where. Come back with blood on your sword and a grin on your face. You'll earn a Windchime Fragment for your trouble!",
+            "choices": [
+              {
+                "label": "Let's go!",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "stormspire_trial_milo",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "trial_active": {
+            "id": "trial_active",
+            "text": "Still fighting? Good! Don't stop! Eight kills — anything that moves! Come back when the storm is satisfied!",
+            "choices": [
+              {
+                "label": "Almost there!",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "philosophy": {
+            "id": "philosophy",
+            "text": "A storm doesn't plan. It doesn't calculate. It EXPLODES. Pure energy, pure emotion, pure freedom. Reva thinks you can tame lightning with equations. I say you ride it. Feel it. Become it. That's how Zephyrion intended.",
+            "choices": [
+              {
+                "label": "A passionate approach.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "reva_opinion": {
+            "id": "reva_opinion",
+            "text": "Reva's the smartest person I know. And the most boring. She'd measure the wind speed before dancing in it. I love her, but someone needs to remind her that storms are supposed to be FUN. That someone is me.",
+            "choices": [
+              {
+                "label": "You balance each other.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Go make some noise! The storm is listening!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ss_acolyte",
+      "name": "Storm Acolyte",
+      "spriteName": "npcs/priest",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 12,
+      "y": 10,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to the Stormspire, Zephyrion's sacred temple. The trials of wind and lightning test all who seek the Key of Gales.",
+            "choices": [
+              {
+                "label": "What did the storm leave behind?",
+                "nextNodeId": "shard_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "zephyrion_trial",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "shard_of_freedom",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "shard_of_freedom",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about the trials.",
+                "nextNodeId": "trials",
+                "conditions": []
+              },
+              {
+                "label": "Who are the Tempest Twins?",
+                "nextNodeId": "twins",
+                "conditions": []
+              },
+              {
+                "label": "What is the Key of Gales?",
+                "nextNodeId": "key_lore",
+                "conditions": []
+              },
+              {
+                "label": "Thank you.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "trials": {
+            "id": "trials",
+            "text": "The twins each offer a trial. Reva's tests precision — a specific target, a specific count. Milo's tests raw power — overwhelming force. Both paths lead to Windchime Fragments, and ultimately to the Key of Gales. You may attempt both, but most seekers choose one path.",
+            "choices": [
+              {
+                "label": "Which do you recommend?",
+                "nextNodeId": "recommendation",
+                "conditions": []
+              },
+              {
+                "label": "Thanks.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "recommendation": {
+            "id": "recommendation",
+            "text": "I... shouldn't say. The acolytes are divided. Half follow Reva's discipline, half follow Milo's passion. Zephyrion seems to find our disagreement entertaining. Perhaps that's the real test.",
+            "choices": [
+              {
+                "label": "Interesting.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "twins": {
+            "id": "twins",
+            "text": "Reva and Milo, children of the previous Skykeeper. Born during the same storm — Reva at the lightning's flash, Milo at the thunder's roar. They've been arguing about the nature of storms ever since.",
+            "choices": [
+              {
+                "label": "Poetic.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "key_lore": {
+            "id": "key_lore",
+            "text": "The Key of Gales is crystallized lightning — a bolt frozen in time by Zephyrion himself. It hums with static and opens the passage to the next island. Only those who prove themselves worthy may claim it.",
+            "choices": [
+              {
+                "label": "I'll prove myself.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the wind guide your steps.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "shard_offer": {
+            "id": "shard_offer",
+            "text": "[The acolyte will not look at the alcove behind the altar.] When the twins finished their trial the storm did not stop — it set something down. A splinter of wind that never lands. We cannot destroy it and we will not keep it.",
+            "choices": [
+              {
+                "label": "Then give it to me.",
+                "nextNodeId": "shard_give",
+                "conditions": []
+              },
+              {
+                "label": "Leave it where it is.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shard_give": {
+            "id": "shard_give",
+            "text": "[It weighs nothing at all, and your hand will not close on it properly.] Carry it or break it. Zephyrion will not mind either way — that is rather the trouble with Zephyrion.",
+            "choices": [
+              {
+                "label": "I understand.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "shard_of_freedom",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "GIVE_ITEM",
+                "target": "shard_of_freedom",
+                "value": "",
+                "amount": 1
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ss_guardian",
+      "name": "Temple Guardian",
+      "spriteName": "npcs/knight",
+      "type": "GUARD",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 9,
+      "y": 12,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "I guard the inner sanctum. None pass without completing the trials. The altar above holds Zephyrion's blessing for the worthy.",
+            "choices": [
+              {
+                "label": "What's in the inner sanctum?",
+                "nextNodeId": "sanctum",
+                "conditions": []
+              },
+              {
+                "label": "Has anyone completed the trials recently?",
+                "nextNodeId": "recent",
+                "conditions": []
+              },
+              {
+                "label": "Understood.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "sanctum": {
+            "id": "sanctum",
+            "text": "The Eye of the Storm — Zephyrion's most sacred relic. They say it shows all possible futures, all possible skies. The Weathervane touched it once. You've seen what that did to her mind.",
+            "choices": [
+              {
+                "label": "I'll be careful.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "recent": {
+            "id": "recent",
+            "text": "Not in years. The last seeker made it through Reva's trial but broke under Milo's. Or was it the other way around? Either way, they left missing an eyebrow and gained a healthy respect for lightning.",
+            "choices": [
+              {
+                "label": "Encouraging.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The storm tests all. Stand firm.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ss_scribe",
+      "name": "Storm Scribe",
+      "spriteName": "npcs/sage",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 6,
+      "y": 21,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Shh... I'm recording the patterns. Every bolt of lightning that strikes the Stormspire, I record its direction, intensity, and timing. Seventeen years of data. The patterns are... troubling.",
+            "choices": [
+              {
+                "label": "What patterns?",
+                "nextNodeId": "patterns",
+                "conditions": []
+              },
+              {
+                "label": "What's troubling about them?",
+                "nextNodeId": "troubling",
+                "conditions": []
+              },
+              {
+                "label": "I won't disturb you.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "patterns": {
+            "id": "patterns",
+            "text": "Lightning doesn't strike randomly. There's a rhythm — a heartbeat in the storm. For fifteen years it was steady. Two years ago, it doubled in frequency. Six months ago, it tripled. Something is accelerating the cycle.",
+            "choices": [
+              {
+                "label": "What could cause that?",
+                "nextNodeId": "troubling",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "troubling": {
+            "id": "troubling",
+            "text": "The old records speak of this. Before the Godswar, when the Forge Eternal was whole, the storms were constant — a byproduct of divine creation. If someone is reforging the shards... the storms will grow. They'll consume the Archipelago. Then the world.",
+            "choices": [
+              {
+                "label": "That's... not good.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The data doesn't lie. Be warned.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ss_warden",
+      "name": "Storm Warden Kael",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "The Spire shelters all who brave the storm.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 8,
+      "y": 17,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A broad-shouldered woman in storm-grey armor stands near a crackling brazier.] The Stormspire offers sanctuary to those the wind favors. You look storm-battered. Need shelter?",
+            "choices": [
+              {
+                "label": "I'd like to rest. (Full heal, 30g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 30
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about the Stormspire.",
+                "nextNodeId": "about",
+                "conditions": []
+              },
+              {
+                "label": "I'm fine.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "The lightning rods keep the worst at bay. Sleep soundly — the storm watches over its own.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -30
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Thunder rumbles distantly as you sleep. You awaken fully restored.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "about": {
+            "id": "about",
+            "text": "The Stormspire is Zephyrion's seat of power — or the closest thing to it. The god doesn't sit on thrones. He IS the storm. This tower channels his will, and the acolytes here learn to listen. Reva and Milo lead the trials for those who seek his blessing.",
+            "choices": [
+              {
+                "label": "Sounds intense.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Keep your feet grounded and your eyes on the sky.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ss_supplier",
+      "name": "Lightning Forger Dax",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Storm-forged steel. Nothing hits harder.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "greater_healing",
+        "stormcaller_blade",
+        "windweave_armor",
+        "gale_shield",
+        "zephyr_helm",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "x": 19,
+      "y": 21,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A soot-covered smith hammers metal on an anvil that crackles with static.] Storm-forged gear. I temper every piece in lightning. Interested?",
+            "choices": [
+              {
+                "label": "Show me your stock.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "How do you forge with lightning?",
+                "nextNodeId": "forge",
+                "conditions": []
+              },
+              {
+                "label": "Not now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Every piece tested against a thunderbolt. If it survives, it's worthy.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "forge": {
+            "id": "forge",
+            "text": "The Stormspire attracts lightning constantly. I mounted a copper rod above my anvil. When the bolt hits, I hammer the metal at the exact moment of impact. The energy fuses into the steel. One wrong strike and the whole piece shatters. Or I do. Lost two fingers learning.",
+            "choices": [
+              {
+                "label": "Dedication. Let me see your work.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Respect.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Stay sharp. The storm doesn't forgive dull blades.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

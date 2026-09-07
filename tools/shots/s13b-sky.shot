@@ -1,0 +1,12 @@
+# Sky games — Zephyrion's races
+DESC="Sky games — Zephyrion's races"
+SCENE=town
+TOWN=cloudrest
+ISLAND=lirandel
+OVERLAY=sky
+XP=200000
+SECONDS_LEN=6
+MOVE="0.8:ENTER,1.8:ENTER,2.8:SPACE,3.6:SPACE,4.4:SPACE"
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

@@ -1,0 +1,1670 @@
+{
+  "type": "TOWN",
+  "name": "brightcoral",
+  "width": 20,
+  "height": 20,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "c",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "n",
+      "k",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "interiorEntryX": 10,
+  "interiorEntryY": 17,
+  "npcs": [
+    {
+      "id": "npc_brightcoral_oleander",
+      "name": "Lampwright Oleander",
+      "spriteName": "npcs/old_woman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "Sixty-one years I have fed that lamp.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Sixty-one years I have fed that lamp.\n[She nods up at a spire of coral where a small hard light is burning.] It was lit when I came. It was lit when my mother came. Thalorax will not let a light go out any more than he will let a drowned man go — but he does not feed it either. That part has always been somebody's hands.",
+            "choices": [
+              {
+                "label": "What is the lamp for?",
+                "nextNodeId": "lamp_info",
+                "conditions": []
+              },
+              {
+                "label": "You said it is failing.",
+                "nextNodeId": "lamp_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "undrowned_lamp_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still looking for lumen coral.",
+                "nextNodeId": "lamp_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_undrowned_lamp",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I have three lumen coral.",
+                "nextNodeId": "lamp_turnin",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_undrowned_lamp",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "HAS_ITEM",
+                    "target": "lumen_coral",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Does it still burn?",
+                "nextNodeId": "after_lit",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "lamp_relit",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "How is the dark treating you?",
+                "nextNodeId": "after_dark",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "lamp_let_dark",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Good light to you.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "lamp_info": {
+            "id": "lamp_info",
+            "text": "Ships. [She says it without any bitterness at all, which is somehow worse.] There have not been ships for four hundred years.\nThe reef folk think it is a monument. It is not a monument. A monument is finished. This is a chore.",
+            "choices": [
+              {
+                "label": "And now it is failing.",
+                "nextNodeId": "lamp_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "undrowned_lamp_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Somebody has to do the chores.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "lamp_offer": {
+            "id": "lamp_offer",
+            "text": "Sixty-one years and it has never once dimmed, and now it dims. The wick-coral is spent.\nThere is more of it out on the bone fields and in the hands of people who have been carrying a borrowed glow about for decades without ever wondering whose it was. Lure has one in her forehead. The Kelp-Keeper has one she uses as a paperweight. The coral merchant here has one he cannot sell because nobody will buy a light with somebody else's name on it.\nBring me three. Then you and I will decide together what to do with them, because I have been too close to this too long to decide it alone.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_undrowned_lamp",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "undrowned_lamp_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Undrowned Lamp",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "lamp_progress": {
+            "id": "lamp_progress",
+            "text": "Three. It is always three down here — three wards to a dome, three lamps to a spire, three days before the pressure decides about you. Go on.",
+            "choices": [
+              {
+                "label": "I will find them.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "lamp_turnin": {
+            "id": "lamp_turnin",
+            "text": "[She takes them one at a time and holds each up to her eye, and does not put any of them in the lamp.]\nNow. Here is the part I have never said out loud.\nI can pack this wick and it will burn another sixty years, and somebody's daughter will feed it, and she will not be asked either. Or I can not. Nobody is coming. The sea took the ships and Thalorax kept them, and every one of them is still down there in excellent condition, and not one of them needs a light.\nYou choose. I cannot.",
+            "choices": [
+              {
+                "label": "Pack the wick. Someone may still come.",
+                "nextNodeId": "lamp_relight",
+                "conditions": []
+              },
+              {
+                "label": "Let it go out. It has done enough.",
+                "nextNodeId": "lamp_dark",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "lamp_relight": {
+            "id": "lamp_relight",
+            "text": "[The light steadies, goes hard and white, and it is beautiful, and it will still be burning long after you are dead.]\nThalorax will like that. He likes a thing that does not stop. So did my mother. So, I find, do I.\nTake the coral-price. It is what the reef pays for a hundred years of somebody else's work, and it has been sitting in a jar since before you were born.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "the_undrowned_lamp",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "TAKE_ITEM",
+                "target": "lumen_coral",
+                "value": "",
+                "amount": 3
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "THALORAX",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "lamp_relit",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The spire lamp burns white and hard. It will outlast everyone here.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "lamp_dark": {
+            "id": "lamp_dark",
+            "text": "[She does not put the coral in the lamp. She puts it in her pocket. Some hours from now, from anywhere in Brightcoral, you will be able to tell the exact moment.]\nI have never seen this town in the dark. I am sixty-one years old and I have never once seen it.\nTake the coral-price; I have no use for it now. I am going to go and sit outside and look at the dark, and if the god has an opinion he can come and give it to me himself.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "the_undrowned_lamp",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "TAKE_ITEM",
+                "target": "lumen_coral",
+                "value": "",
+                "amount": 3
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "THALORAX",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "lamp_let_dark",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The spire lamp goes out for the first time in four hundred years.",
+                "value": "WARN",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "after_lit": {
+            "id": "after_lit",
+            "text": "Burning. It will outlast us. That is the whole of its virtue and the whole of its problem, and I have stopped being able to tell those apart.",
+            "choices": [
+              {
+                "label": "Good night, lampwright.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "after_dark": {
+            "id": "after_dark",
+            "text": "The reef sings lower without it. Nobody has complained. I think the whole town was waiting for somebody to be rude enough.",
+            "choices": [
+              {
+                "label": "Good night, lampwright.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Mind the bone fields. Everything out there is in excellent condition.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 5,
+      "y": 12
+    },
+    {
+      "id": "npc_brightcoral_elder",
+      "name": "Coral Builder Elder",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "The coral grows through us. We are becoming something new.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to Brightcoral, traveler. Beautiful, isn't it? The glow. The warmth. The coral embraces everything here — the walls, the lamps... and us. Slowly. Gently. We are becoming part of the reef.",
+            "choices": [
+              {
+                "label": "That sounds... alarming.",
+                "nextNodeId": "alarming",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about the coral.",
+                "nextNodeId": "coral_lore",
+                "conditions": []
+              },
+              {
+                "label": "Is there a way to stop it?",
+                "nextNodeId": "stop_it",
+                "conditions": []
+              },
+              {
+                "label": "The dome wards are cracking. Can the reef spare a fragment?",
+                "nextNodeId": "elder_ward",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "elder_gave_fragment",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "alarming": {
+            "id": "alarming",
+            "text": "Is it? My fingers are coral now — have been for years. They don't hurt. They glow in the dark. I can feel the reef's pulse through them. Is that alarming, or is it... communion?",
+            "choices": [
+              {
+                "label": "That's unsettling.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              },
+              {
+                "label": "Tell me more about the coral.",
+                "nextNodeId": "coral_lore",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "coral_lore": {
+            "id": "coral_lore",
+            "text": "The reef was here before us. It grew from the blood of the deep — from whatever Thalorax crushed and remade. The coral is alive in ways we don't understand. It doesn't consume us. It... includes us. Our children are born with coral in their skin now. They think it's natural.",
+            "choices": [
+              {
+                "label": "The children...",
+                "nextNodeId": "children",
+                "conditions": []
+              },
+              {
+                "label": "I've heard enough.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "children": {
+            "id": "children",
+            "text": "They glow, traveler. In the dark, they glow. And they hear things in the reef we cannot. Perhaps they are the next step. Perhaps Brightcoral is not a village — it's a cocoon.",
+            "choices": [
+              {
+                "label": "A cocoon for what?",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "stop_it": {
+            "id": "stop_it",
+            "text": "Stop it? Why would we stop it? Look around you. This is the most beautiful place in the Abyssal Depths. The coral protects us from the pressure, feeds us, lights our way. What it takes in return... well. We've made our peace.",
+            "choices": [
+              {
+                "label": "I understand.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Stay in the glow, traveler. The dark between the coral... that's where the real deep begins.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "elder_ward": {
+            "id": "elder_ward",
+            "text": "The reef grows a ward every century whether anyone needs it or not; it does not know how to stop making the thing it was made to make.\n[He breaks a humming wedge off a pillar without ceremony and hands it to you.] Take it to the Engineer. And tell her the reef says the dome is the wrong shape and always has been — she will know what I mean and she will ignore me, as she has for twenty years.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "pressure_ward_fragment",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "elder_gave_fragment",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 6,
+      "y": 7
+    },
+    {
+      "id": "npc_brightcoral_merchant",
+      "name": "Coral Merchant",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "The reef provides. Take what glows.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "abyssal_healing_draught",
+        "coral_shield",
+        "healing_potion",
+        "greater_healing",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations",
+        "honeyed_loaf"
+      ],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Everything here is coral-grown. Shields, draughts, remedies — the reef shapes them for us. We just harvest.",
+            "choices": [
+              {
+                "label": "Show me what the reef offers.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Oleander needs lumen coral. Do you have one?",
+                "nextNodeId": "merchant_lumen",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_undrowned_lamp",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "merchant_gave_lumen",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Not today.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Coral-forged. Pressure-hardened. The deep makes things strong.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The glow guides. Follow it home.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "merchant_lumen": {
+            "id": "merchant_lumen",
+            "text": "This thing? [He digs it out from under the counter.] Had it eleven years. Cannot shift it. Nobody down here will buy a light that came off somebody else — they all think it is watching.\nIt is not watching. It is just holding. It was handed a glow a hundred years ago and it has never once put it down, because nobody ever told it that it could.\nTake it. Free. Tell Oleander I said the lamp is a stupid lamp and I will miss it.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "lumen_coral",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "merchant_gave_lumen",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 14,
+      "y": 7
+    },
+    {
+      "id": "npc_brightcoral_child",
+      "name": "Coral-Child",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "The reef sings to me. Can you hear it?",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Hello! Your skin is so soft. Doesn't it hurt without coral? The reef says you're from the dry place. The place with no pressure. That sounds scary.",
+            "choices": [
+              {
+                "label": "The reef talks to you?",
+                "nextNodeId": "reef_talks",
+                "conditions": []
+              },
+              {
+                "label": "Don't you want to see the surface?",
+                "nextNodeId": "surface",
+                "conditions": []
+              },
+              {
+                "label": "Is something wrong?",
+                "nextNodeId": "stone_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "first_stone_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I asked Silt about the stone.",
+                "nextNodeId": "stone_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "brightcorals_first_stone",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "first_stone_done",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Goodbye, little one.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "reef_talks": {
+            "id": "reef_talks",
+            "text": "Always! It hums in my bones. The coral in my fingers tells me where the fish are, when the pressure changes, when something big swims overhead. It told me you were coming. It says you carry something heavy inside you — heavier than the ocean.",
+            "choices": [
+              {
+                "label": "That's... perceptive.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              },
+              {
+                "label": "What else does the reef say?",
+                "nextNodeId": "reef_more",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "reef_more": {
+            "id": "reef_more",
+            "text": "It says the Crushing Deep is watching you. Not angry-watching. Curious-watching. Like when I find a new shell. It wants to see what you'll do when the pressure gets too heavy. Everyone breaks eventually. The reef just wants to know how.",
+            "choices": [
+              {
+                "label": "...",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "surface": {
+            "id": "surface",
+            "text": "The dry place? No! The reef says there's nothing to hold you up there. No pressure, no glow, no singing. How do you know where you are if the water doesn't press against you? That sounds like floating forever with nothing touching you. That sounds like being alone.",
+            "choices": [
+              {
+                "label": "I suppose it does.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Bye-bye, soft one! The reef will remember you. It remembers everything.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "stone_offer": {
+            "id": "stone_offer",
+            "text": "When somebody drowns, the reef takes them and we set a stone and everybody comes and there's a song. It's a good song. I know all of it.\nMy mum didn't drown. She went up. [The child says 'up' the way you would say 'through a wall'.] There isn't a stone for that. I asked the Elder and he said there isn't a rite because it isn't a loss, and I said then why does it feel like one, and he went away.\nDepth-Warden Silt sits out on the shelf by the portal. He's older than the Elder and he doesn't go away. Ask him what stone you set for someone who is only gone.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "brightcorals_first_stone",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "first_stone_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Brightcoral's First Stone",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "stone_done": {
+            "id": "stone_done",
+            "text": "He said that? [She thinks about it for a long time — much longer than adults believe children think about things.]\n'The same stone. You just have to keep setting it, because she keeps on not being dead.'\nThat's horrible. That is the most horrible thing anybody has ever said to me.\n...I'm going to go and get a stone.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "first_stone_done",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 11,
+      "y": 16
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "maxDungeonDepth": 50,
+  "dungeonLevel": 1,
+  "initialTileStates": {}
+}

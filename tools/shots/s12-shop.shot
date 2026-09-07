@@ -1,0 +1,10 @@
+# Shop stock and prices
+DESC="Shop stock and prices"
+SCENE=town
+TOWN=moonhaven
+ISLAND=lirandel
+OVERLAY=shop
+SECONDS_LEN=5
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

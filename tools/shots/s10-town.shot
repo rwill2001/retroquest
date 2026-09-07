@@ -1,0 +1,11 @@
+# Town interior — shopfront, inn, NPCs at their posts
+DESC="Town interior — shopfront, inn, NPCs at their posts"
+SCENE=town
+TOWN=moonhaven
+ISLAND=lirandel
+SECONDS_LEN=5
+ZOOM=4
+MOVE="1:F,2:F,3:F"
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

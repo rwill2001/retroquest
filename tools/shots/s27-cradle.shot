@@ -1,0 +1,11 @@
+# The Cradle of Shards, deep enough that reflectivity and the prismatic split have
+# ramped. Slow forward drift down a hall so the mirror floor has something to reflect.
+DESC="The Cradle of Shards · level 6 · mirrored, escalating"
+ISLAND=bellorak
+DUNGEON=cradle_of_shards
+LEVEL=6
+SECONDS_LEN=5
+CAMERA_RATE=0.35
+MOVE="0.8:F,2.2:F,3.6:F"
+WIDTH=1920
+HEIGHT=1080
