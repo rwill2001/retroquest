@@ -1,0 +1,8 @@
+# Roll your hero — 3d6 per attribute, and what each roll actually buys. Three rerolls.
+DESC="Character creation — 3d6, and these rolls are PERMANENT"
+SCENE=chargen
+SECONDS_LEN=13
+MOVE="2.0:BTN:REROLL;4.0:BTN:REROLL;6.0:BTN:REROLL;8.0:BTN:REROLL;10.0:BTN:REROLL"
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

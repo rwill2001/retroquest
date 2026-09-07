@@ -1,0 +1,11 @@
+# Island 6 — the raycaster. A slow turn through the intermediate angles no band
+# renderer can draw. CAMERA_RATE stretches the game's 150ms turn to about a second so
+# the off-axis frames are actually visible; the renderer output is untouched.
+DESC="Island 6 · Archive of Tears · RAYCAST"
+ISLAND=umbryn
+DUNGEON=archive_of_tears
+SECONDS_LEN=8
+CAMERA_RATE=0.25
+MOVE="1.2:F,2.4:L,4.6:R,6.4:F"
+WIDTH=1920
+HEIGHT=1080

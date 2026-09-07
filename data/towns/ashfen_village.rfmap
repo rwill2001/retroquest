@@ -1,0 +1,1905 @@
+{
+  "type": "TOWN",
+  "name": "ashfen_village",
+  "width": 20,
+  "height": 20,
+  "interiorEntryX": 9,
+  "interiorEntryY": 19,
+  "tiles": [
+    [
+      ";",
+      ";",
+      "!",
+      "!",
+      "!",
+      ";",
+      "!",
+      "!",
+      "!",
+      "!",
+      ";",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      ";",
+      ";"
+    ],
+    [
+      ";",
+      "!",
+      ";",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      ";"
+    ],
+    [
+      "!",
+      ";",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      ";",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "!",
+      "!",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "u",
+      "v",
+      "m",
+      "m",
+      "l",
+      "W",
+      "!",
+      "!",
+      "W",
+      "l",
+      "m",
+      "m",
+      "m",
+      "n",
+      "W",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "l",
+      "W",
+      "!",
+      "!",
+      "W",
+      "l",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "m",
+      "m",
+      "i",
+      "j",
+      "m",
+      "W",
+      "!",
+      "!",
+      "W",
+      "m",
+      "m",
+      "i",
+      "j",
+      "m",
+      "W",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "!",
+      "!",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "n",
+      "W",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "!",
+      "!",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!"
+    ],
+    [
+      ";",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      ";"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "k",
+      "k",
+      "m",
+      "u",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "m",
+      "m",
+      "n",
+      "m",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "n",
+      "m",
+      "m",
+      "n",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!"
+    ],
+    [
+      "!",
+      "!",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "!",
+      "!",
+      "!",
+      "!",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "!"
+    ],
+    [
+      ";",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      ";"
+    ],
+    [
+      ";",
+      ";",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      "Y",
+      ";"
+    ],
+    [
+      ";",
+      "!",
+      "!",
+      "!",
+      "!",
+      ";",
+      "!",
+      "!",
+      "!",
+      "d",
+      "d",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      "!",
+      ";"
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "npc_ashfen_old_soot",
+      "name": "Old Soot",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 4,
+      "y": 14,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Heh... heh... the metal remembers, even when we forget. You smell of salt. Lirandel's child, are you?",
+            "choices": [
+              {
+                "label": "What do you know about this island?",
+                "nextNodeId": "island_lore",
+                "conditions": []
+              },
+              {
+                "label": "I'm looking for a missing forger — Aldric, from Cinderport.",
+                "nextNodeId": "missing_forger",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_missing_forger",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Know anyone who watches the volcano?",
+                "nextNodeId": "hermit_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "hermits_warning",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "hermits_warning",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Have you seen anyone else pass through here?",
+                "nextNodeId": "seraphine_hint",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "island_lore": {
+            "id": "island_lore",
+            "text": "Fire makes. Fire takes. Pyralis built these forges on stolen dreams — stole them right from the Serpent's belly. But dreams don't die easy... heh.",
+            "choices": [
+              {
+                "label": "Tell me more.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "seraphine_hint": {
+            "id": "seraphine_hint",
+            "text": "A woman... thirty winters past. Silver in her hair, fire in her eyes. She asked about 'the dreamer beneath the mountain.' Haven't stopped thinking about it since.",
+            "choices": [
+              {
+                "label": "Interesting...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "hermit_quest_intro": {
+            "id": "hermit_quest_intro",
+            "text": "Heh... Valdris. Lives on the eastern slopes, where the smoke never clears. Been up there twenty years, talking to the mountain. Most folk think he's mad, but I've seen things he predicted come true. You should find him — he has warnings worth hearing.",
+            "choices": [
+              {
+                "label": "I'll seek out this hermit.",
+                "nextNodeId": "hermit_quest_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Maybe later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "hermit_quest_accepted": {
+            "id": "hermit_quest_accepted",
+            "text": "Look for smoke that rises in a spiral — that's his signal fire. East of here, past the ash tree line, near the edge of the lava fields. Tell him Old Soot sent you. He might actually talk to you then. Heh.",
+            "choices": [
+              {
+                "label": "I'll find him.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "hermits_warning",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "missing_forger": {
+            "id": "missing_forger",
+            "text": "Aldric... aye, I know that name. Young man, strong arms, carried a firesteel pendant. Came through here three days back, heading toward the volcano's eastern vents. Said he'd found something in the deep slag — something alive. Heh... the mountain doesn't give things back easily.",
+            "choices": [
+              {
+                "label": "That's the lead I needed. Thank you.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Old Soot confirms Aldric headed toward the volcano's eastern vents.",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Heh... safe travels, salt-child.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ashfen_elder",
+      "name": "Village Elder",
+      "spriteName": "npcs/townsman",
+      "type": "HEALER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 5,
+      "y": 5,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to Ashfen, traveler. The ash feeds our crops, and the volcano keeps us warm.",
+            "choices": [
+              {
+                "label": "I need healing.",
+                "nextNodeId": "heal",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about Ashfen.",
+                "nextNodeId": "ashfen_lore",
+                "conditions": []
+              },
+              {
+                "label": "Is the village in any danger?",
+                "nextNodeId": "sprite_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "ember_sprite_menace",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "ember_sprite_menace",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How's the ember sprite situation?",
+                "nextNodeId": "sprite_quest_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "ember_sprite_menace",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "sprite_quest_intro": {
+            "id": "sprite_quest_intro",
+            "text": "Ember sprites have been setting fires near the granary. They're drawn to heat, and with the volcano grumbling more than usual, they've grown bold. I need someone to drive them off before we lose the harvest. Kill four of them and the rest should scatter.",
+            "choices": [
+              {
+                "label": "I'll deal with the sprites.",
+                "nextNodeId": "sprite_quest_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "sprite_quest_accepted": {
+            "id": "sprite_quest_accepted",
+            "text": "Bless you, traveler. The sprites gather near the volcanic vents on the overworld and in the dungeon. They're small but fierce — don't let their glow fool you.",
+            "choices": [
+              {
+                "label": "I'll take care of it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "ember_sprite_menace",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "sprite_quest_active": {
+            "id": "sprite_quest_active",
+            "text": "The sprites are still coming. Please hurry — another fire broke out near the eastern field last night.",
+            "choices": [
+              {
+                "label": "I'm working on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "heal": {
+            "id": "heal",
+            "text": "Rest now. The earth provides.",
+            "choices": [
+              {
+                "label": "Thank you.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "ashfen_lore": {
+            "id": "ashfen_lore",
+            "text": "We've farmed this soil for generations. The volcanic ash makes it richer than any lowland dirt. Pyralis watches over us from the mountain — some fear him, but we owe our harvest to his fire.",
+            "choices": [
+              {
+                "label": "I see.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the ash be gentle on your path.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ashfen_farmer",
+      "name": "Farmer",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "The soil here is the richest in all the islands. Volcanic ash makes everything grow twice as fast.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 14,
+      "y": 5
+    },
+    {
+      "id": "npc_ashfen_village_barmaid",
+      "name": "Wren",
+      "spriteName": "npcs/barmaid",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome, love! What can I get ya? The ale's fresh today.",
+            "choices": [
+              {
+                "label": "I'll have an ale. (3 gold)",
+                "nextNodeId": "serve_ale",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I'll have an ale. (3 gold)",
+                "nextNodeId": "no_gold",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_1",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "ashfen_village_rumor_1",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_2",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "ashfen_village_rumor_1",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "ashfen_village_rumor_2",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_3",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "ashfen_village_rumor_2",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Just passing through. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "serve_ale": {
+            "id": "serve_ale",
+            "text": "Here ya go, love. Drink up!",
+            "actions": [
+              {
+                "type": "SERVE_DRINK",
+                "target": "",
+                "value": "",
+                "amount": 3
+              }
+            ],
+            "choices": [
+              {
+                "label": "Another round!",
+                "nextNodeId": "serve_ale",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "That hit the spot. Thanks.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "no_gold": {
+            "id": "no_gold",
+            "text": "Looks like your purse is a bit light, dear. Come back when you've got the coin.",
+            "choices": [
+              {
+                "label": "I'll be back.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rumor_1": {
+            "id": "rumor_1",
+            "text": "The ash falls thicker every season. Old Soot says the mountain's breathing deeper. That old coot might be right for once.",
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "ashfen_village_rumor_1",
+                "value": "true",
+                "amount": 0
+              }
+            ],
+            "choices": [
+              {
+                "label": "Interesting...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "rumor_2": {
+            "id": "rumor_2",
+            "text": "Something's been killing the livestock at night. Not wolves â€” the wounds are all wrong. Burns, like something scorching hot touched them.",
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "ashfen_village_rumor_2",
+                "value": "true",
+                "amount": 0
+              }
+            ],
+            "choices": [
+              {
+                "label": "Interesting...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "rumor_3": {
+            "id": "rumor_3",
+            "text": "My gran used to tell stories about a garden hidden in the volcanic caves. Flowers that bloom in fire. Sounds like nonsense, but who knows?",
+            "actions": [
+              {
+                "type": "CLEAR_FLAG",
+                "target": "ashfen_village_rumor_1",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "CLEAR_FLAG",
+                "target": "ashfen_village_rumor_2",
+                "value": "",
+                "amount": 0
+              }
+            ],
+            "choices": [
+              {
+                "label": "Thanks for the gossip.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Come back anytime, love!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 10,
+      "y": 10
+    },
+    {
+      "id": "npc_ashfen_ashara",
+      "name": "Healer Ashara",
+      "spriteName": "npcs/alchemist",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 14,
+      "y": 14,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Easy now... I'm Ashara, the village healer. Burns, breaks, and blisters — that's my lot. The volcano gives and takes in equal measure.",
+            "choices": [
+              {
+                "label": "Do you need any help?",
+                "nextNodeId": "herb_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "ashfen_herb_collection",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "ashfen_herb_collection",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How's the potion collection going?",
+                "nextNodeId": "herb_quest_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "ashfen_herb_collection",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "What kind of injuries do you treat?",
+                "nextNodeId": "injuries",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about volcanic medicine.",
+                "nextNodeId": "medicine_lore",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "herb_quest_intro": {
+            "id": "herb_quest_intro",
+            "text": "Actually, yes. I'm running low on Pyralis Fire Potions. The volcanic minerals in them are the only thing that treats deep burns properly. I need three. You can buy them from the merchants in Cinderport, or you might find them in the dungeon.",
+            "choices": [
+              {
+                "label": "I'll get you three Fire Potions.",
+                "nextNodeId": "herb_quest_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "herb_quest_accepted": {
+            "id": "herb_quest_accepted",
+            "text": "Thank you! Kira's shop in Cinderport stocks them, or Merchant Bryn might have some. The villagers will be grateful.",
+            "choices": [
+              {
+                "label": "I'll be back with the potions.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "ashfen_herb_collection",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "herb_quest_active": {
+            "id": "herb_quest_active",
+            "text": "Still need those Fire Potions. Three of them. The burn ward is overflowing — the sprites have been worse than usual this season.",
+            "choices": [
+              {
+                "label": "I'm working on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "injuries": {
+            "id": "injuries",
+            "text": "Burns, mostly. The ember sprites leave nasty wounds that keep smoldering if you don't treat them right. Sometimes broken bones from the slag beasts charging through the fields. And the occasional forge guard who got too close to a lava vent.",
+            "choices": [
+              {
+                "label": "Sounds hard.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "medicine_lore": {
+            "id": "medicine_lore",
+            "text": "The volcanic minerals here have properties you won't find anywhere else. Pyralis Fire Potions can heal burns from the inside out. And there's a moss that grows near the lava vents — toxic raw, but boiled into a tea, it cures fever like nothing else. The mountain provides, if you know where to look.",
+            "choices": [
+              {
+                "label": "Fascinating.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Be careful out there. And if you get burned, come see me before it festers.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ashfen_korr",
+      "name": "Hunter Korr",
+      "spriteName": "npcs/ranger",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 10,
+      "y": 5,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "You move like someone who's seen combat. I'm Korr — I hunt the creatures that get too close to the village.",
+            "choices": [
+              {
+                "label": "What's the most dangerous thing on this island?",
+                "nextNodeId": "dangers",
+                "conditions": []
+              },
+              {
+                "label": "Any hunting tips?",
+                "nextNodeId": "tips",
+                "conditions": []
+              },
+              {
+                "label": "What do you know about the ash wraiths?",
+                "nextNodeId": "wraiths",
+                "conditions": []
+              },
+              {
+                "label": "Good hunting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "dangers": {
+            "id": "dangers",
+            "text": "The forge golems. Hands down. Metal bodies, lava joints, and they don't feel pain. The cult built them as guardians, but some went rogue when the volcano last erupted. You'll find them in the dungeon mostly. Hit the joints — that's where the lava seeps out. It's their weak point.",
+            "choices": [
+              {
+                "label": "Good to know.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "tips": {
+            "id": "tips",
+            "text": "Slag beasts are slow but hit hard. Keep your distance and strike when they wind up. Ember sprites are fast but fragile — one good hit usually does it. Lava serpents spit fire, so close the gap fast. And never fight an ash wraith alone at night. Their touch drains the life right out of you.",
+            "choices": [
+              {
+                "label": "Useful advice. Thanks.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "wraiths": {
+            "id": "wraiths",
+            "text": "The ash wraiths... they're not natural. Old Soot says they're the spirits of miners who died in the deep slag, twisted by volcanic gas. They drift through the lava fields at dusk, moaning like wind through cracked stone. Kill them with cold steel or magic — fire doesn't work. They're already made of it.",
+            "choices": [
+              {
+                "label": "Disturbing.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              },
+              {
+                "label": "Good hunting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch the ground out there. The ash hides sinkholes.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ashfen_innkeeper",
+      "name": "Innkeeper Magda",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "Ash in the air, but warm beds inside.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 8,
+      "y": 10,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A stout woman wipes ash from a counter with a practiced hand.] Welcome to the Ashen Rest. It's not fancy, but it's warm and the roof doesn't leak. Much. Need a bed?",
+            "choices": [
+              {
+                "label": "I'd like to rest. (Full heal, 20g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 20
+                  }
+                ]
+              },
+              {
+                "label": "How do you live so close to the volcano?",
+                "nextNodeId": "volcano",
+                "conditions": []
+              },
+              {
+                "label": "I'm fine.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "Sleep well. The ash keeps the bugs away, at least.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -20
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The warmth of volcanic soil seeps through the floor. You awaken fully restored.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "volcano": {
+            "id": "volcano",
+            "text": "You get used to the tremors. The ash falls like grey snow — sweep it off the porch each morning. The real danger is the slag beasts. They wander down from the lava fields at night. But Korr keeps watch, and the ash trees give warning — they glow when something hot gets close.",
+            "choices": [
+              {
+                "label": "Resourceful.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Shake the ash off your boots before you come in next time.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_ashfen_trader",
+      "name": "Trader Senna",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Salvage from the ash. Good prices.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "greater_healing",
+        "pyralis_fire_potion",
+        "antidote",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "x": 16,
+      "y": 9,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A lean woman sorts through crates of ash-coated goods.] I trade in salvage — things the volcano spits up and the forge-folk throw away. One person's slag is another's treasure. Browsing?",
+            "choices": [
+              {
+                "label": "Show me what you've got.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "What's the best find you've made?",
+                "nextNodeId": "find",
+                "conditions": []
+              },
+              {
+                "label": "Not today.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Dig through. The good stuff's at the bottom.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "find": {
+            "id": "find",
+            "text": "An ember heart. Still warm after thirty years in a slag heap. The forge-folk say it's a piece of Pyralis's own fire, crystallized. I sell them when I find them. They make excellent fuel for enchanted weapons — or very expensive hand warmers.",
+            "choices": [
+              {
+                "label": "Let me see your stock.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Good story.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch the lava flows on your way out. They shift.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": []
+}

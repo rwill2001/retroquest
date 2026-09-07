@@ -1,0 +1,11 @@
+# Islands 2-3 — first-person vector wireframe. Forward, through a door, turn left.
+# Path authored against ember_caverns_1: entry 20,20 faces a corridor 15 tiles deep with
+# a door at 20,17, and 17-19,17 open to the west of it.
+DESC="Islands 2-3 · Pyralis · WIREFRAME"
+ISLAND=pyralis
+DUNGEON=ember_caverns
+SECONDS_LEN=7
+CAMERA_RATE=0.4
+MOVE="1:F,2.1:F,3.2:F,4.4:L,5.5:F,6.2:F"
+WIDTH=1920
+HEIGHT=1080

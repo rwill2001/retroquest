@@ -1,0 +1,13 @@
+# Some of them don't let you leave. An Ancient Dragon at level 48, with noEscape set —
+# the state BossFightCoordinator puts the player in.
+DESC="Boss — Ancient Dragon, no escape"
+SCENE=combat
+ISLAND=bellorak
+MONSTER=factory_ancient_dragon
+XP=400000
+NO_ESCAPE=on
+SECONDS_LEN=4
+MOVE="1.4:A;2.8:A"
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

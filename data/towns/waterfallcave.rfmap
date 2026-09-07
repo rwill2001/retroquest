@@ -1,0 +1,302 @@
+{
+  "type": "TOWN",
+  "name": "waterfallcave",
+  "width": 12,
+  "height": 10,
+  "tiles": [
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "~",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ]
+  ],
+  "spawnDifficulty": [
+    [0,0,0,0,0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0,0,0,0,0]
+  ],
+  "interiorEntryX": 6,
+  "interiorEntryY": 8,
+  "npcs": [
+    {
+      "id": "npc_cave_ghost",
+      "name": "Ghostly Woman",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "My locket... please... find my locket somewhere in the dungeon depths. A creature took it from me when I fell.",
+      "questCompleteDialog": "You found it... my daughter\u0027s portrait... I can finally rest now. May Lirandel guide your path always.",
+      "questId": "waterfall_haunting",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "ghost_routing",
+        "nodes": {
+          "ghost_routing": {
+            "id": "ghost_routing",
+            "text": "...",
+            "choices": [
+              {
+                "label": "",
+                "nextNodeId": "ghost_at_rest",
+                "conditions": [
+                  { "type": "QUEST_COMPLETE", "target": "waterfall_haunting", "value": "", "amount": 0, "negate": false }
+                ]
+              },
+              {
+                "label": "",
+                "nextNodeId": "ghost_turnin",
+                "conditions": [
+                  { "type": "QUEST_ACTIVE", "target": "waterfall_haunting", "value": "", "amount": 0, "negate": false },
+                  { "type": "HAS_ITEM", "target": "silver_locket", "value": "", "amount": 1, "negate": false }
+                ]
+              },
+              {
+                "label": "",
+                "nextNodeId": "ghost_searching",
+                "conditions": [
+                  { "type": "QUEST_ACTIVE", "target": "waterfall_haunting", "value": "", "amount": 0, "negate": false },
+                  { "type": "HAS_ITEM", "target": "silver_locket", "value": "", "amount": 1, "negate": true }
+                ]
+              },
+              {
+                "label": "",
+                "nextNodeId": "ghost_plea",
+                "conditions": [
+                  { "type": "QUEST_COMPLETE", "target": "waterfall_haunting", "value": "", "amount": 0, "negate": true },
+                  { "type": "QUEST_ACTIVE", "target": "waterfall_haunting", "value": "", "amount": 0, "negate": true }
+                ]
+              }
+            ],
+            "actions": []
+          },
+          "ghost_plea": {
+            "id": "ghost_plea",
+            "text": "Please... find my locket. A creature took it from me when I fell here. It holds my daughter\u0027s portrait -- the only image I have left of her. Please, return it to me so I can rest.",
+            "choices": [
+              {
+                "label": "I\u0027ll search the dungeon depths for it.",
+                "nextNodeId": "ghost_quest_accept",
+                "conditions": []
+              },
+              {
+                "label": "I cannot help right now.",
+                "nextNodeId": "ghost_farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ghost_quest_accept": {
+            "id": "ghost_quest_accept",
+            "text": "Thank you... please hurry. I have wandered these stones for so long. I can feel myself fading.",
+            "choices": [
+              {
+                "label": "I\u0027ll return when I find it.",
+                "nextNodeId": "ghost_farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              { "type": "GIVE_QUEST", "target": "waterfall_haunting", "value": "", "amount": 0 },
+              { "type": "LOG_MESSAGE", "target": "Quest accepted: The Waterfall Haunting", "value": "INFO", "amount": 0 }
+            ]
+          },
+          "ghost_searching": {
+            "id": "ghost_searching",
+            "text": "The locket... my daughter\u0027s face is all I remember clearly now. Everything else has grown cold and dark. Have you searched the dungeon below?",
+            "choices": [
+              {
+                "label": "I\u0027ll keep looking.",
+                "nextNodeId": "ghost_farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ghost_turnin": {
+            "id": "ghost_turnin",
+            "text": "You found it... my daughter\u0027s portrait... I can finally rest now. May Lirandel guide your path always.",
+            "choices": [
+              {
+                "label": "Rest in peace.",
+                "nextNodeId": "ghost_farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              { "type": "COMPLETE_QUEST", "target": "waterfall_haunting", "value": "", "amount": 0 },
+              { "type": "TAKE_ITEM", "target": "silver_locket", "value": "", "amount": 1 },
+              { "type": "LOG_MESSAGE", "target": "The Ghostly Woman\u0027s form shimmers and fades into peaceful light.", "value": "INFO", "amount": 0 }
+            ]
+          },
+          "ghost_at_rest": {
+            "id": "ghost_at_rest",
+            "text": "Thank you, traveler. My daughter\u0027s portrait gives me peace. Go well -- and may Lirandel light your way.",
+            "choices": [
+              {
+                "label": "Farewell.",
+                "nextNodeId": "ghost_farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ghost_farewell": {
+            "id": "ghost_farewell",
+            "text": "*Her form flickers like candlelight and grows still.*",
+            "choices": [],
+            "actions": [
+              { "type": "CLOSE_DIALOGUE", "target": "", "value": "", "amount": 0 }
+            ]
+          }
+        }
+      },
+      "x": 6,
+      "y": 3
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "initialTileStates": {}
+}

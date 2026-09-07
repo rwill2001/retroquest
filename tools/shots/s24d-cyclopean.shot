@@ -1,0 +1,12 @@
+# Wall-style showcase — CYCLOPEAN, irregular polygonal stones fitted tight.
+# Forced to TEXTURED: Umbryn is a RAYCAST island, so a player never sees this
+# dungeon drawn by the wall painter. This clip is of the style, not of the island.
+DESC="forgotten_city · CYCLOPEAN, irregular polygonal stones fitted tight"
+ISLAND=umbryn
+DUNGEON=forgotten_city
+MODE=TEXTURED
+SECONDS_LEN=4
+CAMERA_RATE=0.4
+MOVE="1:F,2.4:F"
+WIDTH=1920
+HEIGHT=1080

@@ -1,0 +1,4113 @@
+[
+  {
+    "id": ".",
+    "name": "Grass",
+    "category": "Overworld",
+    "editorColor": -16731136,
+    "walkable": true,
+    "spriteKey": "overworld/grass",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "T",
+    "name": "Tree",
+    "category": "Overworld",
+    "editorColor": -16746496,
+    "walkable": true,
+    "spriteKey": "overworld/tree",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "#",
+    "name": "Mountain",
+    "category": "Overworld",
+    "editorColor": -10855846,
+    "walkable": false,
+    "spriteKey": "overworld/mountain",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "~",
+    "name": "Water",
+    "category": "Overworld",
+    "editorColor": -16756556,
+    "walkable": false,
+    "spriteKey": "overworld/water",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "C",
+    "name": "Cobblestone",
+    "category": "Overworld",
+    "editorColor": -4934476,
+    "walkable": true,
+    "spriteKey": "overworld/cobblestone",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "E",
+    "name": "Town Entrance",
+    "category": "Special",
+    "editorColor": -10496,
+    "walkable": true,
+    "spriteKey": "overworld/town_entrance",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "D",
+    "name": "Dungeon Entrance",
+    "category": "Overworld",
+    "editorColor": -4970476,
+    "walkable": true,
+    "spriteKey": "overworld/dungeon_entrance",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "O",
+    "name": "Overworld Portal",
+    "category": "System",
+    "editorColor": -16725761,
+    "walkable": true,
+    "spriteKey": "overworld/teleporter",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "W",
+    "name": "Stone Wall",
+    "category": "Town",
+    "editorColor": -10197906,
+    "walkable": false,
+    "spriteKey": "town/stone_wall",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "F",
+    "name": "Floor",
+    "category": "Town",
+    "editorColor": -12171716,
+    "walkable": true,
+    "spriteKey": "town/floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "c",
+    "name": "Counter",
+    "category": "Town",
+    "editorColor": -7644632,
+    "walkable": false,
+    "spriteKey": "town/counter",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "d",
+    "name": "Wooden Door",
+    "category": "Town",
+    "editorColor": -7650029,
+    "walkable": true,
+    "spriteKey": "town/wooden_door",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "S",
+    "name": "Signpost",
+    "category": "Town",
+    "editorColor": -3308225,
+    "walkable": true,
+    "spriteKey": "town/signpost",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "P",
+    "name": "Pit",
+    "category": "Dungeon",
+    "editorColor": -15462646,
+    "walkable": true,
+    "spriteKey": "dungeon/pit",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "q",
+    "name": "Riddle Door",
+    "category": "Dungeon",
+    "editorColor": -6591611,
+    "walkable": true,
+    "spriteKey": "dungeon/door",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A door etched with glowing runes. It asks before it opens.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "t",
+    "name": "Teleporter",
+    "category": "Dungeon",
+    "editorColor": -16725761,
+    "walkable": true,
+    "spriteKey": "dungeon/teleporter",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "s",
+    "name": "Stairway",
+    "category": "Dungeon",
+    "editorColor": -10197926,
+    "walkable": true,
+    "spriteKey": "dungeon/stairway",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "A",
+    "name": "Altar",
+    "category": "Dungeon",
+    "editorColor": -8882036,
+    "walkable": true,
+    "spriteKey": "dungeon/altar",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "f",
+    "name": "Fountain",
+    "category": "Dungeon",
+    "editorColor": -12829616,
+    "walkable": true,
+    "spriteKey": "dungeon/fountain",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "g",
+    "name": "Glowing Cube",
+    "category": "Dungeon",
+    "editorColor": -10172161,
+    "walkable": true,
+    "spriteKey": "dungeon/cube",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "H",
+    "name": "Throne",
+    "category": "Dungeon",
+    "editorColor": -7650029,
+    "walkable": true,
+    "spriteKey": "dungeon/throne",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "B",
+    "name": "Treasure Chest",
+    "category": "Dungeon",
+    "editorColor": -10140895,
+    "walkable": true,
+    "spriteKey": "dungeon/box",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "I",
+    "name": "Inn",
+    "category": "Dungeon",
+    "editorColor": -4955076,
+    "walkable": true,
+    "spriteKey": "dungeon/inn",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "L",
+    "name": "Lava",
+    "category": "Dungeon",
+    "editorColor": -45056,
+    "walkable": true,
+    "spriteKey": "dungeon/lava",
+    "isLiquid": true,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 4,
+    "stepSound": "step_lava",
+    "encounterRateMod": 1.8,
+    "description": "Molten lava burns anything that touches it.",
+    "onStepEffect": {
+      "type": "damage",
+      "params": {
+        "amount": "8",
+        "message": "The lava scorches you!"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "m",
+    "name": "Wood Floor",
+    "category": "Town",
+    "editorColor": -6265806,
+    "walkable": true,
+    "spriteKey": "town/wood_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_wood",
+    "encounterRateMod": 1,
+    "description": "Wooden plank floor.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "N",
+    "name": "Forge",
+    "category": "Town",
+    "editorColor": -3649516,
+    "walkable": false,
+    "spriteKey": "town/forge",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A blacksmith's forge.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "M",
+    "name": "Pillar",
+    "category": "Town",
+    "editorColor": -4277841,
+    "walkable": false,
+    "spriteKey": "town/pillar",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A stone column.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "Q",
+    "name": "Well",
+    "category": "Town",
+    "editorColor": -10200506,
+    "walkable": false,
+    "spriteKey": "town/well",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A stone well.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "X",
+    "name": "Town Tree",
+    "category": "Town",
+    "editorColor": -16746496,
+    "walkable": false,
+    "spriteKey": "town/town_tree",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A small tree.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "Y",
+    "name": "Plant",
+    "category": "Town",
+    "editorColor": -13459406,
+    "walkable": false,
+    "spriteKey": "town/plant",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A decorative potted plant.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "Z",
+    "name": "Brick Wall",
+    "category": "Town",
+    "editorColor": -6277346,
+    "walkable": false,
+    "spriteKey": "town/brick_wall",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Red brick wall.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "'",
+    "name": "Town Grass",
+    "category": "Town",
+    "editorColor": -12953050,
+    "walkable": true,
+    "spriteKey": "town/grass",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Well-tended garden grass.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "@",
+    "name": "Fountain",
+    "category": "Town",
+    "editorColor": -14790516,
+    "walkable": false,
+    "spriteKey": "town/fountain",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A stone fountain with flowing water.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "|",
+    "name": "Locked Wooden Door",
+    "category": "Town",
+    "editorColor": -10208236,
+    "walkable": false,
+    "spriteKey": "town/locked_wooden_door",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A locked wooden door.",
+    "onStepEffect": {
+      "type": "locked_door",
+      "params": {
+        "unlockedTileId": "d",
+        "lockedMessage": "The door is locked. You need a rusty key.",
+        "message": "You unlock the door.",
+        "requiredKeyId": "rusty_key"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "[",
+    "name": "Locked Iron Gate",
+    "category": "Dungeon",
+    "editorColor": -11512486,
+    "walkable": false,
+    "spriteKey": "dungeon/locked_iron_gate",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A locked iron gate.",
+    "onStepEffect": {
+      "type": "locked_door",
+      "params": {
+        "unlockedTileId": "F",
+        "lockedMessage": "The iron gate is locked. You need an iron key.",
+        "message": "The gate swings open.",
+        "requiredKeyId": "iron_key"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "{",
+    "name": "Magic Barrier",
+    "category": "Dungeon",
+    "editorColor": -11518796,
+    "walkable": false,
+    "spriteKey": "dungeon/magic_barrier",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A shimmering magical barrier.",
+    "onStepEffect": {
+      "type": "locked_door",
+      "params": {
+        "unlockedTileId": "F",
+        "lockedMessage": "The barrier pulses with arcane energy. A magic crystal might break it.",
+        "message": "The barrier dissolves in a flash of light.",
+        "requiredKeyId": "magic_crystal"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter A",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/A",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter B",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/B",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter C",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/C",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter D",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/D",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter E",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/E",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter F",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/F",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter G",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/G",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter H",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/H",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter I",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/I",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter J",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/J",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter K",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/K",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter L",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/L",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter M",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/M",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter N",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/N",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter O",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/O",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter P",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/P",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter Q",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/Q",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter R",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/R",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter S",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/S",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter T",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/T",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter U",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/U",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter V",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/V",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter W",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/W",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter X",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/X",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter Y",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/Y",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Letter Z",
+    "category": "Town",
+    "editorColor": -14256,
+    "walkable": true,
+    "spriteKey": "letters/Z",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Decorative letter tile.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "w",
+    "name": "River NS",
+    "category": "Overworld",
+    "editorColor": -14129976,
+    "walkable": false,
+    "spriteKey": "overworld/river_ns",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A flowing river.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "r",
+    "name": "Road NS",
+    "category": "Overworld",
+    "editorColor": -6260666,
+    "walkable": true,
+    "spriteKey": "overworld/dirt_road",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "A worn dirt path.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "1",
+    "name": "Sand",
+    "category": "Overworld",
+    "editorColor": -2965886,
+    "walkable": true,
+    "spriteKey": "overworld/sand",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.6,
+    "description": "Sandy beach terrain.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "2",
+    "name": "Hills",
+    "category": "Overworld",
+    "editorColor": -11498446,
+    "walkable": true,
+    "spriteKey": "overworld/hills",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.2,
+    "description": "Rolling green hills.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "3",
+    "name": "Dense Forest",
+    "category": "Overworld",
+    "editorColor": -15446001,
+    "walkable": true,
+    "spriteKey": "overworld/tall_grass",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.5,
+    "description": "Thick forest undergrowth.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "vine_strangler": 4,
+      "spore_phantom": 4,
+      "canopy_stalker": 4,
+      "root_golem": 4,
+      "blight_mother": 4
+    }
+  },
+  {
+    "id": "p",
+    "name": "Poison Marsh",
+    "category": "Overworld",
+    "editorColor": -10208136,
+    "walkable": true,
+    "spriteKey": "overworld/poisongrass",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.3,
+    "description": "Noxious swamp grass.",
+    "onStepEffect": {
+      "type": "damage",
+      "params": {
+        "amount": "2"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "^",
+    "name": "Bridge",
+    "category": "Overworld",
+    "editorColor": -7576536,
+    "walkable": true,
+    "spriteKey": "overworld/bridge",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_wood",
+    "encounterRateMod": 0,
+    "description": "A wooden bridge.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "J",
+    "name": "Ruins Interior",
+    "category": "Overworld",
+    "editorColor": -8224136,
+    "walkable": true,
+    "spriteKey": "overworld/cobblestone",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Interior of an ancient ruin.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "9",
+    "name": "River EW",
+    "category": "Overworld",
+    "editorColor": -14129976,
+    "walkable": false,
+    "spriteKey": "overworld/river_ew",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A flowing river (east-west).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "a",
+    "name": "River NE",
+    "category": "Overworld",
+    "editorColor": -14129976,
+    "walkable": false,
+    "spriteKey": "overworld/river_ne",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "River bend (north to east).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "b",
+    "name": "River NW",
+    "category": "Overworld",
+    "editorColor": -14129976,
+    "walkable": false,
+    "spriteKey": "overworld/river_nw",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "River bend (north to west).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "e",
+    "name": "River SE",
+    "category": "Overworld",
+    "editorColor": -14129976,
+    "walkable": false,
+    "spriteKey": "overworld/river_se",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "River bend (south to east).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "h",
+    "name": "River SW",
+    "category": "Overworld",
+    "editorColor": -14129976,
+    "walkable": false,
+    "spriteKey": "overworld/river_sw",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "River bend (south to west).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "4",
+    "name": "Road EW",
+    "category": "Overworld",
+    "editorColor": -6260666,
+    "walkable": true,
+    "spriteKey": "overworld/dirt_road_ew",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "A dirt road (east-west).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "5",
+    "name": "Road NE",
+    "category": "Overworld",
+    "editorColor": -6260666,
+    "walkable": true,
+    "spriteKey": "overworld/dirt_road_ne",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "Road bend (north to east).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "6",
+    "name": "Road NW",
+    "category": "Overworld",
+    "editorColor": -6260666,
+    "walkable": true,
+    "spriteKey": "overworld/dirt_road_nw",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "Road bend (north to west).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "7",
+    "name": "Road SE",
+    "category": "Overworld",
+    "editorColor": -6260666,
+    "walkable": true,
+    "spriteKey": "overworld/dirt_road_se",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "Road bend (south to east).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "8",
+    "name": "Road SW",
+    "category": "Overworld",
+    "editorColor": -6260666,
+    "walkable": true,
+    "spriteKey": "overworld/dirt_road_sw",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "Road bend (south to west).",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "K",
+    "name": "Brick Floor",
+    "category": "Town",
+    "editorColor": -8367554,
+    "walkable": true,
+    "spriteKey": "town/brick_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "A floor of laid brick.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "k",
+    "name": "Bookshelf",
+    "category": "Town",
+    "editorColor": -10863586,
+    "walkable": false,
+    "spriteKey": "town/bookshelf",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A tall bookshelf packed with tomes.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "j",
+    "name": "Chair",
+    "category": "Town",
+    "editorColor": -8892376,
+    "walkable": true,
+    "spriteKey": "town/chair",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_wood",
+    "encounterRateMod": 0,
+    "description": "A wooden chair.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "i",
+    "name": "Table",
+    "category": "Town",
+    "editorColor": -8234446,
+    "walkable": false,
+    "spriteKey": "town/table",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A sturdy wooden table.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "l",
+    "name": "Bed",
+    "category": "Town",
+    "editorColor": -7589326,
+    "walkable": false,
+    "spriteKey": "town/bed",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A bed with a red blanket.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "n",
+    "name": "Barrel",
+    "category": "Town",
+    "editorColor": -10205661,
+    "walkable": false,
+    "spriteKey": "town/barrel",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A wooden storage barrel.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "o",
+    "name": "Carpet",
+    "category": "Town",
+    "editorColor": -6281176,
+    "walkable": true,
+    "spriteKey": "town/carpet",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A decorative woven carpet.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "u",
+    "name": "Fireplace",
+    "category": "Town",
+    "editorColor": -3644386,
+    "walkable": false,
+    "spriteKey": "town/fireplace",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A stone fireplace with a warm fire.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "v",
+    "name": "Wall Torch",
+    "category": "Town",
+    "editorColor": -3628996,
+    "walkable": false,
+    "spriteKey": "town/wall_torch",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A torch mounted on the wall.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "x",
+    "name": "Moon Altar",
+    "category": "Town",
+    "editorColor": -7561016,
+    "walkable": false,
+    "spriteKey": "town/moon_altar",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A crescent altar radiating silver light.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "y",
+    "name": "Stained Glass",
+    "category": "Town",
+    "editorColor": -12824416,
+    "walkable": false,
+    "spriteKey": "town/stained_glass",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A stained glass window depicting the moon.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "z",
+    "name": "Ornate Rug",
+    "category": "Town",
+    "editorColor": -10213256,
+    "walkable": true,
+    "spriteKey": "town/ornate_rug",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A purple rug with silver crescent motif.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "!",
+    "name": "Volcanic Rock",
+    "category": "Overworld",
+    "editorColor": -12832211,
+    "walkable": true,
+    "spriteKey": "overworld/volcanic_rock",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Dark basalt rock with orange veins.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "slag_beast": 4,
+      "ember_sprite": 4,
+      "forge_golem": 6,
+      "ash_wraith": 4,
+      "lava_serpent": 4
+    }
+  },
+  {
+    "id": "$",
+    "name": "Ash Plains",
+    "category": "Overworld",
+    "editorColor": -9543856,
+    "walkable": true,
+    "spriteKey": "overworld/ash_plains",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.8,
+    "description": "Scorched ash-covered terrain.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "slag_beast": 3,
+      "ember_sprite": 6,
+      "ash_wraith": 6,
+      "forge_golem": 4,
+      "lava_serpent": 3
+    }
+  },
+  {
+    "id": "%",
+    "name": "Lava Flow",
+    "category": "Overworld",
+    "editorColor": -2338796,
+    "walkable": true,
+    "spriteKey": "overworld/lava_flow",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Flowing molten lava.",
+    "onStepEffect": {
+      "type": "damage",
+      "params": {
+        "amount": "5",
+        "message": "The lava scorches you!"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "&",
+    "name": "Volcanic Mountain",
+    "category": "Overworld",
+    "editorColor": -13490141,
+    "walkable": false,
+    "spriteKey": "overworld/volcanic_mountain",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A dark volcanic peak.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": ")",
+    "name": "Slag Heap",
+    "category": "Overworld",
+    "editorColor": -12173001,
+    "walkable": false,
+    "spriteKey": "overworld/slag_heap",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A jagged mound of metallic slag.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": ":",
+    "name": "Volcanic Sand",
+    "category": "Overworld",
+    "editorColor": -10858436,
+    "walkable": true,
+    "spriteKey": "overworld/volcanic_sand",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.6,
+    "description": "Dark sand with obsidian flecks.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "slag_beast": 5,
+      "ember_sprite": 3,
+      "forge_golem": 2,
+      "ash_wraith": 2,
+      "lava_serpent": 2
+    }
+  },
+  {
+    "id": ";",
+    "name": "Ash Tree",
+    "category": "Overworld",
+    "editorColor": -11516356,
+    "walkable": false,
+    "spriteKey": "overworld/ash_tree",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A charred, leafless tree.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "(",
+    "name": "Obsidian Floor",
+    "category": "Town",
+    "editorColor": -15461351,
+    "walkable": true,
+    "spriteKey": "town/obsidian_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Black glossy obsidian tiles.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "*",
+    "name": "Forge Floor",
+    "category": "Town",
+    "editorColor": -11521506,
+    "walkable": true,
+    "spriteKey": "town/forge_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Warm stone floor with embedded embers.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "+",
+    "name": "Ember Grate",
+    "category": "Town",
+    "editorColor": -3644396,
+    "walkable": false,
+    "spriteKey": "town/ember_grate",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "An iron grate over glowing embers.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "-",
+    "name": "Lava Channel",
+    "category": "Town",
+    "editorColor": -3654646,
+    "walkable": false,
+    "spriteKey": "town/lava_channel",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 4,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A narrow channel of flowing lava.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "G",
+    "name": "Portal to Pyralis",
+    "category": "Special",
+    "editorColor": -2328546,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A shimmering portal to the Forged Isles.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "lockedMessage": "The portal shimmers but remains sealed. You need the Key of Tides.",
+        "y": "92",
+        "x": "20",
+        "requiredKeyId": "key_of_tides",
+        "map": "pyralis"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "U",
+    "name": "Return Portal",
+    "category": "Special",
+    "editorColor": -14780196,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A shimmering portal back to Lirandel.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "y": "84",
+        "x": "54",
+        "map": "lirandel"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "`",
+    "name": "Sky Void",
+    "category": "Overworld",
+    "editorColor": -15460046,
+    "walkable": false,
+    "spriteKey": "overworld/sky_void",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "The endless sky between floating islands.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "]",
+    "name": "Cloud Platform",
+    "category": "Overworld",
+    "editorColor": -3616026,
+    "walkable": true,
+    "spriteKey": "overworld/cloud_platform",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.5,
+    "description": "A solid cloud formation, walkable.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "storm_hawk": 5,
+      "gale_spirit": 4,
+      "sky_raider": 4,
+      "thunder_elemental": 4,
+      "cloud_wraith": 4
+    }
+  },
+  {
+    "id": "_",
+    "name": "Sky Grass",
+    "category": "Overworld",
+    "editorColor": -12809126,
+    "walkable": true,
+    "spriteKey": "overworld/sky_grass",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Blue-green grass on a floating island.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "storm_hawk": 5,
+      "gale_spirit": 4,
+      "sky_raider": 4,
+      "thunder_elemental": 4,
+      "cloud_wraith": 4
+    }
+  },
+  {
+    "id": "=",
+    "name": "Sky Rock",
+    "category": "Overworld",
+    "editorColor": -10196616,
+    "walkable": true,
+    "spriteKey": "overworld/sky_rock",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.2,
+    "description": "Grey-blue stone veined with lightning.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "storm_hawk": 5,
+      "gale_spirit": 4,
+      "sky_raider": 4,
+      "thunder_elemental": 4,
+      "cloud_wraith": 4
+    }
+  },
+  {
+    "id": "<",
+    "name": "Storm Cloud",
+    "category": "Overworld",
+    "editorColor": -13488831,
+    "walkable": true,
+    "spriteKey": "overworld/storm_cloud",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 2,
+    "description": "A crackling storm cloud. Lightning strikes the unwary.",
+    "onStepEffect": {
+      "type": "damage",
+      "params": {
+        "amount": "3",
+        "message": "Lightning crackles through the storm cloud!"
+      }
+    },
+    "spawnWeights": {
+      "storm_hawk": 5,
+      "gale_spirit": 4,
+      "sky_raider": 4,
+      "thunder_elemental": 4,
+      "cloud_wraith": 4
+    }
+  },
+  {
+    "id": ">",
+    "name": "Lightning Rod",
+    "category": "Overworld",
+    "editorColor": -4924161,
+    "walkable": true,
+    "spriteKey": "overworld/lightning_rod",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A tall lightning rod. Safe from storms.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "\\",
+    "name": "Sky Tree",
+    "category": "Overworld",
+    "editorColor": -13461916,
+    "walkable": false,
+    "spriteKey": "overworld/sky_tree",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A wind-blown tree with streaming leaves.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "V",
+    "name": "Portal to Storm Archipelago",
+    "category": "Special",
+    "editorColor": -10177281,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A crackling portal to the Storm Archipelago.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "requiredKeyId": "key_of_embers",
+        "x": "110",
+        "y": "78",
+        "lockedMessage": "The portal crackles with static but remains sealed. You need the Key of Embers.",
+        "map": "zephyrion"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Dense Forest",
+    "category": "Overworld",
+    "editorColor": -15782636,
+    "walkable": true,
+    "spriteKey": "overworld/dense_forest",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.5,
+    "description": "Thick canopy of ancient trees.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "vine_strangler": 4,
+      "spore_phantom": 4,
+      "canopy_stalker": 4,
+      "root_golem": 4,
+      "blight_mother": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Giant Tree",
+    "category": "Overworld",
+    "editorColor": -12505831,
+    "walkable": false,
+    "spriteKey": "overworld/giant_tree",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A massive ancient tree, towering above the canopy.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Mangrove Swamp",
+    "category": "Overworld",
+    "editorColor": -14798301,
+    "walkable": true,
+    "spriteKey": "overworld/mangrove_swamp",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.8,
+    "description": "Murky swamp with tangled roots.",
+    "onStepEffect": {
+      "type": "damage",
+      "params": {
+        "message": "The swamp water stings your legs!",
+        "amount": "2"
+      }
+    },
+    "spawnWeights": {
+      "vine_strangler": 4,
+      "spore_phantom": 4,
+      "canopy_stalker": 4,
+      "root_golem": 4,
+      "blight_mother": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Moss Ground",
+    "category": "Overworld",
+    "editorColor": -14133981,
+    "walkable": true,
+    "spriteKey": "overworld/moss_ground",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "Soft moss-covered ground.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "vine_strangler": 4,
+      "spore_phantom": 4,
+      "canopy_stalker": 4,
+      "root_golem": 4,
+      "blight_mother": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Bioluminescent Fungi",
+    "category": "Overworld",
+    "editorColor": -14764916,
+    "walkable": true,
+    "spriteKey": "overworld/bioluminescent_fungi",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.2,
+    "description": "Glowing mushrooms light the forest floor.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "vine_strangler": 4,
+      "spore_phantom": 4,
+      "canopy_stalker": 4,
+      "root_golem": 4,
+      "blight_mother": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Ancient Roots",
+    "category": "Overworld",
+    "editorColor": -12177383,
+    "walkable": false,
+    "spriteKey": "overworld/ancient_roots",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Massive tangled roots, impassable.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Thorn Hedge",
+    "category": "Overworld",
+    "editorColor": -15453681,
+    "walkable": false,
+    "spriteKey": "overworld/thorn_hedge",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A dense wall of thorny vines.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Petrified Amber",
+    "category": "Overworld",
+    "editorColor": -6263266,
+    "walkable": false,
+    "spriteKey": "overworld/petrified_amber",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Golden crystallized tree sap from before the Shattering.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Root Floor",
+    "category": "Town",
+    "editorColor": -12834282,
+    "walkable": true,
+    "spriteKey": "town/root_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Woven living roots forming a flat surface.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Bark Wall",
+    "category": "Town",
+    "editorColor": -13162988,
+    "walkable": false,
+    "spriteKey": "town/bark_wall",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Thick living bark wall.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Vine Curtain",
+    "category": "Town",
+    "editorColor": -14794471,
+    "walkable": true,
+    "spriteKey": "town/vine_curtain",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Hanging vines forming a natural curtain.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Amber Crystal",
+    "category": "Town",
+    "editorColor": -4947416,
+    "walkable": false,
+    "spriteKey": "town/amber_crystal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A glowing amber crystal formation.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Fungal Lamp",
+    "category": "Town",
+    "editorColor": -14106986,
+    "walkable": true,
+    "spriteKey": "town/fungal_lamp",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A bioluminescent mushroom used as a light source.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Portal to Verdant Mangroves",
+    "category": "Special",
+    "editorColor": -14114736,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A shimmering green portal wreathed in living vines.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "map": "sylvandar",
+        "requiredKeyId": "key_of_gales",
+        "x": "61",
+        "y": "156",
+        "lockedMessage": "The portal pulses with verdant energy but remains sealed. You need the Key of Gales."
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Return Portal to Zephyrion",
+    "category": "Special",
+    "editorColor": -10177281,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A crackling portal back to the Storm Archipelago.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "map": "zephyrion",
+        "x": "115",
+        "y": "95"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Deep Ocean Floor",
+    "category": "Overworld",
+    "editorColor": -16116696,
+    "walkable": true,
+    "spriteKey": "overworld/deep_ocean_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Dark seabed with subtle texture.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "pressure_hulk": 4,
+      "deep_coral_construct": 4,
+      "anglerfish_horror": 4,
+      "rune_scarred_shark": 4,
+      "abyssal_wraith": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Pressure Vent",
+    "category": "Overworld",
+    "editorColor": -11526636,
+    "walkable": true,
+    "spriteKey": "overworld/pressure_vent",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A volcanic vent releasing scalding water.",
+    "onStepEffect": {
+      "type": "damage",
+      "params": {
+        "message": "Superheated water scalds you!",
+        "amount": "4"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Coral Reef",
+    "category": "Overworld",
+    "editorColor": -4965256,
+    "walkable": false,
+    "spriteKey": "overworld/coral_reef",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Colorful coral formations, impassable.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Kelp Forest",
+    "category": "Overworld",
+    "editorColor": -15445966,
+    "walkable": true,
+    "spriteKey": "overworld/kelp_forest",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.5,
+    "description": "Tall swaying kelp obscuring vision.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "pressure_hulk": 4,
+      "deep_coral_construct": 4,
+      "anglerfish_horror": 4,
+      "rune_scarred_shark": 4,
+      "abyssal_wraith": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Bioluminescent Sand",
+    "category": "Overworld",
+    "editorColor": -14109536,
+    "walkable": true,
+    "spriteKey": "overworld/bioluminescent_sand",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.6,
+    "description": "Glowing sand patches light the deep.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "pressure_hulk": 4,
+      "deep_coral_construct": 4,
+      "anglerfish_horror": 4,
+      "rune_scarred_shark": 4,
+      "abyssal_wraith": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Abyssal Rock",
+    "category": "Overworld",
+    "editorColor": -15133661,
+    "walkable": false,
+    "spriteKey": "overworld/abyssal_rock",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Dark jagged rock formation.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Bone Field",
+    "category": "Overworld",
+    "editorColor": -6252926,
+    "walkable": true,
+    "spriteKey": "overworld/bone_field",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.8,
+    "description": "Scattered leviathan bones.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "pressure_hulk": 4,
+      "deep_coral_construct": 4,
+      "anglerfish_horror": 4,
+      "rune_scarred_shark": 4,
+      "abyssal_wraith": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Pressure Ward",
+    "category": "Overworld",
+    "editorColor": -12793636,
+    "walkable": false,
+    "spriteKey": "overworld/pressure_ward",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A glowing ward rune on stone.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Dome Floor",
+    "category": "Town",
+    "editorColor": -13486266,
+    "walkable": true,
+    "spriteKey": "town/dome_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Polished stone under a protective dome.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Coral Wall",
+    "category": "Town",
+    "editorColor": -6933936,
+    "walkable": false,
+    "spriteKey": "town/coral_wall",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A wall of living coral.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Kelp Platform",
+    "category": "Town",
+    "editorColor": -15120851,
+    "walkable": true,
+    "spriteKey": "town/kelp_platform",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "A woven kelp platform.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Pressure Glass",
+    "category": "Town",
+    "editorColor": -10177326,
+    "walkable": false,
+    "spriteKey": "town/pressure_glass",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A transparent dome panel showing the ocean beyond.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Bioluminescent Lamp",
+    "category": "Town",
+    "editorColor": -13443916,
+    "walkable": true,
+    "spriteKey": "town/bioluminescent_lamp",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A glowing deep-sea lamp fixture.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Portal to Abyssal Depths",
+    "category": "Special",
+    "editorColor": -15445896,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A portal wreathed in crushing pressure.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "map": "thalorax",
+        "requiredKeyId": "key_of_roots",
+        "x": "60",
+        "y": "98",
+        "lockedMessage": "The portal pulses with crushing pressure but remains sealed. You need the Key of Roots."
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Return Portal to Sylvandar",
+    "category": "Special",
+    "editorColor": -14114736,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A shimmering green portal back to the Verdant Mangroves.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "y": "159",
+        "map": "sylvandar",
+        "x": "162"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Shadow Trench Floor",
+    "category": "Overworld",
+    "editorColor": -15594980,
+    "walkable": true,
+    "spriteKey": "overworld/shadow_trench_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Dark purple-grey stone dusted with silver.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "memory_shade": 4,
+      "hollow_one": 4,
+      "echo_knight": 4,
+      "archive_guardian": 4,
+      "grief_elemental": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Memory Rift",
+    "category": "Overworld",
+    "editorColor": -11488056,
+    "walkable": true,
+    "spriteKey": "overworld/memory_rift",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 1,
+    "description": "Cracked ground bleeding ghostly light.",
+    "onStepEffect": {
+      "type": "damage",
+      "params": {
+        "amount": "3",
+        "message": "Memories claw at your mind!"
+      }
+    },
+    "spawnWeights": {
+      "memory_shade": 4,
+      "hollow_one": 4,
+      "echo_knight": 4,
+      "archive_guardian": 4,
+      "grief_elemental": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Ruined Spire",
+    "category": "Overworld",
+    "editorColor": -12830906,
+    "walkable": false,
+    "spriteKey": "overworld/ruined_spire",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A broken tower from a forgotten age.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Ghost Path",
+    "category": "Overworld",
+    "editorColor": -7564123,
+    "walkable": true,
+    "spriteKey": "overworld/ghost_path",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.5,
+    "description": "A faintly luminous silver-traced walkway.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "memory_shade": 4,
+      "hollow_one": 4,
+      "echo_knight": 4,
+      "archive_guardian": 4,
+      "grief_elemental": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Crumbled Archive",
+    "category": "Overworld",
+    "editorColor": -13488836,
+    "walkable": true,
+    "spriteKey": "overworld/crumbled_archive",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.8,
+    "description": "Collapsed ruins of an ancient library.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "memory_shade": 4,
+      "hollow_one": 4,
+      "echo_knight": 4,
+      "archive_guardian": 4,
+      "grief_elemental": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Silver Ruins",
+    "category": "Overworld",
+    "editorColor": -8879983,
+    "walkable": true,
+    "spriteKey": "overworld/silver_ruins",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.3,
+    "description": "Larger ruin fragments with silver patina.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "memory_shade": 4,
+      "hollow_one": 4,
+      "echo_knight": 4,
+      "archive_guardian": 4,
+      "grief_elemental": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Void Trench",
+    "category": "Overworld",
+    "editorColor": -16514552,
+    "walkable": false,
+    "spriteKey": "overworld/void_trench",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Absolute darkness — an impassable chasm.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Memory Ward",
+    "category": "Overworld",
+    "editorColor": -6247736,
+    "walkable": false,
+    "spriteKey": "overworld/memory_ward",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A glowing silver barrier warding the depths.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Dust Floor",
+    "category": "Town",
+    "editorColor": -14672858,
+    "walkable": true,
+    "spriteKey": "town/dust_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Aged flagstone covered in silver-grey dust.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Memory Crystal Wall",
+    "category": "Town",
+    "editorColor": -10195818,
+    "walkable": false,
+    "spriteKey": "town/memory_crystal_wall",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Translucent crystalline wall with inner glow.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Ghostlight Lamp",
+    "category": "Town",
+    "editorColor": -3616016,
+    "walkable": true,
+    "spriteKey": "town/ghostlight_lamp",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A silver orb casting gentle light.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Faded Pillar",
+    "category": "Town",
+    "editorColor": -12501941,
+    "walkable": false,
+    "spriteKey": "town/faded_pillar",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A crumbling column with silver veins.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Echo Tile",
+    "category": "Town",
+    "editorColor": -6248258,
+    "walkable": true,
+    "spriteKey": "town/echo_tile",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A floor tile that shimmers with faint silver ripples.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Portal to Shadow Trenches",
+    "category": "Special",
+    "editorColor": -7568716,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A portal wreathed in silver mist.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "map": "umbryn",
+        "requiredKeyId": "key_of_depths",
+        "x": "119",
+        "y": "150",
+        "lockedMessage": "The portal flickers with silver light but remains sealed. You need the Key of Depths."
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Return Portal to Thalorax",
+    "category": "Special",
+    "editorColor": -14114616,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A shimmering portal back to the Abyssal Depths.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "map": "thalorax",
+        "x": "170",
+        "y": "46"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Scorched Earth",
+    "category": "Overworld",
+    "editorColor": -12834796,
+    "walkable": true,
+    "spriteKey": "overworld/scorched_earth",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.5,
+    "description": "War-blasted ground, charred and cracked.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "war_wraith": 4,
+      "glory_hound": 4,
+      "iron_golem": 4,
+      "blood_oath_berserker": 4,
+      "the_undying": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Trench",
+    "category": "Overworld",
+    "editorColor": -13819111,
+    "walkable": true,
+    "spriteKey": "overworld/trench",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 2,
+    "description": "A dug fortification scarred by decades of fighting.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "war_wraith": 4,
+      "glory_hound": 4,
+      "iron_golem": 4,
+      "blood_oath_berserker": 4,
+      "the_undying": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Iron Barricade",
+    "category": "Overworld",
+    "editorColor": -10200496,
+    "walkable": false,
+    "spriteKey": "overworld/iron_barricade",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Rusted iron fortification, impassable.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Crater",
+    "category": "Overworld",
+    "editorColor": -13491436,
+    "walkable": true,
+    "spriteKey": "overworld/crater",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 1.8,
+    "description": "An explosion crater, still warm.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "war_wraith": 4,
+      "glory_hound": 4,
+      "iron_golem": 4,
+      "blood_oath_berserker": 4,
+      "the_undying": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "War Camp Floor",
+    "category": "Overworld",
+    "editorColor": -10859726,
+    "walkable": true,
+    "spriteKey": "overworld/war_camp_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.5,
+    "description": "Packed earth and wooden planks of a military camp.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "war_wraith": 4,
+      "glory_hound": 4,
+      "iron_golem": 4,
+      "blood_oath_berserker": 4,
+      "the_undying": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Siege Wall",
+    "category": "Overworld",
+    "editorColor": -11515066,
+    "walkable": false,
+    "spriteKey": "overworld/siege_wall",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A massive stone wall built for war.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Arena Stone",
+    "category": "Overworld",
+    "editorColor": -7571386,
+    "walkable": true,
+    "spriteKey": "overworld/arena_stone",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.3,
+    "description": "Polished stone of the Great Arena.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {
+      "war_wraith": 4,
+      "glory_hound": 4,
+      "iron_golem": 4,
+      "blood_oath_berserker": 4,
+      "the_undying": 4
+    }
+  },
+  {
+    "id": "",
+    "name": "Burning Ruin",
+    "category": "Overworld",
+    "editorColor": -8244716,
+    "walkable": false,
+    "spriteKey": "overworld/burning_ruin",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A smoldering building, still on fire.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Portal to Golden War Isles",
+    "category": "Special",
+    "editorColor": -3628996,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A portal wreathed in iron sparks and war-gold light.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "y": "180",
+        "x": "115",
+        "requiredKeyId": "key_of_echoes",
+        "map": "bellorak",
+        "lockedMessage": "The portal crackles with iron sparks but remains sealed. You need the Key of Echoes."
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Return Portal to Umbryn",
+    "category": "Special",
+    "editorColor": -7568716,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A shimmering silver portal back to the Shadow Trenches.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "map": "umbryn",
+        "y": "38",
+        "x": "70"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "War Plank Floor",
+    "category": "Town",
+    "editorColor": -11518941,
+    "walkable": true,
+    "spriteKey": "town/war_plank_floor",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Rough wooden planks stained with mud and blood.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Iron Wall",
+    "category": "Town",
+    "editorColor": -12172996,
+    "walkable": false,
+    "spriteKey": "town/iron_wall",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A wall of riveted iron plates.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "War Banner",
+    "category": "Town",
+    "editorColor": -4970456,
+    "walkable": true,
+    "spriteKey": "town/war_banner",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A tattered war banner hanging from a pole.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Weapon Rack",
+    "category": "Town",
+    "editorColor": -9545156,
+    "walkable": false,
+    "spriteKey": "town/weapon_rack",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": true,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A rack of swords, spears, and axes.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Iron Lamp",
+    "category": "Town",
+    "editorColor": -3628996,
+    "walkable": true,
+    "spriteKey": "town/iron_lamp",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": true,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "An iron lamp with a war-gold flame.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Portal to Cradle of Shards",
+    "category": "Special",
+    "editorColor": -3896,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 3,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A sealed arch of shard-light. The way into the Cradle lies beyond it.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "y": "95",
+        "x": "115",
+        "requiredKeyId": "key_of_iron",
+        "map": "bellorak",
+        "lockedMessage": "The seven colors swirl but the passage remains sealed. You need the Key of Iron."
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Bridge EW",
+    "category": "Overworld",
+    "editorColor": -7576536,
+    "walkable": true,
+    "spriteKey": "overworld/bridge_ew",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_wood",
+    "encounterRateMod": 0,
+    "description": "A wooden bridge carrying an east-west road over a river.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Road Crossroad",
+    "category": "Overworld",
+    "editorColor": -6260666,
+    "walkable": true,
+    "spriteKey": "overworld/dirt_road_cross",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "A four-way dirt road intersection.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Road T-South",
+    "category": "Overworld",
+    "editorColor": -6260666,
+    "walkable": true,
+    "spriteKey": "overworld/dirt_road_t_south",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "East-west road with a southward branch.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Road T-East",
+    "category": "Overworld",
+    "editorColor": -6260666,
+    "walkable": true,
+    "spriteKey": "overworld/dirt_road_t_east",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "North-south road with an eastward branch.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "River Source",
+    "category": "Overworld",
+    "editorColor": -14129976,
+    "walkable": false,
+    "spriteKey": "overworld/river_source",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A rocky spring where water emerges.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "River Mouth",
+    "category": "Overworld",
+    "editorColor": -14129976,
+    "walkable": false,
+    "spriteKey": "overworld/river_mouth",
+    "isLiquid": true,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A river delta flowing into the sea.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "R",
+    "name": "Puzzle",
+    "category": "Dungeon",
+    "editorColor": -6260536,
+    "walkable": true,
+    "spriteKey": "dungeon/puzzle",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A mysterious puzzle mechanism.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Locked Iron Gate (Overworld)",
+    "category": "Overworld",
+    "editorColor": -11512486,
+    "walkable": false,
+    "spriteKey": "dungeon/locked_iron_gate",
+    "isLiquid": false,
+    "blocksVision": true,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A locked iron gate blocking the path.",
+    "onStepEffect": {
+      "type": "locked_door",
+      "params": {
+        "unlockedTileId": ".",
+        "lockedMessage": "The iron gate is locked. You need an iron key.",
+        "message": "The gate swings open.",
+        "requiredKeyId": "iron_key"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Hidden Shrine",
+    "category": "Overworld",
+    "editorColor": -4939656,
+    "walkable": true,
+    "spriteKey": "overworld/hidden_shrine",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A weathered stone shrine.",
+    "onStepEffect": {
+      "type": "shrine",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Dig Site",
+    "category": "Overworld",
+    "editorColor": -8889806,
+    "walkable": true,
+    "spriteKey": "overworld/dig_site",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Disturbed earth hides something beneath.",
+    "onStepEffect": {
+      "type": "treasure",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Ambush Point",
+    "category": "Overworld",
+    "editorColor": -7591896,
+    "walkable": true,
+    "spriteKey": "overworld/ambush_point",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "A dangerous-looking area.",
+    "onStepEffect": {
+      "type": "ambush",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Lava Geyser",
+    "category": "Overworld",
+    "editorColor": -2328546,
+    "walkable": true,
+    "spriteKey": "overworld/lava_geyser",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Cracks in the earth spew fire.",
+    "onStepEffect": {
+      "type": "geyser",
+      "params": {
+        "chance": "50",
+        "amount": "5",
+        "message": "A geyser erupts beneath you!"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Wind Current",
+    "category": "Overworld",
+    "editorColor": -4929296,
+    "walkable": true,
+    "spriteKey": "overworld/wind_current",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A powerful wind current.",
+    "onStepEffect": {
+      "type": "wind_current",
+      "params": {
+        "direction": "north",
+        "distance": "3"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Ancient Tree",
+    "category": "Overworld",
+    "editorColor": -12819416,
+    "walkable": true,
+    "spriteKey": "overworld/ancient_tree",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A gnarled tree that seems to whisper.",
+    "onStepEffect": {
+      "type": "lore",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Memory Echo",
+    "category": "Overworld",
+    "editorColor": -7568716,
+    "walkable": true,
+    "spriteKey": "overworld/memory_echo",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 1,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A faint ghostly shimmer.",
+    "onStepEffect": {
+      "type": "lore",
+      "params": {
+        "oneTime": "true"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Sunken Chest",
+    "category": "Overworld",
+    "editorColor": -12814176,
+    "walkable": true,
+    "spriteKey": "overworld/sunken_chest",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A chest visible beneath the water.",
+    "onStepEffect": {
+      "type": "treasure",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Battle Standard",
+    "category": "Overworld",
+    "editorColor": -6278606,
+    "walkable": true,
+    "spriteKey": "overworld/battle_standard",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0.8,
+    "description": "A war-torn banner marks this ground.",
+    "onStepEffect": {
+      "type": "ambush",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Return Portal to Pyralis",
+    "category": "Special",
+    "editorColor": -10177281,
+    "walkable": true,
+    "spriteKey": "overworld/island_portal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 2,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A gale-torn arch that opens onto the black sand of the Forge.",
+    "onStepEffect": {
+      "type": "island_portal",
+      "params": {
+        "map": "pyralis",
+        "x": "89",
+        "y": "25"
+      }
+    },
+    "spawnWeights": {}
+  }
+]

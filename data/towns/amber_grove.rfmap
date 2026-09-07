@@ -1,0 +1,2028 @@
+{
+  "type": "TOWN",
+  "name": "amber_grove",
+  "width": 20,
+  "height": 20,
+  "interiorEntryX": 9,
+  "interiorEntryY": 18,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "",
+      "v",
+      "",
+      "",
+      "v",
+      "",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "",
+      "",
+      "x",
+      "x",
+      "",
+      "",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "j",
+      "i",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "v",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "v",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "npc_amber_grove_sage",
+      "name": "The Amber Sage",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "The amber remembers what we have forgotten.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 9,
+      "y": 5,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[An ancient woman sits cross-legged before the altar, eyes the color of amber. The air hums with preserved memories.] You seek the Key of Roots. I can see it in your bearing.",
+            "choices": [
+              {
+                "label": "How do you know that?",
+                "nextNodeId": "how",
+                "conditions": []
+              },
+              {
+                "label": "Yes. How do I earn it?",
+                "nextNodeId": "trial",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about the memory crystals.",
+                "nextNodeId": "crystals",
+                "conditions": []
+              },
+              {
+                "label": "I've collected all four memories.",
+                "nextNodeId": "trial_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "amber_sage_memory",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I've proven my understanding of the cycle.",
+                "nextNodeId": "verdant_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "sylvandar_verdant_trial",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "What became of the grief in the Rootvault?",
+                "nextNodeId": "shard_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "sylvandar_verdant_trial",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "shard_of_endless_growth",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "shard_of_endless_growth",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "how": {
+            "id": "how",
+            "text": "The amber shows me things — past, present, paths not yet walked. Every Unbound who reaches these shores seeks a Key. The question is whether you understand what it costs.",
+            "choices": [
+              {
+                "label": "What does it cost?",
+                "nextNodeId": "trial",
+                "conditions": []
+              },
+              {
+                "label": "I see.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "trial": {
+            "id": "trial",
+            "text": "Two tasks. First: collect the four memory crystals scattered in this grove. They hold fragments of the world before the Shattering. Learn what was lost. Then return to me for the Verdant Trial.",
+            "choices": [
+              {
+                "label": "I'll find the memory crystals.",
+                "nextNodeId": "memory_accept",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "amber_memory_quest",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I need time to prepare.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "memory_accept": {
+            "id": "memory_accept",
+            "text": "The crystals glow faintly — you will feel them when you are near. Each one holds a truth. Do not look away from what they show you.",
+            "choices": [
+              {
+                "label": "I will find them all."
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "amber_sage_memory",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "amber_memory_quest",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "trial_done": {
+            "id": "trial_done",
+            "text": "Good. You have seen what was. Now you must prove you understand the cycle. Slay the corrupted growth — the Blight Mothers that feed the overgrowth. This is the Verdant Trial.",
+            "choices": [
+              {
+                "label": "I accept the Verdant Trial.",
+                "nextNodeId": "verdant_accept",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "verdant_trial_active",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I need to prepare first.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shard_offer": {
+            "id": "shard_offer",
+            "text": "It hardened. Deep under the Rootvault, everything he could not let go of pressed into a single stone that grows and grows and never finishes. I drew it out while you were pruning. I will not keep it here.",
+            "choices": [
+              {
+                "label": "Then give it to me.",
+                "nextNodeId": "shard_give",
+                "conditions": []
+              },
+              {
+                "label": "Leave it buried.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shard_give": {
+            "id": "shard_give",
+            "text": "[The amber flares as she sets it in your hand. It is warm, and it is moving.] Claim it or break it. Either is an answer. Only do not carry it a long while undecided — that is how Sylvandar began.",
+            "choices": [
+              {
+                "label": "I understand.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "shard_of_endless_growth",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "GIVE_ITEM",
+                "target": "shard_of_endless_growth",
+                "value": "",
+                "amount": 1
+              }
+            ]
+          },
+          "verdant_accept": {
+            "id": "verdant_accept",
+            "text": "The Blight Mothers are Sylvandar's grief given form. Destroying them will not anger him — it will remind him that pruning is an act of love. Go.",
+            "choices": [
+              {
+                "label": "I will return victorious."
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "sylvandar_verdant_trial",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "verdant_trial_active",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "verdant_done": {
+            "id": "verdant_done",
+            "text": "You have pruned the corruption and restored balance. The cycle turns again. Sylvandar weeps — not from anger, but from remembrance. Take this. The Key of Roots has grown for you.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "key_of_roots",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "sylvandar_trial_done",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Amber Sage presents you with the Key of Roots.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "crystals": {
+            "id": "crystals",
+            "text": "Before the Shattering, this forest was the heart of the world. The amber preserved fragments of that time — memories frozen in golden stone. Each crystal holds a truth about what Aqualon was, and what we lost.",
+            "choices": [
+              {
+                "label": "How do I earn the Key?",
+                "nextNodeId": "trial",
+                "conditions": []
+              },
+              {
+                "label": "Fascinating.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The amber is patient. It has waited an age. It can wait a little longer.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_amber_grove_archivist",
+      "name": "Archivist Kael",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "Every crystal here holds a lifetime.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 7,
+      "y": 9,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[A young scholar sits surrounded by glowing amber crystals, transcribing their light into a leather journal.] Welcome to the Amber Archive. Every crystal here holds a memory from before the Shattering.",
+            "choices": [
+              {
+                "label": "What are these crystals?",
+                "nextNodeId": "crystals",
+                "conditions": []
+              },
+              {
+                "label": "The Sage sent me for a memory crystal.",
+                "nextNodeId": "kael_crystal",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "amber_sage_memory",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "crystal_kael",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "What was the world like before?",
+                "nextNodeId": "before",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about Sylvandar.",
+                "nextNodeId": "sylvandar",
+                "conditions": []
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "crystals": {
+            "id": "crystals",
+            "text": "Amber preserves. A fly trapped in tree sap a million years ago is still perfect inside the stone. These crystals are the same — but they preserved moments, not insects. Touch one and you'll see a fragment of Aqualon's last day.",
+            "choices": [
+              {
+                "label": "Aqualon's last day?",
+                "nextNodeId": "aqualon",
+                "conditions": []
+              },
+              {
+                "label": "How many memories are there?",
+                "nextNodeId": "many",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "aqualon": {
+            "id": "aqualon",
+            "text": "The World-Serpent who held everything together. When Aqualon shattered, the seven gods caught the pieces. But Sylvandar caught the memory of what was lost. That's what these crystals hold — the shape of a world that no longer exists.",
+            "choices": [
+              {
+                "label": "That's beautiful and sad.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "many": {
+            "id": "many",
+            "text": "Thousands, once. But the overgrowth has been swallowing them. New roots crack the amber, and the memories inside... dissolve. Like dreams you can't quite remember. The Sage is trying to save the most important ones, but she can't work fast enough.",
+            "choices": [
+              {
+                "label": "Is there anything I can do?",
+                "nextNodeId": "help",
+                "conditions": []
+              },
+              {
+                "label": "I see.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "kael_crystal": {
+            "id": "kael_crystal",
+            "text": "Then take this one — I have been transcribing it for a month and I am no closer to the bottom of it. Better in her hands than fading in mine. Mind the edge; the roots have already cracked it once.",
+            "choices": [
+              {
+                "label": "I will be careful with it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "memory_crystal",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "crystal_kael",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "help": {
+            "id": "help",
+            "text": "Talk to the Amber Sage. She's been looking for someone strong enough to retrieve the four scattered memory crystals before the roots take them. I'm just a scholar — I can transcribe, but I can't fight vine stranglers.",
+            "choices": [
+              {
+                "label": "I'll speak with her.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "before": {
+            "id": "before",
+            "text": "The crystals show glimpses. Green fields stretching to every horizon. Cities of living wood that sang in the wind. Rivers that flowed uphill toward the sky. And at the center of it all, Aqualon — coiled around the world like a mother around her child.",
+            "choices": [
+              {
+                "label": "It sounds like paradise.",
+                "nextNodeId": "paradise",
+                "conditions": []
+              },
+              {
+                "label": "What happened?",
+                "nextNodeId": "happened",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "paradise": {
+            "id": "paradise",
+            "text": "Maybe it was. Or maybe we only remember it that way because we lost it. Memory is kind like that.",
+            "choices": [
+              {
+                "label": "Wise words.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "happened": {
+            "id": "happened",
+            "text": "The Shattering. No one knows why. The crystals show the moment — a crack in the sky, Aqualon screaming, the world splitting into islands. And then seven lights, seven gods, each catching a piece. Sylvandar caught the forests. And the grief.",
+            "choices": [
+              {
+                "label": "The grief?",
+                "nextNodeId": "grief",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "grief": {
+            "id": "grief",
+            "text": "He remembers what was lost more clearly than any of the others. That's why the overgrowth happens — he's trying to regrow the old world from memory. But a copy of a memory of a dream... it comes out wrong. Beautiful, but wrong.",
+            "choices": [
+              {
+                "label": "Thank you for explaining.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "sylvandar": {
+            "id": "sylvandar",
+            "text": "God of growth, patience, and memory. But also decay — though he's forgotten that part. The cycle requires both halves: spring and autumn, growth and rot. Without decay, growth becomes a cancer. That's what we're seeing now.",
+            "choices": [
+              {
+                "label": "Can he be reminded?",
+                "nextNodeId": "reminded",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "reminded": {
+            "id": "reminded",
+            "text": "Perhaps. Fungal Lord Mycos in the deep woods understands decay. The Amber Sage understands memory. Between them, they might help Sylvandar remember that letting go is not the same as losing. But it will take someone brave to carry that message into the Rootvault.",
+            "choices": [
+              {
+                "label": "I may be that someone.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the amber keep your memories bright, traveler.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_amber_grove_keeper",
+      "name": "Grove Keeper Lessa",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "The amber warms the air here. Rest, if you need it.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 4,
+      "y": 16,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A sturdy woman tends a small fire pit inside the lodge, amber crystals casting warm light across woven root-beds.] Welcome, traveler. The Grove is a place of memory and rest. Which do you need?",
+            "choices": [
+              {
+                "label": "I'd like to rest. (Full heal, 25g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 25
+                  }
+                ]
+              },
+              {
+                "label": "I have the draught you need for the ward.",
+                "nextNodeId": "ward_deliver",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "amber_ward_recipe",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "HAS_ITEM",
+                    "target": "sylvan_healing_draught",
+                    "value": "",
+                    "amount": 1
+                  }
+                ]
+              },
+              {
+                "label": "Is there a memory crystal in the lodge?",
+                "nextNodeId": "lodge_crystal",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "amber_sage_memory",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "crystal_lessa",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "What is this place?",
+                "nextNodeId": "about",
+                "conditions": []
+              },
+              {
+                "label": "The overgrowth is getting worse.",
+                "nextNodeId": "overgrowth",
+                "conditions": []
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "Sleep among the memories. The amber will keep the roots at bay tonight.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -25
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "You rest in the amber glow and awaken fully restored.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "lodge_crystal": {
+            "id": "lodge_crystal",
+            "text": "One, set in the hearth wall since before my grandmother kept this lodge. [She works it free with a knife.] The Sage should have it while it still holds anything. Warm rooms are hard on memory.",
+            "choices": [
+              {
+                "label": "I will take it to her.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "memory_crystal",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "crystal_lessa",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "about": {
+            "id": "about",
+            "text": "Amber Grove is the oldest settlement on the island. Built around these petrified trees — frozen in amber since before the Shattering. The crystals protect us from the worst of the overgrowth. Out there, the roots consume. In here, they remember.",
+            "choices": [
+              {
+                "label": "Why do the crystals protect you?",
+                "nextNodeId": "protect",
+                "conditions": []
+              },
+              {
+                "label": "I see.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "protect": {
+            "id": "protect",
+            "text": "The amber holds memory of what was — not what Sylvandar wants things to become. The roots can't overwrite something that remembers its true shape. It's like... the amber argues with the god, gently, and he listens.",
+            "choices": [
+              {
+                "label": "Fascinating.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "overgrowth": {
+            "id": "overgrowth",
+            "text": "Each month it creeps closer. The amber holds it back, but I've seen cracks forming in the older crystals. I've been working on a ward — a potion that might reinforce the amber's resistance. But I need a Sylvan Healing Draught as the base. Can you bring me one?",
+            "choices": [
+              {
+                "label": "I'll find one for you.",
+                "nextNodeId": "ward_accept",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "amber_ward_given",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I'll keep that in mind.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ward_accept": {
+            "id": "ward_accept",
+            "text": "You can buy them from Sylva in Roothollow, or find them in the wild. Bring it back and I'll brew the ward. The amber needs every ally it can get.",
+            "choices": [
+              {
+                "label": "I'll return with it."
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "amber_ward_recipe",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "amber_ward_given",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "ward_deliver": {
+            "id": "ward_deliver",
+            "text": "[Her eyes light up.] The draught! Yes, this will work perfectly. With this I can strengthen the amber's resistance for another season at least. You have my gratitude, traveler — and the Grove's.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "amber_ward_recipe",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "amber_ward_complete",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Grove Keeper Lessa brews the amber ward. The crystals glow brighter.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the amber remember you kindly.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_amber_grove_trader",
+      "name": "Petrified Peddler",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Amber-touched goods. Stronger than they look.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "greater_healing",
+        "sylvan_healing_draught",
+        "amber_shield",
+        "thornwood_staff",
+        "antidote",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations",
+        "honeyed_loaf"
+      ],
+      "x": 12,
+      "y": 16,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A wiry trader sits behind a counter of polished amber slabs, wares arranged with care.] Amber-touched goods, friend. The crystals harden everything they touch — wood, leather, even potions. Interested?",
+            "choices": [
+              {
+                "label": "Show me your wares.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Any memory crystals in that stock?",
+                "nextNodeId": "peddler_crystal",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "amber_sage_memory",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "crystal_peddler",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "How does amber improve goods?",
+                "nextNodeId": "amber_craft",
+                "conditions": []
+              },
+              {
+                "label": "Not today.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Take your pick. Everything here has been cured in amber dust.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "peddler_crystal": {
+            "id": "peddler_crystal",
+            "text": "One. Pulled it out of a slab I was cutting for counter-stone and it has been bad luck since — hums all night, keeps me awake. Take it to the Sage and we are square. No charge. I want it out of my shop.",
+            "choices": [
+              {
+                "label": "Gladly.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "memory_crystal",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "crystal_peddler",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "amber_craft": {
+            "id": "amber_craft",
+            "text": "The amber preserves. A blade cured in amber dust holds its edge longer. Armor treated with it resists the roots — they can't find purchase on the surface. Even potions brewed with amber flakes last longer and hit harder. Ancient technique. The Sage taught me.",
+            "choices": [
+              {
+                "label": "Impressive. Let me see your stock.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Good to know.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Come back if the forest gets too rough. Amber-cured gear saves lives.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_amber_grove_pilgrim",
+      "name": "Pilgrim Asha",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "I came to see the memories. To remember what we were.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 15,
+      "y": 12,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[A young woman kneels before an amber crystal, tears on her cheeks but a peaceful expression.] I came from Lirandel. Across three islands, just to touch these crystals. To see what the world was.",
+            "choices": [
+              {
+                "label": "What did you see?",
+                "nextNodeId": "vision",
+                "conditions": []
+              },
+              {
+                "label": "The Sage needs that crystal.",
+                "nextNodeId": "asha_crystal",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "amber_sage_memory",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "crystal_asha",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "That's a long journey.",
+                "nextNodeId": "journey",
+                "conditions": []
+              },
+              {
+                "label": "Safe travels.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "vision": {
+            "id": "vision",
+            "text": "Green. So much green. Not the hungry green of the overgrowth — a gentle green. Forests that breathed slowly, in rhythm with the tides. And at the center of it all, a great serpent coiled around the world, humming a song that held everything together.",
+            "choices": [
+              {
+                "label": "Aqualon.",
+                "nextNodeId": "aqualon",
+                "conditions": []
+              },
+              {
+                "label": "That sounds beautiful.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "aqualon": {
+            "id": "aqualon",
+            "text": "Yes. The crystals showed me something else too. The moment before the Shattering — Aqualon was not destroyed. It chose to break. It saw something coming and shattered itself to save the pieces. The gods... they're fragments of its sacrifice.",
+            "choices": [
+              {
+                "label": "The gods are fragments of Aqualon?",
+                "nextNodeId": "fragments",
+                "conditions": []
+              },
+              {
+                "label": "Heavy revelation.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "fragments": {
+            "id": "fragments",
+            "text": "That's what the amber showed me. Sylvandar is Aqualon's memory of growth. Lirandel is its dream of protection. Pyralis, its will to transform. Seven pieces of one whole, each trying to rebuild what they remember — but none of them remember everything.",
+            "choices": [
+              {
+                "label": "That explains the corruption.",
+                "nextNodeId": "corruption",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "corruption": {
+            "id": "corruption",
+            "text": "Exactly. Each god overreaches because they only have part of the picture. Sylvandar grows without limit because he doesn't remember decay. Pyralis forges without mercy because he doesn't remember patience. The Shards... they're the missing pieces.",
+            "choices": [
+              {
+                "label": "The Shards complete them?",
+                "nextNodeId": "shards",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shards": {
+            "id": "shards",
+            "text": "[She looks at you with clear eyes.] Or they corrupt them further. It depends on who holds them, and what they choose. That's why the Unbound matter. You're the only ones not bound to a fragment. You can see the whole picture.",
+            "choices": [
+              {
+                "label": "Thank you, Asha. This changes everything.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "pilgrim_revelation",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Pilgrim Asha's revelation deepens your understanding of the gods.",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "asha_crystal": {
+            "id": "asha_crystal",
+            "text": "[She lifts her hands from it slowly.] I walked three islands to touch it once. That was enough. It was never mine to keep — take it to her before the roots find it.",
+            "choices": [
+              {
+                "label": "Thank you, Asha.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "memory_crystal",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "crystal_asha",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "journey": {
+            "id": "journey",
+            "text": "Three islands, two portals, more monsters than I care to count. But worth every step. The memories here... they're not just history. They're instructions. If you listen carefully, they tell you how to put the world back together.",
+            "choices": [
+              {
+                "label": "What do they say?",
+                "nextNodeId": "vision",
+                "conditions": []
+              },
+              {
+                "label": "I hope you find what you're looking for.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Walk gently, Unbound. The roots are listening. And so is the amber.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": []
+}

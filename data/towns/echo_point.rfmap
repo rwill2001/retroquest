@@ -1,0 +1,1407 @@
+{
+  "type": "TOWN",
+  "name": "echo_point",
+  "width": 20,
+  "height": 20,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "D",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "[",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "k",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "k",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "o",
+      "o",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "o",
+      "o",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "interiorEntryX": 9,
+  "interiorEntryY": 17,
+  "npcs": [
+    {
+      "id": "npc_echo_point_witness",
+      "name": "The Last Witness",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "I am the Last Witness. I have watched this archive since before the Shattering.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "I am the Last Witness. I have watched this archive since before the Shattering. Few come here. Fewer still are worthy of what lies beyond the gate.",
+            "choices": [
+              {
+                "label": "I seek entry to the Archive.",
+                "nextNodeId": "first_visit",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "archive_access",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I bring evidence of the Eighth Dream.",
+                "nextNodeId": "eighth_dream",
+                "conditions": [
+                  {
+                    "type": "FLAG_EQUALS",
+                    "target": "eighth_dream_ready",
+                    "value": "true",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "What awaits me in the Archive?",
+                "nextNodeId": "trial_info",
+                "conditions": [
+                  {
+                    "type": "FLAG_EQUALS",
+                    "target": "archive_access",
+                    "value": "true",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "umbryn_trial_accepted",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Umbryn tested me. I remember all of it.",
+                "nextNodeId": "trial_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "umbryn_trial",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I carry the weight of knowing.",
+                "nextNodeId": "all_done",
+                "conditions": [
+                  {
+                    "type": "FLAG_EQUALS",
+                    "target": "eighth_dream_complete",
+                    "value": "true",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "first_visit": {
+            "id": "first_visit",
+            "text": "The Archive does not open for the curious. It opens for those who have suffered, who have lost, and who continue forward despite it. Tell me — what have you lost?",
+            "choices": [
+              {
+                "label": "I have lost companions to the dangers of this world.",
+                "nextNodeId": "loss_check",
+                "conditions": [
+                  {
+                    "type": "PLAYER_LEVEL",
+                    "target": "",
+                    "value": "",
+                    "amount": 20,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I have lost nothing.",
+                "nextNodeId": "not_ready",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "loss_check": {
+            "id": "loss_check",
+            "text": "Your scars speak truth. The Archive recognizes those who have endured. Take this key — it will open the iron gate to the north. What waits beyond is Umbryn's domain.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "archive_key",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "archive_access",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Archive Key received. The way is open.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "not_ready": {
+            "id": "not_ready",
+            "text": "Then you are not ready. Return when you have.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "eighth_dream": {
+            "id": "eighth_dream",
+            "text": "You bring evidence of the Eighth Dream? ...Hope. Yes. I remember now. Umbryn locked this memory away because it was the one he could not bear. The dream that even death could be undone — not through remembrance, but through forgiveness.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "eighth_dream",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "eighth_dream_complete",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Eighth Dream is revealed. The Last Witness remembers.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "trial_done": {
+            "id": "trial_done",
+            "text": "You came back up the stairs with your own name still on you. Grief Incarnate takes most of them. [The Last Witness inclines their head, slowly.] The Archive has a new witness. I am no longer the last.",
+            "choices": [
+              {
+                "label": "Someone should be left to remember.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "trial_info": {
+            "id": "trial_info",
+            "text": "Umbryn waits in the deepest sanctum. He will test you. Not your strength — your memory. He wants to know if you are worthy of carrying the truths the Archive preserves. Steel yourself, traveler.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "umbryn_trial",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "umbryn_trial_accepted",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Umbryn's Trial",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "all_done": {
+            "id": "all_done",
+            "text": "You carry the weight of knowing. May it serve you better than it served us.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The Archive remembers all who enter. Even those who do not return.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 10,
+      "y": 8
+    },
+    {
+      "id": "npc_echo_point_iris",
+      "name": "Lorekeeper Iris",
+      "spriteName": "npcs/townsman",
+      "defaultDialog": "The Archive preserves not just memory but knowledge.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The Archive preserves not just memory but knowledge. I can share what I've learned, if you're willing to listen.",
+            "choices": [
+              {
+                "label": "Teach me what you know.",
+                "nextNodeId": "teach",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about Umbryn.",
+                "nextNodeId": "lore",
+                "conditions": []
+              },
+              {
+                "label": "You have been reading the ward-resonances. What have you found?",
+                "nextNodeId": "chronicler_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "stayed_awake_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I spoke with The Chronicler.",
+                "nextNodeId": "chronicler_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_one_who_stayed_awake",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "stayed_awake_done",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Mord wants a day on which nothing happened.",
+                "nextNodeId": "iris_day",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_archive_of_small_things",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "day_iris",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "teach": {
+            "id": "teach",
+            "text": "The shadows here are not empty — they are filled with echoes of the dead. I can teach you to shape them into a ward. Focus your will, and the echoes will shield you.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "TEACH_SPELL",
+                "target": "shadow_ward",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Lorekeeper Iris teaches you the Shadow Ward spell.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "lore": {
+            "id": "lore",
+            "text": "Umbryn was the first to remember. Before him, death was the end. He made death merely a transition — from living to remembered. The Archive is his gift and his curse. Every soul that passes through the world leaves an echo here. Umbryn hears them all.",
+            "choices": [
+              {
+                "label": "That is a heavy burden.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the echoes guide you, traveler. The Archive forgets nothing.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "chronicler_offer": {
+            "id": "chronicler_offer",
+            "text": "A standing wave. Ten years of readings and there is one resonance at the northern ward-circle that has not moved, not by a hair, through every collapse and every rebuilding.\nEverything else out there is an echo. An echo decays. That is the definition; that is what makes it an echo. This one does not decay, which means it is not a memory of somebody. It is somebody.\nHooded. Studies the wards. The locals call it The Chronicler and give it directions, cheerfully, like it is a lost traveller, and it has been standing there since before the Archive was built.\nI am not brave enough to ask it what it is. You go and ask it. Then come back and tell me whether I should have.",
+            "choices": [
+              {
+                "label": "I'll go and ask.",
+                "nextNodeId": "chronicler_accept",
+                "conditions": []
+              },
+              {
+                "label": "Some things are better unasked.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "chronicler_accept": {
+            "id": "chronicler_accept",
+            "text": "North. The ward-circle above the Archive gate. And Traveller — if it answers you by name, do not answer back.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_one_who_stayed_awake",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "stayed_awake_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The One Who Stayed Awake",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "chronicler_done": {
+            "id": "chronicler_done",
+            "text": "It talked to you about crystals. [She laughs, once, badly.] Of course it did. Ten years of standing wave and it gives directions to Dusthaven.\nThat is what it does. That is all it has done. Whatever it was, it stayed awake through the Shattering and everything after, and the only thing it has found to do with four hundred years of consciousness is help strangers find the archivist.\nI think that is the most frightening thing I have ever learned and I cannot explain why, and I think I will be explaining it to myself for the rest of my life.\n...I am glad I did not ask. Thank you for asking.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "stayed_awake_done",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "iris_day": {
+            "id": "iris_day",
+            "text": "A day when nothing happened. [She is quiet long enough that you think she has refused.]\nThe morning before the Shattering. I was in the lower stacks re-shelving a run of tide-tables that had been shelved wrong by somebody who has been dead for four centuries, and I was annoyed about it, and I had a very good pear.\nI have never told anyone that. Everyone wants the afternoon. Nobody has ever once asked me about the morning.\n[She writes it out, slowly, in a hand trained on catastrophes.] Tell Mord the pear was the best thing that has ever happened to me and I did not notice at the time. He will understand that. It is his entire argument.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "ordinary_day",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "day_iris",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 16,
+      "y": 8,
+      "type": "QUESTGIVER"
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "maxDungeonDepth": 50,
+  "dungeonLevel": 1,
+  "initialTileStates": {}
+}

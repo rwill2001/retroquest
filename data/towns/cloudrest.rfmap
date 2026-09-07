@@ -1,0 +1,1174 @@
+{
+  "type": "TOWN",
+  "name": "cloudrest",
+  "width": 20,
+  "height": 20,
+  "tiles": [
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ]
+  ],
+  "interiorEntryX": 10,
+  "interiorEntryY": 18,
+  "npcs": [
+    {
+      "id": "npc_cr_hermit",
+      "name": "Cloud Hermit Alis",
+      "spriteName": "npcs/old_woman",
+      "type": "HEALER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The clouds teach patience. I am Alis. Sit. Breathe. The sky will show you what you need.",
+            "choices": [
+              {
+                "label": "I need healing.",
+                "nextNodeId": "heal",
+                "conditions": []
+              },
+              {
+                "label": "Cloud wraiths are haunting your grounds.",
+                "nextNodeId": "wraith_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "cloud_wraith_purge",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "cloud_wraith_purge",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How goes the wraith problem?",
+                "nextNodeId": "wraith_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "cloud_wraith_purge",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about Cloudrest.",
+                "nextNodeId": "cloudrest_lore",
+                "conditions": []
+              },
+              {
+                "label": "What do you know about The Weathervane?",
+                "nextNodeId": "weathervane_info",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "heal": {
+            "id": "heal",
+            "text": "Close your eyes. Feel the wind. Let it carry your pain away.",
+            "choices": [
+              {
+                "label": "Thank you.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "wraith_quest_intro": {
+            "id": "wraith_quest_intro",
+            "text": "Yes... the cloud wraiths. Spirits of those who fell from the islands. They drift through the meditation grounds at dusk, disrupting our peace. The monks cannot focus. If you could destroy three of them, we could resume our practices.",
+            "choices": [
+              {
+                "label": "I'll lay them to rest.",
+                "nextNodeId": "wraith_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "wraith_accepted": {
+            "id": "wraith_accepted",
+            "text": "Bless you. They're most active at night, on the overworld and in the dungeon. Be warned — they drain life with their touch and can put you to sleep. Fight with a clear mind.",
+            "choices": [
+              {
+                "label": "I'll be careful.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "cloud_wraith_purge",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "wraith_active": {
+            "id": "wraith_active",
+            "text": "The wraiths still drift. Three must fall before the grounds are cleansed. Be patient, be persistent.",
+            "choices": [
+              {
+                "label": "I'm working on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "cloudrest_lore": {
+            "id": "cloudrest_lore",
+            "text": "Cloudrest was founded by monks who sought silence above the world. The thin air clears the mind. Up here, the only sounds are wind and breath. It's the closest place to true peace I've found. The Weathervane came here seeking that peace. She found... something else.",
+            "choices": [
+              {
+                "label": "What did she find?",
+                "nextNodeId": "weathervane_info",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "weathervane_info": {
+            "id": "weathervane_info",
+            "text": "She touched the Eye of the Storm in the Stormspire. It shattered her mind but opened her sight. She sees all possible weathers, all possible futures. Most of what she says sounds like madness. But the things that make sense... they're terrifyingly accurate. Listen to her carefully. The truth hides in the metaphors.",
+            "choices": [
+              {
+                "label": "Then I should hear her myself.",
+                "nextNodeId": "prophecy_accept",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "weathervane_prophecy",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "weathervane_prophecy",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "I have heard her. She spoke of the Forge Eternal.",
+                "nextNodeId": "prophecy_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "weathervane_prophecy",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I'll keep that in mind.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "prophecy_accept": {
+            "id": "prophecy_accept",
+            "text": "Then go to her. She keeps to the open sky beyond the terraces, where the weather turns. Ask about the Forge Eternal and the gathering of the shards. Bring back what she says, not what you think she meant.",
+            "choices": [
+              {
+                "label": "I will find her.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "weathervane_prophecy",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "prophecy_done": {
+            "id": "prophecy_done",
+            "text": "The Forge Eternal. [She is quiet a long moment.] Then the storms are not a test after all. Thank you for carrying it back unbroken. Speak with the pilgrim below — he has been waiting for someone brave enough to ask her a question.",
+            "choices": [
+              {
+                "label": "I will.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the sky hold you gently.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 9,
+      "y": 6
+    },
+    {
+      "id": "npc_cr_monk",
+      "name": "Silent Monk",
+      "spriteName": "npcs/monk",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "...",
+            "choices": [
+              {
+                "label": "(Wait patiently)",
+                "nextNodeId": "patience",
+                "conditions": []
+              },
+              {
+                "label": "(Leave)",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "patience": {
+            "id": "patience",
+            "text": "... ... You wait. The monk watches the clouds for a long time. Finally: \"The wind does not speak. It listens. Be like the wind.\"",
+            "choices": [
+              {
+                "label": "(Nod)",
+                "nextNodeId": "nod",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "nod": {
+            "id": "nod",
+            "text": "The monk smiles — the barest flicker — and returns to silence.",
+            "choices": [
+              {
+                "label": "(Leave quietly)",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "...",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 10,
+      "y": 13
+    },
+    {
+      "id": "npc_cr_pilgrim",
+      "name": "Wandering Pilgrim",
+      "spriteName": "npcs/monk",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "I've walked every island seeking answers. Lirandel's temples spoke of mercy. Pyralis's forges spoke of ambition. But here... here the wind speaks of freedom. And I don't know if that's a blessing or a curse.",
+            "choices": [
+              {
+                "label": "Could you ask The Weathervane for guidance?",
+                "nextNodeId": "pilgrim_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "pilgrims_journey",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "pilgrims_journey",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "weathervane_prophecy",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "What have you learned in your travels?",
+                "nextNodeId": "wisdom",
+                "conditions": []
+              },
+              {
+                "label": "What brought you to Cloudrest?",
+                "nextNodeId": "purpose",
+                "conditions": []
+              },
+              {
+                "label": "Safe travels.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "pilgrim_quest_intro": {
+            "id": "pilgrim_quest_intro",
+            "text": "The Weathervane? The broken oracle? I... I'm afraid to approach her. They say she sees too much. But perhaps you could speak with her on my behalf? Ask what path a seeker should walk when all paths lead to storm.",
+            "choices": [
+              {
+                "label": "I'll ask her for you.",
+                "nextNodeId": "pilgrim_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "pilgrim_accepted": {
+            "id": "pilgrim_accepted",
+            "text": "Thank you. She lives on the overworld near Cloudrest's island. Whatever she says... bring it back to me. Even if it doesn't make sense. Especially if it doesn't.",
+            "choices": [
+              {
+                "label": "I'll find her.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "pilgrims_journey",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "wisdom": {
+            "id": "wisdom",
+            "text": "Every island teaches a different lesson. Lirandel taught me that mercy without strength is weakness. Pyralis taught me that ambition without temperance is destruction. Zephyrion is teaching me that freedom without purpose is just... falling.",
+            "choices": [
+              {
+                "label": "Profound.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "purpose": {
+            "id": "purpose",
+            "text": "I heard Cloudrest was the quietest place in the Archipelago. A place to think without the wind howling in your ears. And it's true — the wind IS quieter here. But the questions are louder.",
+            "choices": [
+              {
+                "label": "I hope you find your answers.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The journey continues. As it must.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 14,
+      "y": 10
+    },
+    {
+      "id": "npc_cr_tender",
+      "name": "Garden Tender",
+      "spriteName": "npcs/farmer",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Mind the sky-moss. It's delicate. I tend the cloud gardens here — herbs that only grow at this altitude. The thin air concentrates their properties.",
+            "choices": [
+              {
+                "label": "What grows up here?",
+                "nextNodeId": "plants",
+                "conditions": []
+              },
+              {
+                "label": "Can any of these herbs help me?",
+                "nextNodeId": "helpful",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "plants": {
+            "id": "plants",
+            "text": "Sky-moss absorbs lightning and glows at night. Cloudpetal opens only during storms and makes a powerful sleeping draught. And wind-root... it grows sideways, following the breeze. Ground into powder, it cures vertigo. Essential living up here.",
+            "choices": [
+              {
+                "label": "Amazing.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "helpful": {
+            "id": "helpful",
+            "text": "I'm not an alchemist, but Alis uses my herbs in her healing. If you need patching up, speak to her. If you need potions, Trader Pip in Windhaven carries what I can't grow.",
+            "choices": [
+              {
+                "label": "Thanks for the tip.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Step carefully. The sky-moss takes a month to regrow.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 6,
+      "y": 14
+    },
+    {
+      "id": "npc_cr_healer",
+      "name": "Healer Alis",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "The sky heals all who seek its peace.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A serene woman in flowing white robes tends a meditation garden on the cloud's edge.] Peace, traveler. Cloudrest is a place of healing and contemplation. The monks here study the winds. I tend the body while they tend the spirit. Need mending?",
+            "choices": [
+              {
+                "label": "I'd like healing. (Full heal, 20g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 20,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about this place.",
+                "nextNodeId": "about",
+                "conditions": []
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "Breathe deep. Let the sky's breath carry your pain away.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -20
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Healer Alis tends your wounds with sky-herb poultices. Fully restored.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "about": {
+            "id": "about",
+            "text": "Cloudrest floats on the highest cloud in the Archipelago. The monks came here seeking silence — ironic, given the wind. But they say the wind IS silence, if you listen properly. I don't understand it, but I've seen monks stand in a hurricane without flinching. So perhaps they're onto something.",
+            "choices": [
+              {
+                "label": "Monks who stand in hurricanes. Impressive.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the winds carry you gently.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 10,
+      "y": 6
+    },
+    {
+      "id": "npc_cr_herbalist",
+      "name": "Brother Yarrow",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Herbs from the sky gardens. Potent and rare.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "greater_healing",
+        "vial_of_lightning",
+        "antidote",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A monk in herb-stained robes sorts bundles of glowing plants.] I grow what the Garden Tender harvests and brew what Healer Alis prescribes. Potions, salves, tinctures — the sky provides, and I distill. Need something?",
+            "choices": [
+              {
+                "label": "Show me what you have.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "What grows up here?",
+                "nextNodeId": "grows",
+                "conditions": []
+              },
+              {
+                "label": "No thanks.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "All natural. Sky-grown. Take your pick.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "grows": {
+            "id": "grows",
+            "text": "Things you'd never find on solid ground. Cloudpetal, which only opens during lightning storms. Wind-root, which grows sideways following the breeze. And sky-moss — it absorbs lightning and glows at night. The Garden Tender is the real expert. I just boil things.",
+            "choices": [
+              {
+                "label": "Let me see your stock.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Interesting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Breathe deep. Sky air cures half of what ails you.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 14,
+      "y": 7
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "maxDungeonDepth": 50,
+  "dungeonLevel": 1,
+  "initialTileStates": {}
+}

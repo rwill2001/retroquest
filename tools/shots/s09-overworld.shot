@@ -1,0 +1,14 @@
+# Island 1 overworld — the fog-of-war light radius travelling with the player as
+# terrain resolves ahead. Starts on the authored arrival tile from game_config.json.
+DESC="Lirandel overworld · walking east out of the arrival beach"
+SCENE=overworld
+ISLAND=lirandel
+AT="20,48"
+FACING=1
+SECONDS_LEN=6
+CAMERA_RATE=0.4
+ZOOM=5
+MOVE="0.7:F,1.4:F,2.1:F,2.8:F,3.5:F,4.2:F,4.9:F"
+WIDTH=640
+HEIGHT=360
+UPSCALE=1920:1080

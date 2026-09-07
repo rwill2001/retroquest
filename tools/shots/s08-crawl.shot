@@ -1,0 +1,7 @@
+# The opening crawl typing itself — 900ms per line, in phosphor green on black.
+DESC="The intro crawl — you are the Unbound"
+SCENE=intro
+SECONDS_LEN=7
+WIDTH=960
+HEIGHT=540
+UPSCALE=1920:1080

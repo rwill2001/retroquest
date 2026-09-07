@@ -1,0 +1,2159 @@
+{
+  "type": "TOWN",
+  "name": "kelp_towers",
+  "width": 25,
+  "height": 25,
+  "interiorEntryX": 12,
+  "interiorEntryY": 22,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "i",
+      "i",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "c",
+      "c",
+      "c",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "npc_kelptowers_nym",
+      "name": "Presskeeper Nym",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "The deep reads us all. The question is whether we read it back.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 7,
+      "y": 13,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "I am Nym, keeper of the deep's pressure — and its secrets. The Pressure Temple below holds truths that Thalorax guards jealously. I've spent decades trying to read them.",
+            "choices": [
+              {
+                "label": "What truths are in the temple?",
+                "nextNodeId": "temple_info",
+                "conditions": []
+              },
+              {
+                "label": "I'll help you investigate. [The Deep Reading]",
+                "nextNodeId": "deep_reading_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "deep_reading_accepted",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Any work that pays? [Wraith Bounty]",
+                "nextNodeId": "bounty_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "wraith_bounty_accepted",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I've seen the inscriptions.",
+                "nextNodeId": "reading_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_deep_reading",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_EQUALS",
+                    "target": "pressure_temple_explored",
+                    "value": "true",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] I'm working on the Deep Reading.",
+                "nextNodeId": "reading_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_deep_reading",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "pressure_temple_explored",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Hunting wraiths for the bounty.",
+                "nextNodeId": "bounty_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "abyssal_wraith_bounty",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "You are called Presskeeper. What is a press?",
+                "nextNodeId": "press_info",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_deep_reading",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "pressed_woman_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Going down into the Boneyard.",
+                "nextNodeId": "press_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_pressed_woman",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I stood on the trench floor.",
+                "nextNodeId": "press_read",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_pressed_woman",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "pressed_woman_read",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell, Presskeeper.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "temple_info": {
+            "id": "temple_info",
+            "text": "The Pressure Temple is Thalorax's sanctum. Within it lies knowledge of the Shattering — why the world broke, how the gods divided. Thalorax knows the answer, but he crushes anyone who gets too close. The abyssal wraiths are his sentinels.",
+            "choices": [
+              {
+                "label": "I'll investigate for you.",
+                "nextNodeId": "deep_reading_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "deep_reading_accepted",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Interesting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "deep_reading_offer": {
+            "id": "deep_reading_offer",
+            "text": "Enter the Pressure Temple and find the inscription chamber. Read what's written on the walls and return to me. Be warned — Thalorax does not share his knowledge willingly.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_deep_reading",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "deep_reading_accepted",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Deep Reading",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "bounty_offer": {
+            "id": "bounty_offer",
+            "text": "The abyssal wraiths grow bolder. They've been drifting closer to Kelp Towers, testing our wards. Kill five of them and I'll make it worth your while.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "abyssal_wraith_bounty",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "wraith_bounty_accepted",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Abyssal Wraith Bounty",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "reading_progress": {
+            "id": "reading_progress",
+            "text": "The temple awaits. Find the inscriptions and return. The pressure down there — it's more than physical. Be prepared.",
+            "choices": [
+              {
+                "label": "I'll press on.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "bounty_progress": {
+            "id": "bounty_progress",
+            "text": "Keep hunting those wraiths. Five of them, and the deep will think twice before testing us again.",
+            "choices": [
+              {
+                "label": "On it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "reading_complete": {
+            "id": "reading_complete",
+            "text": "You've seen them? The inscriptions? Tell me — what did the walls say? ... A formless warmth. The joy of creation. The betrayal. By the deep — Aqualon's own memories, carved into stone. Thalorax has been reading the serpent's dreams. This changes everything.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Presskeeper Nym is stunned by what you've discovered. (+1100 XP)",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "deep_reading_complete",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The pressure never rests. Neither should you.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "press_info": {
+            "id": "press_info",
+            "text": "Pressure is a printing press. Put anything at the bottom for long enough and the water takes an impression of it — not the thing, the shape of the thing, exact to the pore.\nI have four thousand of them in this tower. Fishermen. A dog. Half a ship's crew in one slab, holding hands, which I have never managed to look at for long.\nAnd I have one I cannot develop.",
+            "choices": [
+              {
+                "label": "Whose?",
+                "nextNodeId": "press_woman",
+                "conditions": []
+              },
+              {
+                "label": "Four thousand is a great many.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "press_woman": {
+            "id": "press_woman",
+            "text": "A woman's. She walked to the trench floor thirty years ago — walked, mind, no bell and no line — so the press has her, so she was down there. And it has her upright and moving, so she did not drown. Both of those cannot be true and both of them are.\nThere is a mark on her chest in the impression.\n[Nym looks at you for slightly too long, and does not say the next part.]\nI need raw trench-pressure to bring the rest of her up, and it only still runs in the leviathan graves in the Boneyard. Go down and stand at the bottom of it. Come back and I will show you what she looked like.",
+            "choices": [
+              {
+                "label": "I'll go down.",
+                "nextNodeId": "press_accept",
+                "conditions": []
+              },
+              {
+                "label": "Not yet.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "press_accept": {
+            "id": "press_accept",
+            "text": "Take rations. The bones eat light, and they eat hours, and men come out of the Boneyard having lost a day they can account for minute by minute and still cannot find.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_pressed_woman",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "pressed_woman_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Pressed Woman",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "press_progress": {
+            "id": "press_progress",
+            "text": "The Boneyard is south. Follow the bone fields until the light stops behaving and then keep going.",
+            "choices": [
+              {
+                "label": "Understood.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "press_read": {
+            "id": "press_read",
+            "text": "[The slab clears while you watch. It is not a picture. It is a hole in the shape of a person, and the person is walking.]\nThirty-one years old, near enough. Salt-burned. Surface build. Armed like somebody who expected the trip.\nHere — the scar on the sternum, that opens like a mouth. I have seen exactly one other in my life and I am looking at it right now.\nThe pressure caught her saying her own name, too. They do that, at the end. Seraphine.\nShe went down, and she did not drown, and she did not come back up. Thalorax kept her shape, because Thalorax keeps everything. I do not believe he kept the rest of her, because I do not believe he was the one who got her.\nTake the slab. Carry it into the Trenches and show it to somebody who deals in names. They will know what to do with a shape.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "seraphines_press",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "pressed_woman_read",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "You are given Seraphine's Press. Someone in Umbryn deals in names.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_kelptowers_merchant",
+      "name": "Kelp Weaver",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Woven from the deep. Stronger than it looks.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "coral_shield",
+        "deep_trident",
+        "abyssal_healing_draught",
+        "healing_potion",
+        "greater_healing",
+        "antidote",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations",
+        "honeyed_loaf"
+      ],
+      "x": 7,
+      "y": 19,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Kelp's tougher than steel at this depth. I weave it, cure it, shape it. Need something woven?",
+            "choices": [
+              {
+                "label": "Show me your wares.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "No thanks.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Everything's deep-cured. Won't rot, won't rust.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Mind the currents between the towers.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_kelptowers_keeper",
+      "name": "The Ancient Kelp-Keeper",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "The kelp remembers what stone forgets.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 17,
+      "y": 19,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "I've tended these towers since before the dome-folk came. The kelp was here first — it grew from the bones of the leviathans that fell in the Shattering. Each strand holds a memory.",
+            "choices": [
+              {
+                "label": "Tell me about the leviathans.",
+                "nextNodeId": "leviathans",
+                "conditions": []
+              },
+              {
+                "label": "What do you know about Thalorax?",
+                "nextNodeId": "thalorax",
+                "conditions": []
+              },
+              {
+                "label": "You said the Boneyard is a grave. Whose grave?",
+                "nextNodeId": "jaw_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "jaw_quest_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I stood in the jaw.",
+                "nextNodeId": "jaw_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_leviathans_jaw",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "jaw_answered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Oleander needs lumen coral. Is that one on your table?",
+                "nextNodeId": "keeper_lumen",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_undrowned_lamp",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "keeper_gave_lumen",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Fascinating.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "leviathans": {
+            "id": "leviathans",
+            "text": "Creatures vast enough to blot out the bioluminescence. When the world shattered, they died — their bones became the trenches, their blood became the pressure vents. The Boneyard Trench to the south is one such grave. The wraiths that haunt it are their echoes.",
+            "choices": [
+              {
+                "label": "And Thalorax?",
+                "nextNodeId": "thalorax",
+                "conditions": []
+              },
+              {
+                "label": "I see.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "thalorax": {
+            "id": "thalorax",
+            "text": "Thalorax is not evil. He is inevitable. Pressure, darkness, the weight of knowledge too heavy to bear — that is his nature. He crushes because that is what depth does. But he also preserves. The deepest things endure the longest.",
+            "choices": [
+              {
+                "label": "A strange god.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Listen to the kelp. It sways with truths the stone won't tell.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "jaw_offer": {
+            "id": "jaw_offer",
+            "text": "That is the question I have left. One.\nThere is a jaw in the southern trench a mile across, and it matches nothing. Not leviathan. The proportions are wrong and the tooth-sockets are wrong and it is older, and the kelp will not grow on it — and the kelp grows on everything. The kelp grows on gods' bones. It will not touch that.\nI am four hundred and eleven and I cannot swim that far any more. Go and stand inside it and tell me whether I am right. You will know at once whether I am right; that is the trouble with it.",
+            "choices": [
+              {
+                "label": "I will go and stand in it.",
+                "nextNodeId": "jaw_accept",
+                "conditions": []
+              },
+              {
+                "label": "Another time.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "jaw_accept": {
+            "id": "jaw_accept",
+            "text": "South, past the vents, past the graves. Touch the runes if your nerve holds. Read them if it holds twice.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_leviathans_jaw",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "jaw_quest_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Leviathan's Jaw",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "jaw_done": {
+            "id": "jaw_done",
+            "text": "You felt it. Of course you did.\n[She is not smiling.] A jaw that size did not belong to anything the gods killed. It belonged to something that was killed before there were gods to do the killing — which means there was a before. Which means the serpent your priests weep over was not the first thing in this water either, only the first thing that got a story.\nI have wanted to be wrong about that for two hundred years. Thank you for finishing it. Now go away and let me be old about it in peace.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "jaw_answered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Kelp-Keeper has her answer. She does not look glad of it.",
+                "value": "INFO",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "keeper_lumen": {
+            "id": "keeper_lumen",
+            "text": "That? It has held down a chart for ninety years. [She hands it over, glowing.] It was given that light by a lamplighter's grandmother and it has never given it back, and nobody has ever thought that strange, which tells you everything about this island.\nTake it to Oleander. And tell her from me: a thing does not owe you a century because you started it.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "lumen_coral",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "keeper_gave_lumen",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_kelptowers_inn",
+      "name": "Drift-Tender Mora",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "Rest here. The kelp cradles you. 20 gold.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 13,
+      "y": 8,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The upper platforms catch a warm current — closest thing to comfort you'll find in the deep. Rest here and let the kelp cradle you. 20 gold.",
+            "choices": [
+              {
+                "label": "I'll rest. [20 gold]",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 20
+                  }
+                ]
+              },
+              {
+                "label": "Too expensive.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "Sleep well. The kelp sways in rhythm with your breathing. When you wake, the pressure feels lighter.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -20
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The current waits for no one.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": []
+}

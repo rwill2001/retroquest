@@ -1,0 +1,65 @@
+<assembly xmlns="http://maven.apache.org/ASSEMBLY/2.2.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/ASSEMBLY/2.2.0 http://maven.apache.org/xsd/assembly-2.2.0.xsd">
+    <id>installer</id>
+    <formats>
+        <format>jar</format>
+    </formats>
+    <includeBaseDirectory>false</includeBaseDirectory>
+
+    <!-- Installer class from target/classes -->
+    <fileSets>
+        <fileSet>
+            <directory>${project.build.outputDirectory}/io/cannonforge/installer</directory>
+            <outputDirectory>io/cannonforge/installer</outputDirectory>
+            <includes>
+                <include>*.class</include>
+            </includes>
+        </fileSet>
+
+        <!-- Game fat JAR -->
+        <fileSet>
+            <directory>${project.build.directory}</directory>
+            <outputDirectory>installer</outputDirectory>
+            <includes>
+                <include>retroquest-0.9.0-fat.jar</include>
+            </includes>
+        </fileSet>
+
+        <!-- Data files -->
+        <fileSet>
+            <directory>${project.basedir}/data</directory>
+            <outputDirectory>installer/data</outputDirectory>
+            <includes>
+                <include>balance.json</include>
+                <include>game_config.json</include>
+                <include>items.json</include>
+                <include>monsters.json</include>
+                <include>quests.json</include>
+                <include>tiles.json</include>
+                <include>dungeons/*.rfmap</include>
+                <include>overworlds/*.rfmap</include>
+                <include>towns/*.rfmap</include>
+            </includes>
+            <excludes>
+                <exclude>.forge_prefs</exclude>
+            </excludes>
+        </fileSet>
+
+        <!-- App icons -->
+        <fileSet>
+            <directory>${project.basedir}/src/main/resources</directory>
+            <outputDirectory>installer</outputDirectory>
+            <includes>
+                <include>retroquest.ico</include>
+                <include>retroquest_icon.png</include>
+            </includes>
+        </fileSet>
+
+        <!-- Bundled JRE from jlink output -->
+        <fileSet>
+            <directory>${project.build.directory}/jre</directory>
+            <outputDirectory>installer/jre</outputDirectory>
+        </fileSet>
+    </fileSets>
+</assembly>

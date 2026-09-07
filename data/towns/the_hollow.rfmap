@@ -1,0 +1,2312 @@
+{
+  "type": "TOWN",
+  "name": "the_hollow",
+  "width": 25,
+  "height": 25,
+  "interiorEntryX": 12,
+  "interiorEntryY": 22,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "|",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "o",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "o",
+      "o",
+      "o",
+      "o",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "o",
+      "o",
+      "o",
+      "o",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "o",
+      "o",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Q",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "npc_hollow_vel",
+      "name": "Mourner Vel",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "You can speak? You still have a name? Then you are not yet lost.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 5,
+      "y": 9,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "You can speak? You still have a name? Then you are not yet lost.",
+            "choices": [
+              {
+                "label": "What is this place?",
+                "nextNodeId": "no_quest",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "eighth_dream_accepted",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] I found something.",
+                "nextNodeId": "quest_has_evidence",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "eighth_dream",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "HAS_ITEM",
+                    "target": "eighth_dream_evidence",
+                    "value": "",
+                    "amount": 1
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still searching.",
+                "nextNodeId": "quest_no_evidence",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "eighth_dream",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "eighth_dream_ready",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Done] About the eighth dream...",
+                "nextNodeId": "quest_done",
+                "conditions": [
+                  {
+                    "type": "FLAG_EQUALS",
+                    "target": "eighth_dream_ready",
+                    "value": "true",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "What is a Hollow One?",
+                "nextNodeId": "unmourned_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "unmourned_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still out among them.",
+                "nextNodeId": "unmourned_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_unmourned",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] Five are at rest.",
+                "nextNodeId": "unmourned_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_unmourned",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "unmourned_recorded",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Keeper Mord wants a day on which nothing happened.",
+                "nextNodeId": "vel_day",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_archive_of_small_things",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "day_vel",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "no_quest": {
+            "id": "no_quest",
+            "text": "The Last Witness speaks of an eighth dream — one the other seven consumed. I have seen fragments in the Nameless' memories. Will you investigate?",
+            "choices": [
+              {
+                "label": "I will look into it.",
+                "nextNodeId": "quest_accept",
+                "conditions": []
+              },
+              {
+                "label": "Not now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_accept": {
+            "id": "quest_accept",
+            "text": "Then go and sit with the Nameless. What the Archive lost, they still carry — badly, in pieces. One of them is holding it and does not know the word for it.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "eighth_dream",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "eighth_dream_accepted",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Eighth Dream",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_has_evidence": {
+            "id": "quest_has_evidence",
+            "text": "You found it. Hope. The dream the gods destroyed. Take this to the Last Witness at Echo Point.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "eighth_dream_ready",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Vel recognizes the evidence. Bring it to the Last Witness at Echo Point.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_no_evidence": {
+            "id": "quest_no_evidence",
+            "text": "Sit with the Nameless. Do not ask them questions. Wait until one of them offers.",
+            "choices": [
+              {
+                "label": "I'll keep looking.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_done": {
+            "id": "quest_done",
+            "text": "Hope was consumed but not destroyed. It lives in fragments, in every act of kindness.",
+            "choices": [
+              {
+                "label": "A comforting thought.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Remember your name. That is all any of us can do.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "unmourned_offer": {
+            "id": "unmourned_offer",
+            "text": "The next thing after these three. [She does not look at the Nameless when she says it, which is its own kind of tenderness.]\nA Nameless has lost the word. A Hollow One has lost the person. Same body, walking, and there is nobody at all inside it — Umbryn dropped the file and the file was the tenant.\nThey are out in the trenches by the hundred and nobody will go near them, and so nobody has ever said a word over one, and they have been not-buried for four hundred years.\nI cannot fight. I am sixty and I have wept myself down to nothing. Go out and put five of them down, and I will do the only half of a funeral I am able to do.",
+            "choices": [
+              {
+                "label": "I'll do it.",
+                "nextNodeId": "unmourned_accept",
+                "conditions": []
+              },
+              {
+                "label": "That is a hard thing to ask.",
+                "nextNodeId": "unmourned_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "unmourned_accept": {
+            "id": "unmourned_accept",
+            "text": "It is the only thing left to ask. I stopped having the good asks a long time ago.\nFive. And come back — that is the part that matters. Anyone can do the killing.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_unmourned",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "unmourned_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Unmourned",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "unmourned_progress": {
+            "id": "unmourned_progress",
+            "text": "Five. And do not look for anything in their faces on the way down. There is nothing there and looking only costs you.",
+            "choices": [
+              {
+                "label": "I know.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "unmourned_done": {
+            "id": "unmourned_done",
+            "text": "[She has the book open before you finish speaking.]\nRight. Now. There is a decision in this and I am going to make you make it, because I have made it wrong twice.\nI can write them down as gone. That is a record, it is true, and Umbryn will take it, and it will be in the Archive forever: five went, on this day, and were witnessed.\nOr I can write down what they were before he dropped them. Guesses. A build, a gait, the way one of them still turned left at a corner that has not been there in a century. Not true, most of it. Not a record at all.\nOne of those is honest. The other one is a funeral.",
+            "choices": [
+              {
+                "label": "Write them down as gone. Let it be true.",
+                "nextNodeId": "unmourned_gone",
+                "conditions": []
+              },
+              {
+                "label": "Write down what they were. Let it be a funeral.",
+                "nextNodeId": "unmourned_people",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "unmourned_gone": {
+            "id": "unmourned_gone",
+            "text": "[She writes five lines. It takes under a minute. She is very good at this and that is the saddest fact in The Hollow.]\nGone. Witnessed. Filed.\nHe will take that. He takes anything that is true; it is the only appetite he has left.\nThank you. That is five fewer holes in the world that nobody could name.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "unmourned_recorded",
+                "value": "gone",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Five deaths enter the record, exactly and truly.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "unmourned_people": {
+            "id": "unmourned_people",
+            "text": "[She writes for a very long time, and some of it is obviously invented, and she does not pretend otherwise.]\nOne of them was tall and stooped and had been a tall stooped man for so long that the walking remembered it after he stopped. One of them still turned left at a corner. One of them was carrying something.\nNone of that will survive an archivist. It is not evidence. It will be struck out inside a year.\nBut it was said. Out loud, by a person, about a person. That is what the eighth dream was, before they ate her — not that we would be remembered accurately. That we would be remembered kindly.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "unmourned_recorded",
+                "value": "people",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "SYLVANDAR",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Vel writes down five people instead of five deaths.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "vel_day": {
+            "id": "vel_day",
+            "text": "Mord. [The first time you have seen her look amused.] Of course it is Mord. He has been arguing that at me across a counter for twenty years and I have been too busy to concede it.\nHe is right, though. I keep the worst day of four hundred people in my head and not one good afternoon, and I chose that, and I have called it devotion.\n[She thinks.]\nThe day before I came to The Hollow. I did nothing. I sat in a doorway in Dusthaven with a cup of something and watched a man fail to control a handcart for the better part of an hour. I laughed until I had to stop.\nI have not thought about it in thirty-one years and it was there the whole time, filed under nothing.\n[She writes it down, and her hand is much steadier than it is when she writes the other kind.]\nTell him he has won the argument. Tell him it took a stranger.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "ordinary_day",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "day_vel",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_hollow_nameless1",
+      "name": "Nameless One",
+      "spriteName": "npcs/townsman",
+      "type": "LORE",
+      "defaultDialog": "...",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 17,
+      "y": 9,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "...",
+            "choices": [
+              {
+                "label": "[She is holding something. Hold out your hand.]",
+                "nextNodeId": "give_crystal",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "fading_names",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "crystal_nameless1",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Leave her in peace.]",
+                "nextNodeId": "leave",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "give_crystal": {
+            "id": "give_crystal",
+            "text": "[She sets a dull crystal in your palm, closes your fingers over it, and goes back to looking at the wall. She does not say a word. She has not got one.]",
+            "choices": [
+              {
+                "label": "[Bow, and go.]",
+                "nextNodeId": "leave",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "archive_crystal",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "crystal_nameless1",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "leave": {
+            "id": "leave",
+            "text": "...",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_hollow_nameless2",
+      "name": "Nameless Two",
+      "spriteName": "npcs/townsman",
+      "type": "LORE",
+      "defaultDialog": "Name... had a... who?",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 18,
+      "y": 11,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Name... had a... who?",
+            "choices": [
+              {
+                "label": "You had a name. It is in that stone.",
+                "nextNodeId": "give_crystal",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "fading_names",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "crystal_nameless2",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Say nothing.]",
+                "nextNodeId": "leave",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "give_crystal": {
+            "id": "give_crystal",
+            "text": "In... stone? [He turns the crystal over twice, then pushes it at you, hard, like it burns.] You keep. You keep. I had a... who?",
+            "choices": [
+              {
+                "label": "Someone who will be remembered.",
+                "nextNodeId": "leave",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "archive_crystal",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "crystal_nameless2",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "leave": {
+            "id": "leave",
+            "text": "Name... had a... who?",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_hollow_nameless3",
+      "name": "Nameless Three",
+      "spriteName": "npcs/townsman",
+      "type": "LORE",
+      "defaultDialog": "The music. I remember the music. But not the song.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 16,
+      "y": 13,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The music. I remember the music. But not the song.",
+            "choices": [
+              {
+                "label": "Was the song called Hope?",
+                "nextNodeId": "give_evidence",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "eighth_dream",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "eighth_dream_evidence_given",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Listen a while, then go.]",
+                "nextNodeId": "leave",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "give_evidence": {
+            "id": "give_evidence",
+            "text": "[He stops humming. For one moment his eyes are entirely present.] Hope. Yes. There were eight. The other seven ate the eighth so she could not warn anyone. I wrote it down before I forgot how. Here — take it, take it, I do not want to hold it when it goes.",
+            "choices": [
+              {
+                "label": "You held it long enough. Thank you.",
+                "nextNodeId": "leave",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "eighth_dream_evidence",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "eighth_dream_evidence_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The nameless man presses a folded scrap into your hand. Evidence of the Eighth Dream.",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "leave": {
+            "id": "leave",
+            "text": "The music. I remember the music. But not the song.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_hollow_well",
+      "name": "The Well of Names",
+      "spriteName": "npcs/oracle",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "[A hole in the floor of the world. It is saying names.]",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[A round shaft cut through the floor of The Hollow, ringed in worn stone. It is not empty and it is not deep. It is saying names, one after another, at the speed of a person reading a list they have read many times.]\n— Aldric. Veyla. Tomas. Corran. Sesh. Oleander. Ossa. Varsa. —\n[It does not stop for you. It has never stopped for anybody.]",
+            "choices": [
+              {
+                "label": "[Listen for your own name.]",
+                "nextNodeId": "well_listen",
+                "conditions": []
+              },
+              {
+                "label": "[Sable said she would project Seraphine's echo here.]",
+                "nextNodeId": "well_echo",
+                "conditions": [
+                  {
+                    "type": "FLAG_EQUALS",
+                    "target": "seraphine_echo_ready",
+                    "value": "true",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "seraphine_echo_heard",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Ask it what it wants.]",
+                "nextNodeId": "well_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "well_quest_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] The knights are still standing.",
+                "nextNodeId": "well_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_well_of_names",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] They are relieved.",
+                "nextNodeId": "well_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_well_of_names",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "well_relieved",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Step back.]",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "well_listen": {
+            "id": "well_listen",
+            "text": "[You wait through four hundred names. Yours is not among them, and neither is the scar on your chest, and neither is anything about you at all.]\n[The Well is a list of everyone Umbryn has ever been able to see.]",
+            "choices": [
+              {
+                "label": "[Step back.]",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "well_echo": {
+            "id": "well_echo",
+            "text": "[The names stop.]\n[That has not happened in four hundred years. Somewhere in Dusthaven a woman is holding four crystals to a frequency and weeping, and here, in a hole in the floor, a shape stands up out of the dark and is a woman, roughly, and is thirty-one, roughly, and is looking at your chest.]\n— Oh. Oh, they sent another one. —\n— Listen. I have very little of this. Listen. It is not seven doors, at the bottom. It is four, and every one of them is an ending, and they will tell you that is generous. —\n— I could not do it. I stood there nine years' worth of tired and I could not pick an ending, so I picked the one that was work instead, because work is not an ending, work is a tomorrow. —\n— It has been twenty-two years of tomorrow. —\n[The shape puts out a hand toward you and cannot reach, because a hole in a floor is not a person.]\n— Do not come and rescue me. Come and RELIEVE me. Those are different and the difference is the whole of it. —\n[The names start again. Hers is not in them. It never was.]",
+            "choices": [
+              {
+                "label": "[Step back.]",
+                "nextNodeId": "echo_end",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "echo_end": {
+            "id": "echo_end",
+            "text": "[The Well reads its list. Somewhere south of here, a woman has been standing a post for twenty-two years.]",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "seraphine_echo_heard",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Seraphine's echo: do not rescue me. Relieve me.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "well_offer": {
+            "id": "well_offer",
+            "text": "[The names stop, briefly, which is the Well's entire vocabulary for surprise.]\n— Relief. —\n— I was guarded. When people still came to be named, four of the Archive's knights stood at the rim, and they were relieved at the turn of every watch, and that was the arrangement and it was a good arrangement. —\n— The last relief did not come. It has not come for four hundred years. They are still standing. There is nothing in them now but the standing. —\n— I cannot dismiss them. I am a hole in a floor. I read a list. —\n— Go out to the rifts and relieve my guard. —",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_well_of_names",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "well_quest_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Well of Names",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "well_progress": {
+            "id": "well_progress",
+            "text": "— Four. They wear the Archive's plate and they will not speak, because speaking was not on the standing orders. —",
+            "choices": [
+              {
+                "label": "[Step back.]",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "well_done": {
+            "id": "well_done",
+            "text": "[The names stop for the second time.]\n— Relieved. —\n— I have four names I have not been able to say for four hundred years, because a guard on duty is not on the list. Listen. —\n— Corran. Ionna the elder. Meth. And the fourth would not give it, at the time, out of vanity, and I have kept the gap warm for her ever since. —\n[It says the gap. It is a silence exactly the length of a name.]\n— There. That is the whole job. That is all any of this has ever been. —",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "well_relieved",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Well says four names it has held for four hundred years.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "— Aldric. Veyla. Tomas. Corran. —",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 11,
+      "y": 17
+    }
+  ],
+  "townEntrances": [],
+  "initialTileStates": {},
+  "overworldTeleporters": []
+}

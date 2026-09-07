@@ -1,0 +1,3295 @@
+{
+  "type": "TOWN",
+  "name": "dusthaven",
+  "width": 30,
+  "height": 30,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "u",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "i",
+      "j",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "x",
+      "x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "c",
+      "c",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "interiorEntryX": 14,
+  "interiorEntryY": 27,
+  "npcs": [
+    {
+      "id": "npc_dusthaven_sable",
+      "name": "Archivist Sable",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "The memories endure because someone cares enough to save them.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to what remains of the Grand Archive. I am Sable, keeper of what Umbryn would preserve.",
+            "choices": [
+              {
+                "label": "What is this place?",
+                "nextNodeId": "about",
+                "conditions": []
+              },
+              {
+                "label": "Do you need help?",
+                "nextNodeId": "quest_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "fading_names_accepted",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] I'm searching for the crystals.",
+                "nextNodeId": "quest_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "fading_names",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I've recovered the memory crystals.",
+                "nextNodeId": "quest_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "fading_names",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "echo_seraphine_accepted",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Echo Quest Active] Where should I go?",
+                "nextNodeId": "echo_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "echo_of_seraphine",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Echo Quest Done] I stood before her echo.",
+                "nextNodeId": "echo_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "echo_of_seraphine",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Show her the press from the deep.]",
+                "nextNodeId": "read_press",
+                "conditions": [
+                  {
+                    "type": "HAS_ITEM",
+                    "target": "seraphines_press",
+                    "value": "",
+                    "amount": 1,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "press_shown_sable",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Umbryn keeps a file on everyone. Where is hers?",
+                "nextNodeId": "file_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "echo_of_seraphine",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "seraphine_file_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still searching the Forgotten City.",
+                "nextNodeId": "file_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_name_she_used_here",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I found the file.",
+                "nextNodeId": "file_read",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_name_she_used_here",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "seraphine_file_read",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "about": {
+            "id": "about",
+            "text": "Dusthaven was once a center of learning — scholars came from every island to study in the Grand Archive. Now the shadows have swallowed most of it. Only this fragment remains, and even it is fading.",
+            "choices": [
+              {
+                "label": "Can I help preserve it?",
+                "nextNodeId": "quest_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "fading_names_accepted",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I see.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_offer": {
+            "id": "quest_offer",
+            "text": "My memory crystals are degrading. Four of them, scattered through the Archive of Tears, hold memories too important to lose. Will you recover them?",
+            "choices": [
+              {
+                "label": "I'll find the crystals.",
+                "nextNodeId": "quest_accept",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_accept": {
+            "id": "quest_accept",
+            "text": "Thank you. The Archive of Tears lies to the north — the crystals pulse with a faint blue light. You'll know them when you see them. Be wary of what lurks in the deeper halls.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "fading_names",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "fading_names_accepted",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Fading Names",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_progress": {
+            "id": "quest_progress",
+            "text": "The crystals grow dimmer with each passing day. Please — the Archive of Tears holds what remains. Four crystals, each with a name that must not be forgotten.",
+            "choices": [
+              {
+                "label": "I'll keep searching.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_complete": {
+            "id": "quest_complete",
+            "text": "You've restored the crystals... the names are clear again. Aldric. Seraphine. Tomas. Veyla. They will not be forgotten. There is something else. Seraphine came here thirty years ago. I can summon her echo if you wish.",
+            "choices": [
+              {
+                "label": "Summon the echo. I want to know her story.",
+                "nextNodeId": "echo_accept",
+                "conditions": []
+              },
+              {
+                "label": "Not yet.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "echo_accept": {
+            "id": "echo_accept",
+            "text": "Very well. I will attune the crystals to Seraphine's frequency. Seek the Well of Names in The Hollow — I will project her echo there. Speak with her, and learn what Umbryn took from us.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "echo_of_seraphine",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "seraphine_echo_ready",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "echo_seraphine_accepted",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Echo of Seraphine",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "echo_done": {
+            "id": "echo_done",
+            "text": "You heard her, then. Thirty years I have kept that frequency and never once had the courage to stand in it myself. [She closes the crystal case gently.] Seraphine went in knowing. That is the part I wanted someone else to hear.",
+            "choices": [
+              {
+                "label": "She knew, and she went anyway.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "echo_progress": {
+            "id": "echo_progress",
+            "text": "Stand before the Well of Names in The Hollow. I will project the echo there. Seraphine's memory awaits you.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "seraphine_echo_ready",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The memories endure because someone cares enough to save them.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "read_press": {
+            "id": "read_press",
+            "text": "[She takes the slab, and she is very careful about it, and then she is not careful at all — she puts it flat on the table and leans over it with both hands.]\nA pressure impression. Presskeeper work, from the Towers. I have read about these and never held one.\nShe is walking. Look at the hip and the shoulder — that is not a body being carried by a current, that is a woman walking to somewhere on purpose.\nAnd the scar. [Sable straightens up and looks at your chest, and then at your face, and does not apologise for either.] Yes. All right. I have had thirty years of her being a story I keep, and now she is a woman who was in a place.\nThank you. That is not a small thing to have given me.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "press_shown_sable",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Sable has seen the press. Something in the Archive shifts.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "file_offer": {
+            "id": "file_offer",
+            "text": "In the Forgotten City. Which is a polite name for where Umbryn puts a thing he has decided is finished with.\nHer file was in the Archive of Tears for eleven years. It kept being read — by scholars, by pilgrims, by three separate people who came here with a scar on their chest and did not come back — and a file that keeps being read is a file that keeps being asked questions. So it was moved. Nobody moved it. It was moved.\nIt is a day's walk north-west, in the sunk streets. Bring it back and I will read it out to you, because I do not think I can read it silently.",
+            "choices": [
+              {
+                "label": "I'll find her file.",
+                "nextNodeId": "file_accept",
+                "conditions": []
+              },
+              {
+                "label": "Not today.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "file_accept": {
+            "id": "file_accept",
+            "text": "Take a lamp you do not mind losing. The Forgotten City eats lamps and I have never been able to work out where it puts them.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_name_she_used_here",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "seraphine_file_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Name She Used Here",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "file_progress": {
+            "id": "file_progress",
+            "text": "North-west. The sunk streets. If the ghostlight starts running the wrong way down a wall, you are close.",
+            "choices": [
+              {
+                "label": "I will keep looking.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "file_read": {
+            "id": "file_read",
+            "text": "[She reads it out. It takes a long time and she does not stop once.]\nArrival, thirty-one years ago, by sea, unaccompanied. Null-born — Umbryn's own word, underlined twice, because he could not see her either and it annoyed him.\nSeven islands. Seven keys. Every trial passed. She was better at this than you are; I am sorry, but she was.\nThe Cradle, in the ninth year. And then — [Sable stops, and turns the page over, and turns it back.] There is no death notice. Archivists always write the death notice. It is the only part of the job that is compulsory.\nThe last entry is an enlistment. Name, oath, and a posting.\nShe stood in front of four doors, and every one of them was an ending, and she took the one that was a job instead. Because it was the only one that let her keep going. Bellorak did not trick her. He offered her work, and she had been walking for nine years, and she said yes.\n[Sable closes the file.] She is still doing it. That is the part I want you to have before you go south. She is still doing it, and she has been doing it for twenty-two years, and nobody has ever once come to relieve her.",
+            "choices": [
+              {
+                "label": "[Take the file.]",
+                "nextNodeId": "file_take",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "file_take": {
+            "id": "file_take",
+            "text": "Take it with you. Show it to the god who wrote the last line, if you get that far and if you have the nerve.\nAnd — one more thing, and then I will stop. She had a name she used here. Not Seraphine. Umbryn recorded it and then struck it out, which he has never done in four hundred years of record-keeping.\nHe was protecting her. From us. From this. From being a file.\nSo he can still do that. That is worth knowing about him before you go and see what he has become.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "seraphines_file",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "seraphine_file_read",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "You are given Seraphine's File. She did not die. She enlisted.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 7,
+      "y": 6
+    },
+    {
+      "id": "npc_dusthaven_mord",
+      "name": "Keeper Mord",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Goods from the surface still find their way here. Browse, if you've coin.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "shadow_blade",
+        "memory_mail",
+        "echo_shield",
+        "ring_of_remembrance",
+        "shadow_tonic",
+        "travel_rations",
+        "veil_shard"
+      ],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Goods from the surface still find their way here. Browse, if you've coin.",
+            "choices": [
+              {
+                "label": "Show me your wares.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Has a memory crystal come through your stock?",
+                "nextNodeId": "mord_crystal",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "fading_names",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "crystal_mord",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about Dusthaven.",
+                "nextNodeId": "lore",
+                "conditions": []
+              },
+              {
+                "label": "What would you keep, if the Archive were yours?",
+                "nextNodeId": "small_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "small_things_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still collecting.",
+                "nextNodeId": "small_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_archive_of_small_things",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] Four ordinary days.",
+                "nextNodeId": "small_turnin",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_archive_of_small_things",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "HAS_ITEM",
+                    "target": "ordinary_day",
+                    "value": "",
+                    "amount": 4,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Never mind.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "mord_crystal": {
+            "id": "mord_crystal",
+            "text": "One. A scavenger brought it up out of the Archive of Tears and I could not shift it — nobody buys a rock that whispers. That is Sable's trade, not mine. Take it before it starts talking again.",
+            "choices": [
+              {
+                "label": "I'll take it off your hands.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "archive_crystal",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "crystal_mord",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Everything's tested against shadow-rot. Take your pick.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "lore": {
+            "id": "lore",
+            "text": "Dusthaven was three times this size, once. The ghosts remember what we've forgotten. Sometimes at night you can see them — walking the old streets, opening doors that aren't there anymore.",
+            "choices": [
+              {
+                "label": "Interesting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch for the shadow-things. They don't like the ghostlight, but they're patient.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "small_offer": {
+            "id": "small_offer",
+            "text": "Nothing. That's the answer. Nothing at all.\n[He puts both hands flat on the counter.] Look at what's in the crystals. Aldric — died badly. Seraphine — went into the dark. Tomas — burned. Veyla — I won't say it in front of a customer. Four thousand years of records and every single one is the worst day somebody ever had.\nHe's not remembering the world. He's remembering the injuries. And then he wonders why the weight is breaking his back.\nI want four days when nothing happened. I'll pay for them out of my own pocket and I'll pay well, and I'll take the laughing, because somebody ought to file a Tuesday.",
+            "choices": [
+              {
+                "label": "Where do I find a day when nothing happened?",
+                "nextNodeId": "small_accept",
+                "conditions": []
+              },
+              {
+                "label": "Nobody would notice it was gone.",
+                "nextNodeId": "small_refuse",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "small_refuse": {
+            "id": "small_refuse",
+            "text": "That's exactly it. That's the whole argument in one sentence and you meant it as a joke.\nCome back if you change your mind. I'm not going anywhere; nobody's ever bought the shadow-rot rack.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "small_accept": {
+            "id": "small_accept",
+            "text": "From people who had one and don't know it's worth anything.\nWhisper at the inn — she's poured the same beer for eleven years and she's never once been asked about it. The Shade out on the ghost path keeps three: rain, bread, a child laughing. Lorekeeper Iris at Echo Point knows precisely what she was doing the morning before the Shattering and has never told a soul, because it was boring.\nAnd the ghost on the corner stall. Aldric. Nobody's spoken to Aldric in forty years because he's a ghost doing a stocktake. Speak to him. Just — speak to him.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_archive_of_small_things",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "small_things_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Archive of Small Things",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "small_progress": {
+            "id": "small_progress",
+            "text": "Whisper. The Shade on the ghost path. Iris at Echo Point. And Aldric on the corner, who will not answer, and should be asked anyway.",
+            "choices": [
+              {
+                "label": "I remember.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "small_turnin": {
+            "id": "small_turnin",
+            "text": "[He lays them out on the counter in a row and looks at them for an unreasonably long time.]\nRain on a roof. A queue. Bread going stale. A morning that was only a morning.\nThat's the world. Not the fire and the drowning — the bit in between, which is nearly all of it, and which he has thrown away for four hundred years because it didn't hurt enough to file.\nI'll walk these up to Sable myself. She'll say they can't be catalogued. I'll say that's because there's no drawer, and there's no drawer because nobody ever asked for one.\nHere. All of it. And thank you for not laughing, which nobody else in this town managed.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "the_archive_of_small_things",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "TAKE_ITEM",
+                "target": "ordinary_day",
+                "value": "",
+                "amount": 4
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "SYLVANDAR",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "small_things_done",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Four ordinary days enter the record. Something in the Archive gets very slightly lighter.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 7,
+      "y": 22
+    },
+    {
+      "id": "npc_dusthaven_whisper",
+      "name": "Whisper",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "A bed and warmth, such as it is. 15 gold for a night's rest.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "A bed and warmth, such as it is. 15 gold for a night's rest.",
+            "choices": [
+              {
+                "label": "I'll rest. (Full heal, 15g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 15,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "What's it like living here?",
+                "nextNodeId": "lore",
+                "conditions": []
+              },
+              {
+                "label": "Mord is collecting days when nothing happened. Have you got one?",
+                "nextNodeId": "whisper_day",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_archive_of_small_things",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "day_whisper",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Not now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "Sleep well. The ghostlight will keep the worst of it away. Probably.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -15
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "You rest in the Fading Rest. The ghostlight flickers softly through the night.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "lore": {
+            "id": "lore",
+            "text": "The ghosts here aren't dangerous. They're just... doing what they always did. Shopping. Talking. Living lives that ended decades ago. It's the shadow-things you need to worry about — they come from deeper in, where Umbryn's grip is strongest.",
+            "choices": [
+              {
+                "label": "I'll be careful.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Keep to the ghostlight. The dark remembers everything you'd rather forget.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "whisper_day": {
+            "id": "whisper_day",
+            "text": "Mord's doing what? [She laughs, and then stops laughing.]\nAll right. The fourteenth of a spring, nine years back. Nothing. Six travellers, all of whom paid. It rained on the ghostlight all night and made that noise it makes. I burned the porridge and nobody minded. Went to bed with my feet warm.\nI've thought about that day more than any day I've had since, and I've never once said it out loud, because who would you say it to?\n[She writes something small on a scrap and folds it twice.] There. Tell him the porridge was genuinely bad.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "ordinary_day",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "day_whisper",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 22,
+      "y": 6
+    },
+    {
+      "id": "npc_dusthaven_aldric",
+      "name": "Ghost of Aldric",
+      "spriteName": "npcs/townsman",
+      "defaultDialog": "[The ghost of a merchant arranges invisible wares on an empty stall. He does not see you.]",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "[The ghost of a merchant arranges invisible wares on an empty stall. He does not see you. He counts something, writes it down, and starts counting it again.]",
+            "choices": [
+              {
+                "label": "[Speak to him anyway.]",
+                "nextNodeId": "aldric_speak",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_archive_of_small_things",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "day_aldric",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Watch a while, then go.]",
+                "nextNodeId": "leave",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "aldric_speak": {
+            "id": "aldric_speak",
+            "text": "[You say good morning to a dead man doing a stocktake.]\n[He stops. His hand stays where it was. Then he looks up, and he is looking at you, and he has been dead for forty years.]\nMorning. Have you come about the salt?\n[You have not come about the salt.]\nNo. No, nobody has, that's — the whole month has been like that. Quiet. Good weather for it. My wife's cross about the awning and she's right, it does sag.\n[He goes back to counting. He is humming now, which he was not before.]\n[There is a scrap of paper on the stall that was not there before. It is a note about an awning.]",
+            "choices": [
+              {
+                "label": "[Take the note. Say nothing.]",
+                "nextNodeId": "leave",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "ordinary_day",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "day_aldric",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Aldric answered. Nobody has spoken to him in forty years.",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "leave": {
+            "id": "leave",
+            "text": "[He counts it again. He will count it again after that.]",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 22,
+      "y": 22,
+      "type": "TOWNSFOLK"
+    },
+    {
+      "id": "npc_dusthaven_archivist",
+      "name": "The Archivist",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "Memory is a game we all play, whether we wish it or not.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 15,
+      "y": 22,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[A figure in ash-grey robes sits cross-legged before a wall of etched shadow-glyphs.] You seek distraction, or perhaps something sharper? I keep three games — each a test of the mind. Memory, sorting, riddles. The shadows wager on you.",
+            "choices": [
+              {
+                "label": "Show me the Memory Games.",
+                "nextNodeId": "open_games",
+                "conditions": []
+              },
+              {
+                "label": "Sable is missing four memory crystals.",
+                "nextNodeId": "archivist_crystal",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "fading_names",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "crystal_archivist",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "What are these shadow-glyphs?",
+                "nextNodeId": "glyphs",
+                "conditions": []
+              },
+              {
+                "label": "You take grief off people. Where does it go?",
+                "nextNodeId": "grief_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "borrowed_grief_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still out in the rifts.",
+                "nextNodeId": "grief_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "borrowed_grief",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I dispersed them.",
+                "nextNodeId": "grief_settle",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "borrowed_grief",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "borrowed_grief_settled",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Maybe another time.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "open_games": {
+            "id": "open_games",
+            "text": "What the shadows remember, can you?",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_MEMORY_GAMES",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "archivist_crystal": {
+            "id": "archivist_crystal",
+            "text": "Then she is missing two. [He lifts a pair of dull crystals from beneath the glyph wall.] Seraphine and Veyla. I pulled them out of the Archive when the roof came down and I have been unable to read either since. Sable is better with the frequencies. Take them.",
+            "choices": [
+              {
+                "label": "She will get them today.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "archive_crystal",
+                "value": "",
+                "amount": 2
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "crystal_archivist",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "glyphs": {
+            "id": "glyphs",
+            "text": "The names of those who forgot themselves. Each glyph is a soul that surrendered its memory to Umbryn. I transcribe them — so that at least one record remains. The games I run are in their honor. To forget is not a gift here. It is a debt.",
+            "choices": [
+              {
+                "label": "I'll play your games.",
+                "nextNodeId": "open_games",
+                "conditions": []
+              },
+              {
+                "label": "A heavy calling.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Return when the shadows call to you.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "grief_offer": {
+            "id": "grief_offer",
+            "text": "[The ash-grey figure does not look up from the glyph wall.]\nInto the rifts. Where else would it go? It has to go somewhere; that is the first thing you learn, and it is the only thing most people never work out. I do not destroy a grief. Nobody can destroy a grief. I move it.\nAnd out in the Memory Rifts it stands up and walks about, and after a decade or two of walking about with nobody in it, it starts looking for somebody to be sad about.\nThat is where the Grief Elementals come from. You have been fighting my customers' widowhoods all week.\n[Now he looks up.] I am telling you this because I would like you to go and disperse four of them, and then come back, and then we will find out what sort of person you are.",
+            "choices": [
+              {
+                "label": "I'll clear the rifts.",
+                "nextNodeId": "grief_accept",
+                "conditions": []
+              },
+              {
+                "label": "That is a monstrous business.",
+                "nextNodeId": "grief_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "grief_accept": {
+            "id": "grief_accept",
+            "text": "It is a kind business badly done. That is a worse thing to be and I have had four hundred years to notice it.\nFour. Go.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "borrowed_grief",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "borrowed_grief_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Borrowed Grief",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "grief_progress": {
+            "id": "grief_progress",
+            "text": "The rifts, east of the ghost path. They will find you; they always do. That is what they are for now.",
+            "choices": [
+              {
+                "label": "On my way.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "grief_settle": {
+            "id": "grief_settle",
+            "text": "Four fewer. There are two hundred.\nSo. The conversation.\nI can stop. I can shut the stall, and every one of those people keeps their grief, and about a third of them will not survive it, and I know which third because I have been doing this for four hundred years and I have got very good at guessing.\nOr I can keep going and you can have a share, because you have just done the disposal work and disposal work is the expensive half. Four hundred, and a standing arrangement.\nDo not tell me which is right. Tell me which you want.",
+            "choices": [
+              {
+                "label": "Stop. You are manufacturing the thing you sell relief from.",
+                "nextNodeId": "grief_stop",
+                "conditions": []
+              },
+              {
+                "label": "Keep the stall open. I'll take the share.",
+                "nextNodeId": "grief_share",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "grief_stop": {
+            "id": "grief_stop",
+            "text": "[He is quiet for a while. Then he begins, methodically, taking the glyphs off the wall.]\nThat third will be on me. I want that said out loud, by somebody who is not me, so that it is in the record.\nBut you are right that I was making the weather I sold umbrellas for, and four hundred years is long enough to be wrong in public.\nGo away now. I am going to be busy, and then I am going to be very tired.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "borrowed_grief_settled",
+                "value": "stopped",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Archivist closes the stall. Dusthaven will carry its own grief now.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "grief_share": {
+            "id": "grief_share",
+            "text": "[He counts it out and hands it over and does not look pleased or displeased, which is somehow the worst of it.]\nFour hundred. A sensible answer. It is the answer I gave, the first time somebody asked me.\nCome back when the rifts thicken. They always thicken. That is the beauty of the arrangement — the supply is my own product.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": 400
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": -10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "PYRALIS",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "borrowed_grief_settled",
+                "value": "shared",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "maxDungeonDepth": 50,
+  "dungeonLevel": 1,
+  "initialTileStates": {}
+}

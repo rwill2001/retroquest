@@ -1,0 +1,2222 @@
+{
+  "type": "TOWN",
+  "name": "iron_reckoner_camp",
+  "width": 25,
+  "height": 25,
+  "interiorEntryX": 12,
+  "interiorEntryY": 23,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "i",
+      "i",
+      "",
+      "",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "k",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "j",
+      "j",
+      "",
+      "",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "k",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "u",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "c",
+      "c",
+      "c",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "n",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "n",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "E",
+      "E",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "npc_iron_reckoner_brynn",
+      "name": "Shield-Mother Brynn",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "If the fighting never stops, maybe the fighting is the problem.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 12,
+      "y": 6,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "You're not one of ours. Good — maybe fresh eyes will see what we've been too tired to notice. I'm Brynn. Shield-Mother, they call me, though I haven't held a shield in years. These old bones have seen too many die for nothing.",
+            "choices": [
+              {
+                "label": "What do you mean, for nothing?",
+                "nextNodeId": "war_cost",
+                "conditions": []
+              },
+              {
+                "label": "Do you need help?",
+                "nextNodeId": "quest_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "brothers_three_accepted",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] I'm searching for the brothers.",
+                "nextNodeId": "quest_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "brothers_three",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I found them.",
+                "nextNodeId": "quest_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "brothers_three",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "war_cost": {
+            "id": "war_cost",
+            "text": "Thirty years of the Golden War. Thirty years of burying friends. And for what? The front line hasn't moved in a decade. If the fighting never stops, maybe the fighting is the problem. Maybe someone wants it this way.",
+            "choices": [
+              {
+                "label": "Who would want eternal war?",
+                "nextNodeId": "blame",
+                "conditions": []
+              },
+              {
+                "label": "I understand.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "blame": {
+            "id": "blame",
+            "text": "Bellorak. The god of war and glory. He feeds on conflict — every death in his name makes him stronger. His arena sits at the center of the island like a spider in its web. We're not soldiers. We're livestock.",
+            "choices": [
+              {
+                "label": "Can anything be done?",
+                "nextNodeId": "quest_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "brothers_three_accepted",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "A grim thought.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_offer": {
+            "id": "quest_offer",
+            "text": "There is something. Three brothers — Holt, Marren, and Tor — left camp a week ago to scout the no-man's land. They haven't returned. They were good lads. If they're alive, bring them home. If they're not... bring me their tags so I can remember their names.",
+            "choices": [
+              {
+                "label": "I'll find them.",
+                "nextNodeId": "quest_accept",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_accept": {
+            "id": "quest_accept",
+            "text": "Thank you. They were heading south through the war fields toward the Neutral Ground. Be careful — the no-man's land is crawling with war-beasts that answer to neither side. Bellorak's creatures, I think.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "brothers_three",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "brothers_three_accepted",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Brothers Three",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_progress": {
+            "id": "quest_progress",
+            "text": "Have you found Holt, Marren, and Tor? They went south toward the Neutral Ground. Please — every day they're out there is another day the war takes from us.",
+            "choices": [
+              {
+                "label": "I'm still looking.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_complete": {
+            "id": "quest_complete",
+            "text": "You found them? ...I see. The war takes and takes. Thank you for bringing word. Their names will be remembered here, at least. That's more than most get.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Shield-Mother Brynn mourns the lost brothers.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Be safe out there. The war doesn't care whose side you're on.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_iron_reckoner_hask",
+      "name": "Surgeon Hask",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "Sit down. Let me look at your wounds. 20 gold for a full patch-up.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 8,
+      "y": 14,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Another one. Sit down, let me look at you. I'm Hask, the camp surgeon. I've stitched more wounds than I can count — 20 gold and I'll have you battle-ready.",
+            "choices": [
+              {
+                "label": "Patch me up. (Full heal, 20g)",
+                "nextNodeId": "heal",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 20
+                  }
+                ]
+              },
+              {
+                "label": "How bad are the casualties?",
+                "nextNodeId": "lore",
+                "conditions": []
+              },
+              {
+                "label": "You said you lose the same number every month.",
+                "nextNodeId": "quota_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "quota_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still thinning the hounds.",
+                "nextNodeId": "quota_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_quota",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] Six. Check your count.",
+                "nextNodeId": "quota_result",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_quota",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "quota_settled",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I'm fine.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "heal": {
+            "id": "heal",
+            "text": "Hold still. ...There. Good as new — or as close to it as anyone gets in this war. Try not to come back too soon.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -20
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Surgeon Hask patches your wounds. You feel restored.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "lore": {
+            "id": "lore",
+            "text": "Bad. Always bad. The strange thing is — they never get worse. I lose the same number every month. Not more, not less. It's like the war has a... rhythm. A quota. That's not natural. Wars escalate or they end. This one does neither.",
+            "choices": [
+              {
+                "label": "That is disturbing.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Keep your head down. I'd rather not see you on my table again.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quota_offer": {
+            "id": "quota_offer",
+            "text": "Eleven years of counts. [He puts the book on the cot between you, which is where he puts everything, because there is no table in a surgeon's tent that is not being used.]\nNineteen. Nineteen. Twenty. Nineteen. Eighteen. Nineteen.\nMen do not die like that. Men die in clumps — a bad push, a good week, a winter. This is a payroll.\nAnd here is the thing I have never been able to test alone. The Glory Hounds go out looking for a death worth having, and they find one, and they are the bulk of my nineteen. If somebody were to thin them early in the month — properly thin them, six of them, before the pushes start — then the month should come in short.\nGo and do that. Then come back on the last day and we will both look at the number.",
+            "choices": [
+              {
+                "label": "I'll thin them.",
+                "nextNodeId": "quota_accept",
+                "conditions": []
+              },
+              {
+                "label": "And if the number is nineteen anyway?",
+                "nextNodeId": "quota_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quota_accept": {
+            "id": "quota_accept",
+            "text": "Then we will both know something, and one of us will wish he did not. Probably me. It is usually me.\nSix. Go.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_quota",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "quota_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Quota",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quota_progress": {
+            "id": "quota_progress",
+            "text": "Six, and early in the month. Late does not prove anything; late is just killing.",
+            "choices": [
+              {
+                "label": "Understood.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quota_result": {
+            "id": "quota_result",
+            "text": "Nineteen.\n[He says it before you have finished sitting down.]\nSix hounds fewer in the field and the month came in at nineteen. Two who should have lived did not. One of them was a cook. A cook, in a tent, forty yards behind the line, and I have opened him up and I can tell you exactly what killed him and I cannot tell you why.\nThe number is not a consequence. The number is a requirement. Something is making it up.\n[He closes the book and holds it out to you.] Eleven years. It is all in here, in a hand nobody can argue with.\nNow. You are going to have to decide what happens to it, because I have decided twice already and both times I put it back in the box.\nPublish it — both camps, every tent, read it out at the cook fires. Or burn it. And before you answer easily: they fight better not knowing. Men who think their deaths are theirs fight like men. Men who know they are a quota fight like cattle, and cattle die faster, and the number does not care either way.",
+            "choices": [
+              {
+                "label": "Publish it. In both camps.",
+                "nextNodeId": "quota_publish",
+                "conditions": []
+              },
+              {
+                "label": "Burn it. Let them keep their deaths.",
+                "nextNodeId": "quota_burn",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quota_publish": {
+            "id": "quota_publish",
+            "text": "[He is out of the tent before you are, which for Hask is a sprint.]\nRight. Both camps. I will start with the Reckoners because they are mine and it should cost me first.\nIt will not stop the war. I want to be honest with you about that, since we are being honest today. It will make the war a thing people do knowing, which is worse to live inside and better to be.\nAnd it will get back to him. That is the other honest thing. He will know a mortal counted him.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "quota_settled",
+                "value": "published",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "BELLORAK",
+                "value": "",
+                "amount": -10
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Hask reads the count aloud at both camps' cook fires. Bellorak notices.",
+                "value": "WARN",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quota_burn": {
+            "id": "quota_burn",
+            "text": "[It goes on the brazier and it takes a long time, because eleven years is a thick book and he is not a man who does things by halves even when he is doing something he hates.]\nThen they keep it. Their deaths stay theirs, in their heads, where a death is the only thing a soldier owns outright.\nI have just chosen the comfortable lie over the true thing and I did it with my hands and I will not pretend otherwise at the end of it.\nGo away. Take the money, it is honest money, it is the only honest thing left in this tent.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "quota_settled",
+                "value": "burned",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "BELLORAK",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": -5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Eleven years of counts go on the brazier. The camps fight on, proudly.",
+                "value": "INFO",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_iron_reckoner_dara",
+      "name": "Forge-Hand Dara",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Iron bends to my will. Tell me what you need.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "iron_warsword",
+        "battle_plate",
+        "champion_shield",
+        "war_tonic",
+        "travel_rations"
+      ],
+      "x": 18,
+      "y": 14,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "I'm Dara. I shape iron into whatever the camp needs — blades, armor, nails for the barricades. If you've got gold, I've got steel.",
+            "choices": [
+              {
+                "label": "Show me what you've forged.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "How do you keep up with demand?",
+                "nextNodeId": "lore",
+                "conditions": []
+              },
+              {
+                "label": "Just passing through.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Every piece forged by hand, tempered in war-fire. Take your pick.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "lore": {
+            "id": "lore",
+            "text": "I don't. That's the truth of it. Every blade I forge breaks within a week. Every shield dents beyond repair. And somehow there's always just enough iron to keep going, never enough to get ahead. It's like the island itself rations what we need.",
+            "choices": [
+              {
+                "label": "Strange indeed.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Iron bends to my will. Come back when you need it.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_iron_reckoner_sten",
+      "name": "Oathkeeper Sten",
+      "spriteName": "npcs/knight",
+      "type": "QUESTGIVER",
+      "defaultDialog": "I am under oath. Do not stand where I can see you and talk about mercy.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Do not stand there. [He shifts so you are not in his eyeline, and the shifting looks practised and looks painful.]\nI am under oath. It is not to you and it is not about you, and if you stand in front of me long enough it starts trying to make you fit.",
+            "choices": [
+              {
+                "label": "Whose oath?",
+                "nextNodeId": "oath_info",
+                "conditions": []
+              },
+              {
+                "label": "Then let's get it off you.",
+                "nextNodeId": "oath_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "sten_oath_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still out among the berserkers.",
+                "nextNodeId": "oath_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_oath_that_outlived_him",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] Five are down.",
+                "nextNodeId": "oath_settle",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_oath_that_outlived_him",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "sten_oath_settled",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Step out of his line of sight.]",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "oath_info": {
+            "id": "oath_info",
+            "text": "A Reckoner blood oath does not die with the man. That is the whole point of it — that is what makes it worth more than a promise. It goes to the nearest kin. Failing kin, the nearest witness.\nI was the nearest witness. Eleven years ago, at the crater line, a man called Vayne died on top of me swearing to kill a Gold Guard captain named Corran, and it came off him and went into me while he was still warm.\nCorran died at the Pit thirty-one years ago. Twenty years before Vayne ever swore it.\n[He laughs, once, without any part of his face joining in.]\nSo I am oathbound to kill a man who was already dust when the vow was made. It cannot be completed. It cannot be broken; a Reckoner who breaks an oath is not a Reckoner, and I have been a Reckoner since I was nine, and I do not know what the rest of me is.\nIt is eating me at about the speed of a slow winter.",
+            "choices": [
+              {
+                "label": "Then let's get it off you.",
+                "nextNodeId": "oath_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "sten_oath_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I am sorry.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "oath_offer": {
+            "id": "oath_offer",
+            "text": "You can't. Nobody can. But there is a — a procedure, and I hate the word, and it is the only word.\nThe Blood Oath Berserkers on the war fields are men in my condition, further down. Twelve years, twenty, forty. Each one carrying a vow that outlived its object, and every one of them still trying, because trying is all that is left in the frame.\nRelease five of them. The oath goes loose when the carrier stops. Loose oaths drift and they cluster and they come to the nearest oathbound man, which is me, standing here, being the nearest oathbound man on purpose for eleven years.\nWhen five are loose and on me at once, the whole knot is on one table, and it can be cut. Once. By somebody who is not me.\nI cannot ask a Reckoner. A Reckoner would refuse and be right to.",
+            "choices": [
+              {
+                "label": "Five. I'll do it.",
+                "nextNodeId": "oath_accept",
+                "conditions": []
+              },
+              {
+                "label": "You have been standing here as bait for eleven years.",
+                "nextNodeId": "oath_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "oath_accept": {
+            "id": "oath_accept",
+            "text": "Yes. That is exactly what I have been doing and you are the first person who has said it out loud and I find I am grateful, which is inconvenient.\nFive. Go south, into the fields. They will come to you; that is the one mercy in the condition.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_oath_that_outlived_him",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "sten_oath_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Oath That Outlived Him",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "oath_progress": {
+            "id": "oath_progress",
+            "text": "Five. And do not speak to them first. They will answer, and what answers is the oath, and it is very good at sounding like a person.",
+            "choices": [
+              {
+                "label": "I know.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "oath_settle": {
+            "id": "oath_settle",
+            "text": "[He is standing differently. Not better. Loaded.]\nThey are all on me. Five and my own, and they are pulling in five directions and one of them is toward you, which you will have noticed.\nNow. You have two ways to end this and I am going to describe both of them honestly because I have had eleven years to be honest.\nBreak it. Say the words and cut it and it is gone, and I live, and I am the first Reckoner in six hundred years to walk away from an oath, and everything I have been since I was nine is over. Bellorak will know. He always knows. There is no coming back into the Iron Reckoners after that and there is no coming back into being the man who kept faith.\nOr take it. That is allowed. That is the one clean transfer in the whole custom — an oath given willingly to a willing carrier, witness to witness. You would carry a vow to kill a man thirty-one years dead. It would be yours and it would never once be satisfiable and you would feel it, out there, pulling.\nI am not going to pretend I don't want you to take it. I have wanted somebody to take it for eleven years. But you should hear a man ask before you do it.",
+            "choices": [
+              {
+                "label": "Break it. An oath to a dead man is not an oath.",
+                "nextNodeId": "oath_break",
+                "conditions": []
+              },
+              {
+                "label": "Give it to me. I'll carry it.",
+                "nextNodeId": "oath_take",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "oath_break": {
+            "id": "oath_break",
+            "text": "[The cut takes one motion and no ceremony at all, which after eleven years is the insult in it.]\n...\nHuh.\n[He looks at his hands. He looks at the tent. He looks at nothing, for a while.]\nI have been holding something so long that letting go feels like falling and I am not falling. That is going to take a while.\nI am not a Reckoner as of a moment ago. I do not know what I am. I am fifty-one and I have a trade and no oath and I think I am going to go and find out, which is a thing I stopped believing was available.\nBellorak will have felt it. Let him. He has had eleven years of me and he was never once going to give any of it back.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "sten_oath_settled",
+                "value": "broken",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "BELLORAK",
+                "value": "",
+                "amount": -10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Sten walks away from a six-hundred-year custom. Bellorak feels the knot go loose.",
+                "value": "WARN",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "oath_take": {
+            "id": "oath_take",
+            "text": "[Witness to witness. It is four words and a grip and it takes less time than a handshake normally does.]\n[Something settles behind your sternum, next to the scar, and starts pulling south-east.]\nThere. That is it. That is what I have had.\n...It is worse than I could describe and I want you to know I did describe it honestly and you took it anyway, and that is the only decent thing that has happened to me in eleven years.\nGo carefully. It will try to make things fit. It will look at every Gold Guard captain you pass and tell you that one is close enough. It is very patient and it is not clever, and the not-clever part is what makes it dangerous.\nAnd if you ever find yourself at the Pit — the oath knows the Pit. It was made there. It will pull very hard and you will want to call that a sign.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "sten_oath_settled",
+                "value": "taken",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "carries_oath",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "BELLORAK",
+                "value": "",
+                "amount": 20
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "You take Vayne's oath. It pulls south-east, toward the Pit.",
+                "value": "DANGER",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Stand somewhere else. Please. It is not personal — it is the opposite of personal, and that is the trouble with it.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 12,
+      "y": 10
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": []
+}

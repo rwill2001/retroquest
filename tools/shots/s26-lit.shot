@@ -1,0 +1,15 @@
+# Island 7 — lights the map owns. Walking east down the iron_pit_1 corridor at y=8, which
+# runs 14 tiles between two wall fixtures: '-' r=4 at 24,9 on the right and another at
+# 30,7 on the left. Their pools sweep across the camera in turn and the masonry between
+# them occludes, so the cast shadows swing — which the first take of this shot never
+# showed, because the war_beneath corridor it used had no occluder in frame at all.
+DESC="Island 7 · Iron Pit · map-authored lighting + cast shadows"
+ISLAND=bellorak
+DUNGEON=iron_pit
+AT="22,8"
+FACING=1
+SECONDS_LEN=6
+CAMERA_RATE=0.4
+MOVE="0.4:F,1.1:F,1.8:F,2.5:F,3.2:F,3.9:F,4.6:F,5.2:F"
+WIDTH=1920
+HEIGHT=1080

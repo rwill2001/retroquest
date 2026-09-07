@@ -1,0 +1,2060 @@
+{
+  "type": "TOWN",
+  "name": "windhaven",
+  "width": 35,
+  "height": 30,
+  "interiorEntryX": 17,
+  "interiorEntryY": 28,
+  "tiles": [
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "F",
+      "X",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "Y",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Y",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "X",
+      "F",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "Y",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Y",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "l",
+      "l",
+      "m",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "c",
+      "c",
+      "c",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "S",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "i",
+      "j",
+      "u",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "k",
+      "k",
+      "n",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "n",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "F",
+      "n",
+      "F",
+      "F",
+      "F",
+      "n",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "@",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "n",
+      "F",
+      "F",
+      "F",
+      "n",
+      "F",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "c",
+      "c",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "n",
+      "i",
+      "n",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Q",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "n",
+      "m",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "M",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "n",
+      "m",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "j",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "k",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "S",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "M",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "M",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "M",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "M",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "v",
+      "F",
+      "v",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "F",
+      "F",
+      "F",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "M",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "m",
+      "M",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "W"
+    ],
+    [
+      "W",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "v",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "d",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ]
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "initialTileStates": {},
+  "npcs": [
+    {
+      "id": "npc_wh_shopkeeper",
+      "name": "Sky Merchant Lira",
+      "spriteName": "npcs/shopkeeper",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "stormcaller_blade",
+        "windweave_armor",
+        "gale_shield",
+        "zephyr_helm",
+        "storm_amulet",
+        "healing_potion",
+        "vial_of_lightning",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "x": 6,
+      "y": 7,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to the highest shop in the realm! Everything's a bit more expensive up here — shipping costs, you understand. Lightning delivery isn't cheap.",
+            "choices": [
+              {
+                "label": "Show me your wares.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "What's special about your stock?",
+                "nextNodeId": "stock_lore",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Browse to your heart's content. The Stormcaller Blade is my pride — forged with real lightning. Don't touch the edge.",
+            "choices": [
+              {
+                "label": "Let me see.",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "stock_lore": {
+            "id": "stock_lore",
+            "text": "The Windweave Armor is spun from cloud-silk — lighter than linen, harder than chain. And the Vials of Lightning? Captured during storms. One sip and your hair stands on end for an hour, but you'll heal faster than you'd believe.",
+            "choices": [
+              {
+                "label": "Impressive.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Fly safe! And tell your friends — Lira's Sky Emporium, open rain or shine. Mostly rain up here.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_wh_innkeeper",
+      "name": "Innkeeper Brisa",
+      "spriteName": "npcs/innkeeper",
+      "type": "INNKEEPER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 29,
+      "y": 6,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Rest your wings, traveler. I'm Brisa. The beds are soft and the altitude sickness passes after the first night. Usually.",
+            "choices": [
+              {
+                "label": "I need a room.",
+                "nextNodeId": "heal",
+                "conditions": []
+              },
+              {
+                "label": "What's the news?",
+                "nextNodeId": "rumors",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about Windhaven.",
+                "nextNodeId": "town_lore",
+                "conditions": []
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "heal": {
+            "id": "heal",
+            "text": "Here you go — cloud-down pillows and a view of the sunset. Rest well.",
+            "choices": [
+              {
+                "label": "Thank you.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "rumors": {
+            "id": "rumors",
+            "text": "The Tempest Twins are fighting again. Reva wants to tighten the trial requirements, Milo wants to abolish them entirely. Half the acolytes have taken sides. And Captain Windlass was spotted near Galewick — she's up to something, mark my words.",
+            "choices": [
+              {
+                "label": "Interesting.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "town_lore": {
+            "id": "town_lore",
+            "text": "Windhaven's the crossroads of the Archipelago. Every rope bridge leads here eventually. Skykeeper Oren maintains the bridges, Lira runs the shop, and I keep everyone fed and rested. We're small but sturdy — like a kite in a gale.",
+            "choices": [
+              {
+                "label": "Well said.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Sweet dreams — and don't open the windows. The crosswind will steal your blankets.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_wh_guard",
+      "name": "Sky Guard",
+      "spriteName": "npcs/guard",
+      "type": "QUESTGIVER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 17,
+      "y": 25,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Halt. I'm the captain of the Sky Guard. Windhaven is under my watch. State your business.",
+            "choices": [
+              {
+                "label": "I'm an adventurer. Got any work?",
+                "nextNodeId": "work",
+                "conditions": []
+              },
+              {
+                "label": "Thunder elementals are causing trouble?",
+                "nextNodeId": "elemental_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "thunder_elemental_hunt",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "thunder_elemental_hunt",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How's the elemental situation?",
+                "nextNodeId": "elemental_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "thunder_elemental_hunt",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I can explore the dungeon for you.",
+                "nextNodeId": "dungeon_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "deep_sky_expedition",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "deep_sky_expedition",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "About the dungeon expedition...",
+                "nextNodeId": "dungeon_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "deep_sky_expedition",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Storm hawks are hunting the bridges?",
+                "nextNodeId": "hawk_quest_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "storm_hawk_hunt",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "How's the storm hawk cull going?",
+                "nextNodeId": "hawk_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "storm_hawk_hunt",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Report] The dungeon is scouted.",
+                "nextNodeId": "expedition_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "deep_sky_expedition",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "What's the situation on the islands?",
+                "nextNodeId": "situation",
+                "conditions": []
+              },
+              {
+                "label": "Just passing through.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "hawk_quest_intro": {
+            "id": "hawk_quest_intro",
+            "text": "Storm hawks. They nest in the anchor towers and dive on anyone crossing. Tobin can't patch a bridge with talons in his back. Thin them out and travel gets safe again.",
+            "choices": [
+              {
+                "label": "I'll thin the flock.",
+                "nextNodeId": "hawk_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not today.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "hawk_accepted": {
+            "id": "hawk_accepted",
+            "text": "Good. They hunt the overworld bridges and the upper dungeon levels. Watch the sky above you, not just ahead.",
+            "choices": [
+              {
+                "label": "Understood.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "storm_hawk_hunt",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "hawk_active": {
+            "id": "hawk_active",
+            "text": "Still hearing screams off the west span. Keep at it.",
+            "choices": [
+              {
+                "label": "On it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "expedition_done": {
+            "id": "expedition_done",
+            "text": "Level three and back out again. Most scouts I send don't come back at all. Whatever's down there, you looked at it and kept your name. That's worth writing down.",
+            "choices": [
+              {
+                "label": "It won't stay down there forever.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "deep_sky_expedition",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "work": {
+            "id": "work",
+            "text": "Plenty. Thunder elementals are destabilizing the rope bridges with their discharges. And we need someone brave — or foolish — to scout the dungeon beneath the Central Plateau. Interested?",
+            "choices": [
+              {
+                "label": "Tell me about the elementals.",
+                "nextNodeId": "elemental_quest_intro",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about the dungeon.",
+                "nextNodeId": "dungeon_quest_intro",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "elemental_quest_intro": {
+            "id": "elemental_quest_intro",
+            "text": "Thunder elementals — pure lightning given form. They're attracted to the metal in the rope bridge anchors. Their discharges weaken the cables. Kill three and the rest should disperse.",
+            "choices": [
+              {
+                "label": "I'll handle it.",
+                "nextNodeId": "elemental_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Maybe later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "elemental_accepted": {
+            "id": "elemental_accepted",
+            "text": "Good. You'll find them on the overworld and in the dungeon. They're tough — high spell resistance, and they hit back with Chain Lightning. Don't wear metal armor if you value your hair.",
+            "choices": [
+              {
+                "label": "Consider it done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "thunder_elemental_hunt",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "elemental_active": {
+            "id": "elemental_active",
+            "text": "The bridges are still sparking. Keep hunting those elementals. Three down and we're clear.",
+            "choices": [
+              {
+                "label": "Working on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "dungeon_quest_intro": {
+            "id": "dungeon_quest_intro",
+            "text": "There's a dungeon entrance on the Central Plateau. Something ancient is down there — the tremors are getting worse. I need someone to reach level 3 and report back.",
+            "choices": [
+              {
+                "label": "I'll explore it.",
+                "nextNodeId": "dungeon_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Not yet.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "dungeon_accepted": {
+            "id": "dungeon_accepted",
+            "text": "Reach the third level and survive. That's the mission. The upper levels have storm hawks and gale spirits. Deeper down... we don't know. That's why I need a scout.",
+            "choices": [
+              {
+                "label": "I'll be back.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "deep_sky_expedition",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "dungeon_active": {
+            "id": "dungeon_active",
+            "text": "Level 3, remember. Don't come back early. And don't die — I hate writing next-of-kin letters.",
+            "choices": [
+              {
+                "label": "On my way.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "situation": {
+            "id": "situation",
+            "text": "Storm activity's been increasing. More elementals, more wraiths, more raiders. The Stormspire priests say it's Zephyrion testing us. I say something's stirring below the islands. Either way, we need fighters.",
+            "choices": [
+              {
+                "label": "I can help.",
+                "nextNodeId": "work",
+                "conditions": []
+              },
+              {
+                "label": "Good luck.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch the skies. Storms come without warning up here.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_wh_child",
+      "name": "Kite Boy",
+      "spriteName": "npcs/child",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 22,
+      "y": 22,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Hey! Hey mister! Watch my kite! It's got a real lightning rod on it! ...Don't tell my mom.",
+            "choices": [
+              {
+                "label": "That sounds dangerous.",
+                "nextNodeId": "dangerous",
+                "conditions": []
+              },
+              {
+                "label": "Have you explored much of the islands?",
+                "nextNodeId": "explore",
+                "conditions": []
+              },
+              {
+                "label": "Has your kite caught anything strange?",
+                "nextNodeId": "kite_catch",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "windchime_restoration",
+                    "value": "",
+                    "amount": 0
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "kite_chime_given",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Be careful, kid.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "dangerous": {
+            "id": "dangerous",
+            "text": "That's what makes it FUN! One time the kite got struck and I flew twenty feet! I landed on a cloud and it was SOFT. Well, mostly soft. My knee still hurts.",
+            "choices": [
+              {
+                "label": "Kids...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "kite_catch": {
+            "id": "kite_catch",
+            "text": "Only this! It got tangled in the string last week and it HUMS. Mom says put it back but I don't know where back IS. You can have it if you promise to tell me what it does.",
+            "choices": [
+              {
+                "label": "I promise. Thanks, kid.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_ITEM",
+                "target": "windchime_fragment",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "kite_chime_given",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "explore": {
+            "id": "explore",
+            "text": "I've been everywhere! Well, everywhere my mom lets me go. Which is mostly the plaza. BUT I've seen the crashed airship from here! It's to the northwest, on a small island. Something glows inside it at night. Nobody's brave enough to go look. Are YOU brave enough?",
+            "choices": [
+              {
+                "label": "Maybe I'll check it out.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              },
+              {
+                "label": "I'll pass.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Byeee! If you find anything cool, bring it back and show me!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_wh_windwright",
+      "name": "Windwright Tobin",
+      "spriteName": "npcs/blacksmith",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 6,
+      "y": 15,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Mind the ropes. I'm Tobin — I build and repair the bridges that hold this whole archipelago together. One bad knot and it's a long drop to nowhere.",
+            "choices": [
+              {
+                "label": "How do the rope bridges work?",
+                "nextNodeId": "bridges",
+                "conditions": []
+              },
+              {
+                "label": "Are the bridges safe?",
+                "nextNodeId": "safety",
+                "conditions": []
+              },
+              {
+                "label": "What's the hardest part of your job?",
+                "nextNodeId": "hardest",
+                "conditions": []
+              },
+              {
+                "label": "The windchimes over the gate are broken.",
+                "nextNodeId": "chime_intro",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "windchime_restoration",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "windchime_restoration",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "I have the windchime fragments.",
+                "nextNodeId": "chime_turnin",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "windchime_restoration",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Goodbye.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "chime_intro": {
+            "id": "chime_intro",
+            "text": "Aye, and that's worse than a frayed rope. Those chimes are tuned to Zephyrion's breath — they tell us when a squall is turning. Three fragments went over the edge when the last storm hit. Bring them and I'll rehang the set.",
+            "choices": [
+              {
+                "label": "I'll find the fragments.",
+                "nextNodeId": "chime_accepted",
+                "conditions": []
+              },
+              {
+                "label": "Later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "chime_accepted": {
+            "id": "chime_accepted",
+            "text": "The Stormspire twins hand them out as trial tokens, and the wind scatters the rest. Ask the kid with the kite — that string catches everything.",
+            "choices": [
+              {
+                "label": "I'll bring them back.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "windchime_restoration",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "chime_turnin": {
+            "id": "chime_turnin",
+            "text": "Let me hear them. [He taps each fragment against his knuckle.] Three, and all in tune. Give me an hour on the gantry and Windhaven gets its warning back. Good work.",
+            "choices": [
+              {
+                "label": "Hang them well.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "windchime_restoration",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "bridges": {
+            "id": "bridges",
+            "text": "Cloud-hemp rope, sky-oak planks, and lightning-rod anchors at each end. The wind provides natural tension — Zephyrion's breath holds them taut. When the wind dies, which is rare, the bridges sag. That's when you hold on tight.",
+            "choices": [
+              {
+                "label": "Clever engineering.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "safety": {
+            "id": "safety",
+            "text": "Mostly. The thunder elementals are the biggest threat — their discharges corrode the anchors. I patch them as fast as I can, but there's only one of me. If the Sky Guard can clear those elementals, my job gets a lot easier.",
+            "choices": [
+              {
+                "label": "I'll see what I can do.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "hardest": {
+            "id": "hardest",
+            "text": "Working in a storm. You're hanging over nothing, rain sideways, lightning cracking all around you, and you've got to tie a knot with numb fingers while the whole bridge is swinging. I love it. Wouldn't trade it for anything.",
+            "choices": [
+              {
+                "label": "You're braver than most.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch your step on the bridges. And if one starts swaying — stop walking and hold the ropes. It'll pass.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_wh_trader",
+      "name": "Trader Pip",
+      "spriteName": "npcs/farmer",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "vial_of_lightning",
+        "pyralis_fire_potion",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "x": 29,
+      "y": 14,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Pip's Provisions! Potions, tonics, and cures for what ails ya. I get stock from all three islands — Lirandel herbs, Pyralis minerals, and local lightning.",
+            "choices": [
+              {
+                "label": "Show me what you've got.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "You trade between islands?",
+                "nextNodeId": "trade",
+                "conditions": []
+              },
+              {
+                "label": "No thanks.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Take your pick!",
+            "choices": [
+              {
+                "label": "Let me browse.",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "trade": {
+            "id": "trade",
+            "text": "Aye! Windlass brings goods from Galewick, I get Pyralis fire-potions through Oren's contacts, and Lirandel herbs come through the portal when someone makes the crossing. It's a living. Not a great one, but a living.",
+            "choices": [
+              {
+                "label": "Good to know.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Stay stocked up! Nobody ever regretted carrying an extra potion.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

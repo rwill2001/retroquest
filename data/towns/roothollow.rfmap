@@ -1,0 +1,2994 @@
+{
+  "type": "TOWN",
+  "name": "roothollow",
+  "width": 30,
+  "height": 30,
+  "interiorEntryX": 14,
+  "interiorEntryY": 26,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "u",
+      "",
+      "",
+      "v",
+      "",
+      "",
+      "",
+      "",
+      "v",
+      "c",
+      "c",
+      "c",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "l",
+      "l",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "k",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "x",
+      "x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "v",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "v",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "i",
+      "",
+      "",
+      "",
+      "k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "npc_roothollow_varen",
+      "name": "Elder Varen",
+      "spriteName": "npcs/townsman",
+      "type": "INNKEEPER",
+      "defaultDialog": "Welcome to Roothollow, traveler. Rest your bones within the Great Tree.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 7,
+      "y": 7,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to Roothollow, traveler. The Great Tree shelters all who seek peace. Would you like to rest?",
+            "choices": [
+              {
+                "label": "I'd like to rest. (Full heal, 20g)",
+                "nextNodeId": "rest",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 20
+                  }
+                ]
+              },
+              {
+                "label": "Tell me about Roothollow.",
+                "nextNodeId": "about",
+                "conditions": []
+              },
+              {
+                "label": "The Great Tree is growing faster. Can the Sage help?",
+                "nextNodeId": "sage_quest",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "roots_memory_quest",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest": {
+            "id": "rest",
+            "text": "Sleep well. The roots will watch over you.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -20
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "You rest within the Great Tree and awaken fully restored.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "about": {
+            "id": "about",
+            "text": "This tree was ancient before the Shattering. When the world broke, we hollowed it out and made it home. But lately... it grows too fast. New rooms appear overnight. Walls shift. The tree has a will of its own.",
+            "choices": [
+              {
+                "label": "Sounds unsettling.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "sage_quest": {
+            "id": "sage_quest",
+            "text": "You've noticed it too. The tree grew a new room last night — I found it this morning, fully formed, walls still warm. The Amber Sage in Amber Grove might understand why. She reads the memories frozen in the amber crystals. Would you carry my question to her?",
+            "choices": [
+              {
+                "label": "I'll speak with the Amber Sage.",
+                "nextNodeId": "sage_accept"
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell"
+              }
+            ],
+            "actions": []
+          },
+          "sage_accept": {
+            "id": "sage_accept",
+            "text": "Thank you. Tell her the growth rate has tripled in the last moon. She'll know what that means. And traveler... be careful in the forest. The roots are curious about strangers.",
+            "choices": [
+              {
+                "label": "I'll bring back answers."
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "roots_of_memory",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "roots_memory_quest",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the roots hold you steady, traveler.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_roothollow_sylva",
+      "name": "Sylva the Herbalist",
+      "spriteName": "npcs/townsman",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "The forest provides. Browse my wares.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "greater_healing",
+        "sylvan_healing_draught",
+        "antidote",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations",
+        "honeyed_loaf"
+      ],
+      "x": 20,
+      "y": 7,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The forest provides all that we need. Herbs, tinctures, remedies — what do you seek?",
+            "choices": [
+              {
+                "label": "Show me your wares.",
+                "nextNodeId": "shop",
+                "conditions": []
+              },
+              {
+                "label": "Nobody in this town seems to like you much.",
+                "nextNodeId": "cuttings_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "cuttings_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still cutting.",
+                "nextNodeId": "cuttings_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_ledger_of_cuttings",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] Five. Get your book.",
+                "nextNodeId": "cuttings_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_ledger_of_cuttings",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "cuttings_done",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Just browsing.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shop": {
+            "id": "shop",
+            "text": "Take what you need.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May the canopy shelter you.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "cuttings_offer": {
+            "id": "cuttings_offer",
+            "text": "No. I prune. In Roothollow that is roughly what a butcher is anywhere else, except a butcher gets thanked.\n[She sets down the shears.] Everything in this forest was planted for a reason. He plants a tree for every grief he notices, and he notices very nearly all of them, and then he never takes a cutting off any of it because taking a cutting is admitting the thing is finished.\nSo it runs. A Vine Strangler is not a monster. It is a cutting nobody took, ninety years on, gone feral with having nowhere to put itself.\nI cannot get out to the deep forest any more; my knees have opinions. Take five. And come back, because there is a second half to this and the second half is the part that matters.",
+            "choices": [
+              {
+                "label": "Five. And the second half?",
+                "nextNodeId": "cuttings_accept",
+                "conditions": []
+              },
+              {
+                "label": "I have other work.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "cuttings_accept": {
+            "id": "cuttings_accept",
+            "text": "The second half is that you tell me about them and I write them down.\n[She takes out a book that is very thick and very plain.] Forty-one years of cuts. Every one, with what it was and where and why. If you are going to cut, you must be able to say what you cut. Otherwise you are not pruning, you are just killing tidily, and the god is quite bad enough at telling those apart without my help.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_ledger_of_cuttings",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "cuttings_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Ledger of Cuttings",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "cuttings_progress": {
+            "id": "cuttings_progress",
+            "text": "Five, and look at them while you do it. You will need something to say afterwards and 'a vine' will not do.",
+            "choices": [
+              {
+                "label": "I am looking.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "cuttings_done": {
+            "id": "cuttings_done",
+            "text": "[She writes for a long time, and asks four questions you did not expect, and one of them is what colour the flowers were.]\nWhite. They are always white on the old ones. Ninety years and they still flower every spring for nobody.\nThere. Five lines. Cuttings four thousand and six through four thousand and ten, deep forest, feral, taken clean.\nThat is what he will not do. Not the cutting — the writing down. He would keep every one of them alive forever rather than put a line in a book saying it ended, and that is not love, whatever the Grove says. Love keeps a ledger.\nTake your money and go and say something kind to Fen, she has had a bad month.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "cuttings_done",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "SYLVANDAR",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Five cuttings enter the ledger, named and dated.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_roothollow_warden",
+      "name": "Root Warden",
+      "spriteName": "npcs/townsman",
+      "type": "GUARD",
+      "defaultDialog": "The Great Tree watches. Tread carefully within its heartwood.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 14,
+      "y": 24,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[A figure in bark armor stands guard, roots coiling slowly around their boots.] The Great Tree watches all who enter. State your purpose.",
+            "choices": [
+              {
+                "label": "I'm an adventurer, exploring the island.",
+                "nextNodeId": "adventurer",
+                "conditions": []
+              },
+              {
+                "label": "What do you guard against?",
+                "nextNodeId": "guard",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about the overgrowth.",
+                "nextNodeId": "overgrowth",
+                "conditions": []
+              },
+              {
+                "label": "Teach me to hold the roots as you do.",
+                "nextNodeId": "entangle_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "rootspeaker_entangle",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  },
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "rootspeaker_entangle",
+                    "value": "",
+                    "amount": 0,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "The root golems are down. About that lesson.",
+                "nextNodeId": "entangle_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "rootspeaker_entangle",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Just passing through.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "entangle_offer": {
+            "id": "entangle_offer",
+            "text": "The roots answer people who understand them. Understanding is not fondness. Three root golems have gone wrong out there — grown past their purpose. Prune them. Do that and I will teach you the word the wardens use.",
+            "choices": [
+              {
+                "label": "I understand. Three golems.",
+                "nextNodeId": "entangle_accept",
+                "conditions": []
+              },
+              {
+                "label": "I am not ready.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "entangle_accept": {
+            "id": "entangle_accept",
+            "text": "Go deep, past the clearings. Do not enjoy it. That is the whole of the lesson.",
+            "choices": [
+              {
+                "label": "I will return.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "rootspeaker_entangle",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "entangle_done": {
+            "id": "entangle_done",
+            "text": "You pruned and you did not linger. Good. Hold the word in your mouth like a held breath and the roots will do the rest. It is yours now.",
+            "choices": [
+              {
+                "label": "Thank you, Warden.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "adventurer": {
+            "id": "adventurer",
+            "text": "An Unbound. We get your kind sometimes. The forest tests everyone who enters. If you survive, Roothollow welcomes you. If not... the roots will take what remains.",
+            "choices": [
+              {
+                "label": "Comforting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "guard": {
+            "id": "guard",
+            "text": "The overgrowth. Each night the roots push a little further. Last month a whole house was swallowed — family inside. We found them in the morning, wrapped in vines, still breathing. Still alive. Just... part of the tree now.",
+            "choices": [
+              {
+                "label": "That's horrifying.",
+                "nextNodeId": "horrifying",
+                "conditions": []
+              },
+              {
+                "label": "Can they be freed?",
+                "nextNodeId": "freed",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "horrifying": {
+            "id": "horrifying",
+            "text": "It is. And it isn't. They don't seem to suffer. Some of them smile. That's the worst part.",
+            "choices": [
+              {
+                "label": "I see.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "freed": {
+            "id": "freed",
+            "text": "Rootspeaker Thenna tried. The roots won't let go. Sylvandar's love is... thorough.",
+            "choices": [
+              {
+                "label": "I'll look into it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "overgrowth": {
+            "id": "overgrowth",
+            "text": "It started a year ago. The Great Root began growing faster — new roots every day, thicker, reaching further. Rootspeaker Thenna says Sylvandar is trying to regrow the world. A god's love, turned to prison.",
+            "choices": [
+              {
+                "label": "Where is Thenna?",
+                "nextNodeId": "thenna",
+                "conditions": []
+              },
+              {
+                "label": "I understand.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "thenna": {
+            "id": "thenna",
+            "text": "Outside the town, near the Great Root. She spends her days listening to the sap. If anyone can help you understand what's happening, it's her.",
+            "choices": [
+              {
+                "label": "I'll find her.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Watch the roots. And don't sleep too close to the walls. They grow at night.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_roothollow_weaver",
+      "name": "Bark Weaver Fen",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "The bark gives willingly, if you ask.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 9,
+      "y": 20,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[An elderly woman carefully peels thin strips of bark from the wall. The wall doesn't seem to mind.] Each strip tells me something. This one grew fast — it's scared. This one is old and patient. The tree talks through its bark.",
+            "choices": [
+              {
+                "label": "You can read the bark?",
+                "nextNodeId": "read",
+                "conditions": []
+              },
+              {
+                "label": "What's the tree saying now?",
+                "nextNodeId": "saying",
+                "conditions": []
+              },
+              {
+                "label": "Bridgekeeper Orin sent a spore sample from the rotting bridge.",
+                "nextNodeId": "rot_deliver",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "bridge_rot_report",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I heard you host skill games here.",
+                "nextNodeId": "games",
+                "conditions": []
+              },
+              {
+                "label": "Sylva says you have had a bad month.",
+                "nextNodeId": "bloom_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "bloom_quest_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] I have not been out to the Root yet.",
+                "nextNodeId": "bloom_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_child_who_is_becoming",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I saw Bloom.",
+                "nextNodeId": "bloom_report",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_child_who_is_becoming",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "bloom_verdict",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "That's a rare skill.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "read": {
+            "id": "read",
+            "text": "After forty years inside this tree, you learn its moods. Thick ridges mean anger. Smooth patches mean contentment. The sap running fast means it's growing — and lately the sap never stops. The Great Tree is in a fever, and I don't know how to cool it.",
+            "choices": [
+              {
+                "label": "Elder Varen seems worried too.",
+                "nextNodeId": "varen",
+                "conditions": []
+              },
+              {
+                "label": "I'll see what I can learn.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "saying": {
+            "id": "saying",
+            "text": "[She presses her ear to the wall.] It says... 'more.' Always more. More roots, more branches, more leaves. It doesn't understand 'enough.' Sylvandar's grief has no bottom, so the tree's hunger has no limit.",
+            "choices": [
+              {
+                "label": "Can it be calmed?",
+                "nextNodeId": "calmed",
+                "conditions": []
+              },
+              {
+                "label": "Unsettling.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "calmed": {
+            "id": "calmed",
+            "text": "Maybe. Fungal Lord Mycos thinks decay could balance it. The Amber Sage thinks memory could anchor it. Me? I think it needs to grieve properly. To let go of what was lost instead of trying to regrow it. But how do you teach a god to let go?",
+            "choices": [
+              {
+                "label": "One step at a time, perhaps.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "varen": {
+            "id": "varen",
+            "text": "Varen has lived here longer than anyone. He remembers when the tree grew slowly — an inch a year, if that. Now it's a foot a week. He asked the Amber Sage for answers, but she needs someone to carry the question. Perhaps you could visit her in Amber Grove?",
+            "choices": [
+              {
+                "label": "I'll speak with the Sage.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rot_deliver": {
+            "id": "rot_deliver",
+            "text": "[She turns the pod over twice and smells it.] Ah. Not sickness — hunger. The bridge grew so fast it burned through its own heart and the rot came after to clean up. Tell Orin to stop patching and let that span die properly. It will grow back thinner and it will hold.",
+            "choices": [
+              {
+                "label": "He will not like hearing that.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "bridge_rot_report",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "games": {
+            "id": "games",
+            "text": "[She sets down her bark strips and eyes you with a wry smile.] Hm! Word travels. Yes — I run the Nature Games: archery, herbalism, beast taming. Old skills that the tree respects. Wager gold, prove yourself worthy. Care to test your mettle?",
+            "choices": [
+              {
+                "label": "Show me the Nature Games.",
+                "nextNodeId": "open_games",
+                "conditions": []
+              },
+              {
+                "label": "Perhaps another time.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "open_games": {
+            "id": "open_games",
+            "text": "Let the forest judge your worth.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_NATURE_GAMES",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Listen to the bark, traveler. It tells the truth even when the tree lies.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "bloom_offer": {
+            "id": "bloom_offer",
+            "text": "Sylva talks too much and is right too often, which is an exhausting combination in a neighbour.\n[Fen puts down the weaving. Her hands are bark-stained to the wrist, forty years of it.]\nThere is a child out by the Great Root. Bloom. I taught her to whittle when she was five; she was bad at it and very pleased with herself, which is the correct way to be five.\nShe is turning into a tree. Not dying — turning. The roots took her feet at the Root and it has been coming up her since, and she says it does not hurt, and she says the sap sings.\nEverybody in this town has already decided what that is. Thenna says she is becoming something new. Dren tried to burn it out of her. The Grove sent a letter. Not one of them has been out there in a month.\nI want somebody who has no stake in it to walk out, look at her, and come back and tell me plainly: is it a mercy or is it a theft. I cannot go. I will look at her and see the five-year-old and I will not see anything else, and she deserves better than that from me.",
+            "choices": [
+              {
+                "label": "I'll go and look at her.",
+                "nextNodeId": "bloom_accept",
+                "conditions": []
+              },
+              {
+                "label": "That is not a thing a stranger should judge.",
+                "nextNodeId": "bloom_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "bloom_accept": {
+            "id": "bloom_accept",
+            "text": "It is exactly a thing a stranger should judge. That is the whole reason I am asking one.\nEast, past the Great Root. She will talk to you; she talks to everyone, she always did.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_child_who_is_becoming",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "bloom_quest_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Child Who Is Becoming",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "bloom_progress": {
+            "id": "bloom_progress",
+            "text": "East. Past the Great Root, where the bark goes pale. Take your time with her. She has plenty.",
+            "choices": [
+              {
+                "label": "I will.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "bloom_report": {
+            "id": "bloom_report",
+            "text": "[She does not ask. She waits, with her hands still, which for Fen is enormous.]\nSay it plainly. I have had four people be gentle with me about this and I have wanted to hit all of them.",
+            "choices": [
+              {
+                "label": "It is a theft. She was not asked.",
+                "nextNodeId": "bloom_theft",
+                "conditions": []
+              },
+              {
+                "label": "She is happy, and it is hers. Let her finish.",
+                "nextNodeId": "bloom_let",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "bloom_theft": {
+            "id": "bloom_theft",
+            "text": "Thank you.\n[She says it immediately, and then she sits down.]\nShe was five and bad at whittling and now she is a landmark. Nobody asked her. He never asks; that is the whole of him. He loves you and he grows you into whatever shape the loving takes and he genuinely cannot understand why anyone objects.\nI am going to walk out there tomorrow and I am going to say so, out loud, at the Root, where he can hear it. It will not stop it. Thenna has petitioned twice.\nBut she will have had one person stand in front of her god and say she was taken. That is not nothing. When somebody takes a thing off you, it matters enormously whether anybody said so at the time.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "bloom_verdict",
+                "value": "theft",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "SYLVANDAR",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Fen will stand at the Great Root and say the child was taken.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "bloom_let": {
+            "id": "bloom_let",
+            "text": "[A long breath out.]\nRight. Right.\nThen I have been mourning a girl who is standing up and enjoying herself, which is a stupid thing to do with a month.\nI do not entirely believe you and I am going to choose to anyway, because the alternative is spending the rest of my life at a window. She said the sap sings. Nobody made that up. Nobody could.\nI will go out and sit with her. Not to fetch her. Just to sit, while she still has a mouth for talking, and afterwards I will bring my weaving and sit under her, and that is a great deal more than most people get from their neighbours.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "bloom_verdict",
+                "value": "let",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "SYLVANDAR",
+                "value": "",
+                "amount": 15
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Fen takes her weaving out to the Great Root, and stays.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_roothollow_child",
+      "name": "Sapling",
+      "spriteName": "npcs/townsman",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "Did you know the walls move at night? I measured!",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 18,
+      "y": 15,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[A gap-toothed child crouches near the wall, pressing a charcoal-marked stick against the bark.] I'm measuring! The wall moved three finger-widths since last moon. I keep a chart!",
+            "choices": [
+              {
+                "label": "The wall is growing?",
+                "nextNodeId": "growing",
+                "conditions": []
+              },
+              {
+                "label": "Aren't you scared?",
+                "nextNodeId": "scared",
+                "conditions": []
+              },
+              {
+                "label": "Good work, little one.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "growing": {
+            "id": "growing",
+            "text": "Everything grows here! My bedroom got smaller last week. Mum had to trim the ceiling roots again. Once I woke up and there was a new branch growing through my pillow. I kept it! [Holds up a small twig proudly.]",
+            "choices": [
+              {
+                "label": "That's... something.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "scared": {
+            "id": "scared",
+            "text": "Nah! The tree's friendly. It grew me a swing once — a branch just reached out and curled into a loop. Bark Weaver Fen says I'm not scared because I was born inside the tree. It knows me. We're friends.",
+            "choices": [
+              {
+                "label": "Friends with a tree. That's pretty amazing.",
+                "nextNodeId": "amazing",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "amazing": {
+            "id": "amazing",
+            "text": "The tree showed me something once. When I was sleeping, I dreamed I was a seed. I could feel the rain and the soil and the sun all at once. And I could feel everything connected — every root to every other root, all across the island. It was so big... and so lonely.",
+            "choices": [
+              {
+                "label": "Lonely?",
+                "nextNodeId": "lonely",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "lonely": {
+            "id": "lonely",
+            "text": "Yeah. It misses something. Something really big that used to be everywhere. That's why it keeps growing — it's reaching for something that isn't there anymore. [Pauses.] Do you think it'll ever find it?",
+            "choices": [
+              {
+                "label": "Maybe. With help.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "sapling_dream",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Bye! I have to measure the other wall now. It's winning!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": []
+}

@@ -1,0 +1,3489 @@
+{
+  "type": "TOWN",
+  "name": "moonhaven",
+  "width": 20,
+  "height": 20,
+  "tiles": [
+    [
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "|",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "c",
+      "c",
+      "c",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "F",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "S",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "S",
+      "F",
+      "F",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "Z"
+    ],
+    [
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "d",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z",
+      "Z"
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "interiorEntryX": 10,
+  "interiorEntryY": 13,
+  "npcs": [
+    {
+      "id": "npc_moonhaven_innkeeper",
+      "name": "Innkeeper Bram",
+      "spriteName": "npcs/innkeeper",
+      "type": "INNKEEPER",
+      "defaultDialog": "Rest your bones, traveler. 10 gold a night.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Well met, traveler! Welcome to The Driftwood Inn. The fire's warm and the ale is cold.",
+            "choices": [
+              {
+                "label": "I'd like a room for the night. (15 gold)",
+                "nextNodeId": "rest_confirm",
+                "conditions": []
+              },
+              {
+                "label": "What's the news around Moonhaven?",
+                "nextNodeId": "gossip",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about this island.",
+                "nextNodeId": "island_lore",
+                "conditions": []
+              },
+              {
+                "label": "Have you heard anything strange from underground?",
+                "nextNodeId": "cave_quest_intro",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "bram_cave_quest_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I explored the dungeon depths.",
+                "nextNodeId": "cave_quest_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "cave_explore",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "bram_visited",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "greeting_return": {
+            "id": "greeting_return",
+            "text": "Ah, you're back! Good to see a familiar face. The usual room?",
+            "choices": [
+              {
+                "label": "Yes, a room please. (15 gold)",
+                "nextNodeId": "rest_confirm",
+                "conditions": []
+              },
+              {
+                "label": "Any new gossip?",
+                "nextNodeId": "gossip",
+                "conditions": []
+              },
+              {
+                "label": "Just passing through. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rest_confirm": {
+            "id": "rest_confirm",
+            "text": "That'll be 15 gold. I'll have fresh linens on the bed. Sleep well, friend.",
+            "choices": [
+              {
+                "label": "Thank you, Bram.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -15
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "You rest at the Driftwood Inn and feel refreshed.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "gossip": {
+            "id": "gossip",
+            "text": "Strange things, friend. Fishermen say the tides come in threes now, and there's a sickly glow on the southern reef at night. The healer Mira's been working day and night -- some say the water itself is making folk ill.",
+            "choices": [
+              {
+                "label": "That sounds troubling. Anything else?",
+                "nextNodeId": "gossip_deeper",
+                "conditions": []
+              },
+              {
+                "label": "I should look into that. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "gossip_deeper": {
+            "id": "gossip_deeper",
+            "text": "Aye. There's a priestess -- one of Lirandel's lot -- been asking around for able-bodied adventurers. Something about a ritual to calm the seas. You'd find her in the chapel across the square.",
+            "choices": [
+              {
+                "label": "I'll seek her out.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              },
+              {
+                "label": "I need a room first. (15 gold)",
+                "nextNodeId": "rest_confirm",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "island_lore": {
+            "id": "island_lore",
+            "text": "This island's old, friend. Older than any kingdom on the mainland. They say Lirandel herself wove the first wards to keep the deep things sleeping. Moonhaven's one of the few safe harbors left -- the wards still hold here. Mostly.",
+            "choices": [
+              {
+                "label": "Mostly?",
+                "nextNodeId": "island_lore_2",
+                "conditions": []
+              },
+              {
+                "label": "Good to know. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "island_lore_2": {
+            "id": "island_lore_2",
+            "text": "There's a scar in the earth to the east -- a great rift where the wards are weakest. Foul things crawl up from below. The guard patrols don't go past the old watchtower anymore. If you venture that way... bring a sharp blade and sharper wits.",
+            "choices": [
+              {
+                "label": "I'll keep that in mind. Thank you.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "cave_quest_intro": {
+            "id": "cave_quest_intro",
+            "text": "Strange you mention it... the old fishermen say they hear a low rumble beneath the waves some nights. I'd venture down myself, but -- well, I'm an innkeeper, not an adventurer. If you're heading that way, would you report back?",
+            "choices": [
+              {
+                "label": "I'll take a look.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "cave_explore",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "bram_cave_quest_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Into the Depths",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "cave_quest_done": {
+            "id": "cave_quest_done",
+            "text": "You actually went down there! You're braver than I am. What was it like? No, wait -- I can tell from your face it was memorable. Here, let me repay you for the trouble.",
+            "choices": [
+              {
+                "label": "It was an experience.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "cave_explore",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Bram shudders and pours you a large cup of something warm.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Safe travels, friend. The Driftwood Inn is always open.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 5,
+      "y": 4
+    },
+    {
+      "id": "npc_moonhaven_acolyte",
+      "name": "Lirandel's Acolyte",
+      "spriteName": "npcs/monk",
+      "type": "QUESTGIVER",
+      "defaultDialog": "The tides bring danger, traveler. Will you answer the island's call?",
+      "questId": "rising_tide",
+      "questCompleteDialog": "Well done! The crabs are driven back. Lirandel thanks you.",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "The winds whisper of your coming, traveler. I am a servant of Lirandel, She Who Calms the Tides. Dark forces stir beneath the waves.",
+            "choices": [
+              {
+                "label": "What's happening to the island?",
+                "nextNodeId": "island_danger",
+                "conditions": []
+              },
+              {
+                "label": "Who is Lirandel?",
+                "nextNodeId": "lirandel_info",
+                "conditions": []
+              },
+              {
+                "label": "The tide-spawn are cleared.",
+                "nextNodeId": "quest_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "rising_tide",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "The undead still walk these lands.",
+                "nextNodeId": "skeleton_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "rising_tide",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "skeleton_quest_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "The skeletons are defeated.",
+                "nextNodeId": "skeleton_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "skeleton_menace",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I seek a holy trial.",
+                "nextNodeId": "bless_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "skeleton_menace",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "bless_quest_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "The rite is fulfilled.",
+                "nextNodeId": "bless_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "cleric_rite_of_bless",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I will descend into the corrupted shrines.",
+                "nextNodeId": "shrine_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "cleric_rite_of_bless",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "shrine_quest_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "The shrines are purged.",
+                "nextNodeId": "shrine_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "purge_dreamwake",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I must go.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_active": {
+            "id": "quest_active",
+            "text": "The ritual awaits your return, champion. Have you driven back the tide-spawn from the southern shore?",
+            "choices": [
+              {
+                "label": "Not yet. I'm still working on it.",
+                "nextNodeId": "quest_encourage",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "rising_tide",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I need to know more about what I'm facing.",
+                "nextNodeId": "tide_details",
+                "conditions": []
+              },
+              {
+                "label": "I'll return when it's done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_encourage": {
+            "id": "quest_encourage",
+            "text": "The crabs grow bolder with each tide. Their chitinous shells are hardened by the deep magic. Strike true, and do not let their numbers overwhelm you. Lirandel watches over you.",
+            "choices": [
+              {
+                "label": "I won't fail.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_complete": {
+            "id": "quest_complete",
+            "text": "I can feel it -- the tides recede! You have done what we could not. Lirandel's blessing flows through the wards once more. Take this reward, champion. You have earned it.",
+            "choices": [
+              {
+                "label": "What happens now?",
+                "nextNodeId": "after_quest",
+                "conditions": []
+              },
+              {
+                "label": "I was glad to help.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "rising_tide",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Acolyte bows deeply, silver light flickering around her hands.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "after_quest": {
+            "id": "after_quest",
+            "text": "The wards will hold -- for now. But the scar in the east still festers, and deeper things than tide-crabs lurk below. When the time comes, I will call upon you again. Rest while you can.",
+            "choices": [
+              {
+                "label": "I'll be ready.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "island_danger": {
+            "id": "island_danger",
+            "text": "A great scar splits the eastern reaches of this island -- a wound in the world itself. From it, dark magic seeps into the sea. The tides have turned wrong. Creatures boil up from the deep, twisted and ravenous.",
+            "choices": [
+              {
+                "label": "How can I help?",
+                "nextNodeId": "offer_help",
+                "conditions": []
+              },
+              {
+                "label": "That sounds like someone else's problem.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "offer_help": {
+            "id": "offer_help",
+            "text": "The Rising Tide must be turned back. Tide-crabs have overrun the southern shore, corrupted by the deep magic. Clear them out so I may perform the Wardstone Ritual. Will you accept this charge?",
+            "choices": [
+              {
+                "label": "I accept. Where do I go?",
+                "nextNodeId": "tide_details",
+                "conditions": []
+              },
+              {
+                "label": "I'll prepare first.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "rising_tide",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "acolyte_quest_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Rising Tide",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "tide_details": {
+            "id": "tide_details",
+            "text": "Follow the coast south from Moonhaven until you reach the tidal flats. The crabs nest among the rocks there. They are armored but slow -- strike from the flanks. And beware the queen -- she is larger, and her claws drip with venom.",
+            "choices": [
+              {
+                "label": "I'll handle it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "lirandel_info": {
+            "id": "lirandel_info",
+            "text": "Lirandel is the goddess of shores and still waters. Long ago, she raised the wardstones that protect this island from the deep. We, her acolytes, maintain the wards. But our numbers dwindle, and the stones grow dim.",
+            "choices": [
+              {
+                "label": "How can I help with the wards?",
+                "nextNodeId": "offer_help",
+                "conditions": []
+              },
+              {
+                "label": "I see. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "skeleton_offer": {
+            "id": "skeleton_offer",
+            "text": "Yes -- the burial grounds to the northeast have been disturbed. Skeletons claw their way from old graves, driven by the same dark energy that fouled the tides. Destroy them and help cleanse this island of corruption.",
+            "choices": [
+              {
+                "label": "I will see it done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "skeleton_menace",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "skeleton_quest_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Skeleton Menace",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "skeleton_complete": {
+            "id": "skeleton_complete",
+            "text": "I feel it -- the burial grounds grow quieter. You have done well, champion. The dead deserve their rest. Lirandel is pleased.",
+            "choices": [
+              {
+                "label": "What remains to be done?",
+                "nextNodeId": "bless_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "bless_quest_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "For the island.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "skeleton_menace",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Acolyte traces a ward-sign in the air.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "bless_offer": {
+            "id": "bless_offer",
+            "text": "You have proven your worth to the goddess. I will teach you the Rite of Blessing -- a prayer that fortifies the spirit against darkness. But first: destroy three more skeletons as an offering. Let their defeat be your consecration.",
+            "choices": [
+              {
+                "label": "I accept the rite.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "cleric_rite_of_bless",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "bless_quest_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Rite of Blessing",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "bless_complete": {
+            "id": "bless_complete",
+            "text": "The offering is complete. Kneel, champion. Lirandel's blessing flows through my hands into yours. May this light shield you in the dark places ahead.",
+            "choices": [
+              {
+                "label": "I am ready for whatever comes next.",
+                "nextNodeId": "shrine_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "shrine_quest_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Thank you.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "cleric_rite_of_bless",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Silver light washes over you as the Acolyte completes the blessing.",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "shrine_offer": {
+            "id": "shrine_offer",
+            "text": "The Dreamwake Caverns lie beneath the eastern scar. Corrupted Shrines have taken root there -- foul altars that feed the darkness. Descend and destroy three of them. Only then will the scar begin to close.",
+            "choices": [
+              {
+                "label": "I will purge them.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "purge_dreamwake",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "shrine_quest_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Purge the Dreamwake Caverns",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "shrine_complete": {
+            "id": "shrine_complete",
+            "text": "Three shrines destroyed! The Scar dims -- I can feel it even from here. You have done what armies could not. The island breathes again. Take this reward, and know that Lirandel herself watches over you.",
+            "choices": [
+              {
+                "label": "For Lirandel.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "purge_dreamwake",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Acolyte presses a ring into your palm with trembling hands.",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "May Lirandel's calm waters guide your path.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 14,
+      "y": 4
+    },
+    {
+      "id": "npc_moonhaven_healer_mira",
+      "name": "Healer Mira",
+      "spriteName": "npcs/priest",
+      "type": "HEALER",
+      "defaultDialog": "The village is sick. I need Moonbloom Herbs — a couple of them. Will you help?",
+      "questId": "moonbloom_collection",
+      "questCompleteDialog": "Bless you! These herbs will save many lives.",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Blessings upon you, traveler. I am Mira, healer of Moonhaven. You look weary -- the road is not kind these days.",
+            "choices": [
+              {
+                "label": "I need healing.",
+                "nextNodeId": "heal_offer",
+                "conditions": []
+              },
+              {
+                "label": "Can you teach me any healing magic?",
+                "nextNodeId": "teach_spell",
+                "conditions": []
+              },
+              {
+                "label": "I heard you need Moonbloom Herbs.",
+                "nextNodeId": "quest_ask",
+                "conditions": []
+              },
+              {
+                "label": "I have the potions Maren asked me to bring.",
+                "nextNodeId": "potion_delivery_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "potion_delivery",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "HAS_ITEM",
+                    "target": "healing_potion",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I found the Moonbloom Herbs.",
+                "nextNodeId": "quest_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "moonbloom_collection",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Just passing through. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_active_greet": {
+            "id": "quest_active_greet",
+            "text": "Any luck finding the Moonbloom Herbs? The sick grow worse by the day. I need two blooms -- they grow in moonlit glades, deeper in the forest.",
+            "choices": [
+              {
+                "label": "I'm still searching.",
+                "nextNodeId": "quest_hint",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "moonbloom_collection",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I need healing first.",
+                "nextNodeId": "heal_offer",
+                "conditions": []
+              },
+              {
+                "label": "I'll keep looking.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_hint": {
+            "id": "quest_hint",
+            "text": "Look for clearings where the canopy thins and moonlight reaches the forest floor. The Moonbloom only opens its petals under silver light. You'll know them by their faint blue glow.",
+            "choices": [
+              {
+                "label": "Thank you for the tip.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_complete": {
+            "id": "quest_complete",
+            "text": "You found them! Two perfect Moonbloom stems -- oh, bless you! These will save so many lives. The children in the east quarter have been coughing for weeks. Here, take this as thanks -- and let me share with you what I know of healing.",
+            "choices": [
+              {
+                "label": "I'm glad I could help.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "moonbloom_collection",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Healer Mira accepts the Moonbloom Herbs with trembling hands.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "heal_offer": {
+            "id": "heal_offer",
+            "text": "I can mend your wounds with Lirandel's grace. A small offering of 10 gold helps me keep the clinic stocked. Shall I tend to you?",
+            "choices": [
+              {
+                "label": "Yes, please heal me. (10 gold)",
+                "nextNodeId": "heal_confirm",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "target": "",
+                    "value": "",
+                    "amount": 10,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I can't afford that right now.",
+                "nextNodeId": "heal_no_gold",
+                "conditions": []
+              },
+              {
+                "label": "Not right now, thank you.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "heal_confirm": {
+            "id": "heal_confirm",
+            "text": "Hold still... there. Lirandel's light flows through you. Your wounds knit closed and your strength returns. Rest easy, traveler.",
+            "choices": [
+              {
+                "label": "Thank you, Mira.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_GOLD",
+                "target": "",
+                "value": "",
+                "amount": -10
+              },
+              {
+                "type": "HEAL_PLAYER",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Healer Mira's gentle magic restores your health.",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "heal_no_gold": {
+            "id": "heal_no_gold",
+            "text": "I understand -- coin is scarce for everyone these days. If you find Moonbloom Herbs for me, I'll heal you free of charge. They grow in moonlit forest clearings.",
+            "choices": [
+              {
+                "label": "I'll look for them.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "teach_spell": {
+            "id": "teach_spell",
+            "text": "You wish to learn the healing arts? I can teach you Cure Light Wounds -- a simple prayer to Lirandel that mends minor injuries. It requires focus and a pure heart.",
+            "choices": [
+              {
+                "label": "Thank you for the knowledge.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "TEACH_SPELL",
+                "target": "Cure Light Wounds",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Mira teaches you the spell: Cure Light Wounds.",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_ask": {
+            "id": "quest_ask",
+            "text": "Yes! The village is beset by a creeping sickness. I've exhausted my stores of Moonbloom -- the only herb that can break this fever. I need two fresh stems. They grow in moonlit glades in the forest. Will you gather them for me?",
+            "choices": [
+              {
+                "label": "I'll find them for you.",
+                "nextNodeId": "quest_hint",
+                "conditions": []
+              },
+              {
+                "label": "I'll think about it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "moonbloom_collection",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "mira_quest_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Moonbloom Collection",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "potion_delivery_done": {
+            "id": "potion_delivery_done",
+            "text": "Healing potions from Maren! Oh, what perfect timing -- my stocks were nearly empty. These will keep the clinic running through the winter. Please, take this as thanks, and tell Maren I said bless her.",
+            "choices": [
+              {
+                "label": "I will. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "TAKE_ITEM",
+                "target": "healing_potion",
+                "value": "",
+                "amount": 3
+              },
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "potion_delivery",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Mira carefully counts the potions and tucks them into her cabinet.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Lirandel's light be with you, traveler. Return if you are wounded -- my door is always open.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 14,
+      "y": 9
+    },
+    {
+      "id": "npc_moonhaven_guard",
+      "name": "Town Guard",
+      "spriteName": "npcs/guard",
+      "type": "GUARD",
+      "defaultDialog": "Halt! ...Just kidding. Welcome to Moonhaven. Watch yourself out there.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Halt! ... Heh, just having a bit of fun. Welcome to Moonhaven, traveler. Name's Garrett. I keep the peace here -- what's left of it.",
+            "choices": [
+              {
+                "label": "What should I know about the area?",
+                "nextNodeId": "area_info",
+                "conditions": []
+              },
+              {
+                "label": "Any monsters nearby?",
+                "nextNodeId": "monster_warning",
+                "conditions": []
+              },
+              {
+                "label": "You look like a seasoned fighter. Any advice?",
+                "nextNodeId": "combat_advice",
+                "conditions": [
+                  {
+                    "type": "PLAYER_LEVEL",
+                    "target": "",
+                    "value": "",
+                    "amount": 5,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Carry on, guardsman.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "area_info": {
+            "id": "area_info",
+            "text": "Moonhaven's safe enough inside the walls -- the wardstones see to that. South is the coast, crawling with tide-spawn lately. North is the forest -- wolves, mostly, but I've heard worse. East... don't go east unless you're ready to die.",
+            "choices": [
+              {
+                "label": "What's to the east?",
+                "nextNodeId": "east_warning",
+                "conditions": []
+              },
+              {
+                "label": "What about the forest?",
+                "nextNodeId": "forest_info",
+                "conditions": []
+              },
+              {
+                "label": "Thanks for the warning.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "east_warning": {
+            "id": "east_warning",
+            "text": "The Scar. A great rift in the earth, deeper than any mine. Things crawl out of it -- things that don't belong in this world. The old watchtower marks the boundary. Cross it, and you're on your own.",
+            "choices": [
+              {
+                "label": "I'll be careful.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              },
+              {
+                "label": "Has anyone explored the Scar?",
+                "nextNodeId": "scar_lore",
+                "conditions": [
+                  {
+                    "type": "PLAYER_LEVEL",
+                    "target": "",
+                    "value": "",
+                    "amount": 10,
+                    "negate": false
+                  }
+                ]
+              }
+            ],
+            "actions": []
+          },
+          "scar_lore": {
+            "id": "scar_lore",
+            "text": "You've got some steel in you, I can tell. Aye, a few have gone in. Fewer came back. They spoke of tunnels that shift and change, of glowing crystals that whisper your name. One veteran said she saw a door at the bottom -- carved with runes older than the island itself. She never went back.",
+            "choices": [
+              {
+                "label": "A door at the bottom... interesting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "heard_scar_lore",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The guard shares forbidden knowledge of the Scar.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "forest_info": {
+            "id": "forest_info",
+            "text": "The Moonshade Forest. Wolves are the main threat -- they've been more aggressive lately, driven out by something deeper in the woods. Stick to the paths and you'll be fine. Mostly.",
+            "choices": [
+              {
+                "label": "Driven out by what?",
+                "nextNodeId": "forest_deeper",
+                "conditions": []
+              },
+              {
+                "label": "Good to know. Thanks.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "forest_deeper": {
+            "id": "forest_deeper",
+            "text": "Nobody knows for certain. The woodcutters say they've seen shadows between the trees -- tall, thin shapes that vanish when you look straight at them. Could be nothing. Could be the old magic stirring. Either way, don't wander off the paths at night.",
+            "choices": [
+              {
+                "label": "I'll keep my eyes open.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "monster_warning": {
+            "id": "monster_warning",
+            "text": "Plenty. Tide-crabs on the southern shore -- big ones, with shells hard as iron. Wolves in the northern forest. And lately, we've had reports of cave crawlers near the old mines. Nothing an adventurer can't handle, but don't underestimate them.",
+            "choices": [
+              {
+                "label": "Any tips for fighting them?",
+                "nextNodeId": "combat_advice",
+                "conditions": []
+              },
+              {
+                "label": "Thanks for the heads up.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "combat_advice": {
+            "id": "combat_advice",
+            "text": "You look like you can handle yourself. Here's what I know: tide-crabs are slow but armored -- hit them from behind. Wolves hunt in packs, so never fight one without checking for more. And if you ever see something you don't recognize... run first, ask questions later.",
+            "choices": [
+              {
+                "label": "Solid advice. Thank you, Garrett.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The guard shares his combat experience with you.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Stay sharp out there, traveler. Moonhaven needs all the help it can get.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 10,
+      "y": 15
+    },
+    {
+      "id": "npc_moonhaven_casino",
+      "name": "Lucky Len",
+      "spriteName": "npcs/bard",
+      "type": "CASINO",
+      "defaultDialog": "Feeling lucky, traveler? Step right up!",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Well, well! A fresh face with jingling pockets! Name's Lucky Len -- purveyor of fortune and misfortune in equal measure. Care to try your luck?",
+            "choices": [
+              {
+                "label": "What games do you have?",
+                "nextNodeId": "games_info",
+                "conditions": []
+              },
+              {
+                "label": "You don't look very lucky.",
+                "nextNodeId": "len_backstory",
+                "conditions": []
+              },
+              {
+                "label": "Open the casino!",
+                "nextNodeId": "open_casino",
+                "conditions": []
+              },
+              {
+                "label": "I'll pass. Gambling's not my thing.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "games_info": {
+            "id": "games_info",
+            "text": "I run the finest -- and only -- house of chance on this forsaken island! Dice, cards, wheel of fortune... whatever tickles your fancy. The house takes a modest cut, of course. Keeps me in ale and clean shirts.",
+            "choices": [
+              {
+                "label": "Let's play!",
+                "nextNodeId": "open_casino",
+                "conditions": []
+              },
+              {
+                "label": "What's the biggest win you've seen?",
+                "nextNodeId": "big_win",
+                "conditions": []
+              },
+              {
+                "label": "Maybe later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "big_win": {
+            "id": "big_win",
+            "text": "Ha! There was a dwarf -- Bolger, his name was -- who turned 50 gold into 500 on a single roll. Bought drinks for the whole town. Of course, he came back the next night and lost it all. That's the beauty of the game, friend. The wheel keeps turning.",
+            "choices": [
+              {
+                "label": "I like those odds. Let's play!",
+                "nextNodeId": "open_casino",
+                "conditions": []
+              },
+              {
+                "label": "A cautionary tale. I'll pass.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "len_backstory": {
+            "id": "len_backstory",
+            "text": "Ha! That's what my mother said too. But look -- I survived a shipwreck, washed up on this island with nothing but my dice and my charm, and built a business from scratch. If that's not lucky, I don't know what is.",
+            "choices": [
+              {
+                "label": "Fair point. Deal me in!",
+                "nextNodeId": "open_casino",
+                "conditions": []
+              },
+              {
+                "label": "You survived a shipwreck?",
+                "nextNodeId": "shipwreck_story",
+                "conditions": []
+              },
+              {
+                "label": "Lucky for you, unlucky for your customers.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "shipwreck_story": {
+            "id": "shipwreck_story",
+            "text": "Aye, the merchant vessel Gilded Gull. Went down in a storm three years past. The sea spat me out on the northern rocks. Lost everything -- crew, cargo, my old life. But I found something here worth staying for. This island has secrets, friend. Secrets worth more than gold.",
+            "choices": [
+              {
+                "label": "What kind of secrets?",
+                "nextNodeId": "len_secrets",
+                "conditions": []
+              },
+              {
+                "label": "Sorry about your crew.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "len_shipwreck_heard",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "len_secrets": {
+            "id": "len_secrets",
+            "text": "Now that... that I don't give away for free. Win big at my table, and maybe I'll share what the waves showed me that night. A glimpse of something beneath the water -- something old and golden and vast. But enough talk! Fortune favors the bold!",
+            "choices": [
+              {
+                "label": "You've piqued my curiosity. Let's play!",
+                "nextNodeId": "open_casino",
+                "conditions": []
+              },
+              {
+                "label": "I'll think about it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Lucky Len's eyes gleam with a strange intensity.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "open_casino": {
+            "id": "open_casino",
+            "text": "Now we're talking! Step right up to the table. May fortune smile on you... but not too much, eh?",
+            "choices": [],
+            "actions": [
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Lucky Len grins and produces a set of well-worn dice.",
+                "value": "INFO",
+                "amount": 0
+              },
+              {
+                "type": "OPEN_CASINO",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Your loss -- literally! Ha! Come back when your pockets are heavy and your spirits are high.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 5,
+      "y": 17
+    },
+    {
+      "id": "npc_maren_merchant",
+      "name": "Maren the Merchant",
+      "spriteName": "npcs/shopkeeper",
+      "type": "SHOPKEEPER",
+      "defaultDialog": "Welcome! I have everything an adventurer needs.",
+      "questCompleteDialog": "",
+      "shopItemIds": [
+        "healing_potion",
+        "iron_sword",
+        "chain_mail",
+        "leather_armor",
+        "wooden_shield",
+        "antidote",
+        "scroll_cure_light",
+        "scroll_sleep",
+        "scroll_protection",
+        "hard_bread",
+        "dried_fish",
+        "travel_rations"
+      ],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome to Maren's Goods! I carry a fine selection of arms, armor, and sundries. Moonhaven's prices are kinder than the mainland's — I promise you that. What can I do for you?",
+            "choices": [
+              {
+                "label": "Browse your wares.",
+                "nextNodeId": "open_shop",
+                "conditions": []
+              },
+              {
+                "label": "Do you have any work for me?",
+                "nextNodeId": "delivery_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "maren_quest_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "open_shop": {
+            "id": "open_shop",
+            "text": "Of course! Take your time.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_SHOP",
+                "target": "",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Maren sweeps her hand toward the shelves.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "delivery_offer": {
+            "id": "delivery_offer",
+            "text": "Actually, yes! Healer Mira is running low on healing potions and I've been too busy with the shop to make the delivery. Could you take three potions to her? I'll pay you well for the errand.",
+            "choices": [
+              {
+                "label": "I'll deliver them.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              },
+              {
+                "label": "Not right now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "potion_delivery",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "GIVE_ITEM",
+                "target": "healing_potion",
+                "value": "",
+                "amount": 3
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "maren_quest_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Maren packs three healing potions and hands them to you.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Safe travels! Come back whenever you need supplies.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 7,
+      "y": 8
+    },
+    {
+      "id": "npc_1772259845034",
+      "name": "Wolfie",
+      "spriteName": "orc.png",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "I'm wolfie the orc",
+      "questId": "wolf_menace",
+      "questCompleteDialog": "Thank you for completing my wolf quest",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Greetings, small one. I am Wolfie. Before you ask -- yes, I'm an orc. No, I'm not going to eat you. I study the wolves of this island. And right now, something is very wrong with them.",
+            "choices": [
+              {
+                "label": "What's wrong with the wolves?",
+                "nextNodeId": "wolf_problem",
+                "conditions": []
+              },
+              {
+                "label": "An orc who studies wolves?",
+                "nextNodeId": "wolfie_backstory",
+                "conditions": []
+              },
+              {
+                "label": "I've dealt with the wolves.",
+                "nextNodeId": "quest_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "wolf_menace",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "You said the alpha was a symptom. Of what?",
+                "nextNodeId": "stones_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "wolf_menace",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "stones_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still looking for Eldorf.",
+                "nextNodeId": "stones_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_standing_stones",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] Eldorf has been to the stones.",
+                "nextNodeId": "stones_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_standing_stones",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "stones_answered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "You said the alpha was a symptom. Of what?",
+                "nextNodeId": "stones_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "wolf_menace",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "stones_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still looking for Eldorf.",
+                "nextNodeId": "stones_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_standing_stones",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] Eldorf has been to the stones.",
+                "nextNodeId": "stones_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_standing_stones",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "stones_answered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I'll leave you to it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_active": {
+            "id": "quest_active",
+            "text": "Have you dealt with the alpha yet? The pack won't scatter until their leader falls.",
+            "choices": [
+              {
+                "label": "Still working on it.",
+                "nextNodeId": "quest_tips",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "wolf_menace",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Where exactly should I look?",
+                "nextNodeId": "quest_location",
+                "conditions": []
+              },
+              {
+                "label": "I'll get it done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_tips": {
+            "id": "quest_tips",
+            "text": "The alpha is cunning -- larger than the others, with a scarred muzzle. It won't fight alone. Draw it away from the pack if you can. And watch for the flanking wolves -- they circle behind while you focus on the leader.",
+            "choices": [
+              {
+                "label": "Good advice. I'll be back.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_location": {
+            "id": "quest_location",
+            "text": "The pack has denned in the ravine north of the forest trail. Follow the claw marks on the trees -- they mark their territory. The alpha keeps to the deepest part of the ravine, near the old standing stones.",
+            "choices": [
+              {
+                "label": "Standing stones?",
+                "nextNodeId": "standing_stones",
+                "conditions": []
+              },
+              {
+                "label": "Got it. I'll head there now.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "standing_stones": {
+            "id": "standing_stones",
+            "text": "Ancient markers. Older than the towns, older than the wards. Something about them draws the wolves -- or maybe whatever is controlling them. I've never been able to get close enough to study them properly. Too many teeth in the way.",
+            "choices": [
+              {
+                "label": "I'll check them out after I deal with the alpha.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "wolfie_stones_heard",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_complete": {
+            "id": "quest_complete",
+            "text": "The alpha is dead? Truly? I can feel the forest breathing easier already. The remaining wolves will disperse without their leader. You've done a great thing, friend. Here -- take this. And thank you.",
+            "choices": [
+              {
+                "label": "What will you do now?",
+                "nextNodeId": "wolfie_future",
+                "conditions": []
+              },
+              {
+                "label": "Glad I could help.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "wolf_menace",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Wolfie clasps your hand with surprising gentleness for an orc.",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "wolfie_future": {
+            "id": "wolfie_future",
+            "text": "Study the standing stones, I think. Whatever drew the wolves to that place is still there. The alpha was a symptom, not the cause. But that's a problem for another day. For now, Moonhaven can rest easier.",
+            "choices": [
+              {
+                "label": "Let me know if you need help with the stones.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "wolf_problem": {
+            "id": "wolf_problem",
+            "text": "The wolves have always been part of this island, living in balance. But something has changed. They're organized now -- hunting in coordinated packs, attacking travelers, circling the town at night. It's unnatural. Something is controlling them.",
+            "choices": [
+              {
+                "label": "Can I help?",
+                "nextNodeId": "offer_quest",
+                "conditions": []
+              },
+              {
+                "label": "Controlling them? How?",
+                "nextNodeId": "control_theory",
+                "conditions": []
+              },
+              {
+                "label": "Sounds dangerous. Good luck.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "control_theory": {
+            "id": "control_theory",
+            "text": "I don't know for certain. But the alpha -- the pack leader -- it's different from the others. Larger, smarter, almost... aware. I think if the alpha is killed, the unnatural coordination will break. The pack will scatter.",
+            "choices": [
+              {
+                "label": "I'll take on the alpha.",
+                "nextNodeId": "offer_quest",
+                "conditions": []
+              },
+              {
+                "label": "That's a lot of wolves to fight through.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "offer_quest": {
+            "id": "offer_quest",
+            "text": "You would do this? The alpha must be found and killed. It dens in the ravine north of the forest trail. Be warned -- it will not be alone. Will you take on this task?",
+            "choices": [
+              {
+                "label": "Consider it done.",
+                "nextNodeId": "quest_location",
+                "conditions": []
+              },
+              {
+                "label": "Any tips before I go?",
+                "nextNodeId": "quest_tips",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "wolf_menace",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "wolfie_quest_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Wolf Menace",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "wolfie_backstory": {
+            "id": "wolfie_backstory",
+            "text": "I know -- it's unusual. My clan cast me out for preferring books to bloodshed. I wandered until I found this island. The wolves here fascinated me -- intelligent, social, proud. I built my home near them and watched. They accepted me, after a fashion. At least, they did before all this madness began.",
+            "choices": [
+              {
+                "label": "What's happening to them?",
+                "nextNodeId": "wolf_problem",
+                "conditions": []
+              },
+              {
+                "label": "That's a brave path. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Walk carefully in the forest, friend. The wolves are watching.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "stones_offer": {
+            "id": "stones_offer",
+            "text": "Of the standing stones. [He says it fast, like a man who has been waiting to be asked.]\nThe pack denned at the markers. Not near them — at them, in a ring, facing inward, for two seasons before the alpha ever turned strange. Wolves do not face inward. Wolves face out; that is the whole shape of a wolf.\nI have tried four times to get up there and I have four scars for it. But Eldorf the Ranger walks that moor and Eldorf has no interest in stones, so he has looked at them the way you look at a fence.\nGo and ask him what he saw. Do not tell him it matters — he will make something up to be helpful, he is like that.",
+            "choices": [
+              {
+                "label": "I'll find Eldorf.",
+                "nextNodeId": "stones_accept",
+                "conditions": []
+              },
+              {
+                "label": "Another time.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "stones_accept": {
+            "id": "stones_accept",
+            "text": "East on the moor road. Tall, quiet, mends his own boots.\nAnd — friend. If he says the stones are warm, come back at a run.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_standing_stones",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "stones_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Standing Stones",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "stones_progress": {
+            "id": "stones_progress",
+            "text": "East, on the moor road. Do not lead him. Ask him what is up there and then be quiet at him until he gets bored and tells you properly.",
+            "choices": [
+              {
+                "label": "Be quiet at him. Right.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "stones_done": {
+            "id": "stones_done",
+            "text": "Warm. [He sits down on the floor of his own house.] He said warm. In winter. Under snow, and no snow on them.\nSomething is under that ring and it is putting out heat and it has been doing it long enough that the wolves organised a religion about it.\nI am an orc who reads books, friend. I am not equipped for this and neither is Moonhaven. But somebody ought to know it, and now two of us do, and that is how a thing stops being nothing.\nWhen you go down into the Dreamwake — and you are going down, everyone here can see it on you — remember that it is warm under the stones as well. This island has more than one thing awake in it.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "stones_answered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The standing stones are warm in winter. Something under Lirandel is awake.",
+                "value": "WARN",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 17,
+      "y": 8
+    },
+    {
+      "id": "npc_aldric_alchemist",
+      "name": "Aldric the Alchemist",
+      "spriteName": "npcs/alchemist",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "Careful near the vials — some of those are quite volatile.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Aldric looks up from his bubbling flasks. 'Hmm. A traveler. I am Aldric — alchemist to this town. Perhaps you can help me solve a problem.'",
+            "choices": [
+              {
+                "label": "What do you need?",
+                "nextNodeId": "offer_intro",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "aldric_quest_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I spoke with Lyren.",
+                "nextNodeId": "give_stone_quest",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "find_the_hermit",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "alch_stone_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I have the Mooncrest Stone.",
+                "nextNodeId": "stone_complete",
+                "conditions": [
+                  {
+                    "type": "HAS_ITEM",
+                    "target": "mooncrest_stone",
+                    "value": "",
+                    "amount": 1,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Do you have another task for me?",
+                "nextNodeId": "lightning_offer",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "alchemists_stone",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "aldric_lightning_given",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I have proven my mettle.",
+                "nextNodeId": "lightning_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "mage_trial_lightning",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "About the stone...",
+                "nextNodeId": "stone_active",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "alchemists_stone",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "offer_intro": {
+            "id": "offer_intro",
+            "text": "There is a reclusive figure called Lyren the Pale who lives in Mooncrest. He and I have a history. Go find him — speak with him. I need to know you can reach him before I explain further.",
+            "choices": [
+              {
+                "label": "I'll find him.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "find_the_hermit",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "aldric_quest_given",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "give_stone_quest": {
+            "id": "give_stone_quest",
+            "text": "Good — you found him. Now I need a Mooncrest Stone. It glows faintly blue and Lyren has had one for years. Tell him Aldric sent you. Bring the stone back to me.",
+            "choices": [
+              {
+                "label": "I'll retrieve it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "alchemists_stone",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "alch_stone_given",
+                "value": "true",
+                "amount": 0
+              }
+            ]
+          },
+          "stone_active": {
+            "id": "stone_active",
+            "text": "Have you retrieved it yet? The stone is cool to the touch and pulses with a faint blue glow — Lyren will know the one I mean.",
+            "choices": [
+              {
+                "label": "Still searching.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "stone_complete": {
+            "id": "stone_complete",
+            "text": "Magnificent! This is precisely what I needed. The resonance is perfect — this will catalyze the next phase of my research. You have my gratitude, traveler.",
+            "choices": [
+              {
+                "label": "Glad to help.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "TAKE_ITEM",
+                "target": "mooncrest_stone",
+                "value": "",
+                "amount": 1
+              },
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "alchemists_stone",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "lightning_offer": {
+            "id": "lightning_offer",
+            "text": "Yes, actually. The Mooncrest Stone's resonance gave me an idea -- there is a formula, ancient and dangerous, for channeling the island's storm-energy directly. I need proof you can survive the kind of combat it requires. Kill five enemies and return to me.",
+            "choices": [
+              {
+                "label": "Consider it done.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "mage_trial_lightning",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "aldric_lightning_given",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: Trial by Storm",
+                "value": "INFO",
+                "amount": 0
+              }
+            ]
+          },
+          "lightning_complete": {
+            "id": "lightning_complete",
+            "text": "You survived. Good. You have a knack for staying alive under pressure -- that is the first requirement of any mage worth their salt. Here is the formula. Study it carefully. Do not cast it indoors.",
+            "choices": [
+              {
+                "label": "I'll be careful.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": [
+              {
+                "type": "COMPLETE_QUEST",
+                "target": "mage_trial_lightning",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Aldric hands you a singed scroll covered in arcane notation.",
+                "value": "GOOD",
+                "amount": 0
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Good luck out there. Mind the wolves.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 17,
+      "y": 14
+    },
+    {
+      "id": "npc_moonhaven_barmaid",
+      "name": "Mira",
+      "spriteName": "npcs/barmaid",
+      "type": "TOWNSFOLK",
+      "defaultDialog": "",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Welcome, love! What can I get ya? The ale's fresh today.",
+            "choices": [
+              {
+                "label": "I'll have an ale. (3 gold)",
+                "nextNodeId": "serve_ale",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "I'll have an ale. (3 gold)",
+                "nextNodeId": "no_gold",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": true
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_1",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "moonhaven_rumor_1",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_2",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "moonhaven_rumor_1",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "moonhaven_rumor_2",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Heard any good rumors?",
+                "nextNodeId": "rumor_3",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "moonhaven_rumor_2",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Just passing through. Farewell.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "serve_ale": {
+            "id": "serve_ale",
+            "text": "Here ya go, love. Drink up!",
+            "actions": [
+              {
+                "type": "SERVE_DRINK",
+                "target": "",
+                "value": "",
+                "amount": 3
+              }
+            ],
+            "choices": [
+              {
+                "label": "Another round!",
+                "nextNodeId": "serve_ale",
+                "conditions": [
+                  {
+                    "type": "HAS_GOLD",
+                    "value": "",
+                    "amount": 3,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "That hit the spot. Thanks.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "no_gold": {
+            "id": "no_gold",
+            "text": "Looks like your purse is a bit light, dear. Come back when you've got the coin.",
+            "choices": [
+              {
+                "label": "I'll be back.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "rumor_1": {
+            "id": "rumor_1",
+            "text": "They say the tides pull strange things ashore at night... bones, old relics, things better left buried.",
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "moonhaven_rumor_1",
+                "value": "true",
+                "amount": 0
+              }
+            ],
+            "choices": [
+              {
+                "label": "Interesting...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "rumor_2": {
+            "id": "rumor_2",
+            "text": "Old Mira down the lane's been treating more sick folk than usual. Something in the water, maybe. Or something under it.",
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "moonhaven_rumor_2",
+                "value": "true",
+                "amount": 0
+              }
+            ],
+            "choices": [
+              {
+                "label": "Interesting...",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "rumor_3": {
+            "id": "rumor_3",
+            "text": "A fisherman swore he saw lights beneath the southern reef. Glowing green, he said. Nobody believed him, but he hasn't gone back out since.",
+            "actions": [
+              {
+                "type": "CLEAR_FLAG",
+                "target": "moonhaven_rumor_1",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "CLEAR_FLAG",
+                "target": "moonhaven_rumor_2",
+                "value": "",
+                "amount": 0
+              }
+            ],
+            "choices": [
+              {
+                "label": "Thanks for the gossip.",
+                "nextNodeId": "greeting",
+                "conditions": []
+              }
+            ]
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Come back anytime, love!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      },
+      "x": 6,
+      "y": 4
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": [],
+  "initialTileStates": {}
+}

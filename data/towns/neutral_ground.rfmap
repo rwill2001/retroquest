@@ -1,0 +1,1659 @@
+{
+  "type": "TOWN",
+  "name": "neutral_ground",
+  "width": 20,
+  "height": 20,
+  "interiorEntryX": 9,
+  "interiorEntryY": 18,
+  "tiles": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "i",
+      "j",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "d",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "n",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "E",
+      "E",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "spawnDifficulty": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "npc_neutral_ground_quinn",
+      "name": "Deserter Quinn",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "Keep your voice down. They'll hear you.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 10,
+      "y": 5,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Keep your voice down. I'm Quinn. I deserted from the Gold Guard three months ago. They'd kill me if they found me. But I know something — something about the arena that both sides need to hear.",
+            "choices": [
+              {
+                "label": "What do you know about the arena?",
+                "nextNodeId": "arena_truth",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "iron_ghost_accepted",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] I'm investigating the arena.",
+                "nextNodeId": "quest_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "iron_ghost_truth",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] I've seen the truth.",
+                "nextNodeId": "quest_complete",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "iron_ghost_truth",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "Why did you desert?",
+                "nextNodeId": "desertion",
+                "conditions": []
+              },
+              {
+                "label": "I should go.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "arena_truth": {
+            "id": "arena_truth",
+            "text": "The champion in Bellorak's arena — the one they call the Iron Ghost? That's Seraphine. She came here thirty years ago... entered the arena... and never left. She's still fighting. She can't die, she can't stop. Bellorak keeps her trapped in an endless cycle of combat. She's the engine that drives this whole war.",
+            "choices": [
+              {
+                "label": "Seraphine? From the old stories?",
+                "nextNodeId": "seraphine_detail",
+                "conditions": []
+              },
+              {
+                "label": "How do you know this?",
+                "nextNodeId": "how_know",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "seraphine_detail": {
+            "id": "seraphine_detail",
+            "text": "The same. Hero of the old age. She came to challenge Bellorak, thinking she could end the cycle of violence. Instead, he trapped her. Her endless fighting generates the conflict that sustains him. Every soldier who dies in the Golden War feeds Bellorak's power — and Seraphine's suffering fuels it all.",
+            "choices": [
+              {
+                "label": "She needs to be freed.",
+                "nextNodeId": "quest_offer",
+                "conditions": []
+              },
+              {
+                "label": "This is too dangerous.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "how_know": {
+            "id": "how_know",
+            "text": "I was posted to guard the arena's outer ring. I saw her through the bars — fighting, dying, rising again. Over and over. The guards told me to forget what I saw. I couldn't. So I ran.",
+            "choices": [
+              {
+                "label": "Someone needs to stop this.",
+                "nextNodeId": "quest_offer",
+                "conditions": []
+              },
+              {
+                "label": "I understand why you ran.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_offer": {
+            "id": "quest_offer",
+            "text": "If you're brave enough — or foolish enough — enter the arena and find her. There's a way to break Bellorak's hold, but you'll have to face the god himself. Bring proof of what's happening. The truth is the only weapon that can end this war.",
+            "choices": [
+              {
+                "label": "I'll find the truth.",
+                "nextNodeId": "quest_accept",
+                "conditions": []
+              },
+              {
+                "label": "I need to think about this.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_accept": {
+            "id": "quest_accept",
+            "text": "Then go. The arena is at the center of the island. Fight your way in, find Seraphine, and bring the truth back to both sides. Maybe then this war can finally end.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "iron_ghost_truth",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "iron_ghost_accepted",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "seraphine_arena_known",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Iron Ghost's Truth",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "quest_progress": {
+            "id": "quest_progress",
+            "text": "Have you reached the arena? Seraphine is in there — trapped, fighting endlessly. Find her. Free her. End this.",
+            "choices": [
+              {
+                "label": "I'm working on it.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "quest_complete": {
+            "id": "quest_complete",
+            "text": "You did it? You actually... the war. Is it over? Can it be over? ...Thank you. I can stop hiding now. Maybe we all can.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quinn weeps with relief. The truth is known.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "desertion": {
+            "id": "desertion",
+            "text": "I saw something I wasn't supposed to see. The arena — Bellorak's arena — it's not just a place for glory matches. It's a prison. And the prisoner inside is the reason this war never ends.",
+            "choices": [
+              {
+                "label": "Tell me more.",
+                "nextNodeId": "arena_truth",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "iron_ghost_accepted",
+                    "value": "",
+                    "amount": 0
+                  }
+                ]
+              },
+              {
+                "label": "I see.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Be careful. The no-man's land is full of Bellorak's war-beasts. And if you see Gold Guard patrols... you never saw me.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_neutral_ground_grik",
+      "name": "Grik",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "Grik knows iron. Grik knows war. Grik is tired of both.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 14,
+      "y": 10,
+      "dialogueTree": {
+        "startNodeId": "greeting",
+        "nodes": {
+          "greeting": {
+            "id": "greeting",
+            "text": "Heh. Another traveler. I am Grik — you may have heard of me. Grounded Grik, they called me on the Storm Spires. I came here thinking a war island would need a good smith. I was right. But even my forge can't keep up with the demand for weapons.",
+            "choices": [
+              {
+                "label": "You're from the Storm Spires?",
+                "nextNodeId": "origin",
+                "conditions": []
+              },
+              {
+                "label": "Tell me about the war.",
+                "nextNodeId": "war_lore",
+                "conditions": []
+              },
+              {
+                "label": "You said it's farming. Farming needs a field. Whose field?",
+                "nextNodeId": "field_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "field_town_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] I have not been down yet.",
+                "nextNodeId": "field_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_field_that_was_a_town",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] There are streets down there.",
+                "nextNodeId": "field_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_field_that_was_a_town",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "field_town_named",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Farewell, Grik.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "origin": {
+            "id": "origin",
+            "text": "Aye. Zephyrion's winds blew me here. I thought war meant opportunity — soldiers always need blades. But this war... it consumes everything. Iron, steel, lives. Nothing lasts. I forge a hundred blades, and a hundred blades break. It's like the island eats what I make.",
+            "choices": [
+              {
+                "label": "Why stay?",
+                "nextNodeId": "why_stay",
+                "conditions": []
+              },
+              {
+                "label": "I see.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "why_stay": {
+            "id": "why_stay",
+            "text": "Where else would Grik go? The Neutral Ground is the only place on this island where nobody's trying to kill anybody. Both sides leave this place alone — some old agreement. Even Bellorak honors it. Makes you wonder why a war god would allow a place of peace to exist.",
+            "choices": [
+              {
+                "label": "Maybe it serves his purpose.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "war_lore": {
+            "id": "war_lore",
+            "text": "The Golden War is a meat grinder with no end. Gold Guard on one side, Iron Reckoners on the other. They fight, they die, new recruits appear from nowhere to replace them. Grik has seen wars. This one is different. It's too... organized. Too balanced. Like someone's keeping score.",
+            "choices": [
+              {
+                "label": "Bellorak's doing?",
+                "nextNodeId": "bellorak",
+                "conditions": []
+              },
+              {
+                "label": "Interesting.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "bellorak": {
+            "id": "bellorak",
+            "text": "Grik thinks so. The god of war and glory sits in his arena at the center of the island and watches. He doesn't intervene. He doesn't pick a side. He just... watches. And the war goes on. Grik's forge burns day and night, and it's never enough. That's not war. That's farming.",
+            "choices": [
+              {
+                "label": "A grim thought.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "Grik knows iron. Grik knows war. Grik is tired of both. Safe travels, friend.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "field_offer": {
+            "id": "field_offer",
+            "text": "Mine.\n[He does not embellish. He waits, to see whether you will ask, because most people do not.]\nThe front has washed back and forth over the same forty miles since before either camp had a name for itself. Ploughed and re-ploughed. You do not get a crater field like that from thirty years; you get it from a very long time and a lot of patience.\nUnder it there is a town. Streets. A well. A meeting hall with a roof on, because a roof under forty feet of spoil does not fall in, it just stops being a roof and starts being a ceiling.\nEverybody up here says I am a mad old orc with a story. Go down into the War Beneath and look at a street. Then come back and I will tell you what it was called, and it will be the first time I have said it in front of anybody who believed me.",
+            "choices": [
+              {
+                "label": "I'll go and look at a street.",
+                "nextNodeId": "field_accept",
+                "conditions": []
+              },
+              {
+                "label": "Nobody believes you?",
+                "nextNodeId": "field_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "field_accept": {
+            "id": "field_accept",
+            "text": "Not one. Sixty years of not one.\nWest of here, the hollow under the ridge. Mind the ceiling — it is a roof, and roofs remember what they are for.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_field_that_was_a_town",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "field_town_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Field That Was a Town",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "field_progress": {
+            "id": "field_progress",
+            "text": "West. Under the ridge. Look for a kerbstone — everything else could be rubble, but a kerb is a decision somebody made about where a road stops.",
+            "choices": [
+              {
+                "label": "A kerbstone. Right.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "field_done": {
+            "id": "field_done",
+            "text": "A kerb. You found a kerb.\n[He sits down, slowly, and takes a while about it.]\nHespar. It was called Hespar. Four hundred and some souls, two wells, one bad bridge that everybody complained about for as long as I can remember and that nobody ever fixed because complaining about it was a thing we did together.\nWe were not in the war. That is the part nobody up there can hold in their head. We were not a side. The war came over us the way weather comes over a field, twice, and the second time it did not go away again, and after a while the ground was more useful than we were.\nThat is what a farm is. A farm is where something used to grow that was not the crop.\nGo and tell the camps. Do not tell them gently — gently is how it got buried the first time.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "field_town_named",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 10
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "SYLVANDAR",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The town under the war fields had a name. It was called Hespar.",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npc_neutral_ground_pitmaster",
+      "name": "The Pit Master",
+      "spriteName": "npcs/townsman",
+      "type": "QUESTGIVER",
+      "defaultDialog": "Gold speaks louder than swords here. Step up.",
+      "questCompleteDialog": "",
+      "shopItemIds": [],
+      "x": 10,
+      "y": 14,
+      "dialogueTree": {
+        "startNodeId": "start",
+        "nodes": {
+          "start": {
+            "id": "start",
+            "text": "[A scarred figure in battered plate leans against the arena rail.] Neither Gold Guard nor Iron Reckoners dare touch the Pit. My games are the only honest contest left on this island. Three challenges — catapult, tournament, dice. Wager gold. Prove your worth.",
+            "choices": [
+              {
+                "label": "Open the War Games.",
+                "nextNodeId": "open_games",
+                "conditions": []
+              },
+              {
+                "label": "What are the rules here?",
+                "nextNodeId": "rules",
+                "conditions": []
+              },
+              {
+                "label": "You publish the season odds before the season. How?",
+                "nextNodeId": "ledger_offer",
+                "conditions": [
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "pit_ledger_offered",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Active] Still working the card.",
+                "nextNodeId": "ledger_progress",
+                "conditions": [
+                  {
+                    "type": "QUEST_ACTIVE",
+                    "target": "the_pit_masters_ledger",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Quest Complete] Four of the Undying are down.",
+                "nextNodeId": "ledger_done",
+                "conditions": [
+                  {
+                    "type": "QUEST_COMPLETE",
+                    "target": "the_pit_masters_ledger",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "pit_ledger_done",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "[Something behind your sternum is pulling south-east.]",
+                "nextNodeId": "ledger_oath",
+                "conditions": [
+                  {
+                    "type": "FLAG_SET",
+                    "target": "carries_oath",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  },
+                  {
+                    "type": "FLAG_NOT_SET",
+                    "target": "pit_master_saw_oath",
+                    "value": "",
+                    "amount": 0,
+                    "negate": false
+                  }
+                ]
+              },
+              {
+                "label": "Not today.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "open_games": {
+            "id": "open_games",
+            "text": "Prove yourself on the field of battle!",
+            "choices": [],
+            "actions": [
+              {
+                "type": "OPEN_WAR_GAMES",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "rules": {
+            "id": "rules",
+            "text": "Simple. You bet gold before each game. Win, and you multiply it. Lose, and it's mine. The Pit enforces neutrality — both armies respect it because both have lost gold here. STR helps the catapult. DEX sharpens the tournament. INT favors the dice. Pick your game.",
+            "choices": [
+              {
+                "label": "I'm ready. Open the games.",
+                "nextNodeId": "open_games",
+                "conditions": []
+              },
+              {
+                "label": "I'll come back later.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "farewell": {
+            "id": "farewell",
+            "text": "The Pit waits. It always does.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "ledger_offer": {
+            "id": "ledger_offer",
+            "text": "Because I am good at my job, which is the boring answer, and because the number is given to me, which is the true one.\n[He is not embarrassed about it. That is the unsettling part.]\nI post the season's casualty odds before a blade comes out. I have posted them for forty years. I have never once had to pay out long. Not narrowly — never.\nA bookmaker who cannot lose is not a bookmaker. He is a clerk.\nThe Undying are my top card. Fighters who kept winning until winning was the only thing left in them, and now they cannot stop, and the house cannot lose because the house knows exactly how many will not stop.\nPut four of them down for me. I want to see what happens to the book when somebody spends the stock.",
+            "choices": [
+              {
+                "label": "Four. And then we talk about the book.",
+                "nextNodeId": "ledger_accept",
+                "conditions": []
+              },
+              {
+                "label": "You'd hand me your own stock?",
+                "nextNodeId": "ledger_accept",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ledger_accept": {
+            "id": "ledger_accept",
+            "text": "I would hand you the stock, the ledger and the chair. I have been a clerk for forty years and I only worked it out this spring, and I have not slept properly since.\nFour.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "GIVE_QUEST",
+                "target": "the_pit_masters_ledger",
+                "value": "",
+                "amount": 0
+              },
+              {
+                "type": "SET_FLAG",
+                "target": "pit_ledger_offered",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "Quest accepted: The Pit Master's Ledger",
+                "value": "GOOD",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "ledger_progress": {
+            "id": "ledger_progress",
+            "text": "Four. They will not flee and they will not yield, and both of those are in the odds, which is how I know the odds are not mine.",
+            "choices": [
+              {
+                "label": "On the card.",
+                "nextNodeId": "farewell",
+                "conditions": []
+              }
+            ],
+            "actions": []
+          },
+          "ledger_done": {
+            "id": "ledger_done",
+            "text": "[He has the book open at the season page. He has already written the correction. He wrote it before you arrived.]\nFour off the card. Replacements posted the same night, in my hand, in ink I bought myself, and I do not remember writing them.\nThat is the last test I had. That is it. I am not running a book. I am taking dictation.\nHere is your purse and here is the thing I want you to carry out of this room: he does not want a winner. A winner ends a card. He wants a season, and then another season, and the only way to get an unlimited number of seasons out of a finite number of men is to make the men unable to stop.\nSeraphine has topped my card for twenty-two years. Nobody has ever beaten her. Nobody has ever been meant to.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "pit_ledger_done",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "UMBRYN",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "LOG_MESSAGE",
+                "target": "The Pit Master is not a bookmaker. He is taking dictation.",
+                "value": "WARN",
+                "amount": 0
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          },
+          "ledger_oath": {
+            "id": "ledger_oath",
+            "text": "[He looks at your chest for slightly too long, and then writes something in the small book, not the big one.]\nYou are carrying. Reckoner work, transferred, and recent.\nI could book you. I want to be straightforward: you would go on the card at very good odds and you would draw a house, and I would make a great deal of money and you would very probably be on the card for the rest of your life, which down here is a phrase with a technical meaning.\nI am not going to book you.\n[He closes the small book.] Forty years of taking dictation and I would like exactly one line in that ledger to be mine. That is the line. Go on. Nobody has ever walked out of this room unbooked and I would like to watch it happen once.",
+            "choices": [],
+            "actions": [
+              {
+                "type": "SET_FLAG",
+                "target": "pit_master_saw_oath",
+                "value": "true",
+                "amount": 0
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "BELLORAK",
+                "value": "",
+                "amount": -5
+              },
+              {
+                "type": "ADD_FAVOR",
+                "target": "LIRANDEL",
+                "value": "",
+                "amount": 5
+              },
+              {
+                "type": "CLOSE_DIALOGUE",
+                "target": "",
+                "value": "",
+                "amount": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "townEntrances": [],
+  "overworldTeleporters": []
+}

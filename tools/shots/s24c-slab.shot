@@ -1,0 +1,9 @@
+# Wall-style showcase — SLAB, few huge polished slabs with mineral veining.
+DESC="leviathan_eye · SLAB, few huge polished slabs with mineral veining"
+ISLAND=thalorax
+DUNGEON=leviathan_eye
+SECONDS_LEN=4
+CAMERA_RATE=0.4
+MOVE="1:F,2.4:F"
+WIDTH=1920
+HEIGHT=1080
