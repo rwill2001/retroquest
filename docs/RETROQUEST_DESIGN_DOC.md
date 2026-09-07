@@ -2,7 +2,7 @@
 **Game Title:** Retroquest – The Unbound: Shattered Dreams of Aqualon
 **Engine:** Custom Java CRPG
 **Target Length:** 35–45 hours main path | 65–80 hours completionist
-**Version:** 0.9.0 – March 2026
+**Version:** 1.0.0 – March 2026
 **Author:** rwill2001
 
 ---

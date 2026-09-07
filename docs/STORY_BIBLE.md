@@ -1,7 +1,7 @@
 # Aqualonia: The Unbound — Story Bible
 
 **Game:** Retroquest – The Unbound: Shattered Dreams of Aqualon
-**Version:** 0.9.0 — March 2026
+**Version:** 1.0.0 — March 2026
 **Purpose:** Comprehensive narrative reference for all islands, gods, NPCs, quests, and lore.
 Cross-referenced against existing dialogue and design doc for consistency.
 

@@ -115,7 +115,7 @@ public final class FilmTitles {
             g.fillRect(0, H / 2 - h / 2, W, h);
             if (strike < 1) return;
 
-            String[] lines = { "CANNONFORGE SYSTEMS", "RETROQUEST v0.9.0", "JAVA RUNTIME OK ...... 148 CLASSES",
+            String[] lines = { "CANNONFORGE SYSTEMS", "RETROQUEST v1.0.0", "JAVA RUNTIME OK ...... 148 CLASSES",
                                "TILE REGISTRY ........ 192", "AUDIO ................ SYNTHESIZED", "READY." };
             g.setFont(new Font(Font.MONOSPACED, Font.BOLD, 34));
             g.setColor(PHOS);

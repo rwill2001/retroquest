@@ -20,7 +20,7 @@ themselves, one character at a time, in `#00FF78` on `#06080E`.
 **TEXT**
 ```
 CANNONFORGE SYSTEMS
-RETROQUEST v0.9.0
+RETROQUEST v1.0.0
 JAVA RUNTIME OK ...... 148 CLASSES
 TILE REGISTRY ........ 192
 AUDIO ................ SYNTHESIZED

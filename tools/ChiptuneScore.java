@@ -75,7 +75,7 @@ public final class ChiptuneScore {
         hum(0.6, A1 - 0.2, 0.055);
         thunk(1.0);
         // Six lines typing from 1.4s at 0.55s a line, ~22ms a character.
-        String[] lines = { "CANNONFORGE SYSTEMS", "RETROQUEST v0.9.0", "JAVA RUNTIME OK ...... 148 CLASSES",
+        String[] lines = { "CANNONFORGE SYSTEMS", "RETROQUEST v1.0.0", "JAVA RUNTIME OK ...... 148 CLASSES",
                            "TILE REGISTRY ........ 192", "AUDIO ................ SYNTHESIZED", "READY." };
         for (int i = 0; i < lines.length; i++)
             for (int c = 0; c < lines[i].length(); c++)
