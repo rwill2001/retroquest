@@ -27,3 +27,6 @@ cp.txt
 
 # Recorded footage — regenerate with tools/record.sh; the *shots* are versioned, not the video.
 /out
+
+# RetroForge editor state — last-opened map and view position, machine-local
+data/.forge_prefs
