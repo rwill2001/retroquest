@@ -12,7 +12,7 @@ import io.cannonforge.retroquest.registry.TileRegistry;
  * Represents the player character in RetroQuest.
  *
  * <p>Manages stats (STR/DEX/CON/INT/WIS/CHA), a fixed 20-slot inventory,
- * equipped items, the 36-spell system, active effects, quests,
+ * equipped items, the 37-spell system, active effects, quests,
  * and tile-based movement with food consumption.
  *
  * <h2>Combat stats</h2>
@@ -119,7 +119,7 @@ public class Player {
 
     private InventorySlot[] inventorySlots = new InventorySlot[20];
 
-    // 36-SPELL SYSTEM
+    // 37-SPELL SYSTEM
     private Spell[] knownSpells;
     private int[] mageCastsRemaining = new int[7];
     private int[] clericCastsRemaining = new int[7];
