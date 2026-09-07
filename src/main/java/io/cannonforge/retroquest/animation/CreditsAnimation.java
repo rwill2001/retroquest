@@ -202,7 +202,7 @@ public class CreditsAnimation {
         }
         totalH += 20;                            // divider
         totalH += fmHeading.getHeight() + 10;   // CREATED BY
-        totalH += fmBody.getHeight() + 20;      // Seaglass Foundry
+        totalH += fmBody.getHeight() + 20;      // CannonForge
         totalH += fmSmall.getHeight() + 40;      // Built with Java...
         totalH += fmBody.getHeight() + H / 2;   // Thank you + padding
 
@@ -284,7 +284,7 @@ public class CreditsAnimation {
         drawCentered(g, W, cy, "CREATED BY", F_HEADING, AMBER);
         cy += fmHeading.getHeight() + 10;
 
-        drawCentered(g, W, cy, "Seaglass Foundry", F_BODY, AMBER);
+        drawCentered(g, W, cy, "CannonForge", F_BODY, AMBER);
         cy += fmBody.getHeight() + 20;
 
         drawCentered(g, W, cy, "Built with Java and dreams.", F_SMALL, DIM);

@@ -1,6 +1,6 @@
 # RetroForge Operators Guide
 
-**Version:** 0.9.0 — March 2026
+**Version:** 1.0.0 — March 2026
 **Audience:** Retro CRPG enthusiasts and world builders
 
 ---

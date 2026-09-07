@@ -30,3 +30,6 @@ cp.txt
 
 # RetroForge editor state — last-opened map and view position, machine-local
 data/.forge_prefs
+
+# Shade would write this into the project root; generation is disabled in pom.xml
+dependency-reduced-pom.xml

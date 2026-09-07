@@ -243,7 +243,7 @@ const ACTS=[
 
 // mode: which stage treatment · card: on-stage type · lower: [line1,line2] · vo: narration
 const S=[
- {id:"S01",t:0,d:5,act:0,name:"CRT Boot",mode:"boot",card:["CANNONFORGE SYSTEMS",""],osd:"RETROQUEST v0.9.0 · 148 CLASSES · 192 TILES · AUDIO: SYNTHESIZED",vo:""},
+ {id:"S01",t:0,d:5,act:0,name:"CRT Boot",mode:"boot",card:["CANNONFORGE SYSTEMS",""],osd:"RETROQUEST v1.0.0 · 148 CLASSES · 192 TILES · AUDIO: SYNTHESIZED",vo:""},
  {id:"S04",t:5,d:3,act:0,name:"Title",mode:"logo",card:["RETROQUEST","THE UNBOUND — SHATTERED DREAMS OF AQUALON"],vo:""},
  {id:"S05",t:8,d:6,act:1,name:"3d6",mode:"dialog",lower:["ROLL YOUR HERO","STR · DEX · CON · INT · WIS · CHA"],vo:"It starts the way it did in 1982. Six attributes. Three dice each.",t_:1},
  {id:"S06",t:14,d:7,act:1,name:"What The Number Buys",mode:"dialog",vo:"Every roll tells you what it buys. Hit points, armor class, spell power — even your discount at the shop."},
@@ -305,7 +305,7 @@ function corridor(depth,k){
 
 function drawBoot(p){
   clear("#04060B");
-  const lines=["CANNONFORGE SYSTEMS","RETROQUEST v0.9.0","JAVA RUNTIME OK ...... 148 CLASSES",
+  const lines=["CANNONFORGE SYSTEMS","RETROQUEST v1.0.0","JAVA RUNTIME OK ...... 148 CLASSES",
     "TILE REGISTRY ........ 192","AUDIO ................ SYNTHESIZED","READY."];
   g.font="30px 'VT323', monospace"; g.textBaseline="top";
   const total=lines.join("").length, shown=Math.floor(total*Math.min(1,p*1.35));

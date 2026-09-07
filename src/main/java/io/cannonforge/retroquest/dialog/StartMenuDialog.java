@@ -167,7 +167,7 @@ public class StartMenuDialog extends JDialog {
         main.add(buttons, BorderLayout.CENTER);
 
         // ── Footer ───────────────────────────────────────────────────────────
-        JLabel ver = new JLabel("v0.9.0  \u00b7  \u00a9 2026 Seaglass Foundry");
+        JLabel ver = new JLabel("v1.0.0  \u00b7  \u00a9 2026 CannonForge");
         ver.setForeground(TEXT_DIM);
         ver.setFont(Fonts.mono(10));
         ver.setHorizontalAlignment(SwingConstants.CENTER);
