@@ -76,7 +76,7 @@ The **`-Pdist` profile is required.** jlink needs a full JDK with `jmods/` and L
 Windows executable, so those stages are opt-in — without the profile the build still succeeds, it
 just stops after the fat JAR and silently produces no installer.
 
-This produces `target/RetroQuest-1.0.0-windows.zip` containing:
+This produces `target/RetroQuest-1.1.0-windows.zip` containing:
 - `RetroQuest-Setup.exe` — native installer (no Java required)
 - `jre/` — bundled Java runtime
 

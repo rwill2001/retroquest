@@ -22,7 +22,7 @@
             <directory>${project.build.directory}</directory>
             <outputDirectory>installer</outputDirectory>
             <includes>
-                <include>retroquest-1.0.0-fat.jar</include>
+                <include>retroquest-1.1.0-fat.jar</include>
             </includes>
         </fileSet>
 
