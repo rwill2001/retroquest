@@ -386,9 +386,9 @@
   {
     "id": "deep_dungeon_expedition",
     "title": "Into the Volcanic Depths",
-    "description": "Harbor Captain Voss needs intelligence on what lurks below. Descend to the 5th level of the dungeon.",
+    "description": "Harbor Captain Voss needs intelligence on what lurks below. Descend to the 3rd level of the Ember Caverns.",
     "type": "EXPLORE",
-    "target": "Dungeon Level 5",
+    "target": "Dungeon Level 3",
     "requiredAmount": 1,
     "goldReward": 80,
     "xpReward": 700,

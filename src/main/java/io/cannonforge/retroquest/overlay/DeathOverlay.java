@@ -23,6 +23,7 @@ import com.google.gson.Gson;
 import io.cannonforge.retroquest.core.Fonts;
 import io.cannonforge.retroquest.core.Retroquest;
 import io.cannonforge.retroquest.core.SaveData;
+import io.cannonforge.retroquest.core.Town;
 import io.cannonforge.retroquest.model.Player;
 
 /**
@@ -147,7 +148,7 @@ public class DeathOverlay {
             return "Dungeon Lv " + sd.getCurrentDepth();
         }
         String town = sd.getCurrentTownName();
-        return (town != null && !town.isBlank()) ? town : "Overworld";
+        return (town != null && !town.isBlank()) ? Town.displayName(town) : "Overworld";
     }
 
     private static String ageText(long ms) {

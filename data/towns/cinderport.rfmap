@@ -1998,7 +1998,7 @@
           },
           "dungeon_quest_intro": {
             "id": "dungeon_quest_intro",
-            "text": "Dangerous? The volcanic tunnels beneath this island go deeper than anyone's mapped. I need someone to descend to the 5th level and report back what's down there. The last man I sent... didn't come back.",
+            "text": "Dangerous? The volcanic tunnels beneath this island go deeper than anyone's mapped. I need someone to descend to the 3rd level and report back what's down there. The last man I sent... didn't come back.",
             "choices": [
               {
                 "label": "I'll do it.",

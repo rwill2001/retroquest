@@ -43,6 +43,8 @@ import io.cannonforge.retroquest.overlay.CradleChoiceOverlay;
 import io.cannonforge.retroquest.overlay.DeathOverlay;
 import io.cannonforge.retroquest.overlay.DialogueOverlay;
 import io.cannonforge.retroquest.overlay.DivineAudienceOverlay;
+import io.cannonforge.retroquest.overlay.HuntOverlay;
+import io.cannonforge.retroquest.overlay.RevelationOverlay;
 import io.cannonforge.retroquest.overlay.ForgeArenaOverlay;
 import io.cannonforge.retroquest.overlay.HelpOverlay;
 import io.cannonforge.retroquest.overlay.InventoryOverlay;
@@ -113,6 +115,10 @@ public class GamePanel extends JPanel {
     private final DialogueOverlay   dialogueOverlay;
     private final HelpOverlay       helpOverlay;
     private final DivineAudienceOverlay divineAudienceOverlay;
+    /** Generic "something speaks to you" card — bottom-of-dungeon boss revelations. */
+    private final RevelationOverlay     revelationOverlay = new RevelationOverlay();
+    /** Overworld hunting grounds — one hunt per island, paying food. */
+    private final HuntOverlay           huntOverlay;
     private final CradleChoiceOverlay  cradleChoiceOverlay;
     private final NotificationOverlay  notificationOverlay;
     private javax.swing.Timer   combatRepaintTimer = null;
@@ -179,6 +185,7 @@ public class GamePanel extends JPanel {
         dialogueOverlay  = new DialogueOverlay(game);
         helpOverlay      = new HelpOverlay(game);
         divineAudienceOverlay = new DivineAudienceOverlay(game);
+        huntOverlay           = new HuntOverlay(game);
         cradleChoiceOverlay   = new CradleChoiceOverlay(game);
         notificationOverlay  = new NotificationOverlay();
 
@@ -193,6 +200,12 @@ public class GamePanel extends JPanel {
                     // swallow clicks during town entry/exit animation
                 } else if (isDeathAnimationActive()) {
                     // swallow clicks during death animation
+                } else if (huntOverlay.isActive()) {
+                    huntOverlay.handleClick(e.getX(), e.getY());
+                    repaint();
+                } else if (revelationOverlay.isActive()) {
+                    revelationOverlay.handleClick(e.getX(), e.getY());
+                    repaint();
                 } else if (divineAudienceOverlay.isActive()) {
                     divineAudienceOverlay.handleClick(e.getX(), e.getY());
                     repaint();
@@ -488,6 +501,53 @@ public class GamePanel extends JPanel {
         repaint();
     }
 
+    // ── Hunting grounds ──────────────────────────────────────────────────────
+    /**
+     * Opens the hunt named by a hunting ground. Returns false if the id names no hunt, in which
+     * case nothing was opened and the caller should say so rather than eating the step.
+     *
+     * @param onWorked run once the hunt is over, to mark the ground exhausted
+     */
+    public boolean openHunt(String gameId, String ground, Runnable onWorked) {
+        boolean opened = huntOverlay.open(gameId, ground, onWorked);
+        if (opened) {
+            // The hunts animate; nothing else is repainting while the player stands still.
+            game.startOverlayRepaintTimer();
+            repaint();
+        }
+        return opened;
+    }
+
+    public boolean isHuntActive() { return huntOverlay.isActive(); }
+
+    public void handleHuntKey(java.awt.event.KeyEvent e) {
+        huntOverlay.handleKey(e);
+        repaint();
+    }
+
+    /** Advances the running hunt. Called from the overlay repaint timer. */
+    public void updateHunt() { huntOverlay.update(); }
+
+    // ── Revelation card ──────────────────────────────────────────────────────
+    /**
+     * Opens the "something speaks to you" card. {@code onDismiss} runs when the player
+     * closes it, which is how a boss revelation hands the dungeon floor back.
+     */
+    public void openRevelation(String title, String subtitle, java.awt.Color accent,
+                               String body, RevelationOverlay.Footer footer, Runnable onDismiss) {
+        revelationOverlay.open(title, subtitle, accent, body, footer, onDismiss);
+        // The typewriter needs a clock; combat has just ended so nothing else is repainting.
+        game.startOverlayRepaintTimer();
+        repaint();
+    }
+
+    public boolean isRevelationActive() { return revelationOverlay.isActive(); }
+
+    public void handleRevelationKey(java.awt.event.KeyEvent e) {
+        revelationOverlay.handleKey(e);
+        repaint();
+    }
+
     // ── Cradle choice overlay ────────────────────────────────────────────────
     public void openCradleChoice() {
         cradleChoiceOverlay.open();
@@ -723,6 +783,7 @@ public class GamePanel extends JPanel {
             || isMemoryGamesActive() || isWarGamesActive()    || isSaveLoadActive()
             || isDeathOverlayActive()|| isQuestLogActive()    || isDialogueActive()
             || isHelpActive()        || isDivineAudienceActive() || isCradleChoiceActive()
+            || isRevelationActive()   || isHuntActive()
             || isDeathAnimationActive() || isCreditsActive()  || isEpilogueActive()
             || isEndgameCinematicActive() || isWashAshoreAnimationActive()
             || isTownEntryAnimationActive() || isTownExitAnimationActive();
@@ -1364,6 +1425,14 @@ public class GamePanel extends JPanel {
         // ── Divine audience overlay ──
         if (divineAudienceOverlay.isActive()) {
             divineAudienceOverlay.paint(g2, getWidth(), getHeight());
+        }
+        // ── Hunting ground ──
+        if (huntOverlay.isActive()) {
+            huntOverlay.paint(g2, getWidth(), getHeight());
+        }
+        // ── Revelation card (boss aftermath) ──
+        if (revelationOverlay.isActive()) {
+            revelationOverlay.paint(g2, getWidth(), getHeight());
         }
         // ── Notification toasts ──
         if (notificationOverlay.isActive()) {

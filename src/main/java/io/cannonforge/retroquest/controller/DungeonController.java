@@ -10,6 +10,7 @@ import io.cannonforge.retroquest.core.VisionSystem;
 import io.cannonforge.retroquest.model.BalanceConfig;
 import io.cannonforge.retroquest.model.Boon;
 import io.cannonforge.retroquest.model.Dungeon;
+import io.cannonforge.retroquest.model.DungeonBoss;
 import io.cannonforge.retroquest.model.God;
 import io.cannonforge.retroquest.model.Item;
 import io.cannonforge.retroquest.model.MapData;
@@ -18,6 +19,7 @@ import io.cannonforge.retroquest.model.Player;
 import io.cannonforge.retroquest.model.Quest;
 import io.cannonforge.retroquest.model.TileState;
 import io.cannonforge.retroquest.model.TileStateManager;
+import io.cannonforge.retroquest.registry.DungeonBossRegistry;
 import io.cannonforge.retroquest.registry.ItemRegistry;
 import io.cannonforge.retroquest.registry.LootGenerator;
 import io.cannonforge.retroquest.registry.MonsterRegistry;
@@ -394,6 +396,7 @@ public class DungeonController {
             game.getGamePanel().repaint();
             game.getStatsPanel().refresh();
             game.getPlayer().progressQuest(Quest.Type.EXPLORE, dungeonName + " Level 1", 1);
+            game.getPlayer().progressQuest(Quest.Type.EXPLORE, "Dungeon Level 1", 1);
         } catch (Exception e) {
             game.log("Failed to load dungeon: " + e.getMessage(), MessageLog.Type.DANGER);
         }
@@ -425,7 +428,7 @@ public class DungeonController {
             game.setCurrentMap(town.getInteriorMap());
             game.getPlayer().setPosition(pendingExitX, pendingExitY);
             setEntryTown(null, 0, 0);
-            game.log("You climb out of the dungeon, back into " + town.getName() + ".", MessageLog.Type.INFO);
+            game.log("You climb out of the dungeon, back into " + town.getDisplayName() + ".", MessageLog.Type.INFO);
             game.updateCamera();
             if (game.getGamePanel()  != null) game.getGamePanel().repaint();
             if (game.getStatsPanel() != null) game.getStatsPanel().refresh();
@@ -515,7 +518,10 @@ public class DungeonController {
         game.log("You descend deeper... level " + game.getCurrentDepth(), MessageLog.Type.INFO);
         game.updateCamera();
         game.getGamePanel().startDungeonDescentAnimation(game.getCurrentDepth());
-        game.getPlayer().progressQuest(Quest.Type.EXPLORE, "Dungeon Level " + game.getCurrentDepth(), 1);
+        // Authored levels tick inside loadAuthoredLevel(); only the procedural branch needs it here.
+        if (!game.getDungeonViewState().isAuthored()) {
+            game.getPlayer().progressQuest(Quest.Type.EXPLORE, "Dungeon Level " + game.getCurrentDepth(), 1);
+        }
     }
 
     /** Loads an authored dungeon level. Returns true on success. */
@@ -605,6 +611,17 @@ public class DungeonController {
                     }
                 }
             }
+
+            // Every authored level arrival ticks 'Dungeon Level N'. Chutes, teleporters and
+            // the glowing cube reach this method directly rather than through
+            // goDownDungeonLevel(), so hooking the descent alone let a chute that skips a
+            // level leave an EXPLORE quest for that depth permanently unticked.
+            game.getPlayer().progressQuest(Quest.Type.EXPLORE, "Dungeon Level " + level, 1);
+
+            // A level change is never a walk, so the camera must not ease across it. Stairs
+            // snapped in goDown/goUpDungeonLevel, but chutes, teleporters and the glowing cube
+            // land here directly and glided the camera over the whole map instead.
+            game.snapDungeonCamera();
 
             return true;
         } catch (Exception e) {
@@ -814,8 +831,12 @@ public class DungeonController {
                     game.getPlayer().setPosition(pos[0], pos[1]);
                     game.log("You are whisked away to dungeon level " + newDepth + "!",
                             MessageLog.Type.INFO);
+                    game.getPlayer().progressQuest(Quest.Type.EXPLORE, "Dungeon Level " + newDepth, 1);
                 }
                 revealVisibleArea();
+                // Both branches move the player further than a step — even the same-level
+                // reposition — so the camera must snap rather than ease across the map.
+                game.snapDungeonCamera();
                 game.updateCamera();
                 game.getStatsPanel().refresh();
             }, null);
@@ -1082,6 +1103,18 @@ public class DungeonController {
             }
             game.getGamePanel().startEndgameCinematic();
             return;
+        }
+
+        // Bottom-of-dungeon bosses for the seven authored dungeons that had no climax
+        // (data/dungeon_bosses.json). Checked after the four hand-written trials above, which
+        // own their own altars, so a dungeon can never be claimed by both.
+        if (game.getDungeonViewState().isAuthored()) {
+            DungeonBoss boss = DungeonBossRegistry.find(
+                    game.getDungeonViewState().getAuthoredDungeonName(), game.getCurrentDepth());
+            if (boss != null) {
+                handleDungeonBoss(boss);
+                return;
+            }
         }
 
         // Corrupted Shrines belong to the Dreamwake Caverns — the procedural dungeon under
@@ -1532,6 +1565,92 @@ public class DungeonController {
         if (game.getPlayer().grantBoon(Boon.IRON_BROTHERHOOD)) {
             game.log("Bellorak\u2019s bond forged in iron. Iron Brotherhood gained! (+3 damage, +1 AC)", MessageLog.Type.GOOD);
         }
+    }
+
+    // ── Bottom-of-dungeon bosses (data/dungeon_bosses.json) ────────────────────
+    //
+    // Four dungeons already ended in a trial; seven ended in a room. These are those seven.
+    // They are deliberately not four more copies of the trial methods below: a trial ends in a
+    // bespoke moral choice and has to be code, whereas these end in the place explaining
+    // itself, which is text — so the whole encounter is a JSON entry and this one method runs
+    // any of them.
+    //
+    // The reward is the explanation. No unique drop, and no boon: every boon is already tied
+    // to its island's trial quest, so granting one here would either be a no-op or would steal
+    // that quest's moment. Favour is awarded instead, because favour is what the ending is
+    // settled on and it is the one currency a dungeon can hand out without unbalancing loot.
+
+    private void handleDungeonBoss(DungeonBoss boss) {
+        if (boss.flag != null && game.getPlayer().hasFlag(boss.flag)) {
+            String done = (boss.defeatedMessage != null && !boss.defeatedMessage.isBlank())
+                    ? boss.defeatedMessage : "Whatever waited here has already been answered.";
+            game.log(done, MessageLog.Type.DIM);
+            return;
+        }
+
+        String intro = (boss.intro != null && !boss.intro.isBlank())
+                ? boss.intro : "Something down here notices you.";
+        game.getMessageLog().prompt(intro,
+                () -> startDungeonBossFight(boss),
+                () -> game.log("You step back from the altar. It waits.", MessageLog.Type.DIM));
+    }
+
+    private void startDungeonBossFight(DungeonBoss boss) {
+        var coord = new io.cannonforge.retroquest.overlay.BossFightCoordinator(game);
+        for (int i = 0; i < boss.phases.size(); i++) {
+            DungeonBoss.Phase p = boss.phases.get(i);
+            boolean last = (i == boss.phases.size() - 1);
+            // Always the seven-argument constructor: the short one derives level from hp/8,
+            // which is what once turned a 65 HP shrine boss into a level 8 monster.
+            Monster m = new Monster(p.name, p.level, p.hp, p.attack, p.gold, p.xp, p.ac);
+            coord.addPhase(m, last ? null : p.transition, !last && p.healBetween);
+        }
+        game.getGamePanel().setBossFightCoordinator(coord);
+        game.getGamePanel().getCombatOverlay().setUnfleeable(true);
+        coord.start(() -> {
+            game.getGamePanel().getCombatOverlay().setUnfleeable(false);
+            onDungeonBossDefeated(boss);
+        });
+    }
+
+    /** Sets the flag, pays the favour, then lets the place say what it is. */
+    private void onDungeonBossDefeated(DungeonBoss boss) {
+        if (boss.flag != null && !boss.flag.isBlank()) {
+            game.getPlayer().setFlag(boss.flag, "true");
+        }
+
+        God god = boss.godOrNull();
+        java.util.List<String> footerLines = new java.util.ArrayList<>();
+        if (boss.revelation != null && boss.revelation.footerLines != null) {
+            footerLines.addAll(boss.revelation.footerLines);
+        }
+        if (god != null && boss.favor > 0) {
+            game.getPlayer().addFavor(god, boss.favor);
+            game.log("+" + boss.favor + " " + god.displayName + " favor.", MessageLog.Type.INFO);
+            footerLines.add("+" + boss.favor + " " + god.displayName + " favor");
+        }
+        game.getStatsPanel().refresh();
+
+        if (boss.revelation == null || boss.revelation.body == null
+                || boss.revelation.body.isBlank()) {
+            return;   // a boss with nothing to say is still a legal boss
+        }
+
+        java.awt.Color accent = (god != null)
+                ? io.cannonforge.retroquest.overlay.DivineAudienceOverlay.colorFor(god)
+                : io.cannonforge.retroquest.overlay.OverlayTheme.CYAN_ACC;
+
+        game.getGamePanel().openRevelation(
+                boss.revelation.title,
+                boss.revelation.subtitle,
+                accent,
+                boss.revelation.body,
+                new io.cannonforge.retroquest.overlay.RevelationOverlay.LinesFooter(
+                        boss.revelation.footerHeading, footerLines, accent),
+                () -> {
+                    if (game.getGamePanel() != null) game.getGamePanel().repaint();
+                    if (game.getStatsPanel() != null) game.getStatsPanel().refresh();
+                });
     }
 
     // ── Cradle of Shards Endings (Endgame) ─────────────────────────────────────
@@ -2057,8 +2176,10 @@ public class DungeonController {
 
         game.setCurrentDepth(targetLevel);
         game.setCurrentMap(Dungeon.generate(targetLevel));
+        game.getPlayer().progressQuest(Quest.Type.EXPLORE, "Dungeon Level " + targetLevel, 1);
         // Keep same x,y so position is consistent across levels
         revealVisibleArea();
+        game.snapDungeonCamera();
         game.updateCamera();
         game.log("The cube dissolves and you materialise on level " + targetLevel + "!",
                 MessageLog.Type.INFO);

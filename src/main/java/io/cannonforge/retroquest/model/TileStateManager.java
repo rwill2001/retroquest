@@ -52,6 +52,24 @@ public class TileStateManager {
         return ts != null && ts.getBool(key, false);
     }
 
+    /**
+     * Removes one property from every tile state in the save, whatever map it belongs to, and
+     * returns how many were cleared.
+     *
+     * <p>Exists for state that is spent-but-renewable rather than spent-forever. A worked-over
+     * hunting ground is the case it was written for: the ground is exhausted where it stands,
+     * and a night at an inn brings all of them back — one call rather than a walk of every
+     * overworld the player has visited.
+     */
+    public static int clearPropertyEverywhere(SaveData sd, String key) {
+        if (sd == null || key == null) return 0;
+        int cleared = 0;
+        for (TileState ts : sd.getOrCreateTileStates().values()) {
+            if (ts != null && ts.data != null && ts.data.remove(key) != null) cleared++;
+        }
+        return cleared;
+    }
+
     // ── Map application ───────────────────────────────────────────────────────
 
     /**

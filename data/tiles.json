@@ -2195,7 +2195,7 @@
       "params": {}
     },
     "spawnWeights": {
-      "storm_hawk": 5,
+      "storm_hawk": 8,
       "gale_spirit": 4,
       "sky_raider": 4,
       "thunder_elemental": 4,
@@ -2221,7 +2221,7 @@
       "params": {}
     },
     "spawnWeights": {
-      "storm_hawk": 5,
+      "storm_hawk": 8,
       "gale_spirit": 4,
       "sky_raider": 4,
       "thunder_elemental": 4,
@@ -2247,7 +2247,7 @@
       "params": {}
     },
     "spawnWeights": {
-      "storm_hawk": 5,
+      "storm_hawk": 8,
       "gale_spirit": 4,
       "sky_raider": 4,
       "thunder_elemental": 4,
@@ -2276,7 +2276,7 @@
       }
     },
     "spawnWeights": {
-      "storm_hawk": 5,
+      "storm_hawk": 8,
       "gale_spirit": 4,
       "sky_raider": 4,
       "thunder_elemental": 4,
@@ -4106,6 +4106,167 @@
         "map": "pyralis",
         "x": "89",
         "y": "25"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Moonlit Snare Line",
+    "category": "Overworld",
+    "editorColor": -4536100,
+    "walkable": true,
+    "spriteKey": "overworld/hunt_snare_line",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A trail with snares strung across it. Something uses this path.",
+    "onStepEffect": {
+      "type": "hunt",
+      "params": {
+        "game": "snare_line",
+        "ground": "Moonlit Snare Line"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Ember Vent Field",
+    "category": "Overworld",
+    "editorColor": -34776,
+    "walkable": true,
+    "spriteKey": "overworld/hunt_ember_vent",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Cracked vents in the basalt. Cinder-crabs shelter in the heat.",
+    "onStepEffect": {
+      "type": "hunt",
+      "params": {
+        "game": "ember_flush",
+        "ground": "Ember Vent Field"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Skyfish Shoal",
+    "category": "Overworld",
+    "editorColor": -7555841,
+    "walkable": true,
+    "spriteKey": "overworld/hunt_sky_shoal",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A shoal riding the thermals, low enough to net.",
+    "onStepEffect": {
+      "type": "hunt",
+      "params": {
+        "game": "skyfish_net",
+        "ground": "Skyfish Shoal"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Spore Lure",
+    "category": "Overworld",
+    "editorColor": -11477916,
+    "walkable": true,
+    "spriteKey": "overworld/hunt_spore_lure",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Fungal caps that puff in a pattern. The moths answer it.",
+    "onStepEffect": {
+      "type": "hunt",
+      "params": {
+        "game": "spore_lure",
+        "ground": "Spore Lure"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Baited Deep Line",
+    "category": "Overworld",
+    "editorColor": -12798776,
+    "walkable": true,
+    "spriteKey": "overworld/hunt_deep_line",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A line dropped over a trench mouth. Something took the bait.",
+    "onStepEffect": {
+      "type": "hunt",
+      "params": {
+        "game": "pressure_line",
+        "ground": "Baited Deep Line"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Cold Cook-Fire",
+    "category": "Overworld",
+    "editorColor": -6247736,
+    "walkable": true,
+    "spriteKey": "overworld/hunt_remembered_fire",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A ring of stones around a fire that is only remembered.",
+    "onStepEffect": {
+      "type": "hunt",
+      "params": {
+        "game": "remembered_meal",
+        "ground": "Cold Cook-Fire"
+      }
+    },
+    "spawnWeights": {}
+  },
+  {
+    "id": "",
+    "name": "Supply Cache",
+    "category": "Overworld",
+    "editorColor": -3628996,
+    "walkable": true,
+    "spriteKey": "overworld/hunt_ration_cache",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "A ration cache at the end of a trench, under a watch-lamp.",
+    "onStepEffect": {
+      "type": "hunt",
+      "params": {
+        "game": "ration_run",
+        "ground": "Supply Cache"
       }
     },
     "spawnWeights": {}

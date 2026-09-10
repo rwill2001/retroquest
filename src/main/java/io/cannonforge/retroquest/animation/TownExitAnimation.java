@@ -8,6 +8,7 @@ import java.awt.RenderingHints;
 
 import io.cannonforge.retroquest.core.Fonts;
 import io.cannonforge.retroquest.core.Retroquest;
+import io.cannonforge.retroquest.core.Town;
 
 /**
  * 8-bit town exit animation — reverse of TownEntryAnimation.
@@ -623,7 +624,7 @@ public class TownExitAnimation implements AnimationGuard.Cancellable {
         String line1 = "Farewell,";
         g.setFont(F_TOWN);
         FontMetrics fmT = g.getFontMetrics();
-        String line2 = townName.toUpperCase() + "!";
+        String line2 = Town.displayName(townName).toUpperCase() + "!";
 
         int x1 = (W - fmS.stringWidth(line1)) / 2;
         int x2 = (W - fmT.stringWidth(line2)) / 2;

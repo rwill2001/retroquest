@@ -307,7 +307,10 @@ public class NpcController {
                 game.getPlayer().addFood(300);
                 game.getPlayer().curePoison();
                 game.getPlayer().resetGamblingWinnings();
+                int grounds = io.cannonforge.retroquest.model.TileStateManager
+                        .clearPropertyEverywhere(game.getSaveData(), "hunted");
                 game.log("You slept like a log! +" + healed + " HP, +300 food.", MessageLog.Type.GOOD);
+                if (grounds > 0) game.log("Word is the hunting grounds have settled again.", MessageLog.Type.INFO);
                 game.getStatsPanel().refresh();
             }, null);
     }
@@ -402,7 +405,7 @@ public class NpcController {
         // a null lastSafeTown would have sent Recall to a map that is no longer there.
         String dest = (game.getLastSafeTownName() != null) ? game.getLastSafeTownName() : "Moonhaven";
         if (game.getCurrentTown() != null) {
-            game.log("You are already in " + dest + "!", MessageLog.Type.DIM);
+            game.log("You are already in " + Town.displayName(dest) + "!", MessageLog.Type.DIM);
             return;
         }
         // Look up the town's overworld position from TownEntrance data
@@ -427,7 +430,7 @@ public class NpcController {
         game.setCurrentTown(new Town(dest, doorX, doorY));
         game.setCurrentMap(game.getCurrentTown().getInteriorMap());
         game.getPlayer().setPosition(game.getCurrentTown().getInteriorEntryX(), game.getCurrentTown().getInteriorEntryY());
-        game.log("A flash of light! You teleport back to " + dest + ".", MessageLog.Type.GOOD);
+        game.log("A flash of light! You teleport back to " + Town.displayName(dest) + ".", MessageLog.Type.GOOD);
         game.updateCamera();
         if (game.getGamePanel()  != null) game.getGamePanel().repaint();
         if (game.getStatsPanel() != null) game.getStatsPanel().refresh();

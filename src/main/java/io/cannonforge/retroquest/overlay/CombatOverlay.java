@@ -398,7 +398,7 @@ public class CombatOverlay {
         g.setColor(TEXT_DIM);
         String loc = game.isInDungeon()
             ? "DUNGEON  LVL " + game.getCurrentDepth()
-            : (game.getCurrentTown() != null ? game.getCurrentTown().getName().toUpperCase() : "OVERWORLD");
+            : (game.getCurrentTown() != null ? game.getCurrentTown().getDisplayName().toUpperCase() : "OVERWORLD");
         int lx = x + w - g.getFontMetrics().stringWidth(loc) - 14;
         g.drawString(loc, lx, y + (h + g.getFontMetrics().getAscent() - g.getFontMetrics().getDescent()) / 2);
     }

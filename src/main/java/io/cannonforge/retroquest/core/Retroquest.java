@@ -379,6 +379,8 @@ public class Retroquest extends JFrame {
             gamePanel.advanceWashAshore();
             return;
         }
+        if (gamePanel != null && gamePanel.isHuntActive())            { gamePanel.handleHuntKey(e);           return; }
+        if (gamePanel != null && gamePanel.isRevelationActive())      { gamePanel.handleRevelationKey(e);     return; }
         if (gamePanel != null && gamePanel.isDivineAudienceActive()) { gamePanel.handleDivineAudienceKey(e); return; }
         if (gamePanel != null && gamePanel.isDialogueActive())     { gamePanel.handleDialogueKey(e);   return; }
         if (gamePanel != null && gamePanel.isQuestLogActive())     { gamePanel.handleQuestLogKey(e);   return; }
@@ -1351,6 +1353,9 @@ public class Retroquest extends JFrame {
         overlayRepaintTimer = new Timer(OVERLAY_FRAME_MS, null);
         overlayRepaintTimer.addActionListener(e -> {
             if (gamePanel == null) { overlayRepaintTimer.stop(); return; }
+            // A hunt is the only overlay that advances on its own clock rather than on input,
+            // so it has to be stepped here before the repaint that draws it.
+            gamePanel.updateHunt();
             gamePanel.repaint();
             boolean anyActive =
                 gamePanel.isInventoryActive()    ||
@@ -1378,6 +1383,8 @@ public class Retroquest extends JFrame {
                 gamePanel.isDeathOverlayActive()  ||
                 gamePanel.isSaveLoadActive()       ||
                 gamePanel.isDivineAudienceActive()  ||
+                gamePanel.isRevelationActive()      ||
+                gamePanel.isHuntActive()            ||
                 gamePanel.isDialogueActive()       ||
                 gamePanel.isQuestLogActive()       ||
                 gamePanel.isHelpActive()           ||

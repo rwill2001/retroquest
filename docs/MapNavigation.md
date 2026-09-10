@@ -101,6 +101,20 @@ JSON containing all fields. Stored in `data/overworlds/` (overworlds) or `data/t
    - Caches `lastSafeTownName` for Teleport spell.
    - Progresses EXPLORE-type quests.
 
+### Town names: key vs. label
+
+A town name is an **identifier**, not a label. `ashfen_village` names the `.rfmap` file, keys
+the fog-of-war and tile-state maps as `town:<name>`, is written into saves as `currentTownName`
+and `lastSafeTownName`, is matched against `TownEntrance.townName()`, and is the target of
+EXPLORE quests such as `the_hollow`. It must stay exactly as authored.
+
+`Town.displayName(String)` (and the instance `getDisplayName()`) turns it into `Ashfen Village`
+**at the point of display, and nowhere else** — the entry and exit banners, the message log, the
+combat header, the death and quest-log overlays, and the save-slot label. `Town.getName()`
+remains the raw key and every caller of it is a key use. Saves written before this carry the raw
+name in their baked slot label, so `SaveData.getDisplayName()` patches that one field on read
+rather than rewriting anyone's save.
+
 ### Town Exit
 
 1. Player triggers exit → `exitTown()`.

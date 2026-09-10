@@ -356,6 +356,42 @@ public final class RetroRecorder {
                 case "nature"    -> gp.getNatureGamesOverlay().open();
                 case "memory"    -> gp.getMemoryGamesOverlay().open();
                 case "war"       -> gp.getWarGamesOverlay().open();
+                // One of the seven overworld hunts. --dungeon carries the hunt id, since a hunt
+                // scene has no dungeon of its own: e.g. --overlay hunt --dungeon spore_lure.
+                case "hunt" -> {
+                    if (!gp.openHunt(dungeon, null, () -> { })) {
+                        System.err.println("recorder: --dungeon must name a hunt "
+                            + "(snare_line, ember_flush, skyfish_net, spore_lure, "
+                            + "pressure_line, remembered_meal, ration_run)");
+                        System.exit(2);
+                    }
+                }
+                // The card a bottom-of-dungeon boss leaves behind. Which one is decided by
+                // --dungeon, so every entry in data/dungeon_bosses.json can be read back
+                // without fighting down to it first.
+                case "revelation" -> {
+                    var boss = io.cannonforge.retroquest.registry.DungeonBossRegistry
+                            .findByDungeon(dungeon);
+                    if (boss == null || boss.revelation == null) {
+                        System.err.println("recorder: no boss revelation for --dungeon " + dungeon);
+                        System.exit(2);
+                    }
+                    var bgod = boss.godOrNull();
+                    java.awt.Color acc = (bgod != null)
+                            ? io.cannonforge.retroquest.overlay.DivineAudienceOverlay.colorFor(bgod)
+                            : io.cannonforge.retroquest.overlay.OverlayTheme.CYAN_ACC;
+                    java.util.List<String> flines =
+                            new java.util.ArrayList<>(boss.revelation.footerLines != null
+                                    ? boss.revelation.footerLines : java.util.List.of());
+                    if (bgod != null && boss.favor > 0) {
+                        flines.add("+" + boss.favor + " " + bgod.displayName + " favor");
+                    }
+                    gp.openRevelation(boss.revelation.title, boss.revelation.subtitle, acc,
+                            boss.revelation.body,
+                            new io.cannonforge.retroquest.overlay.RevelationOverlay.LinesFooter(
+                                    boss.revelation.footerHeading, flines, acc),
+                            () -> { });
+                }
                 case "divine"    -> gp.getDivineAudienceOverlay().open(
                         io.cannonforge.retroquest.model.God.LIRANDEL,
                         "You are the one soul none of us can touch. That is why we all want you.",
@@ -613,6 +649,7 @@ public final class RetroRecorder {
         if (panel.getNatureGamesOverlay().isActive()) { panel.getNatureGamesOverlay().handleKey(e); return null; }
         if (panel.getMemoryGamesOverlay().isActive()) { panel.getMemoryGamesOverlay().handleKey(e); return null; }
         if (panel.getWarGamesOverlay().isActive())    { panel.getWarGamesOverlay().handleKey(e);    return null; }
+        if (panel.isHuntActive())                     { panel.handleHuntKey(e);                     return null; }
         if (panel.getQuestLogOverlay().isActive())    { panel.getQuestLogOverlay().handleKey(e);    return null; }
         return "no overlay is open to receive '" + cmd + "'";
     }

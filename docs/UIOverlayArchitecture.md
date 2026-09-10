@@ -207,7 +207,8 @@ Card dimensions are no longer fixed pixel values — every overlay sizes itself 
 | `SaveLoadOverlay` | 8 manual slots plus an autosave slot in load mode |
 | `DialogueOverlay` | Branching NPC dialogue with conditions and actions |
 | `QuestLogOverlay` | Active and completed quests |
-| `DivineAudienceOverlay` | Departing-god farewell, shown once per island on first forward portal use |
+| `RevelationOverlay` | Generic "something speaks to you" card — title, subtitle, accent colour, typewriter body, and a `Footer` that fades in only once the speaker has finished. Sizes itself from the whole message rather than the revealed prefix, so the box does not grow under the reader as it types. Used by the bottom-of-dungeon bosses (see `docs/CombatSystem.md` §14) |
+| `DivineAudienceOverlay` | Departing-god farewell, shown once per island on first forward portal use. The card is a `RevelationOverlay`; what remains here is the god-specific part — accent colour, the message chosen from the player's history, and the standing-with-the-seven panel supplied as a `Footer` |
 | `CradleChoiceOverlay` | Endgame choice at the Cradle of Shards |
 | `HelpOverlay` | F1 key reference |
 | `NotificationOverlay` | Transient toasts |

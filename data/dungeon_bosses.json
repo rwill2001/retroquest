@@ -1,0 +1,226 @@
+[
+  {
+    "dungeon": "ember_caverns",
+    "level": 3,
+    "god": "PYRALIS",
+    "flag": "boss_ember_caverns",
+    "favor": 10,
+    "intro": "The slag pool convulses. Something half-made stands up out of it, and the heat in the chamber doubles.",
+    "defeatedMessage": "The slag is cold. Whatever it was trying to become, it has stopped.",
+    "phases": [
+      {
+        "name": "The Slag Heart",
+        "level": 10, "hp": 85, "attack": 10, "ac": 14, "gold": 70, "xp": 320,
+        "transition": "It falls apart — and the pieces begin, patiently, to look for each other.",
+        "healBetween": true
+      },
+      {
+        "name": "The Slag Heart, Rekindled",
+        "level": 12, "hp": 110, "attack": 13, "ac": 15, "gold": 110, "xp": 520
+      }
+    ],
+    "revelation": {
+      "title": "The Slag Heart",
+      "subtitle": "Beneath the quiet forge",
+      "body": "The forge did not go quiet. It went slow. Pyralis set it burning to make a vessel — a body strong enough to hold a god's share of the serpent, so that what was taken at the Shattering would never have to be given back. This is the first attempt. It has been finishing itself for four hundred years, one wrong limb at a time, and it was never once told to stop.",
+      "footerHeading": "WHAT THE FORGE WAS FOR",
+      "footerLines": [
+        "A vessel, not a weapon.",
+        "Pyralis meant to keep that share.",
+        "Nobody ever told it to stop."
+      ]
+    }
+  },
+  {
+    "dungeon": "storm_spire",
+    "level": 5,
+    "god": "ZEPHYRION",
+    "flag": "boss_storm_spire",
+    "favor": 10,
+    "intro": "The wind stops. All of it, at once. In the silence at the top of the spire, something enormous turns to face you.",
+    "defeatedMessage": "The air moves normally here now. It is the least remarkable thing on this island.",
+    "phases": [
+      {
+        "name": "The Standing Gale",
+        "level": 13, "hp": 120, "attack": 13, "ac": 15, "gold": 90, "xp": 450,
+        "transition": "The gale scatters — and does not disperse. It gathers, in the shape of something that has waited a long time to be looked at.",
+        "healBetween": true
+      },
+      {
+        "name": "The Eye That Will Not Move",
+        "level": 15, "hp": 150, "attack": 16, "ac": 16, "gold": 140, "xp": 700
+      }
+    ],
+    "revelation": {
+      "title": "The Standing Gale",
+      "subtitle": "The storm that has not moved",
+      "body": "Zephyrion preaches that change is the only constant. Stand here and feel how still it is. This storm has not moved since the Shattering. It is a breath — the serpent's last, caught halfway out and held. Every wind on this island is drawn from it, spent, and returned by morning. The sky is permitted to change because one thing at its centre is not.",
+      "footerHeading": "WHAT HOLDS THE SKY UP",
+      "footerLines": [
+        "The storm is one breath, held.",
+        "It has not moved since the Shattering.",
+        "Change here is something being spent."
+      ]
+    }
+  },
+  {
+    "dungeon": "rootvault",
+    "level": 5,
+    "god": "SYLVANDAR",
+    "flag": "boss_rootvault",
+    "favor": 12,
+    "intro": "The root-knot at the chamber's heart unclenches, and the whole forest above you goes quiet at the same moment.",
+    "defeatedMessage": "The roots have gone back to their work. They do not need you to watch.",
+    "phases": [
+      {
+        "name": "The Understory",
+        "level": 16, "hp": 160, "attack": 16, "ac": 16, "gold": 120, "xp": 620,
+        "transition": "Severed, the root-mass does not die. It reaches past you, finds the stone, and pulls.",
+        "healBetween": true
+      },
+      {
+        "name": "The Suture",
+        "level": 18, "hp": 200, "attack": 19, "ac": 17, "gold": 180, "xp": 950
+      }
+    ],
+    "revelation": {
+      "title": "The Suture",
+      "subtitle": "What the roots are for",
+      "body": "You were told the ravine narrows a finger a year, and that geology does not behave that way. It does not. Look at what the roots are doing where they meet the stone. They are not growing. They are stitching. What Sylvandar planted over the wound was never a forest — it was a suture, set to close at the only speed a world survives being closed at. Four hundred years in, it is nearly done. Nobody has ever said what happens then.",
+      "footerHeading": "WHY THE RAVINE NARROWS",
+      "footerLines": [
+        "The roots are stitching, not growing.",
+        "The forest is a suture over the Shattering.",
+        "Nobody has said what happens when it closes."
+      ]
+    }
+  },
+  {
+    "dungeon": "boneyard_trench",
+    "level": 3,
+    "god": "THALORAX",
+    "flag": "boss_boneyard_trench",
+    "favor": 12,
+    "intro": "The bone-drifts shift and begin sorting themselves. What rises from the trench floor is stacked, not grown.",
+    "defeatedMessage": "The bones lie where they fell. For the moment, nothing is counting them.",
+    "phases": [
+      {
+        "name": "The Tally",
+        "level": 19, "hp": 200, "attack": 19, "ac": 17, "gold": 150, "xp": 800,
+        "transition": "It comes apart into its parts, and every part is still counting.",
+        "healBetween": true
+      },
+      {
+        "name": "The Tally, Unpaid",
+        "level": 21, "hp": 250, "attack": 22, "ac": 18, "gold": 220, "xp": 1200
+      }
+    ],
+    "revelation": {
+      "title": "The Tally",
+      "subtitle": "The trench keeps count",
+      "body": "Everything that dies in Thalorax's water comes down here eventually. The trench does not keep names. It keeps the number — six hundred years of it, sorted and stacked and counted again each time the current shifts, because a god who intends to settle a debt someday needs to know the size of it. Ask who the debt is owed to. Then ask who is expected to pay it.",
+      "footerHeading": "WHAT THE TRENCH IS",
+      "footerLines": [
+        "A ledger, not a graveyard.",
+        "It counts. It does not remember.",
+        "Someone is expected to pay."
+      ]
+    }
+  },
+  {
+    "dungeon": "leviathan_eye",
+    "level": 1,
+    "god": "THALORAX",
+    "flag": "boss_leviathan_eye",
+    "favor": 12,
+    "intro": "The chamber contracts — once, slowly, the way a lid does. The veins in the walls flush bright.",
+    "defeatedMessage": "The walls are dim and slack. Whatever was looking through them has looked away.",
+    "phases": [
+      {
+        "name": "The Lidless",
+        "level": 20, "hp": 180, "attack": 20, "ac": 18, "gold": 140, "xp": 750,
+        "transition": "The chamber shudders and focuses. You have its attention now, all of it.",
+        "healBetween": true
+      },
+      {
+        "name": "The Pupil",
+        "level": 22, "hp": 260, "attack": 24, "ac": 19, "gold": 260, "xp": 1300
+      }
+    ],
+    "revelation": {
+      "title": "The Lidless",
+      "subtitle": "It is not a place",
+      "body": "The Leviathan's Eye is not named for the leviathan. Look again at the veining in the walls — at how it branches, and where all of it goes. You have spent this entire descent standing inside an eye that is still open. Aqualon has more than one. Six of them closed at the Shattering. This is the one that did not, and it has been watching you since the moment you stepped in.",
+      "footerHeading": "WHERE YOU HAVE BEEN STANDING",
+      "footerLines": [
+        "The Eye is an organ, not a ruin.",
+        "Six of the serpent's eyes closed.",
+        "This one never did."
+      ]
+    }
+  },
+  {
+    "dungeon": "forgotten_city",
+    "level": 3,
+    "god": "UMBRYN",
+    "flag": "boss_forgotten_city",
+    "favor": 14,
+    "intro": "A bell rings somewhere in the dark, and every fresco in the chamber turns its painted face toward you.",
+    "defeatedMessage": "The frescoes face the walls again. The city has gone back to being nobody.",
+    "phases": [
+      {
+        "name": "The Last Census",
+        "level": 23, "hp": 240, "attack": 23, "ac": 18, "gold": 200, "xp": 1100,
+        "transition": "One name is spoken. Then another. The chamber fills with the ones that were taken.",
+        "healBetween": true
+      },
+      {
+        "name": "Everyone Who Stayed",
+        "level": 25, "hp": 300, "attack": 26, "ac": 19, "gold": 300, "xp": 1600
+      }
+    ],
+    "revelation": {
+      "title": "The Last Census",
+      "subtitle": "The city remembers being forgotten",
+      "body": "This city was not forgotten. It was unremembered — deliberately, name by name, by a god who called it mercy. The people here watched the Shattering happen from their own rooftops, and Umbryn judged that nobody could carry a thing like that and still get up in the morning. So the memory was taken, and the city went with it. What stood in front of you is the part that refused to be taken.",
+      "footerHeading": "WHY NOTHING HERE HAS A NAME",
+      "footerLines": [
+        "The city was unremembered on purpose.",
+        "Its people watched the Shattering happen.",
+        "Umbryn called the taking mercy."
+      ]
+    }
+  },
+  {
+    "dungeon": "war_beneath",
+    "level": 3,
+    "god": "BELLORAK",
+    "flag": "boss_war_beneath",
+    "favor": 14,
+    "intro": "The forge room's mechanisms grind awake, and the thing built to keep them running steps out to keep running them.",
+    "defeatedMessage": "The mechanisms are still. Above you, for the first time in generations, the war has to decide something.",
+    "phases": [
+      {
+        "name": "The Reconciler",
+        "level": 27, "hp": 280, "attack": 27, "ac": 19, "gold": 240, "xp": 1400,
+        "transition": "It goes down without complaint, and the machines it tends begin, on their own, to build another.",
+        "healBetween": true
+      },
+      {
+        "name": "The Mechanism",
+        "level": 29, "hp": 360, "attack": 31, "ac": 20, "gold": 380, "xp": 2000
+      }
+    ],
+    "revelation": {
+      "title": "The Reconciler",
+      "subtitle": "Before the crucible, there were only bonds",
+      "body": "You read that inscription three levels up and took it for a lament. It is a warning. The mechanisms down here — the ones that keep either side from ever winning — were not built by Bellorak, and they were never sabotage. Both armies built them. Together, in the dark, generations ago. Because a war that cannot be won never has to become a peace, and a peace would mean forgiving what was done.",
+      "footerHeading": "WHO BUILT THE STALEMATE",
+      "footerLines": [
+        "Both sides, together, in secret.",
+        "Not Bellorak. Not sabotage.",
+        "A war that cannot end need never be forgiven."
+      ]
+    }
+  }
+]

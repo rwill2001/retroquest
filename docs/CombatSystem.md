@@ -475,3 +475,62 @@ These are data gaps, not code bugs — the mechanics exist and work, nothing gra
 - **Scry, Wish, Time Stop, Divine Intervention** have no scroll in `data/items.json`, no `spellRewardId` in `data/quests.json`, and no NPC `LEARN_SPELL` dialogue action. `SpellEffectRenderer` carries bespoke `TIME_STOP` and `WISH` animations that no player can currently trigger.
 - **Entangle**'s quest (`rootspeaker_entangle`, giver *Rootspeaker Thenna*) exists in `quests.json` and the NPC exists on the map, but no dialogue tree contains a `GIVE_QUEST` action targeting that quest id, so the quest can never be started.
 - No monster casts **Haste**, so the monster Haste buff and its "Hasted" badge never appear in play.
+
+---
+
+## 14. Boss Fights
+
+Three shapes, in increasing order of how much code each one is.
+
+### Multi-phase fights — `BossFightCoordinator`
+
+Chains sequential combats with a typewriter cinematic between phases and an optional quarter-HP
+heal. `addPhase(monster, transitionText, healBetween)` then `start(onComplete)`; `onComplete`
+fires **only** when the final phase is won — fleeing or dying just stops the coordinator.
+
+Always build phase monsters with the seven-argument `Monster(name, level, hp, damage, gold, xp, ac)`
+constructor. The short one derives level from `hp/8`, which once turned a 65 HP shrine boss into a
+level-8 monster with a level-8 monster's to-hit.
+
+### Trials — hand-written, four of them
+
+`pressure_temple` L3, `archive_of_tears` L3, `iron_pit` L3, `cradle_of_shards` L8. Each is a method
+in `DungeonController` because each ends in a bespoke moral choice that awards favour, keys and
+boons down different branches. Each claims its level's `'A'` altar with an early `return` in
+`handleAltar()`.
+
+### Bottom-of-dungeon bosses — data, seven of them
+
+`data/dungeon_bosses.json`, read by `DungeonBossRegistry`, covering the seven authored dungeons
+that used to end in an ordinary room: `ember_caverns`, `storm_spire`, `rootvault`,
+`boneyard_trench`, `leviathan_eye`, `forgotten_city`, `war_beneath`.
+
+These are data rather than seven more branches because they all end the same way — the place
+explains itself — and that is text, not control flow. One `handleDungeonBoss` method runs any of
+them:
+
+```
+altar 'A' → registry hit → MessageLog.prompt(intro)
+          → BossFightCoordinator phases
+          → flag + favour + RevelationOverlay card
+```
+
+The trigger is the level's existing altar; all seven already had one, so no map was edited. The
+registry is consulted **after** the four trials, so a dungeon can never be claimed twice —
+`tools/boss-audit.js` fails the build if a data boss is ever placed on a trial's level, on a level
+that is not its dungeon's last, or on a level whose altars are walled off from the entry.
+
+**The reward is the revelation, not loot.** No unique drop, and deliberately no boon: all seven
+boons are already granted by their island's trial quest, so granting one here would either be a
+no-op or would steal that quest's moment. Favour is awarded instead — it is the quantity the
+ending is settled on, and the one currency a dungeon can hand out without touching the loot curve.
+A `boss_<dungeon>` player flag makes the altar go quiet afterwards.
+
+To read a card without fighting down to it:
+
+```
+RetroRecorder --scene dungeon --dungeon storm_spire --overlay revelation --out DIR
+```
+
+See `docs/UIOverlayArchitecture.md` for `RevelationOverlay` itself, which is the presentation half
+of `DivineAudienceOverlay` lifted out so both screens share one typewriter.

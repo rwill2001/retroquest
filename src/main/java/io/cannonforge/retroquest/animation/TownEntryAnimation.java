@@ -8,6 +8,7 @@ import java.awt.RenderingHints;
 
 import io.cannonforge.retroquest.core.Fonts;
 import io.cannonforge.retroquest.core.Retroquest;
+import io.cannonforge.retroquest.core.Town;
 
 /**
  * 8-bit town entry animation.
@@ -702,7 +703,7 @@ public class TownEntryAnimation implements AnimationGuard.Cancellable {
         g.setFont(F_TOWN);
         FontMetrics fm = g.getFontMetrics();
         String welcome = "Welcome to";
-        String name    = townName.toUpperCase();
+        String name    = Town.displayName(townName).toUpperCase();
         int wx  = (W - fm.stringWidth(welcome)) / 2;
         int nx  = (W - fm.stringWidth(name))    / 2;
         int wy  = (int)(H * 0.82f);

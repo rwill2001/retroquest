@@ -199,7 +199,7 @@ public class NavigationController {
         game.setCurrentMap(game.getCurrentTown().getInteriorMap());
         game.getPlayer().setPosition(game.getCurrentTown().getInteriorEntryX(), game.getCurrentTown().getInteriorEntryY());
         game.setLastSafeTownName(townName);
-        game.log("You enter the town of " + townName + "!", MessageLog.Type.GOOD);
+        game.log("You enter the town of " + Town.displayName(townName) + "!", MessageLog.Type.GOOD);
         game.getPlayer().progressQuest(Quest.Type.EXPLORE, townName, 1);
         // The arrival tile is the gate — say so now, while the player is standing on it
         maybeHintTownExit();
@@ -349,6 +349,7 @@ public class NavigationController {
             case "geyser"                    -> handleGeyserEffect(effect);
             case "wind_current"              -> handleWindCurrentEffect(effect, px, py);
             case "lore"                      -> handleLoreEffect(effect, px, py);
+            case "hunt"                      -> handleHuntEffect(effect, px, py);
         }
     }
 
@@ -538,7 +539,7 @@ public class NavigationController {
         }
 
         if (loot != null) {
-            if (game.getPlayer().addItem(loot)) {
+            if (game.getPlayer().addItemAndProgress(loot)) {
                 game.log("Found: " + loot.getName(), MessageLog.Type.GOOD);
             } else {
                 game.log("Your inventory is full!", MessageLog.Type.DANGER);
@@ -601,7 +602,7 @@ public class NavigationController {
                         bonusLoot = LootGenerator.getRandomLoot(lootTier * 5, game.getPlayer().getLevel());
                     }
                 }
-                if (bonusLoot != null && game.getPlayer().addItem(bonusLoot)) {
+                if (bonusLoot != null && game.getPlayer().addItemAndProgress(bonusLoot)) {
                     game.log("Bonus loot: " + bonusLoot.getName(), MessageLog.Type.GOOD);
                 }
             }
@@ -669,6 +670,41 @@ public class NavigationController {
      * One-time variant available via "oneTime" param.
      * Params: message (required), oneTime (bool, default false).
      */
+    /**
+     * A hunting ground. Opens that island's hunt, which pays food rather than gold.
+     *
+     * <p>Overworld only, by construction — the {@code hunt} effect exists on seven overworld
+     * tiles and nowhere else, so a dungeon or a town can never route here.
+     *
+     * <p>The ground is exhausted where it stands once worked, and a night at an inn brings every
+     * one of them back ({@code TileStateManager.clearPropertyEverywhere}). That is what stops a
+     * single spot being farmed without turning the grounds into a one-time collectible: the
+     * point of them is to extend how long you can stay out, not to be a treasure you spend.
+     */
+    private void handleHuntEffect(TileEffect effect, int px, int py) {
+        String mapKey = currentMapKey();
+        if (TileStateManager.getBoolProperty(game.getSaveData(), mapKey, px, py, "hunted")) {
+            game.log("This ground has been worked over. Give it time.", MessageLog.Type.DIM);
+            return;
+        }
+        if (game.getMessageLog().isPromptActive()) return;
+
+        TileState ts = TileStateManager.get(game.getSaveData(), mapKey, px, py);
+        String gameId = getTileParam(ts, effect, "game");
+        String ground = getTileParam(ts, effect, "ground");
+        if (gameId == null || gameId.isEmpty()) {
+            game.log("Misconfigured hunting ground — no hunt named.", MessageLog.Type.DANGER);
+            return;
+        }
+        if (game.getGamePanel() == null) return;
+
+        boolean opened = game.getGamePanel().openHunt(gameId, ground,
+                () -> TileStateManager.setProperty(game.getSaveData(), mapKey, px, py, "hunted", "true"));
+        if (!opened) {
+            game.log("Nothing here answers to that kind of hunting.", MessageLog.Type.DANGER);
+        }
+    }
+
     private void handleLoreEffect(TileEffect effect, int px, int py) {
         TileState ts = TileStateManager.get(game.getSaveData(), currentMapKey(), px, py);
         boolean oneTime = "true".equalsIgnoreCase(getTileParam(ts, effect, "oneTime"));

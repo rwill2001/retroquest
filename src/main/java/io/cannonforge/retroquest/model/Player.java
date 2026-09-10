@@ -1095,7 +1095,11 @@ public class Player {
      * General progress method - call from anywhere (combat, talk, collect, etc.)
      */
     public void progressQuest(Quest.Type qType, String target, int amount) {
-        for (Quest q : new ArrayList<>(activeQuests)) {   // copy to avoid concurrent modification
+        // Advance EVERY quest this event satisfies. Stopping at the first match let a KILL
+        // quest targeting "any" swallow a kill meant for a specific bounty running beside it,
+        // and starved the later of two quests that share a target -- three shipped quests want
+        // Skeletons, two want Storm Hawks, and two want Dungeon Level 3.
+        for (Quest q : new ArrayList<>(activeQuests)) {   // copy: completeQuest() removes from activeQuests
             if (q.getType() == qType &&
                     (q.getTarget().equalsIgnoreCase(target) ||
                      (qType == Quest.Type.KILL && q.getTarget().equalsIgnoreCase("any")))) {
@@ -1103,7 +1107,6 @@ public class Player {
                 if (q.isComplete()) {
                     completeQuest(q);
                 }
-                return;
             }
         }
     }
@@ -1125,7 +1128,7 @@ public class Player {
         if (rewardItem != null) {
             if (rewardItem.getType() == Item.Type.KEY) {
                 addKey(rewardItem.getId());
-            } else if (!addItem(rewardItem)) {
+            } else if (!addItemAndProgress(rewardItem)) {
                 itemMsg = " (inventory full — " + rewardItem.getName() + " lost!)";
             }
         }

@@ -140,7 +140,33 @@ public class Town {
         }
     }
 
+    /**
+     * Turns a town key into something fit to show a player: {@code "ashfen_village"} becomes
+     * {@code "Ashfen Village"}.
+     *
+     * <p>The raw name is an identifier, not a label — it names the {@code .rfmap} file, keys
+     * the fog of war and tile-state maps ({@code "town:<name>"}), is written into saves as
+     * {@code currentTownName} / {@code lastSafeTownName}, and is matched against
+     * {@link io.cannonforge.retroquest.model.TownEntrance#townName()} and EXPLORE quest
+     * targets such as {@code the_hollow}. None of that may change, so prettifying happens
+     * here, at the point of display, and nowhere else.
+     */
+    public static String displayName(String raw) {
+        if (raw == null) return "";
+        String base = raw.replace('_', ' ').trim();
+        StringBuilder sb = new StringBuilder(base.length());
+        boolean startOfWord = true;
+        for (char c : base.toCharArray()) {
+            sb.append(startOfWord ? Character.toUpperCase(c) : c);
+            startOfWord = (c == ' ');
+        }
+        return sb.toString();
+    }
+
+    /** The identifier — file name, save key, quest target. Never shown to the player. */
     public String getName() { return name; }
+    /** This town's name as the player should see it. See {@link #displayName(String)}. */
+    public String getDisplayName() { return displayName(name); }
     public char[][] getInteriorMap() { return interiorMap; }
     public int getWorldDoorX() { return worldDoorX; }
     public int getWorldDoorY() { return worldDoorY; }

@@ -37,6 +37,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import io.cannonforge.retroquest.core.Retroquest;
+import io.cannonforge.retroquest.core.Town;
 import io.cannonforge.retroquest.model.Quest;
 
 /**
@@ -129,14 +130,7 @@ public class QuestLogOverlay {
 
     /** "amber_grove.rfmap" → "Amber Grove". */
     private static String prettyTownName(String fileName) {
-        String base = fileName.replaceAll("(?i)\\.rfmap$", "").replace('_', ' ').trim();
-        StringBuilder sb = new StringBuilder(base.length());
-        boolean startOfWord = true;
-        for (char c : base.toCharArray()) {
-            sb.append(startOfWord ? Character.toUpperCase(c) : c);
-            startOfWord = (c == ' ');
-        }
-        return sb.toString();
+        return Town.displayName(fileName.replaceAll("(?i)\\.rfmap$", ""));
     }
 
     /** Town the named giver stands in, or null if unknown / not indexed yet. */
@@ -163,7 +157,9 @@ public class QuestLogOverlay {
             case COLLECT -> "Pick up " + left + " more " + target
                           + ". Closes itself as soon as the last one is in your pack.";
             case TALK    -> "Speak to " + target + ". Closes itself the moment you do.";
-            case EXPLORE -> "Reach " + target + ". Closes itself as soon as you arrive.";
+            // An EXPLORE target is a key, not prose — a town name, "Dungeon Level 3",
+            // "rootvault Level 1" or a milestone like "corrupted_shrine".
+            case EXPLORE -> "Reach " + Town.displayName(target) + ". Closes itself as soon as you arrive.";
             case DELIVER -> {
                 String where = townOf(target);
                 yield "Carry the goods to " + target

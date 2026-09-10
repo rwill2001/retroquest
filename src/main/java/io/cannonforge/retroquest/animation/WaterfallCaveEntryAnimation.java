@@ -8,6 +8,7 @@ import java.awt.RenderingHints;
 
 import io.cannonforge.retroquest.core.Fonts;
 import io.cannonforge.retroquest.core.Retroquest;
+import io.cannonforge.retroquest.core.Town;
 
 /**
  * 8-bit waterfall cave entry animation.
@@ -464,7 +465,7 @@ public class WaterfallCaveEntryAnimation implements AnimationGuard.Cancellable {
     private void paintCaveName(Graphics2D g, int W, int H, float alpha) {
         int a = (int)(alpha * 230);
         String welcome = "Behind the cascade";
-        String raw = townName;
+        String raw = Town.displayName(townName);
         if (raw.toLowerCase().endsWith("cave") && raw.length() > 4) {
             raw = raw.substring(0, raw.length() - 4) + " Cave";
         }

@@ -152,9 +152,13 @@ public class SaveData {
         }
     }
 
+    /**
+     * The slot label's location field. Purely cosmetic — {@code currentTownName} is what a
+     * load actually reads, and that stays the raw key.
+     */
     private String getLocationString(Town town, boolean inDungeon, int depth) {
         if (inDungeon) return "Dungeon Lvl " + depth;
-        if (town != null) return town.getName();
+        if (town != null) return town.getDisplayName();
         return "Overworld";
     }
 
@@ -284,7 +288,22 @@ public class SaveData {
 
     public String getCurrentOverworldName() { return currentOverworldName; }
     public int getSlot() { return slot; }
-    public String getDisplayName() { return displayName; }
+
+    /**
+     * The slot label shown in the save/load list.
+     *
+     * <p>The label is baked at save time, so saves written before town names were prettified
+     * carry the raw key in their location field. Rather than rewrite anyone's save, patch the
+     * one field on the way out: {@code location} sits between two " - " separators in the
+     * format string, so the substitution is unambiguous, and it is a no-op for "Overworld"
+     * and "Dungeon Lvl N".
+     */
+    public String getDisplayName() {
+        if (displayName == null || location == null || location.isBlank()) return displayName;
+        String pretty = Town.displayName(location);
+        if (pretty.equals(location)) return displayName;
+        return displayName.replace(" - " + location + " - ", " - " + pretty + " - ");
+    }
 
     /**
      * Returns the name of the current overworld map.

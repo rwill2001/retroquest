@@ -98,6 +98,7 @@ write the wrong `data/` tree — or create a fresh empty one.
 | `monsters.json` | 78 monsters |
 | `quests.json` | Quest definitions |
 | `balance.json` | Tunable combat/boss numbers, read via `BalanceConfig` |
+| `dungeon_bosses.json` | The seven bottom-of-dungeon bosses and their revelation text (`DungeonBossRegistry`) |
 | `game_config.json` | Starting overworld and other global config (`GameConfig`) |
 | `overworlds/*.rfmap` | 7 island maps: lirandel, pyralis, zephyrion, sylvandar, thalorax, umbryn, bellorak |
 | `towns/*.rfmap` | Town interiors, one file per town, loaded on entry |
@@ -243,6 +244,85 @@ for other non-walkable tiles that carry a `lightRadius`. Wall-for-wall, so reach
 bit-identical — verify that property against `tiles.json`, not a hardcoded wall list, if you redo
 it. The Cradle is deliberately unlit by fixtures; its light is its own walls.
 
+## Bottom-of-dungeon bosses
+
+Four dungeons end in a **trial** — `pressure_temple` 3, `archive_of_tears` 3, `iron_pit` 3,
+`cradle_of_shards` 8. Each is a hand-written method in `DungeonController` because each ends in
+a bespoke moral choice, and each claims its level's altar with an early `return` in
+`handleAltar()`.
+
+The other seven ended in an ordinary room. They are now **data**, in `data/dungeon_bosses.json`:
+
+| Dungeon | Island | Level | Boss |
+|---|---|---|---|
+| `ember_caverns` | 2 Pyralis | 3 | The Slag Heart |
+| `storm_spire` | 3 Zephyrion | 5 | The Standing Gale |
+| `rootvault` | 4 Sylvandar | 5 | The Understory / The Suture |
+| `boneyard_trench` | 5 Thalorax | 3 | The Tally |
+| `leviathan_eye` | 5 Thalorax | 1 | The Lidless |
+| `forgotten_city` | 6 Umbryn | 3 | The Last Census |
+| `war_beneath` | 7 Bellorak | 3 | The Reconciler |
+
+- **Trigger** is the level's existing `'A'` altar — every one of the seven already had one, so no
+  map was edited. `DungeonBossRegistry.find(dungeon, depth)` is checked in `handleAltar()`
+  **after** the four trials, so a dungeon can never be claimed twice.
+- **The fight** is `BossFightCoordinator` phases, built with the *seven*-argument `Monster`
+  constructor — the short one derives level from `hp/8`, which is what once made a 65 HP shrine
+  boss level 8.
+- **The reward is the text.** No unique drop, and no boon: all seven boons are already tied to
+  their island's trial quest, so granting one here would be a no-op or would steal that quest's
+  moment. Favour is awarded instead, and a `RevelationOverlay` card explains what the dungeon
+  actually was. A `boss_<dungeon>` player flag makes the altar go quiet afterwards.
+- **Preview a card** without fighting down to it:
+  `RetroRecorder --scene dungeon --dungeon storm_spire --overlay revelation`.
+
+`RevelationOverlay` is the presentation half of `DivineAudienceOverlay`, lifted out — typewriter,
+click-to-skip, and a `Footer` that fades in only once the speaker has finished. The divine
+audience now supplies the standing-with-the-seven panel as a `Footer` and delegates the rest, so
+the two screens cannot drift apart. The card sizes itself from the **whole** message, not the
+revealed prefix, so it does not grow under the reader as it types.
+
+## Hunting grounds (overworld)
+
+`Player.stepTaken()` burns **one food per step** (`Player.java:782`), starting from 500, and
+before this the only supply was a town — so a 230×190 island could not be crossed *and* ground on
+one belly, and the overworld was a resupply loop. Hunting grounds are the second supply line.
+
+**Eight per island, on that island's own flavour terrain** (the tiles that already carry
+`spawnWeights`), placed reachable from a town and ≥6 tiles apart. Each is a tile with a `hunt`
+`onStepEffect` carrying a `game` id, handled by `NavigationController.handleHuntEffect` — the
+effect exists on seven overworld tiles and nowhere else, so a dungeon or town can never route
+there.
+
+| Island | Tile | Hunt | The verb |
+|---|---|---|---|
+| 1 Lirandel | Moonlit Snare Line | `snare_line` | timing across three lanes |
+| 2 Pyralis | Ember Vent Field | `ember_flush` | reacting to a **tell**, not the thing itself |
+| 3 Zephyrion | Skyfish Shoal | `skyfish_net` | leading a moving target |
+| 4 Sylvandar | Spore Lure | `spore_lure` | repeating a growing sequence |
+| 5 Thalorax | Baited Deep Line | `pressure_line` | holding a value inside a moving band |
+| 6 Umbryn | Cold Cook-Fire | `remembered_meal` | triage against a decay clock |
+| 7 Bellorak | Supply Cache | `ration_run` | moving only while nobody is looking |
+
+Nothing lives on Umbryn and Bellorak is a battlefield, so those two do not hunt — Umbryn eats a
+*remembered* meal and Bellorak robs a supply cache. The islands that refuse to cooperate are the
+point, not an exception.
+
+- **`HuntGame`** is a separate interface from `MiniGame` on purpose: the venue games take a bet
+  and pay gold in a room you travelled to, a hunt is stumbled onto mid-journey and pays food.
+- **`HuntOverlay`** owns brief → play → result and the payout; the game owns its play area.
+- **Every hunt must have a clock.** Two originally did not, and an overlay with no time limit
+  stays up forever if the player stops pressing keys, with the game frozen underneath.
+- **Hold-to-act does not work here.** Swing does not deliver key-up reliably behind an overlay,
+  and faking a hold from key-repeat stalls for the OS repeat delay (~500 ms). Pressure Line and
+  Ration Run therefore **toggle** on Space.
+- Reading the briefing and walking away does **not** spend the ground; only finishing a hunt
+  does (`HuntOverlay.finish()` runs `onWorked`). A worked ground is exhausted in place, and a
+  night at an inn restores every one of them —
+  `TileStateManager.clearPropertyEverywhere(sd, "hunted")` from `NpcController.visitInn`.
+- Sprites come from `tools/HuntSpriteGen.java`. Preview a hunt without walking to one:
+  `RetroRecorder --scene overworld --overlay hunt --dungeon spore_lure`.
+
 ## Key Conventions
 - All overlays: `paint(Graphics2D g, int W, int H)` called from `GamePanel.paintComponent`, plus
   `isActive()`, `handleKey(KeyEvent)`, `handleClick(int,int)`, `open`/`close`
@@ -269,9 +349,11 @@ cannot be finished. Run it after touching maps, tiles, quests or NPC placement.
 | Check | What it proves |
 |---|---|
 | `critical-path.js` | arrival -> towns -> dungeons -> key -> exit portal is walkable, island by island, and no island is a one-way trip |
-| `quest-audit.js` | every quest is offered by a reachable NPC and its target exists (KILL target `"any"` is a wildcard) |
+| `quest-audit.js` | every quest is offered by a reachable NPC and its target exists (KILL target `"any"` is a wildcard). EXPLORE targets are resolved against all four things that can tick one — town entry, `Dungeon Level N`, `<dungeon> Level 1`, a dialogue `COMPLETE_QUEST` — and a depth target deeper than the giver's own island is flagged |
 | `npc-audit.js` | no NPC is entombed in solid terrain or hidden behind an earlier NPC — `NpcController.findNearbyNPC` returns the FIRST match within Chebyshev 1, so two NPCs on nearby tiles means only one is ever reachable |
 | `dungeon-audit.js` | every walkable feature in all 40 authored dungeon levels is reachable from that level entry |
+| `forage-audit.js` | every hunting ground is reachable from a town, runs a hunt the overlay knows, and is spaced apart; prints food-in vs food-out per island |
+| `boss-audit.js` | every bottom-of-dungeon boss sits on its dungeon's real last level, does not collide with a hand-written trial, and has an altar the player can actually walk to from the level entry |
 | `xp-ladder.js` | informational: how much of each island climb its own quests pay for |
 
 Each exists because a scripted playthrough walked into the problem it looks for. The eight
