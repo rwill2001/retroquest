@@ -128,7 +128,7 @@ public class Installer extends JFrame {
         p.add(art, BorderLayout.NORTH);
 
         // Sub-title
-        JLabel sub = new JLabel("v1.0.0  \u2014  WINDOWS INSTALLER", SwingConstants.CENTER);
+        JLabel sub = new JLabel("v1.1.0  \u2014  WINDOWS INSTALLER", SwingConstants.CENTER);
         sub.setFont(F_BODY);
         sub.setForeground(AMBER_DIM);
         p.add(sub, BorderLayout.CENTER);
@@ -343,7 +343,7 @@ public class Installer extends JFrame {
         private void extractGameJar() throws Exception {
             publish("Extracting game JAR...");
             File dest = new File(installDir, "retroquest.jar");
-            extractResource("installer/retroquest-1.0.0-fat.jar", dest);
+            extractResource("installer/retroquest-1.1.0-fat.jar", dest);
         }
 
         private void extractIcon() throws Exception {
