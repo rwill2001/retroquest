@@ -2874,6 +2874,26 @@
     "spawnWeights": {}
   },
   {
+    "id": "",
+    "name": "Crushing Depths",
+    "category": "Overworld",
+    "editorColor": -16381162,
+    "walkable": false,
+    "spriteKey": "overworld/crushing_depths",
+    "isLiquid": false,
+    "blocksVision": false,
+    "isSafeZone": false,
+    "lightRadius": 0,
+    "stepSound": "step_default",
+    "encounterRateMod": 0,
+    "description": "Past the shelf the seabed falls away into water too deep to walk.",
+    "onStepEffect": {
+      "type": "none",
+      "params": {}
+    },
+    "spawnWeights": {}
+  },
+  {
     "id": "",
     "name": "Dome Floor",
     "category": "Town",
