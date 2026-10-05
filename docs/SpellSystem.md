@@ -48,30 +48,30 @@ RetroQuest implements a classic 37-spell system divided into MAGE and CLERIC sch
 | 2 | 1 | Mage | Sleep | Combat | Puts monster to sleep for 2 + level/3 turns |
 | 3 | 1 | Mage | Charm Monster | Combat | 40% base flee chance, +3% per level (max 70%); or charmed idle |
 | 4 | 1 | Cleric | Cure Light Wounds | Both | Heals scaled HP, shows exact amount |
-| 5 | 1 | Cleric | Protection from Evil | Combat | +3 AC for full combat |
-| 6 | 1 | Cleric | Shield | Combat | +2 AC for full combat |
+| 5 | 1 | Cleric | Protection from Evil | Both | +3 AC for 35 steps |
+| 6 | 1 | Mage | Shield | Both | +2 AC for 35 steps |
 | 7 | 2 | Mage | Fireball | Combat | Damage; resistance check; monster flash |
 | 8 | 2 | Mage | Lightning Bolt | Combat | Damage; pierces 50% of spell resistance; monster flash |
 | 9 | 2 | Mage | Invisibility | Combat | Guarantees next attack auto-hits; expires on use |
 | 10 | 2 | Cleric | Cure Serious Wounds | Both | Heals more than level 1; shows exact amount |
-| 11 | 2 | Cleric | Bless | Combat | +1 to-hit, +1 damage for full combat |
+| 11 | 2 | Cleric | Bless | Both | +2 damage, +1 more per 5 caster levels, for 30 steps |
 | 12 | 2 | Cleric | Turn Undead | Combat | Keys off `monsterType == UNDEAD`: 70% instant destroy (rewards cut to 50%), else double damage. Vs the living: resistance check then normal damage |
 | 13 | 3 | Mage | Ice Storm | Combat | Damage; resistance check; monster flash |
 | 14 | 3 | Mage | Dispel Magic | Combat | Removes all player buffs and all monster debuffs |
 | 15 | 3 | Mage | Teleport | Map | Teleports player back to last safe town |
 | 16 | 3 | Cleric | Cure Critical Wounds | Both | Strong heal; shows exact amount |
-| 17 | 3 | Cleric | Prayer | Combat | +2 AC, +2 to-hit for full combat; cannot stack |
+| 17 | 3 | Cleric | Prayer | Both | +2 AC, +2 to-hit for 40 steps; the AC does not stack with other wards |
 | 18 | 3 | Cleric | Holy Word | Combat | Double damage vs `UNDEAD` or `DEMON` `monsterType`; normal damage otherwise |
 | 19 | 4 | Mage | Cone of Cold | Combat | Damage; cannot be resisted; monster flash |
 | 20 | 4 | Mage | Cloudkill | Combat | Applies 3–5 turns of poison to monster |
-| 21 | 4 | Mage | Haste | Combat | Grants one bonus attack this round |
+| 21 | 4 | Mage | Haste | Both | A bonus attack every round for 25 steps |
 | 22 | 4 | Cleric | Heal | Both | Fully restores player to max HP |
-| 23 | 4 | Cleric | Resist Fire | Combat | Grants fire immunity for full combat |
+| 23 | 4 | Cleric | Resist Elements | Both | Halves incoming spell and breath damage for 35 steps |
 | 24 | 4 | Cleric | Restoration | Both | Full heal + removes all player debuffs |
 | 25 | 5 | Mage | Chain Lightning | Combat | Damage; pierces 50% of spell resistance; monster flash |
 | 26 | 5 | Mage | Death Spell | Combat | Instant kill chance (50% − level×4%, min 5%); partial damage if resisted |
 | 27 | 5 | Mage | Teleport Party | Map | Same behaviour as Teleport |
-| 28 | 5 | Cleric | Holy Armor | Combat | +5 AC for full combat; cannot stack |
+| 28 | 5 | Cleric | Holy Armor | Both | +5 AC for 50 steps; wards do not stack, the strongest simply wins |
 | 29 | 5 | Cleric | Flame Strike | Combat | Damage; resistance check; monster flash |
 | 30 | 6 | Mage | Meteor Swarm | Combat | Damage; resistance check; monster flash |
 | 31 | 6 | Mage | Power Word Kill | Combat | Instant kill if monster HP < 2× player max HP; partial damage otherwise |
@@ -91,6 +91,29 @@ RetroQuest implements a classic 37-spell system divided into MAGE and CLERIC sch
 - **Persistence:** `resurrectionCharged` is a plain boolean on Player — Gson serializes it automatically. Defaults to `false` on old saves. Not cleared by `clearSpellBuffs()` — the ward persists across combats until triggered.
 - **UI:** StatsPanel shows "Resurrect (WARD)" in gold in the buffs section when the ward is active.
 
+### Timed wards are measured in steps, not rounds
+
+The seven wards live on `Player` as step counters (`shieldSteps`, `blessSteps`, …), and
+`Player.stepTaken()` is the only thing that decrements them. `clearSpellBuffs()` exists but
+is never called from anywhere, so a ward survives the fight that raised it and keeps running
+until it is walked off.
+
+Two consequences fall out of that, and they are why all seven are `Usage.BOTH`:
+
+- **Combat costs no steps**, so whatever the counter reads when a fight starts, the ward
+  covers the whole fight. A Bless down to its last step still blesses a twenty-round boss.
+- **Gating the casting to combat never protected a tactical choice.** Because the wards
+  persist across fights anyway, the rule did not ask "spend a round warding, or swing?" —
+  it only forced you to open the first fight after an inn unwarded in order to start the
+  chain. Casting them from the map removes that tax and costs the same slot.
+
+Invisibility is the deliberate exception and stays `Usage.COMBAT`. `stepTaken()` does not
+tick `invisSteps` (it is consumed by the strike it guarantees), so a map-cast Invisibility
+would sit on the player forever and hand out a free auto-hit opener on a fight of their
+choosing.
+
+The AC wards overlap rather than stack — `getAcBonus()` returns the strongest active one, so
+raising Shield under a live Holy Armor is still +5. Bless is not a ward and adds on top.
 ### Map Spell Casting
 - **`NpcController.castMapSpell(Spell)`** — resolves spells cast from the overworld/dungeon map.
 - Healing spells (Cure *, Heal) heal directly using `spell.getPower()`.
@@ -98,6 +121,11 @@ RetroQuest implements a classic 37-spell system divided into MAGE and CLERIC sch
 - Detect Magic: activates 8-second highlight on magic items in inventory.
 - Wish: grants +50 gold.
 - Resurrection: charges the resurrection ward.
+- Timed wards (Shield, Protection from Evil, Bless, Prayer, Haste, Resist Elements, Holy
+  Armor) are raised by `castWard`, which words each one exactly as `Spell.executeCombat`
+  does so the map and combat logs read alike. Re-casting an active ward refreshes it to
+  full duration rather than being refused: the spellbook spends the slot before dispatching
+  here, so a refusal would burn it for nothing.
 - Combat-only spells are rejected with a message.
 
 ### Monster Spell Resistance

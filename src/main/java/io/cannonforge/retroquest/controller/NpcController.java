@@ -390,10 +390,76 @@ public class NpcController {
                     game.log("A golden ward shimmers around you. If slain in combat, you will rise again at half health.", MessageLog.Type.GOOD);
                 }
             }
+            // Timed wards. These have always been measured in steps rather than rounds,
+            // and Player.stepTaken() is the only thing that ticks them down — so a ward
+            // raised mid-fight was already still running twenty tiles later. Gating the
+            // casting to combat therefore never protected a tactical choice; it only
+            // taxed the first fight after an inn, which you had to open unwarded in
+            // order to start the chain.
+            case "Shield", "Protection from Evil", "Bless", "Prayer",
+                 "Haste", "Resist Elements", "Holy Armor" -> castWard(spell);
             default -> game.log(spell.getLongDescription(), MessageLog.Type.INFO);
         }
 
         game.getStatsPanel().refresh();
+    }
+
+    /**
+     * Raises one of the seven timed wards from the map, wording each one the way
+     * {@link Spell#executeCombat} does so the two routes read identically in the log.
+     *
+     * <p>Re-casting a ward that is already up simply refreshes it to full duration.
+     * Topping one up is the natural verb outside combat, and refusing the cast here
+     * would be worse than useless: the spellbook has already spent the slot by the
+     * time this runs, so a refusal burns it for nothing.
+     *
+     * <p>The reported AC is {@link Player#getAcBonus()}, which is the strongest ward
+     * you are wearing rather than the one you just cast — wards overlap instead of
+     * stacking, so raising Shield under an active Holy Armor honestly reports +5.
+     */
+    private void castWard(Spell spell) {
+        Player p = game.getPlayer();
+        String msg;
+        switch (spell.getName()) {
+            case "Shield" -> {
+                p.applyShield();
+                msg = "A shimmering barrier of force surrounds you — AC bonus +" + p.getAcBonus()
+                    + " for " + p.shieldStepsLeft() + " steps.";
+            }
+            case "Protection from Evil" -> {
+                p.applyProtEv();
+                msg = "A circle of sacred light surrounds you — AC bonus +" + p.getAcBonus()
+                    + " for " + p.protEvStepsLeft() + " steps.";
+            }
+            case "Bless" -> {
+                p.applyBless();
+                msg = "Righteous fury fills you! +" + p.getDmgBonus()
+                    + " damage for " + p.blessStepsLeft() + " steps.";
+            }
+            case "Prayer" -> {
+                p.applyPrayer();
+                msg = "The gods look upon you with favor — AC bonus +" + p.getAcBonus()
+                    + ", +" + p.getHitBonus() + " to-hit for " + p.prayerStepsLeft() + " steps.";
+            }
+            case "Haste" -> {
+                p.applyHaste();
+                msg = "Time warps around you — an extra strike every round for "
+                    + p.hasteStepsLeft() + " steps.";
+            }
+            case "Resist Elements" -> {
+                p.applyElemResist();
+                msg = "Elemental wards shimmer around you — spell and breath damage halved for "
+                    + p.elemResStepsLeft() + " steps.";
+            }
+            case "Holy Armor" -> {
+                p.applyHolyArmor();
+                msg = "You are armored by divine grace — AC bonus +" + p.getAcBonus()
+                    + " for " + p.holyArmorStepsLeft() + " steps.";
+            }
+            default -> { return; }
+        }
+        SoundManager.getInstance().play("spell");
+        game.log(msg, MessageLog.Type.GOOD);
     }
 
     /**

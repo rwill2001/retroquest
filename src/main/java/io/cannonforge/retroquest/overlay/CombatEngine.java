@@ -160,8 +160,6 @@ class CombatEngine {
     void setHaste(boolean b)         { if (b) player.applyHaste(); }
     void setShield(boolean b)       { if (b) player.applyShield(); }
     void setElemResist(boolean b)   { if (b) player.applyElemResist(); }
-    boolean hasPrayer()              { return player.hasPrayer(); }
-    boolean hasHolyArmor()           { return player.hasHolyArmor(); }
     void setPrayer(boolean b)        { if (b) player.applyPrayer(); }
     void setHolyArmor(boolean b)     { if (b) player.applyHolyArmor(); }
 

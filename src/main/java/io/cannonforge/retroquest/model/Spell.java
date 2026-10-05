@@ -251,7 +251,6 @@ public class Spell {
             }
 
             case "Prayer" -> {
-                if (co.hasPrayer()) { co.logDim("Prayer is already active."); return true; }
                 co.setPrayer(true);
                 co.logCyan("The gods look upon you with favor — AC bonus +" + caster.getAcBonus()
                            + ", +" + caster.getHitBonus() + " to-hit for " + caster.prayerStepsLeft() + " steps.");
@@ -340,7 +339,6 @@ public class Spell {
             }
 
             case "Holy Armor" -> {
-                if (co.hasHolyArmor()) { co.logDim("Holy Armor is already active."); return true; }
                 co.setHolyArmor(true);
                 co.logCyan("You are armored by divine grace — AC bonus +" + caster.getAcBonus()
                            + " for " + caster.holyArmorStepsLeft() + " steps.");

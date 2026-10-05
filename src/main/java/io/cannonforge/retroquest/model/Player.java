@@ -954,9 +954,9 @@ public class Player {
                 "monster may flee", "Weaves an enchantment that bends the creature's will. Chance to flee scales with your level (40% base, +3% per level, max 70%). May instead idle if charm partially takes hold.");
         knownSpells[idx++] = new Spell("Cure Light Wounds", Spell.Type.CLERIC, 1, 18, Spell.Usage.BOTH,
                 "heals ", "Warm golden light flows from your hands, mending minor wounds. Usable in combat or on the map.");
-        knownSpells[idx++] = new Spell("Protection from Evil", Spell.Type.CLERIC, 1, 0, Spell.Usage.COMBAT,
+        knownSpells[idx++] = new Spell("Protection from Evil", Spell.Type.CLERIC, 1, 0, Spell.Usage.BOTH,
                 "+3 AC for a while", "A circle of sacred light surrounds you, turning aside the blows of the wicked. It holds for a stretch of travel, not just this fight.");
-        knownSpells[idx++] = new Spell("Shield", Spell.Type.MAGE, 1, 0, Spell.Usage.COMBAT,
+        knownSpells[idx++] = new Spell("Shield", Spell.Type.MAGE, 1, 0, Spell.Usage.BOTH,
                 "+2 AC for a while", "Conjures a shimmering barrier of force that deflects blows. It holds for a stretch of travel, not just this fight.");
 
         // LEVEL 2
@@ -968,7 +968,7 @@ public class Player {
                 "next attack auto-hits, harder", "Light bends around you until you are utterly unseen. Your next attack cannot miss and strikes for half again its damage.");
         knownSpells[idx++] = new Spell("Cure Serious Wounds", Spell.Type.CLERIC, 2, 25, Spell.Usage.BOTH,
                 "heals ", "Deep wounds knit together under a surge of divine power. Restores a good amount of health.");
-        knownSpells[idx++] = new Spell("Bless", Spell.Type.CLERIC, 2, 0, Spell.Usage.COMBAT,
+        knownSpells[idx++] = new Spell("Bless", Spell.Type.CLERIC, 2, 0, Spell.Usage.BOTH,
                 "+damage for a while", "A blessing of righteous fury — your strikes hit harder, and harder still as you grow (+2 damage, and +1 more every 5 levels). Stacks with Prayer.");
         knownSpells[idx++] = new Spell("Turn Undead", Spell.Type.CLERIC, 2, 0, Spell.Usage.COMBAT,
                 "destroys or repels undead", "Holy radiance scours the corruption from undead flesh. 70% chance to instantly destroy undead; deals double damage on failure. Less effective against the living.");
@@ -982,7 +982,7 @@ public class Player {
                 "return to town instantly", "Space folds around you and deposits you at the gates of the last town you visited. Essential for escaping the depths.");
         knownSpells[idx++] = new Spell("Cure Critical Wounds", Spell.Type.CLERIC, 3, 40, Spell.Usage.BOTH,
                 "heals ", "A torrent of divine energy floods through you, mending even grievous injuries. The most powerful targeted heal before full restoration.");
-        knownSpells[idx++] = new Spell("Prayer", Spell.Type.CLERIC, 3, 0, Spell.Usage.COMBAT,
+        knownSpells[idx++] = new Spell("Prayer", Spell.Type.CLERIC, 3, 0, Spell.Usage.BOTH,
                 "+2 AC & to-hit for a while", "You beseech the gods for aid in battle. Grants +2 AC and +2 to-hit, holding for a stretch of travel. Only your strongest ward counts — this does not stack with Shield, Protection or Holy Armor — but it does stack with Bless.");
         knownSpells[idx++] = new Spell("Holy Word", Spell.Type.CLERIC, 3, 0, Spell.Usage.COMBAT,
                 "damages evil creatures", "You speak a word of divine power that sears creatures of darkness. Deals double damage to undead and demons; normal damage to all others.");
@@ -992,11 +992,11 @@ public class Player {
                 "freezes for ", "A blast of absolute zero that cannot be resisted by any magical ward. Moderate damage but guaranteed to hit.");
         knownSpells[idx++] = new Spell("Cloudkill", Spell.Type.MAGE, 4, 0, Spell.Usage.COMBAT,
                 "poisons the monster", "A billowing cloud of sickly green death engulfs the target. Poisons the creature for 4-5 rounds, and the venom bites harder as you grow in power.");
-        knownSpells[idx++] = new Spell("Haste", Spell.Type.MAGE, 4, 0, Spell.Usage.COMBAT,
+        knownSpells[idx++] = new Spell("Haste", Spell.Type.MAGE, 4, 0, Spell.Usage.BOTH,
                 "a second strike each round", "Time warps around you — your blade moves with impossible speed. Every swing is followed by a second, and that extra blow can land a critical of its own.");
         knownSpells[idx++] = new Spell("Heal", Spell.Type.CLERIC, 4, 70, Spell.Usage.BOTH,
                 "fully heals", "The purest divine magic floods every fiber of your being. Fully restores your health in a single miraculous instant.");
-        knownSpells[idx++] = new Spell("Resist Elements", Spell.Type.CLERIC, 4, 0, Spell.Usage.COMBAT,
+        knownSpells[idx++] = new Spell("Resist Elements", Spell.Type.CLERIC, 4, 0, Spell.Usage.BOTH,
                 "halves spell damage for a while", "Wraps you in a ward of elemental protection. All incoming spell and breath damage is halved, holding for a stretch of travel.");
         knownSpells[idx++] = new Spell("Restoration", Spell.Type.CLERIC, 4, 40, Spell.Usage.BOTH,
                 "cleanses and heals", "Purifies body and spirit — removes all negative status effects (poison, sleep, stun, blind) and restores at least half your maximum health.");
@@ -1008,7 +1008,7 @@ public class Player {
                 "instant kill chance", "Dark magic that rips the life force from the target. More effective against weaker foes — kill chance scales with your level advantage. Deals damage on failure.");
         knownSpells[idx++] = new Spell("Scry", Spell.Type.MAGE, 5, 0, Spell.Usage.MAP,
                 "reveals the dungeon map", "Your mind's eye expands beyond mortal sight. In dungeons, reveals the entire layout of the current level. On the overworld, this spell has no effect.");
-        knownSpells[idx++] = new Spell("Holy Armor", Spell.Type.CLERIC, 5, 0, Spell.Usage.COMBAT,
+        knownSpells[idx++] = new Spell("Holy Armor", Spell.Type.CLERIC, 5, 0, Spell.Usage.BOTH,
                 "+5 AC for a while", "Plates of shimmering golden light materialize around you, turning aside even the most vicious blows. The strongest ward you can raise — wards do not stack, so this simply replaces a lesser one.");
         knownSpells[idx++] = new Spell("Flame Strike", Spell.Type.CLERIC, 5, 50, Spell.Usage.COMBAT,
                 "burns for ", "A pillar of sacred fire descends from the heavens, incinerating the target. The cleric's most devastating offensive prayer.");

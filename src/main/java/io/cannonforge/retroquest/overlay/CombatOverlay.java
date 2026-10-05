@@ -276,8 +276,6 @@ public class CombatOverlay {
     public int  getPlayerSleepTurns()         { return engine.getPlayerSleepTurns(); }
     public int  getPlayerStunTurns()          { return engine.getPlayerStunTurns(); }
     public int  getPlayerBlindTurns()         { return engine.getPlayerBlindTurns(); }
-    public boolean hasPrayer()                { return engine.hasPrayer(); }
-    public boolean hasHolyArmor()             { return engine.hasHolyArmor(); }
     public void setPrayer(boolean b)          { engine.setPrayer(b); }
     public void setHolyArmor(boolean b)       { engine.setHolyArmor(b); }
     public void callVictory()                 { engine.victory(); }
